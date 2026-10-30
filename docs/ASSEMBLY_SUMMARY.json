@@ -1,0 +1,26 @@
+{
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "version": "0.1.2",
+  "archive_sha256": "2e825c3b5e59aad6d54befeb7b7d770aa0edfea12b1bcc3ce53e642145132571",
+  "tables": 385,
+  "members": 455,
+  "header_and_declaration_owner_agree": true,
+  "declaration_digests_verified": true,
+  "all_member_readback_sha256": true,
+  "native_crc_sha1": true,
+  "source_tests": 18,
+  "static_validator": "passed",
+  "native_test": "pending",
+  "native_route": "Supported Garrison civilization validate/build; final ordinary-producer header correction via supported replace-member when needed, with complete final archive extraction/hash verification. No new world-art cook.",
+  "changed_members": [
+    "attrib/army/garrison/korea/korea_standard.rgd",
+    "attrib/codex/garrison/korea/korea_codex.rgd",
+    "attrib/racebps/korea.rgd",
+    "en/en.ucs",
+    "garrison/civilizations.json"
+  ],
+  "added_members_count": 0,
+  "removed_members_count": 0,
+  "native_input_manifest_sha256": "8ebbcba41d0714e1ab4ec6fa7656d4729e982eef982337a638a209e7b02f4ad2",
+  "editable_master_index_sha256": "6c930a5d094895b55917126c2be68e41f8bffb26786dbd4ba697193a9b0af2f1"
+}

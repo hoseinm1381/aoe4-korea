@@ -1,0 +1,12 @@
+{
+  "donor": "chinese_ha_01",
+  "speech": {
+    "intel_speaker_code": "chinese",
+    "race_code": "chinese",
+    "music_race_code": "no_race",
+    "ally_intel_speaker_code": "smally"
+  },
+  "basis": "exact current official donor race used by accepted combined 1.1.0",
+  "unit_suppression": "retained in composed native actor inputs; Vietnam scripted voice endpoint is independently scoped",
+  "native_audible_test": "pending"
+}

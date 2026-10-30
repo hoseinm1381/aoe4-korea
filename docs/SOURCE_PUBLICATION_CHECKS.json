@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-31",
+  "version": "0.1.2",
+  "authorization": "Owner scheduled source-only upload at 02:15 AM system time",
+  "repository": "https://github.com/hoseinm1381/aoe4-korea",
+  "branch": "main",
+  "staged_files": 983,
+  "native_files_verified": 55,
+  "editable_masters_verified": 379,
+  "required_tools_included": true,
+  "required_input_paths_all_in_git_index": true,
+  "oversized_whole_files_in_lfs": [],
+  "player_releases_archives_caches_excluded": true,
+  "current_source_matches_verified_local_package": true,
+  "source_tests_passed": 18,
+  "native_game_acceptance": "pending",
+  "release_publication": "not authorized",
+  "secret_pattern_scan": "no detected token or private-key patterns in candidate text files",
+  "source_byte_policy": "No newline conversion; whole-file LFS only for listed oversized masters"
+}

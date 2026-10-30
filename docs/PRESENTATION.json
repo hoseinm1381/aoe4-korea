@@ -1,0 +1,26 @@
+{
+  "source": "implemented accepted civilization mechanics; qualitative overview, no balance edits",
+  "overview": {
+    "tagline": "Literature, Scholars, Foreign Technologies",
+    "rows": [
+      [
+        "Literature",
+        "Scholars and Seowons support Literature income and Korean research."
+      ],
+      [
+        "Foreign Technologies",
+        "Use the Korean research system to acquire foreign technologies."
+      ],
+      [
+        "Military Adaptation",
+        "Transform eligible horsemen and archers and deploy Hwacha."
+      ],
+      [
+        "Korean Landmarks and Navy",
+        "Build specialized landmarks and command Korean warships."
+      ]
+    ]
+  },
+  "traits_0": "summary hidden by native overview; visible rows start at 1",
+  "native_visual_test": "pending"
+}

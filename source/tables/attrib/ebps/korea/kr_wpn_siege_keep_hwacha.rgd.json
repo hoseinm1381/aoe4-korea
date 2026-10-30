@@ -1,0 +1,1235 @@
+{
+  "schema": "garrison.native-table/v1",
+  "version": 4,
+  "platform": 1,
+  "chunks": [
+    {
+      "kind": "44415441",
+      "id": "41454744",
+      "version": 3,
+      "name": "",
+      "body": ""
+    },
+    {
+      "kind": "44415441",
+      "id": "4b455953",
+      "version": 1,
+      "name": "",
+      "body": ""
+    }
+  ],
+  "keys": [
+    [
+      8529826256463028745,
+      "instance_version"
+    ],
+    [
+      4430693559278735917,
+      "default"
+    ],
+    [
+      8758466284841523444,
+      "action_tree_ext"
+    ],
+    [
+      3837083494325526760,
+      "ActionTree_OpeningBranch"
+    ],
+    [
+      857811608375552855,
+      "start_suspended"
+    ],
+    [
+      18209863181737467,
+      "fallback_default_move_command_conditions"
+    ],
+    [
+      15643014340064390533,
+      "events"
+    ],
+    [
+      2380318104112506569,
+      "stop_on_death"
+    ],
+    [
+      6998867517914059163,
+      "$REF"
+    ],
+    [
+      16149247026010147347,
+      "animation_action_tree_ext"
+    ],
+    [
+      69986735584970510,
+      "use_root_motion"
+    ],
+    [
+      17095730268817052046,
+      "entity_statetree_sort_tag"
+    ],
+    [
+      4278586355778637850,
+      "speed_scale_threshold"
+    ],
+    [
+      14721781839788626179,
+      "default_animation"
+    ],
+    [
+      2229296013119728104,
+      "entity_blueprint_ext"
+    ],
+    [
+      10478098900688015412,
+      "animator_attachments"
+    ],
+    [
+      5464984021694833596,
+      "$PBGNAME"
+    ],
+    [
+      1238668035833122403,
+      "$PBGMAP"
+    ],
+    [
+      4519850420117995220,
+      "alternate_sua"
+    ],
+    [
+      8643603561547579795,
+      "always_revealed_in_fow"
+    ],
+    [
+      1092443058187671076,
+      "is_visible_in_game"
+    ],
+    [
+      10192548096174954883,
+      "precise_size"
+    ],
+    [
+      145603368620213490,
+      "default_spawn_type"
+    ],
+    [
+      5772089272770214973,
+      "unit_badge"
+    ],
+    [
+      13928438513079075426,
+      "is_spawned_when_not_in_interactive_area"
+    ],
+    [
+      4656015119838962004,
+      "is_wreck"
+    ],
+    [
+      3237397884599475829,
+      "animator_scale"
+    ],
+    [
+      4429742439779293520,
+      "browsable_in_editor"
+    ],
+    [
+      934903403854651522,
+      "entity_scale"
+    ],
+    [
+      13873469681020188596,
+      "subclass_type"
+    ],
+    [
+      6859135964794759443,
+      "entity_targeting_ext"
+    ],
+    [
+      17779619576590383526,
+      "allow_weapon_target_scanning"
+    ],
+    [
+      10316258773423763029,
+      "history_size"
+    ],
+    [
+      2783428038718274759,
+      "allow_entity_scan_close_enemies"
+    ],
+    [
+      17825039796357733258,
+      "weapon_ext"
+    ],
+    [
+      17428398120410148588,
+      "weapon"
+    ],
+    [
+      7775526201656346272,
+      "sim_entity_ext"
+    ],
+    [
+      4980414129730875883,
+      "rotate_snap"
+    ],
+    [
+      8600330484634199344,
+      "kill_paradrop"
+    ],
+    [
+      7036842163465370455,
+      "transferable"
+    ],
+    [
+      13005689997087892415,
+      "pbgid"
+    ],
+    [
+      14182368983149674761,
+      "parent_pbg"
+    ],
+    [
+      12536324260443616212,
+      "campaign"
+    ],
+    [
+      9315174945028287919,
+      "hit_react_tree_ext"
+    ],
+    [
+      14793375363332585188,
+      "xp3"
+    ]
+  ],
+  "nodes": [
+    {
+      "key": "default",
+      "hash": 4430693559278735917,
+      "kind": "List",
+      "value": [
+        {
+          "key": "entity_blueprint_ext",
+          "hash": 2229296013119728104,
+          "kind": "List",
+          "value": [
+            {
+              "key": "default_spawn_type",
+              "hash": 145603368620213490,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "entity_scale",
+              "hash": 934903403854651522,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "is_visible_in_game",
+              "hash": 1092443058187671076,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "animator_scale",
+              "hash": 3237397884599475829,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "browsable_in_editor",
+              "hash": 4429742439779293520,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "alternate_sua",
+              "hash": 4519850420117995220,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "is_wreck",
+              "hash": 4656015119838962004,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "unit_badge",
+              "hash": 5772089272770214973,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\entity_blueprint_ext"
+            },
+            {
+              "key": "always_revealed_in_fow",
+              "hash": 8643603561547579795,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "precise_size",
+              "hash": 10192548096174954883,
+              "kind": "Int",
+              "value": -1
+            },
+            {
+              "key": "animator_attachments",
+              "hash": 10478098900688015412,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": "wpn_siege_keep_cannon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": "attachments\\attachment_lists"
+                }
+              ]
+            },
+            {
+              "key": "subclass_type",
+              "hash": 13873469681020188596,
+              "kind": "Int",
+              "value": 3
+            },
+            {
+              "key": "is_spawned_when_not_in_interactive_area",
+              "hash": 13928438513079075426,
+              "kind": "Boolean",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "entity_targeting_ext",
+          "hash": 6859135964794759443,
+          "kind": "List",
+          "value": [
+            {
+              "key": "allow_entity_scan_close_enemies",
+              "hash": 2783428038718274759,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\entity_targeting_ext"
+            },
+            {
+              "key": "history_size",
+              "hash": 10316258773423763029,
+              "kind": "Int",
+              "value": 2
+            },
+            {
+              "key": "allow_weapon_target_scanning",
+              "hash": 17779619576590383526,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "sim_entity_ext",
+          "hash": 7775526201656346272,
+          "kind": "List",
+          "value": [
+            {
+              "key": "rotate_snap",
+              "hash": 4980414129730875883,
+              "kind": "Float",
+              "value": 90.0
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\sim_entity_ext"
+            },
+            {
+              "key": "transferable",
+              "hash": 7036842163465370455,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "kill_paradrop",
+              "hash": 8600330484634199344,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "action_tree_ext",
+          "hash": 8758466284841523444,
+          "kind": "List",
+          "value": [
+            {
+              "key": "fallback_default_move_command_conditions",
+              "hash": 18209863181737467,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "start_suspended",
+              "hash": 857811608375552855,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "stop_on_death",
+              "hash": 2380318104112506569,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "hash": 3837083494325526760,
+              "kind": "CString",
+              "value": "weapon_ai"
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\action_tree_ext"
+            },
+            {
+              "key": "events",
+              "hash": 15643014340064390533,
+              "kind": "List",
+              "value": []
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 2147483024
+        },
+        {
+          "key": "parent_pbg",
+          "hash": 14182368983149674761,
+          "kind": "List2",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "hash": 5464984021694833596,
+              "kind": "CString",
+              "value": "wpn_ebps_template_ai"
+            },
+            {
+              "key": "$PBGMAP",
+              "hash": 1238668035833122403,
+              "kind": "CString",
+              "value": "ebps"
+            }
+          ]
+        },
+        {
+          "key": "animation_action_tree_ext",
+          "hash": 16149247026010147347,
+          "kind": "List",
+          "value": [
+            {
+              "key": "use_root_motion",
+              "hash": 69986735584970510,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "start_suspended",
+              "hash": 857811608375552855,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "hash": 3837083494325526760,
+              "kind": "CString",
+              "value": "weapon_ranged"
+            },
+            {
+              "key": "speed_scale_threshold",
+              "hash": 4278586355778637850,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\animation_action_tree_ext"
+            },
+            {
+              "key": "default_animation",
+              "hash": 14721781839788626179,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "entity_statetree_sort_tag",
+              "hash": 17095730268817052046,
+              "kind": "CString",
+              "value": "weapon_default"
+            }
+          ]
+        },
+        {
+          "key": "weapon_ext",
+          "hash": 17825039796357733258,
+          "kind": "List",
+          "value": [
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\weapon_ext"
+            },
+            {
+              "key": "weapon",
+              "hash": 17428398120410148588,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_weapon_barrage_initial_explosive"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": "weapon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "instance_version",
+      "hash": 8529826256463028745,
+      "kind": "Int",
+      "value": 2
+    },
+    {
+      "key": "campaign",
+      "hash": 12536324260443616212,
+      "kind": "List",
+      "value": [
+        {
+          "key": "entity_blueprint_ext",
+          "hash": 2229296013119728104,
+          "kind": "List",
+          "value": [
+            {
+              "key": "default_spawn_type",
+              "hash": 145603368620213490,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "entity_scale",
+              "hash": 934903403854651522,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "is_visible_in_game",
+              "hash": 1092443058187671076,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "animator_scale",
+              "hash": 3237397884599475829,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "browsable_in_editor",
+              "hash": 4429742439779293520,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "alternate_sua",
+              "hash": 4519850420117995220,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "is_wreck",
+              "hash": 4656015119838962004,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "unit_badge",
+              "hash": 5772089272770214973,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\entity_blueprint_ext"
+            },
+            {
+              "key": "always_revealed_in_fow",
+              "hash": 8643603561547579795,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "precise_size",
+              "hash": 10192548096174954883,
+              "kind": "Int",
+              "value": -1
+            },
+            {
+              "key": "animator_attachments",
+              "hash": 10478098900688015412,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": "wpn_siege_keep_cannon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": "attachments\\attachment_lists"
+                }
+              ]
+            },
+            {
+              "key": "subclass_type",
+              "hash": 13873469681020188596,
+              "kind": "Int",
+              "value": 3
+            },
+            {
+              "key": "is_spawned_when_not_in_interactive_area",
+              "hash": 13928438513079075426,
+              "kind": "Boolean",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "entity_targeting_ext",
+          "hash": 6859135964794759443,
+          "kind": "List",
+          "value": [
+            {
+              "key": "allow_entity_scan_close_enemies",
+              "hash": 2783428038718274759,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\entity_targeting_ext"
+            },
+            {
+              "key": "history_size",
+              "hash": 10316258773423763029,
+              "kind": "Int",
+              "value": 2
+            },
+            {
+              "key": "allow_weapon_target_scanning",
+              "hash": 17779619576590383526,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "sim_entity_ext",
+          "hash": 7775526201656346272,
+          "kind": "List",
+          "value": [
+            {
+              "key": "rotate_snap",
+              "hash": 4980414129730875883,
+              "kind": "Float",
+              "value": 90.0
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\sim_entity_ext"
+            },
+            {
+              "key": "transferable",
+              "hash": 7036842163465370455,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "kill_paradrop",
+              "hash": 8600330484634199344,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "action_tree_ext",
+          "hash": 8758466284841523444,
+          "kind": "List",
+          "value": [
+            {
+              "key": "fallback_default_move_command_conditions",
+              "hash": 18209863181737467,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "start_suspended",
+              "hash": 857811608375552855,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "stop_on_death",
+              "hash": 2380318104112506569,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "hash": 3837083494325526760,
+              "kind": "CString",
+              "value": "campaignMod_weapon_ai"
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\action_tree_ext"
+            },
+            {
+              "key": "events",
+              "hash": 15643014340064390533,
+              "kind": "List",
+              "value": []
+            }
+          ]
+        },
+        {
+          "key": "hit_react_tree_ext",
+          "hash": 9315174945028287919,
+          "kind": "List",
+          "value": [
+            {
+              "key": "ActionTree_OpeningBranch",
+              "hash": 3837083494325526760,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\hit_react_tree_ext"
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 2147483024
+        },
+        {
+          "key": "parent_pbg",
+          "hash": 14182368983149674761,
+          "kind": "List2",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "hash": 5464984021694833596,
+              "kind": "CString",
+              "value": "wpn_ebps_template_ai"
+            },
+            {
+              "key": "$PBGMAP",
+              "hash": 1238668035833122403,
+              "kind": "CString",
+              "value": "ebps"
+            }
+          ]
+        },
+        {
+          "key": "animation_action_tree_ext",
+          "hash": 16149247026010147347,
+          "kind": "List",
+          "value": [
+            {
+              "key": "use_root_motion",
+              "hash": 69986735584970510,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "start_suspended",
+              "hash": 857811608375552855,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "hash": 3837083494325526760,
+              "kind": "CString",
+              "value": "campaignMod_weapon_ranged"
+            },
+            {
+              "key": "speed_scale_threshold",
+              "hash": 4278586355778637850,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\animation_action_tree_ext"
+            },
+            {
+              "key": "default_animation",
+              "hash": 14721781839788626179,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "entity_statetree_sort_tag",
+              "hash": 17095730268817052046,
+              "kind": "CString",
+              "value": "weapon_default"
+            }
+          ]
+        },
+        {
+          "key": "weapon_ext",
+          "hash": 17825039796357733258,
+          "kind": "List",
+          "value": [
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\weapon_ext"
+            },
+            {
+              "key": "weapon",
+              "hash": 17428398120410148588,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": "weapon_keep_cannon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": "weapon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "xp3",
+      "hash": 14793375363332585188,
+      "kind": "List",
+      "value": [
+        {
+          "key": "entity_blueprint_ext",
+          "hash": 2229296013119728104,
+          "kind": "List",
+          "value": [
+            {
+              "key": "default_spawn_type",
+              "hash": 145603368620213490,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "entity_scale",
+              "hash": 934903403854651522,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "is_visible_in_game",
+              "hash": 1092443058187671076,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "animator_scale",
+              "hash": 3237397884599475829,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "browsable_in_editor",
+              "hash": 4429742439779293520,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "alternate_sua",
+              "hash": 4519850420117995220,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "is_wreck",
+              "hash": 4656015119838962004,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "unit_badge",
+              "hash": 5772089272770214973,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\entity_blueprint_ext"
+            },
+            {
+              "key": "always_revealed_in_fow",
+              "hash": 8643603561547579795,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "precise_size",
+              "hash": 10192548096174954883,
+              "kind": "Int",
+              "value": -1
+            },
+            {
+              "key": "animator_attachments",
+              "hash": 10478098900688015412,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": "wpn_siege_keep_cannon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": "attachments\\attachment_lists"
+                }
+              ]
+            },
+            {
+              "key": "subclass_type",
+              "hash": 13873469681020188596,
+              "kind": "Int",
+              "value": 3
+            },
+            {
+              "key": "is_spawned_when_not_in_interactive_area",
+              "hash": 13928438513079075426,
+              "kind": "Boolean",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "entity_targeting_ext",
+          "hash": 6859135964794759443,
+          "kind": "List",
+          "value": [
+            {
+              "key": "allow_entity_scan_close_enemies",
+              "hash": 2783428038718274759,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\entity_targeting_ext"
+            },
+            {
+              "key": "history_size",
+              "hash": 10316258773423763029,
+              "kind": "Int",
+              "value": 2
+            },
+            {
+              "key": "allow_weapon_target_scanning",
+              "hash": 17779619576590383526,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "sim_entity_ext",
+          "hash": 7775526201656346272,
+          "kind": "List",
+          "value": [
+            {
+              "key": "rotate_snap",
+              "hash": 4980414129730875883,
+              "kind": "Float",
+              "value": 90.0
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\sim_entity_ext"
+            },
+            {
+              "key": "transferable",
+              "hash": 7036842163465370455,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "kill_paradrop",
+              "hash": 8600330484634199344,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "action_tree_ext",
+          "hash": 8758466284841523444,
+          "kind": "List",
+          "value": [
+            {
+              "key": "fallback_default_move_command_conditions",
+              "hash": 18209863181737467,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "start_suspended",
+              "hash": 857811608375552855,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "stop_on_death",
+              "hash": 2380318104112506569,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "hash": 3837083494325526760,
+              "kind": "CString",
+              "value": "xp3_weapon_ai"
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\action_tree_ext"
+            },
+            {
+              "key": "events",
+              "hash": 15643014340064390533,
+              "kind": "List",
+              "value": []
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 2147483024
+        },
+        {
+          "key": "parent_pbg",
+          "hash": 14182368983149674761,
+          "kind": "List2",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "hash": 5464984021694833596,
+              "kind": "CString",
+              "value": "wpn_ebps_template_ai"
+            },
+            {
+              "key": "$PBGMAP",
+              "hash": 1238668035833122403,
+              "kind": "CString",
+              "value": "ebps"
+            }
+          ]
+        },
+        {
+          "key": "animation_action_tree_ext",
+          "hash": 16149247026010147347,
+          "kind": "List",
+          "value": [
+            {
+              "key": "use_root_motion",
+              "hash": 69986735584970510,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "start_suspended",
+              "hash": 857811608375552855,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "hash": 3837083494325526760,
+              "kind": "CString",
+              "value": "xp3_weapon_ranged"
+            },
+            {
+              "key": "speed_scale_threshold",
+              "hash": 4278586355778637850,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\animation_action_tree_ext"
+            },
+            {
+              "key": "default_animation",
+              "hash": 14721781839788626179,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "entity_statetree_sort_tag",
+              "hash": 17095730268817052046,
+              "kind": "CString",
+              "value": "weapon_default"
+            }
+          ]
+        },
+        {
+          "key": "weapon_ext",
+          "hash": 17825039796357733258,
+          "kind": "List",
+          "value": [
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\weapon_ext"
+            },
+            {
+              "key": "weapon",
+              "hash": 17428398120410148588,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": "weapon_keep_cannon"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": "weapon"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

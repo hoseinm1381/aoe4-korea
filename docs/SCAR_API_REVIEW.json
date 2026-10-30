@@ -1,0 +1,32 @@
+[
+  {
+    "file": "source/scar/korea/initialization.scar",
+    "summary": {
+      "call_count": 20,
+      "loc_ref_count": 0,
+      "unknown_call_count": 0,
+      "missing_locdb_count": 0
+    },
+    "unknown_calls": [],
+    "reviewed_resolution": "Project helper definitions are present in the imported presentation.scar; Player_GetEntitiesEGroup is a documented official API used by the accepted baseline.",
+    "low_confidence_apis": [
+      {
+        "name": "Player_GetEntitiesEGroup",
+        "source": "official_api",
+        "signature": "Player& player, EGroupID group"
+      }
+    ]
+  },
+  {
+    "file": "source/scar/garrison/korea/dispatcher.scar",
+    "summary": {
+      "call_count": 10,
+      "loc_ref_count": 0,
+      "unknown_call_count": 0,
+      "missing_locdb_count": 0
+    },
+    "unknown_calls": [],
+    "reviewed_resolution": "Project helper definitions are present in the imported presentation.scar; Player_GetEntitiesEGroup is a documented official API used by the accepted baseline.",
+    "low_confidence_apis": []
+  }
+]

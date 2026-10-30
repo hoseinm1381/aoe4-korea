@@ -1,0 +1,11 @@
+/output/
+/release/
+/workspace.local.json
+__pycache__/
+*.pyc
+
+# Local tested rollback ZIPs and UI rebuilding entrypoints
+/archives/
+!tools/codex.py
+!tools/cook_presentation.py
+!tools/render_presentation.mjs

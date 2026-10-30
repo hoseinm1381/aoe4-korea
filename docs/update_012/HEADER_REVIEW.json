@@ -1,0 +1,21 @@
+{
+  "method": "Installed sga-archiver replace-member, one native Codex member. Every resulting member fully extracted and SHA-256 checked.",
+  "source": "Stock English ordinary headers lead their available age; age-up landmarks end the preceding age. Products follow their producer.",
+  "previous_archive_sha256": "b303ef8e0a5cf5f116c4bff8c73a72efadd7ff776d835eb86094159e41212a75",
+  "archive_sha256": "2e825c3b5e59aad6d54befeb7b7d770aa0edfea12b1bcc3ce53e642145132571",
+  "only_changed_member": "attrib/codex/garrison/korea/korea_codex.rgd",
+  "old_member": {
+    "toc": "attrib",
+    "sha256": "36d6819d619f2cd06c3ae8733b340f3c7bb238588421f947d1ddedd68b9d5a83",
+    "bytes": 341589
+  },
+  "new_member": {
+    "toc": "attrib",
+    "sha256": "4fc648b160e67cf83b5f2a03bbe92cd04c088aeca89583f21fd827e0d915ba62",
+    "bytes": 341589
+  },
+  "all_other_members_byte_identical": 454,
+  "owner_crc_sha1_verified": true,
+  "declaration_hashes_verified": true,
+  "all_member_readback_sha256": true
+}

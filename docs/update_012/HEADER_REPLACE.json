@@ -1,0 +1,1865 @@
+{
+  "archive": {
+    "block_size": 262144,
+    "file_count": 455,
+    "folder_count": 44,
+    "header_encryption": "None",
+    "members": [
+      {
+        "path": "garrison/civilizations.json",
+        "toc": "data"
+      },
+      {
+        "path": "scar/garrison/korea/dispatcher.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/blueprints.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/catalog.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/core.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/economy.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/effect_catalog.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/effects.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/initialization.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/landmarks.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/lifecycle.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/research.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/research_core.scar",
+        "toc": "data"
+      },
+      {
+        "path": "scar/korea/ui.scar",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/garrison/korea/presentation/flag_list_small.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/arrowchuteicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/book_unavailable.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/bookicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/bulgulksatemple.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/chongtongicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/dangpatridenticon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/explosivearrowsicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/gapsaicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/gapsaicon4.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/gyeongbokpalace.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/hallofworthies.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/hangulicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/hwacha.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/hwacha_3.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/hwarangicon2.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/hwarangicon3.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/hwarangicon4.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/ironflailicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/jinjufortress.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/koreancover.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/koreans_2.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/koreanwonder.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/main_icon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/mountainfortress.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/seonbischolaricon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/seondeokobservatoryicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/seowon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/seowon_new.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/stonepagodaicon.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/tigerhuntericon2.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/tigerhuntericon3.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/tigerhuntericon4.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/icons/korea/warriorpoets.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_background.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_fade.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_list.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_list_small.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_loading.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_mastery.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_pattern.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_secondary.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_secondary_small.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation/flag_tile.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_fade.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_list.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_list_small.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_loading.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_mastery.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_pattern.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_secondary.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_secondary_small.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "ui/images/garrison/korea/presentation_011/flag_tile.rrtex",
+        "toc": "data"
+      },
+      {
+        "path": "mod.bin",
+        "toc": "info"
+      },
+      {
+        "path": "mod.rrtex",
+        "toc": "info"
+      },
+      {
+        "path": "en/en.ucs",
+        "toc": "locale"
+      },
+      {
+        "path": "attrib/korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_acre_barrage_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_acre_barrage_small_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_archery_archer_tier_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_archery_archer_tier_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_archery_crossbow_tier_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_archery_ranged_arrow_chutes.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_archery_tiger_hunter_tier_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_archery_tiger_hunter_tier_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_archery_tiger_hunter_tier_rocket.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_barracks_maa_heavy_spear_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_barracks_spear_tier_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_barracks_spear_tier_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_barracks_spear_tier_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_barracks_unique_tech_spear.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_melee_armor_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_melee_armor_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_melee_armor_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_melee_damage_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_melee_damage_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_melee_damage_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_military_academy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_ranged_armor_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_ranged_armor_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_ranged_armor_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_ranged_damage_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_ranged_damage_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_ranged_damage_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_blacksmith_siege_engineers.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_building_spend_10_or_less.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_convert_archer_to_horseman.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_convert_horseman_to_archer.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_core_market_buy_merc_bulk_kor.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_core_market_buy_merc_kor.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_core_market_sell_merc_bulk_kor.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_core_market_sell_merc_kor.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_display_foreign_tech_for_everyone.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_lumber_mine_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_lumber_mine_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_lumber_mine_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_lumber_wood_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_lumber_wood_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_lumber_wood_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_lumber_wood_chop.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_mill_food_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_mill_food_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_mill_food_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_mill_hunt_gather_rate.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_mill_pro_scout.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_economic_mill_wheelbarrow.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_general_aura_infantry.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_general_aura_logistics.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_general_aura_production.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_general_aura_raiding.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_general_aura_siege.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_hall_of_worthies_food_decree.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_hall_of_worthies_gold_decree.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_hall_of_worthies_stone_decree.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_hall_of_worthies_wood_decree.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_horseman_or_archer_kill_tracker.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_hwarang_study_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_korea_rigteous_army_range.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_korea_seowon_range.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_korea_seowon_range_dummy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_armor_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_attack_speed_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_construction_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_damage_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_decay_armor_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_falcon_sight.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_gunpowder_attack_speed_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_healing_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_improved_armor_maneuver_arrow.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_knight_damage_move_speed_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_move_speed_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_production_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_production_mon_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_ranged_attack_speed_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_leader_siege_damage_activated.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_longbow_set_up_camp_nrm.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_mehter_attack_buff_ott.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_monestary_herbal_medicine.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_monestary_piety.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_monestary_tithe_barns.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_monk_inspire_target_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_naval_armored_hull.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_naval_econ_drift_nets.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_naval_explosives.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_naval_extra_hammocks.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_naval_heated_shot.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_naval_shipwrights.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_naval_swivel_cannon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_naval_upgrade_naval_incendiaries.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_saladin_armor_activated_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_senobi_give_10_ticket_to_building.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_senobi_give_30_ticket_to_building.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_senobi_give_max_ticket_to_building.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_senobi_study_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_senobi_take_30_ticket_from_seowon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_senobi_take_5_ticket_from_seowon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_senobi_take_60_ticket_from_seowon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_seowon_hungul_script_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_seowon_hungul_script_korea_for_feudal_landmark.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_shirkuh_speed_activate_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_siege_bombard_range.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_siege_mathemathics.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_siege_movement_speed.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_siege_ram_upgrade.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_siege_roller_shutter_trigger.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_smoke_reaction_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_stable_horseman_tier_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_stable_horseman_tier_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_stable_knight_range.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_stable_knight_tier_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_stable_scout_los_incrase.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_templar_master_attack_speed_tem.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_toggle_saladin_armor_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_toggle_saladin_speed_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_town_center_textile_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_university_architecture_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_university_biology.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_university_elite_army_tactic.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_university_leadshot.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_university_ranged_incendiary.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_university_siege_cemistary.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_university_siege_works.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_university_silkstring.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_upgrade_discount_for_observatory.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_upgrade_econ_extended_lines.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/abilities/korea/kr_upgrade_naval_springald_ship_upgrade_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/army/garrison/korea/korea_standard.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/army_slot_layout/garrison/korea/korea_layout.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/codex/garrison/korea/korea_codex.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_defense_keep_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_defense_outpost_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_defense_palisade_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_defense_palisade_gate_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_defense_tower_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_defense_wall_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_defense_wall_gate_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_dynasty_pagoda_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_econ_food_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_econ_market_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_econ_mining_camp_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_econ_mining_camp_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_econ_wood_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_house_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_landmark_age1_meditation_gardens_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_landmark_age1_prefecture_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_landmark_age2_shaolin_temple_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_landmark_age2_white_deer_grotto_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_landmark_age3_library_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_resource_farm_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_tech_unit_infantry_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_tech_university_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_abb_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_abb.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_byz.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_chi.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_eng.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_fre.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_fre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_hre.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_hre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_jpn.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_lan.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_mal.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_mon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_ott.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_rus.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_sul.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_capital_tem.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_town_center_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_trade_post_core.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_trade_post_east.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_trade_post_mid_east.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_trade_post_west.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_unit_cavalry_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_unit_infantry_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_unit_naval_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_unit_ranged_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_unit_religious_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_unit_siege_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_building_wonder_age4_forbidden_control_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_gapsa_dummy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_hwacha_dummy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_naval_trade_post_east.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_naval_trade_post_mid_east.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_naval_trade_post_west.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_projectile_arrow_naval_nestofbees_special_archer.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_projectile_arrow_nestofbees_hwacha.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_projectile_barrage_campaign.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_projectile_barrage_initial_explosion_campaign.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_tiger_hunter_dummy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_archer_2_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_archer_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_archer_3_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_archer_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_archer_4_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_archer_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_bombard_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_crossbowman_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_crossbowman_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_handcannon_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_horseman_2_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_horseman_3_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_horseman_4_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_knight_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_knight_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_leader_baibars_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_manatarms_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_manatarms_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_militia_cmp_chi.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_militia_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_combat_ship_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_combat_warship_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_fireship_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_fishing_boat_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_scout_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_trade_ship_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_transport_ship_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_turtle_ship_3_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_naval_war_galley_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_nest_of_bees_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_official_1_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_spearman_1_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_spearman_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_spearman_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_spearman_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_wpn_siege_keep_cannon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/ebps/korea/kr_wpn_siege_keep_hwacha.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_blacksmith.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_eco_mill.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_foreign_1.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_foreign_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_military_building.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_naval.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_other.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_siege.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/menu/korea/kr_korea_upgrade_tab_senobi_university.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/racebps/korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/resource_type_info/merc_byz.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_gapsa_dummy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_hwacha_dummy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_tiger_hunter_dummy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_archer_2_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_archer_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_archer_3_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_archer_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_archer_4_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_archer_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_crossbowman_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_crossbowman_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_handcannon_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_horseman_2_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_horseman_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_horseman_3_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_horseman_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_horseman_4_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_horseman_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_knight_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_knight_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_leader_baibars_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_manatarms_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_manatarms_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_militia_cmp_chi.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_militia_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_naval_fireship_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_naval_fishing_boat_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_naval_turtle_ship_3_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_nest_of_bees_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_official_1_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_ram_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_spearman_1_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_spearman_2_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_spearman_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_spearman_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_villager_1_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/sbps/korea/kr_unit_workshop_ram_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/statemodel_schema/garrison/korea/korea_player.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_activate_getting_resource_on_kill_horseman_archer_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_chart_a_course_aquarius_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_land_monster_attack_damage_military.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_player_dynasty0_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_armor_clad_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_crossbow_gambesons_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_crossbow_stirrups_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_dali_horses_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_farm_improved_enclosures_nrm.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_keep_cannon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_keep_springald.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_landmark_enlistment_incentives_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_library_flaming_charge.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_library_siege_works.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_longbow_arrow_volley_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_man_at_arms_armor_clad_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_naval_arrowslits.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_naval_long_guns_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_outpost_arrowslits.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_outpost_cannon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_outpost_springald.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_outpost_stone.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_ranged_longbow_damage_nrm.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_reliable_supplies_fre.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_royal_edict_hre.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_tech_university_murder_holes_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_tech_university_murder_holes_4_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_tower_cannon.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_tower_springald.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_unit_manatarms_2_cru.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_unit_manatarms_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_unit_religious_sanctity_4_sul.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_unit_repeater_crossbow_3_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_unit_repeater_crossbow_4_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_unit_town_center_wheelbarrow_2_jpn.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/upgrade/korea/kr_upgrade_unit_turkic_horse_archer_3_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_acre_barrage_dot_abb.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_2.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_2_hre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_2_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_2_nrm.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_3_hre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_3_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_3_nrm.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_4_hre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_4_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_4_nrm.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_3.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_3_hre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_3_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_4.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_4_hre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_4_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_building_fire.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_building_fire_hre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_hre_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_archer_incendiary_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_barrage_initial_explosive.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_horseman_2_charge_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_horseman_2_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_horseman_3_charge_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_horseman_3_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_horseman_4_charge_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_horseman_4_korea.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_knight_3_charge_iron_flails_kor.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_knight_3_iron_flails_kor.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_knight_4_charge_iron_flails_kor.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_knight_4_iron_flails_kor.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_manatarms_2_charge_nov.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_manatarms_2_nov.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_manatarms_3_charge_nov.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_manatarms_3_nov.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_manatarms_4_charge_nov.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_manatarms_4_nov.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_repeater_crossbow_2_library_upgrade_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_repeater_crossbow_3_library_upgrade_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_repeater_crossbow_4_library_upgrade_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_repeater_crossbow_4_library_upgrade_incendiary_chi_ha_01.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_turkic_horsearcher_2_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_turkic_horsearcher_3_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_turkic_horsearcher_4_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_2_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_3_ayy.rgd",
+        "toc": "attrib"
+      },
+      {
+        "path": "attrib/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_4_ayy.rgd",
+        "toc": "attrib"
+      }
+    ],
+    "name": "748d61b94d3e4cf3a506a9ac1f992d1d",
+    "product": 0,
+    "signature_present": false,
+    "toc_count": 4,
+    "tocs": [
+      {
+        "alias": "data",
+        "name": "data"
+      },
+      {
+        "alias": "info",
+        "name": "info"
+      },
+      {
+        "alias": "locale",
+        "name": "locale"
+      },
+      {
+        "alias": "attrib",
+        "name": "attrib"
+      }
+    ],
+    "version": 11
+  },
+  "base": "C:\\Users\\RS\\AppData\\Local\\Temp\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\current\\korea.sga",
+  "output": "C:\\Users\\RS\\AppData\\Local\\Temp\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\current\\header-review\\korea.sga",
+  "payload": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\current\\header-review\\codex.rgd",
+    "size": 341589
+  },
+  "replaced_member": "attrib/codex/garrison/korea/korea_codex.rgd",
+  "schema": "sga-archiver.replace-member/v1",
+  "tool": {
+    "name": "sga-archiver",
+    "version": "0.3.0"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "korea/blueprints.scar": {
+    "sha256": "e1753e13c3a0b5d931f666d81decec1df047085d95800d8a3200d86deb41e742",
+    "original_sha256": "cd12da6d4bd94f2b753b7fdc9be88b88412d8ee7903478281008000d82b8753e"
+  },
+  "korea/catalog.scar": {
+    "sha256": "82d1e33ed710bc2ab6934f76a6ed41ebbb6b2b5fdf4c076d4d5d4e191f77a067",
+    "original_sha256": "cf44b22c51ef5dfd7662d2630537bc9170904d1c5978ad62facba1fa96970016"
+  },
+  "korea/core.scar": {
+    "sha256": "2bd0b4e811b5eb6a2893c88992e8c2381a82400a449c2ce068376c982a3fea94",
+    "original_sha256": "2bd0b4e811b5eb6a2893c88992e8c2381a82400a449c2ce068376c982a3fea94"
+  },
+  "korea/economy.scar": {
+    "sha256": "41064eb55893395b16dc4675ca51b35708c1976ea1bc44305327b40780ea5219",
+    "original_sha256": "41064eb55893395b16dc4675ca51b35708c1976ea1bc44305327b40780ea5219"
+  },
+  "korea/effect_catalog.scar": {
+    "sha256": "fdbd69d9dc2aeff538040dcf33e90ac15f9fbce1fffb04b84511a4b97393f065",
+    "original_sha256": "fdbd69d9dc2aeff538040dcf33e90ac15f9fbce1fffb04b84511a4b97393f065"
+  },
+  "korea/effects.scar": {
+    "sha256": "80122a92a9df583b0ed85858a87410b39bce70b09546e3cca6137fc15f278e92",
+    "original_sha256": "80122a92a9df583b0ed85858a87410b39bce70b09546e3cca6137fc15f278e92"
+  },
+  "korea/landmarks.scar": {
+    "sha256": "8896a7bc0e2f2e113fd9c41c70881ec432ccbf0355dfceb2c56d5171d3f3e747",
+    "original_sha256": "8896a7bc0e2f2e113fd9c41c70881ec432ccbf0355dfceb2c56d5171d3f3e747"
+  },
+  "korea/lifecycle.scar": {
+    "sha256": "ebb5396aa2135096b92f3eb5a7c99f5ef52c183ddec840786e2bf45b05978e30",
+    "original_sha256": "ebb5396aa2135096b92f3eb5a7c99f5ef52c183ddec840786e2bf45b05978e30"
+  },
+  "korea/research.scar": {
+    "sha256": "e3f30c402c126445716437706b30bb1b2904f4e87c36e053e96747e2bcae0a4b",
+    "original_sha256": "e3f30c402c126445716437706b30bb1b2904f4e87c36e053e96747e2bcae0a4b"
+  },
+  "korea/research_core.scar": {
+    "sha256": "3572104568937e9e4bf1c8414f4993623bed6eb06b276132281f053e20ab127b",
+    "original_sha256": "3572104568937e9e4bf1c8414f4993623bed6eb06b276132281f053e20ab127b"
+  },
+  "korea/ui.scar": {
+    "sha256": "3d08c48ecf82d6946393703a26b4f916a49100ebedbf628376ed3cd8f6684029",
+    "original_sha256": "3d08c48ecf82d6946393703a26b4f916a49100ebedbf628376ed3cd8f6684029"
+  },
+  "korea/initialization.scar": {
+    "sha256": "064708e441828cb2539bb3594f12b278b694e9196531b64db4f9da7502195c45",
+    "original_sha256": "95592d8ce9776171e57a18021dd42480d713271199cb05d5adc131dd6e376484"
+  },
+  "garrison/korea/dispatcher.scar": {
+    "sha256": "184e620c987167327901a57d45ed8f342341b3e96dac2671cc2c495c48a72ad1",
+    "original_sha256": null
+  }
+}

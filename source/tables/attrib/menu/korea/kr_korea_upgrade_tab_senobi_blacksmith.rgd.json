@@ -1,0 +1,834 @@
+{
+  "schema": "garrison.native-table/v1",
+  "version": 4,
+  "platform": 1,
+  "chunks": [
+    {
+      "kind": "44415441",
+      "id": "41454744",
+      "version": 3,
+      "name": "",
+      "body": ""
+    },
+    {
+      "kind": "44415441",
+      "id": "4b455953",
+      "version": 1,
+      "name": "",
+      "body": ""
+    }
+  ],
+  "keys": [
+    [
+      8529826256463028745,
+      "instance_version"
+    ],
+    [
+      4430693559278735917,
+      "default"
+    ],
+    [
+      1291201267519770108,
+      "menu_bag"
+    ],
+    [
+      2569609609292370995,
+      "ui_position"
+    ],
+    [
+      16933140635952216258,
+      "ui_position_row"
+    ],
+    [
+      11627997653030084307,
+      "ui_position_column"
+    ],
+    [
+      15035202813555506846,
+      "screen_name"
+    ],
+    [
+      8188688946990289687,
+      "help_text"
+    ],
+    [
+      7203471124514310600,
+      "icon_name"
+    ],
+    [
+      8906936321599725488,
+      "hotkey_name"
+    ],
+    [
+      10732985850218957366,
+      "tooltip_data_template"
+    ],
+    [
+      6768589707426009488,
+      "hotkey_group"
+    ],
+    [
+      6998867517914059163,
+      "$REF"
+    ],
+    [
+      6059883858523790163,
+      "behaviour"
+    ],
+    [
+      422408907358204153,
+      "back"
+    ],
+    [
+      5464984021694833596,
+      "$PBGNAME"
+    ],
+    [
+      1238668035833122403,
+      "$PBGMAP"
+    ],
+    [
+      1005980504181386172,
+      "auto_exit"
+    ],
+    [
+      11984153124293111571,
+      "requirements"
+    ],
+    [
+      18228278308013522726,
+      "hotkey_binding"
+    ],
+    [
+      12797928596585789300,
+      "ui_info_extended"
+    ],
+    [
+      9538607839506212259,
+      "command_card_info"
+    ],
+    [
+      7790335697959227400,
+      "quick_abilities_info"
+    ],
+    [
+      5055169763293637906,
+      "quick_commands_info"
+    ],
+    [
+      13059243416827263861,
+      "quick_formation_info"
+    ],
+    [
+      6973376830527721660,
+      "ping_menu_info"
+    ],
+    [
+      16559710094788391263,
+      "category"
+    ],
+    [
+      6303400528724777763,
+      "quick_commands_launch_hud_info"
+    ],
+    [
+      10709685427316977625,
+      "quick_commands_hotkey"
+    ],
+    [
+      10916464437490962360,
+      "quick_commands_priority"
+    ],
+    [
+      15115408896535643371,
+      "quick_commands_slot_index"
+    ],
+    [
+      9826430096975051297,
+      "quick_commands_hold_time"
+    ],
+    [
+      418199564037331192,
+      "relic_radial_menu_info"
+    ],
+    [
+      1412325442859986734,
+      "observer_type"
+    ],
+    [
+      6499531308199298699,
+      "issuable_info"
+    ],
+    [
+      13814017388298673726,
+      "is_secondary"
+    ],
+    [
+      4976731445824627946,
+      "secondary_issuable"
+    ],
+    [
+      6944384768479536543,
+      "data_template"
+    ],
+    [
+      13005689997087892415,
+      "pbgid"
+    ],
+    [
+      12536324260443616212,
+      "campaign"
+    ],
+    [
+      6675746632178626770,
+      "columns"
+    ],
+    [
+      17654708713135472749,
+      "rows"
+    ],
+    [
+      4667732950001747407,
+      "exclusiveness_priority"
+    ]
+  ],
+  "nodes": [
+    {
+      "key": "default",
+      "hash": 4430693559278735917,
+      "kind": "List",
+      "value": [
+        {
+          "key": "menu_bag",
+          "hash": 1291201267519770108,
+          "kind": "List",
+          "value": [
+            {
+              "key": "ui_position",
+              "hash": 2569609609292370995,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "ui_position_column",
+                  "hash": 11627997653030084307,
+                  "kind": "Int",
+                  "value": 3
+                },
+                {
+                  "key": "ui_position_row",
+                  "hash": 16933140635952216258,
+                  "kind": "Int",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "behaviour",
+              "hash": 6059883858523790163,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "back",
+                  "hash": 422408907358204153,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": ""
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "auto_exit",
+                  "hash": 1005980504181386172,
+                  "kind": "Boolean",
+                  "value": true
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "options\\menu\\nest"
+                }
+              ]
+            },
+            {
+              "key": "hotkey_group",
+              "hash": 6768589707426009488,
+              "kind": "CString",
+              "value": "hud_game"
+            },
+            {
+              "key": "data_template",
+              "hash": 6944384768479536543,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "tables\\ui_info"
+            },
+            {
+              "key": "icon_name",
+              "hash": 7203471124514310600,
+              "kind": "CString",
+              "value": "races\\common\\buildings\\blacksmith"
+            },
+            {
+              "key": "help_text",
+              "hash": 8188688946990289687,
+              "kind": "LocString",
+              "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:12218"
+            },
+            {
+              "key": "hotkey_name",
+              "hash": 8906936321599725488,
+              "kind": "CString",
+              "value": "access_secondary_ui_panel"
+            },
+            {
+              "key": "tooltip_data_template",
+              "hash": 10732985850218957366,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "requirements",
+              "hash": 11984153124293111571,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "ui_info_extended",
+              "hash": 12797928596585789300,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "relic_radial_menu_info",
+                  "hash": 418199564037331192,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "observer_type",
+                  "hash": 1412325442859986734,
+                  "kind": "Int",
+                  "value": 1
+                },
+                {
+                  "key": "quick_commands_info",
+                  "hash": 5055169763293637906,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "quick_commands_launch_hud_info",
+                  "hash": 6303400528724777763,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "ui_quick_commands_launch_hud_info"
+                    },
+                    {
+                      "key": "quick_commands_hold_time",
+                      "hash": 9826430096975051297,
+                      "kind": "Int",
+                      "value": 1
+                    },
+                    {
+                      "key": "quick_commands_hotkey",
+                      "hash": 10709685427316977625,
+                      "kind": "CString",
+                      "value": ""
+                    },
+                    {
+                      "key": "quick_commands_priority",
+                      "hash": 10916464437490962360,
+                      "kind": "Int",
+                      "value": -1
+                    },
+                    {
+                      "key": "quick_commands_slot_index",
+                      "hash": 15115408896535643371,
+                      "kind": "Int",
+                      "value": -1
+                    }
+                  ]
+                },
+                {
+                  "key": "issuable_info",
+                  "hash": 6499531308199298699,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "secondary_issuable",
+                      "hash": 4976731445824627946,
+                      "kind": "List2",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "hash": 5464984021694833596,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "hash": 1238668035833122403,
+                          "kind": "CString",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "is_secondary",
+                      "hash": 13814017388298673726,
+                      "kind": "Boolean",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "ping_menu_info",
+                  "hash": 6973376830527721660,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "tables\\ui_info_ext"
+                },
+                {
+                  "key": "quick_abilities_info",
+                  "hash": 7790335697959227400,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "command_card_info",
+                  "hash": 9538607839506212259,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "quick_formation_info",
+                  "hash": 13059243416827263861,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "category",
+                  "hash": 16559710094788391263,
+                  "kind": "Int",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "screen_name",
+              "hash": 15035202813555506846,
+              "kind": "LocString",
+              "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:12203"
+            },
+            {
+              "key": "hotkey_binding",
+              "hash": 18228278308013522726,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 2147483047
+        }
+      ]
+    },
+    {
+      "key": "instance_version",
+      "hash": 8529826256463028745,
+      "kind": "Int",
+      "value": 2
+    },
+    {
+      "key": "campaign",
+      "hash": 12536324260443616212,
+      "kind": "List",
+      "value": [
+        {
+          "key": "menu_bag",
+          "hash": 1291201267519770108,
+          "kind": "List",
+          "value": [
+            {
+              "key": "ui_position",
+              "hash": 2569609609292370995,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "ui_position_column",
+                  "hash": 11627997653030084307,
+                  "kind": "Int",
+                  "value": 2
+                },
+                {
+                  "key": "ui_position_row",
+                  "hash": 16933140635952216258,
+                  "kind": "Int",
+                  "value": 1
+                }
+              ]
+            },
+            {
+              "key": "behaviour",
+              "hash": 6059883858523790163,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "auto_exit",
+                  "hash": 1005980504181386172,
+                  "kind": "Boolean",
+                  "value": true
+                },
+                {
+                  "key": "exclusiveness_priority",
+                  "hash": 4667732950001747407,
+                  "kind": "Int",
+                  "value": 0
+                },
+                {
+                  "key": "columns",
+                  "hash": 6675746632178626770,
+                  "kind": "Int",
+                  "value": 4
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "options\\menu\\inline"
+                },
+                {
+                  "key": "rows",
+                  "hash": 17654708713135472749,
+                  "kind": "Int",
+                  "value": 3
+                }
+              ]
+            },
+            {
+              "key": "hotkey_group",
+              "hash": 6768589707426009488,
+              "kind": "CString",
+              "value": "hud_selection_orders"
+            },
+            {
+              "key": "data_template",
+              "hash": 6944384768479536543,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "tables\\ui_info"
+            },
+            {
+              "key": "icon_name",
+              "hash": 7203471124514310600,
+              "kind": "CString",
+              "value": "races\\common\\upgrades\\upgrades"
+            },
+            {
+              "key": "hotkey_name",
+              "hash": 8906936321599725488,
+              "kind": "CString",
+              "value": "access_secondary_ui_panel"
+            },
+            {
+              "key": "tooltip_data_template",
+              "hash": 10732985850218957366,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "requirements",
+              "hash": 11984153124293111571,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "ui_info_extended",
+              "hash": 12797928596585789300,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "relic_radial_menu_info",
+                  "hash": 418199564037331192,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "observer_type",
+                  "hash": 1412325442859986734,
+                  "kind": "Int",
+                  "value": 1
+                },
+                {
+                  "key": "quick_commands_info",
+                  "hash": 5055169763293637906,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "quick_commands_launch_hud_info",
+                  "hash": 6303400528724777763,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": "ui_quick_commands_launch_hud_info"
+                    },
+                    {
+                      "key": "quick_commands_hold_time",
+                      "hash": 9826430096975051297,
+                      "kind": "Int",
+                      "value": 1
+                    },
+                    {
+                      "key": "quick_commands_hotkey",
+                      "hash": 10709685427316977625,
+                      "kind": "CString",
+                      "value": ""
+                    },
+                    {
+                      "key": "quick_commands_priority",
+                      "hash": 10916464437490962360,
+                      "kind": "Int",
+                      "value": -1
+                    },
+                    {
+                      "key": "quick_commands_slot_index",
+                      "hash": 15115408896535643371,
+                      "kind": "Int",
+                      "value": -1
+                    }
+                  ]
+                },
+                {
+                  "key": "issuable_info",
+                  "hash": 6499531308199298699,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "secondary_issuable",
+                      "hash": 4976731445824627946,
+                      "kind": "List2",
+                      "value": [
+                        {
+                          "key": "$PBGNAME",
+                          "hash": 5464984021694833596,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "$PBGMAP",
+                          "hash": 1238668035833122403,
+                          "kind": "CString",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "key": "is_secondary",
+                      "hash": 13814017388298673726,
+                      "kind": "Boolean",
+                      "value": false
+                    }
+                  ]
+                },
+                {
+                  "key": "ping_menu_info",
+                  "hash": 6973376830527721660,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "tables\\ui_info_ext"
+                },
+                {
+                  "key": "quick_abilities_info",
+                  "hash": 7790335697959227400,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "command_card_info",
+                  "hash": 9538607839506212259,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "quick_formation_info",
+                  "hash": 13059243416827263861,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "$REF",
+                      "hash": 6998867517914059163,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "category",
+                  "hash": 16559710094788391263,
+                  "kind": "Int",
+                  "value": 0
+                }
+              ]
+            },
+            {
+              "key": "hotkey_binding",
+              "hash": 18228278308013522726,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 2147483047
+        }
+      ]
+    }
+  ]
+}

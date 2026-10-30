@@ -1,0 +1,13 @@
+{
+  "baseline_version": "0.1.1",
+  "allowed_changed": [
+    "attrib/army/garrison/korea/korea_standard.rgd",
+    "attrib/codex/garrison/korea/korea_codex.rgd",
+    "attrib/racebps/korea.rgd",
+    "en/en.ucs",
+    "garrison/civilizations.json"
+  ],
+  "allowed_added": [],
+  "allowed_removed": [],
+  "scope": "Native Codex/overview/localization/selector UI and validated audio codec replacements only. World gameplay and art remain byte-identical."
+}

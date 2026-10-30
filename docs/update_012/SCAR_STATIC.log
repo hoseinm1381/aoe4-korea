@@ -1,0 +1,30 @@
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\blueprints.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\catalog.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\core.scar
+  WARNING sgroup-lifetime:100: Temporary squad group `group` from `Player_GetSquads` is not visibly destroyed.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\economy.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\effect_catalog.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\effects.scar
+  WARNING unknown-call:134: Call `Squad_GetActiveCommand` is absent from official API/source evidence and local definitions.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\landmarks.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\lifecycle.scar
+  WARNING players-contract: `PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\research.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\research_core.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\ui.scar
+  OK: no static diagnostics
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\korea\initialization.scar
+  WARNING sgroup-lifetime:23: Temporary squad group `squads` from `Player_GetSquads` is not visibly destroyed.
+  Summary: 0 error(s), 1 warning(s)
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\source\scar\garrison\korea\dispatcher.scar
+  OK: no static diagnostics

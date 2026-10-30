@@ -1,0 +1,27 @@
+{
+  "schema": "garrison.codex-reviewed/v1",
+  "unique_units": [
+    "kr_unit_official_1_chi_ha_01",
+    "kr_unit_horseman_2_ayy",
+    "kr_unit_archer_2_ayy",
+    "kr_unit_manatarms_3_chi_ha_01",
+    "kr_unit_repeater_crossbowman_2_chi_ha_01",
+    "kr_unit_nest_of_bees_4_chi_ha_01",
+    "kr_unit_naval_turtle_ship_3_korea",
+    "kr_unit_leader_baibars_ayy"
+  ],
+  "unique_techs": [
+    "kr_chart_a_course_aquarius_2",
+    "kr_upgrade_crossbow_gambesons_cru",
+    "kr_upgrade_crossbow_stirrups_cru",
+    "kr_upgrade_dali_horses_chi_ha_01",
+    "kr_upgrade_library_flaming_charge",
+    "kr_upgrade_longbow_arrow_volley_cru",
+    "kr_upgrade_ranged_longbow_damage_nrm",
+    "kr_upgrade_reliable_supplies_fre",
+    "kr_upgrade_unit_turkic_horse_archer_3_ayy",
+    "kr_upgrade_naval_long_guns_cru"
+  ],
+  "script_builders": [],
+  "bonus_evidence": "Current private EBPS/UPBs and source/scar mechanics, reviewed for 0.1.2. Stable gameplay tables are unchanged."
+}

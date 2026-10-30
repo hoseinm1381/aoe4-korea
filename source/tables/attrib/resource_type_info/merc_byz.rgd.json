@@ -1,0 +1,626 @@
+{
+  "schema": "garrison.native-table/v1",
+  "version": 4,
+  "platform": 1,
+  "chunks": [
+    {
+      "kind": "44415441",
+      "id": "41454744",
+      "version": 3,
+      "name": "",
+      "body": ""
+    },
+    {
+      "kind": "44415441",
+      "id": "4b455953",
+      "version": 1,
+      "name": "",
+      "body": ""
+    }
+  ],
+  "keys": [
+    [
+      8529826256463028745,
+      "instance_version"
+    ],
+    [
+      4430693559278735917,
+      "default"
+    ],
+    [
+      13005689997087892415,
+      "pbgid"
+    ],
+    [
+      6012485037338417193,
+      "resource_type_bag"
+    ],
+    [
+      4166978113282411454,
+      "modifier_types"
+    ],
+    [
+      8609393525019544609,
+      "player_rate"
+    ],
+    [
+      4057430626940600685,
+      "player_upkeep"
+    ],
+    [
+      1338785531686903729,
+      "player_max_cap"
+    ],
+    [
+      15648866260966965912,
+      "entity_cost"
+    ],
+    [
+      1043512888638481764,
+      "entity_contained_amount"
+    ],
+    [
+      13971909354669010463,
+      "entity_harvest_rate"
+    ],
+    [
+      6481776450498306401,
+      "squad_cost"
+    ],
+    [
+      207171126373265506,
+      "squad_rate"
+    ],
+    [
+      5206344769587717283,
+      "upgrade_cost"
+    ],
+    [
+      6764237655778133521,
+      "ability_cost"
+    ],
+    [
+      10372760080886062663,
+      "entity_carry_capacity"
+    ],
+    [
+      16567119610916657910,
+      "entity_drop_off_time"
+    ],
+    [
+      15390508082783293507,
+      "entity_production_cost"
+    ],
+    [
+      883472892974820867,
+      "player_trade_rate"
+    ],
+    [
+      15827226293850335605,
+      "entity_upgrade_production_cost"
+    ],
+    [
+      6164809809794382053,
+      "player_rate_cap"
+    ],
+    [
+      14298491903501331817,
+      "entity_harvest_efficiency"
+    ],
+    [
+      15564515598941341746,
+      "player_min_cap"
+    ],
+    [
+      9370041224943104702,
+      "entity_regrowth_time"
+    ],
+    [
+      13303103370443422685,
+      "entity_rate"
+    ],
+    [
+      9082652323491778846,
+      "entity_drop_off_amount"
+    ],
+    [
+      13843504514809290347,
+      "entity_upkeep_rate"
+    ],
+    [
+      10364256261407594103,
+      "squad_upkeep_rate"
+    ],
+    [
+      14209267907986222334,
+      "lua_enum_string"
+    ],
+    [
+      14139910656393388147,
+      "resource_type"
+    ],
+    [
+      15651105471690605796,
+      "heuristic_weight"
+    ],
+    [
+      17418932639372614002,
+      "ui"
+    ],
+    [
+      407209193152762291,
+      "name"
+    ],
+    [
+      13173160457714390058,
+      "desc"
+    ],
+    [
+      11103728978951913762,
+      "kicker_texture"
+    ],
+    [
+      11806516929700888842,
+      "minimap_icon_texture"
+    ],
+    [
+      3549254349028524346,
+      "resource_point_default_color"
+    ],
+    [
+      15453023588920970285,
+      "icon_primary"
+    ],
+    [
+      13449619076012881273,
+      "icon_insufficient"
+    ],
+    [
+      3768546920618850317,
+      "is_hidden"
+    ],
+    [
+      7141440335528628388,
+      "is_common"
+    ],
+    [
+      750511915951798775,
+      "is_productionCost"
+    ],
+    [
+      16850656374556816850,
+      "is_carryable"
+    ],
+    [
+      16227642733942827224,
+      "overrides"
+    ],
+    [
+      891523862852459925,
+      "item"
+    ],
+    [
+      12047929990474525578,
+      "race"
+    ],
+    [
+      5464984021694833596,
+      "$PBGNAME"
+    ],
+    [
+      1238668035833122403,
+      "$PBGMAP"
+    ],
+    [
+      16000878188207498339,
+      "description"
+    ],
+    [
+      15345583651434096452,
+      "num_workers"
+    ]
+  ],
+  "nodes": [
+    {
+      "key": "default",
+      "hash": 4430693559278735917,
+      "kind": "List",
+      "value": [
+        {
+          "key": "resource_type_bag",
+          "hash": 6012485037338417193,
+          "kind": "List",
+          "value": [
+            {
+              "key": "modifier_types",
+              "hash": 4166978113282411454,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "squad_rate",
+                  "hash": 207171126373265506,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "player_trade_rate",
+                  "hash": 883472892974820867,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_contained_amount",
+                  "hash": 1043512888638481764,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "player_max_cap",
+                  "hash": 1338785531686903729,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "player_upkeep",
+                  "hash": 4057430626940600685,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "upgrade_cost",
+                  "hash": 5206344769587717283,
+                  "kind": "CString",
+                  "value": "upgrade_cost_merc_byz_modifier"
+                },
+                {
+                  "key": "player_rate_cap",
+                  "hash": 6164809809794382053,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "squad_cost",
+                  "hash": 6481776450498306401,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "ability_cost",
+                  "hash": 6764237655778133521,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "player_rate",
+                  "hash": 8609393525019544609,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_drop_off_amount",
+                  "hash": 9082652323491778846,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_regrowth_time",
+                  "hash": 9370041224943104702,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "squad_upkeep_rate",
+                  "hash": 10364256261407594103,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_carry_capacity",
+                  "hash": 10372760080886062663,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_rate",
+                  "hash": 13303103370443422685,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_upkeep_rate",
+                  "hash": 13843504514809290347,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_harvest_rate",
+                  "hash": 13971909354669010463,
+                  "kind": "CString",
+                  "value": "resource_entity_harvest_rate_merc_byz"
+                },
+                {
+                  "key": "entity_harvest_efficiency",
+                  "hash": 14298491903501331817,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_production_cost",
+                  "hash": 15390508082783293507,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "player_min_cap",
+                  "hash": 15564515598941341746,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_cost",
+                  "hash": 15648866260966965912,
+                  "kind": "CString",
+                  "value": "resource_entity_cost_olive_oil"
+                },
+                {
+                  "key": "entity_upgrade_production_cost",
+                  "hash": 15827226293850335605,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "entity_drop_off_time",
+                  "hash": 16567119610916657910,
+                  "kind": "CString",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "resource_type",
+              "hash": 14139910656393388147,
+              "kind": "CString",
+              "value": "merc_byz"
+            },
+            {
+              "key": "lua_enum_string",
+              "hash": 14209267907986222334,
+              "kind": "CString",
+              "value": "RT_Merc_Byz"
+            },
+            {
+              "key": "num_workers",
+              "hash": 15345583651434096452,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "heuristic_weight",
+              "hash": 15651105471690605796,
+              "kind": "Float",
+              "value": 0.0
+            },
+            {
+              "key": "ui",
+              "hash": 17418932639372614002,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "name",
+                  "hash": 407209193152762291,
+                  "kind": "Int",
+                  "value": 11244678
+                },
+                {
+                  "key": "is_productionCost",
+                  "hash": 750511915951798775,
+                  "kind": "Boolean",
+                  "value": true
+                },
+                {
+                  "key": "resource_point_default_color",
+                  "hash": 3549254349028524346,
+                  "kind": "Int",
+                  "value": -11823436
+                },
+                {
+                  "key": "is_hidden",
+                  "hash": 3768546920618850317,
+                  "kind": "Boolean",
+                  "value": false
+                },
+                {
+                  "key": "is_common",
+                  "hash": 7141440335528628388,
+                  "kind": "Boolean",
+                  "value": true
+                },
+                {
+                  "key": "kicker_texture",
+                  "hash": 11103728978951913762,
+                  "kind": "CString",
+                  "value": "resources\\resource_olive_oil"
+                },
+                {
+                  "key": "minimap_icon_texture",
+                  "hash": 11806516929700888842,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "desc",
+                  "hash": 13173160457714390058,
+                  "kind": "Int",
+                  "value": 11244655
+                },
+                {
+                  "key": "icon_insufficient",
+                  "hash": 13449619076012881273,
+                  "kind": "CString",
+                  "value": "resources\\resource_olive_oil_insufficient"
+                },
+                {
+                  "key": "icon_primary",
+                  "hash": 15453023588920970285,
+                  "kind": "CString",
+                  "value": "resources\\resource_olive_oil"
+                },
+                {
+                  "key": "overrides",
+                  "hash": 16227642733942827224,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "item",
+                      "hash": 891523862852459925,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "race",
+                          "hash": 12047929990474525578,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": "byzantine_ha_mac"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": "racebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ui",
+                          "hash": 17418932639372614002,
+                          "kind": "List",
+                          "value": [
+                            {
+                              "key": "name",
+                              "hash": 407209193152762291,
+                              "kind": "Int",
+                              "value": 11270787
+                            },
+                            {
+                              "key": "kicker_texture",
+                              "hash": 11103728978951913762,
+                              "kind": "CString",
+                              "value": "resources\\resource_silver_icon"
+                            },
+                            {
+                              "key": "icon_insufficient",
+                              "hash": 13449619076012881273,
+                              "kind": "CString",
+                              "value": "resources\\resource_silver_icon_insufficient"
+                            },
+                            {
+                              "key": "icon_primary",
+                              "hash": 15453023588920970285,
+                              "kind": "CString",
+                              "value": "resources\\resource_silver_icon"
+                            },
+                            {
+                              "key": "description",
+                              "hash": 16000878188207498339,
+                              "kind": "Int",
+                              "value": 11270788
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "item",
+                      "hash": 891523862852459925,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "race",
+                          "hash": 12047929990474525578,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:korea"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": "racebps"
+                            }
+                          ]
+                        },
+                        {
+                          "key": "ui",
+                          "hash": 17418932639372614002,
+                          "kind": "List",
+                          "value": [
+                            {
+                              "key": "name",
+                              "hash": 407209193152762291,
+                              "kind": "LocString",
+                              "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:11993"
+                            },
+                            {
+                              "key": "kicker_texture",
+                              "hash": 11103728978951913762,
+                              "kind": "CString",
+                              "value": "korea\\bookicon"
+                            },
+                            {
+                              "key": "icon_insufficient",
+                              "hash": 13449619076012881273,
+                              "kind": "CString",
+                              "value": "korea\\book_unavailable"
+                            },
+                            {
+                              "key": "icon_primary",
+                              "hash": 15453023588920970285,
+                              "kind": "CString",
+                              "value": "korea\\bookicon"
+                            },
+                            {
+                              "key": "description",
+                              "hash": 16000878188207498339,
+                              "kind": "LocString",
+                              "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:11994"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "is_carryable",
+                  "hash": 16850656374556816850,
+                  "kind": "Boolean",
+                  "value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 2117401
+        }
+      ]
+    },
+    {
+      "key": "instance_version",
+      "hash": 8529826256463028745,
+      "kind": "Int",
+      "value": 2
+    }
+  ]
+}

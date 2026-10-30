@@ -1,0 +1,332 @@
+{
+  "ui/icons/korea/arrowchuteicon.rrtex": {
+    "toc": "data",
+    "bytes": 4188,
+    "sha256": "f01214eb13a5a30ca92423e84069f72ce57854af06c701a82d6583969af6ebbf",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/book_unavailable.rrtex": {
+    "toc": "data",
+    "bytes": 3294,
+    "sha256": "16bd9af93710903b02ea0981f3b018d42a235e9e9e4c853743a8a480c1f71c24",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/bookicon.rrtex": {
+    "toc": "data",
+    "bytes": 2930,
+    "sha256": "915c5522a3f72069567432b6e255503c826416ab66987412850279ec16171f2b",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/bulgulksatemple.rrtex": {
+    "toc": "data",
+    "bytes": 5474,
+    "sha256": "c0ad6063bd8e84fa27a4479ca53b90b1949810a10687a6a4141481e208913faf",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/chongtongicon.rrtex": {
+    "toc": "data",
+    "bytes": 3703,
+    "sha256": "4451d29b10040ec46647aec8f13aa43e2b52a7b05cac00928c186d9453836767",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/dangpatridenticon.rrtex": {
+    "toc": "data",
+    "bytes": 2551,
+    "sha256": "3b683f6425165a8a23f36dbf08d82ed328a985c11830870c50c5fd6b973ee78b",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/explosivearrowsicon.rrtex": {
+    "toc": "data",
+    "bytes": 3181,
+    "sha256": "4de2be91b5a28e884948dada0bd0d7e36311b50cbaa4c837b8fdc714dcba78aa",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/gapsaicon.rrtex": {
+    "toc": "data",
+    "bytes": 5326,
+    "sha256": "04b7455957590ca5ce4730b17f95e8510a568739bcc40e3b841633baf695afad",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/gapsaicon4.rrtex": {
+    "toc": "data",
+    "bytes": 5345,
+    "sha256": "53c97871639d93add2dd1f46e5f4c228f1831e0445af5ee82953ebf4d1e378ce",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/gyeongbokpalace.rrtex": {
+    "toc": "data",
+    "bytes": 5275,
+    "sha256": "783df4a2789b1a94bcde4dfeaff71b4110b7a77fa0c448ed42e73b3e415eb23c",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/hallofworthies.rrtex": {
+    "toc": "data",
+    "bytes": 4643,
+    "sha256": "c9fa6f94db47bd103a794bf9ffacfc1e90aa9a88ad7821e773f759c9acc2e5c8",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/hangulicon.rrtex": {
+    "toc": "data",
+    "bytes": 3833,
+    "sha256": "6d8120a523fc25e93c33ddc8a9bd46d9180cb6b5d2d4bc26bd543b4a9fc2c18a",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/hwacha.rrtex": {
+    "toc": "data",
+    "bytes": 4696,
+    "sha256": "234b63dc4e042da6deccb0a8bc05bb3bb5fed9966534d741e77e55ea17817a29",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/hwacha_3.rrtex": {
+    "toc": "data",
+    "bytes": 4038,
+    "sha256": "1e86e6159783e71768b2afaed26a4cf15e46f43a8603b7183fc3d849072a5f29",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/hwarangicon2.rrtex": {
+    "toc": "data",
+    "bytes": 6450,
+    "sha256": "80b31b6d62d6bd28c0465d4b681c0b7bf1bf6588e0d62efbfc8e9c68805e3c05",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/hwarangicon3.rrtex": {
+    "toc": "data",
+    "bytes": 6460,
+    "sha256": "906e42bc4b7bfc44e309eee3c37ef2d1c097789ccbce0a07aeb61972d2f3890f",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/hwarangicon4.rrtex": {
+    "toc": "data",
+    "bytes": 6477,
+    "sha256": "8a555951813429c706acacfddd588c9213a4606d9651b30348d6d770bd1a1afa",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/ironflailicon.rrtex": {
+    "toc": "data",
+    "bytes": 2883,
+    "sha256": "8668cffef9551d6180f8f285937f3ba720b4169bef9b587d5d42f528c8a365e8",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/jinjufortress.rrtex": {
+    "toc": "data",
+    "bytes": 5818,
+    "sha256": "7b0e181c267d9505f88c859aeac53c6d8b7d773c1421f5c25128d9d690274a36",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/koreancover.rrtex": {
+    "toc": "data",
+    "bytes": 1700011,
+    "sha256": "279b863dab6bf5f810e14e71c7bfe0e907334fef8a7965187b0129e8f05c1748",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/koreans_2.rrtex": {
+    "toc": "data",
+    "bytes": 25059,
+    "sha256": "6d467b98e935c7b6925a6ab4ce03eca1da2ae4b282eab878bfd453d4d1305595",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/koreanwonder.rrtex": {
+    "toc": "data",
+    "bytes": 4530,
+    "sha256": "991acb27d9a4bb0224bc483adf421fda4f3e49c1f0eeba6b9c2daed021b967af",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/main_icon.rrtex": {
+    "toc": "data",
+    "bytes": 33465,
+    "sha256": "88cb8184fe3524e7a1d9a14064489f2cf16344a5835e9f9ac600668541507b21",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/mountainfortress.rrtex": {
+    "toc": "data",
+    "bytes": 5653,
+    "sha256": "44429e4db1efbd894b657fdc314b1b89be4e31ea90b15b1e791f6ddd8b51855f",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/seonbischolaricon.rrtex": {
+    "toc": "data",
+    "bytes": 5468,
+    "sha256": "e8580cf54d0068262c4b854266f872cf16336a4cf145015f85b299ad2694ff58",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/seondeokobservatoryicon.rrtex": {
+    "toc": "data",
+    "bytes": 4738,
+    "sha256": "aaae9ff2def70b1910b56a181aa45b6c31d84176eeb13c595b6d68194c43f8f5",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/seowon.rrtex": {
+    "toc": "data",
+    "bytes": 4930,
+    "sha256": "2f3ee7d6456b026e0de90d42e4beb702d3d309b27c5ce24124a0263f49a85c55",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/seowon_new.rrtex": {
+    "toc": "data",
+    "bytes": 4898,
+    "sha256": "aa2e532158dbcc1c40182c148914e115b721b9262412e3a408fab069daa02030",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/stonepagodaicon.rrtex": {
+    "toc": "data",
+    "bytes": 4470,
+    "sha256": "4febc9415b5cf3eb0430690aa2d5e886cefe6e6225628bde6570f35ee980b442",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/tigerhuntericon2.rrtex": {
+    "toc": "data",
+    "bytes": 5169,
+    "sha256": "49b82281fe40453e929d91ceec1f284ae1b77d1cc560c7a037fcdc68bbaeb47c",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/tigerhuntericon3.rrtex": {
+    "toc": "data",
+    "bytes": 5171,
+    "sha256": "611abd92a42ad379bc79d4765091fa3b39d3b92695e4e389a5cbe04dc8ffa320",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/tigerhuntericon4.rrtex": {
+    "toc": "data",
+    "bytes": 5197,
+    "sha256": "bd3364802cd38a76b560fbf44d9f2b1a52426e0aecbdd3f8dfe88a6c7d16cca9",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/icons/korea/warriorpoets.rrtex": {
+    "toc": "data",
+    "bytes": 4088,
+    "sha256": "af7e20236bb8dd0d68c4209880566af2094df5acf23867ff213cd971ed4287f8",
+    "origin": "accepted-combined-1.1.0"
+  },
+  "ui/images/garrison/korea/presentation/flag_background.rrtex": {
+    "toc": "data",
+    "bytes": 204367,
+    "sha256": "e76e0e942043eadc092f73e68e1eb5ce60557725cda853d73e520009476d6f31",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_fade.rrtex": {
+    "toc": "data",
+    "bytes": 7291,
+    "sha256": "589666e2d00306d5a1bd8c26aab10a225b09a893a69c90c603c153562b90ae2d",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_list.rrtex": {
+    "toc": "data",
+    "bytes": 3250,
+    "sha256": "230b678e83b301290cf9adca2b7a3c50a71db5d3cfb0844e8b83b9f3f2b4bfaa",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_list_small.rrtex": {
+    "toc": "data",
+    "bytes": 1449,
+    "sha256": "4f487c43e4193de982a0ee269e7d30cdee47bf74f7d8cff0d98a4dd6087149ce",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_loading.rrtex": {
+    "toc": "data",
+    "bytes": 204364,
+    "sha256": "17a690f9d734e3c4faf8992cbf2f22a18c5107b7c7c44b3192efcbf56832cacb",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_mastery.rrtex": {
+    "toc": "data",
+    "bytes": 72944,
+    "sha256": "17c03dcafa72ec7b516a87a77d1cd617c9d49008036d544f8ed2363cc7d60171",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_pattern.rrtex": {
+    "toc": "data",
+    "bytes": 39441,
+    "sha256": "045a4d3aee23f72bd25ac7039e0d98d5281f39e9f91d78e00290357ce541fd6a",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_secondary.rrtex": {
+    "toc": "data",
+    "bytes": 18056,
+    "sha256": "19043fa1f407447fab642cd1d6163f35cbf465505d1bf8c98e541c543e6eb82d",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_secondary_small.rrtex": {
+    "toc": "data",
+    "bytes": 8574,
+    "sha256": "ab7891ad373bf42b6fd0f817b1ab2f17c9aa350e887e62d5e4b60144ae821e8a",
+    "origin": "new-owned-carrier"
+  },
+  "ui/images/garrison/korea/presentation/flag_tile.rrtex": {
+    "toc": "data",
+    "bytes": 65212,
+    "sha256": "1e8c9e6709e0d8ce0858f6dee396be268cabad166713f0cfce86ee0ee34a1d8f",
+    "origin": "new-owned-carrier"
+  },
+  "mod.bin": {
+    "toc": "info",
+    "bytes": 1761,
+    "sha256": "010eaa548a4c8cee5eebad1181535bcbc31997a3bfa9df425baad9ba587ff8af",
+    "origin": "new-owned-carrier"
+  },
+  "mod.rrtex": {
+    "toc": "info",
+    "bytes": 406,
+    "sha256": "88b2691efdb66882b906ce7538497946532f0c5ad206bd0bf83b2379ff82ca15",
+    "origin": "new-owned-carrier"
+  },
+  "ui/icons/garrison/korea/presentation/flag_list_small.rrtex": {
+    "toc": "data",
+    "bytes": 1449,
+    "sha256": "4f487c43e4193de982a0ee269e7d30cdee47bf74f7d8cff0d98a4dd6087149ce",
+    "origin": "native image alias for trait icon root"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_list.rrtex": {
+    "toc": "data",
+    "bytes": 1754,
+    "sha256": "c56b89a682c7fe72ce2b67efc51e16bd6c5e971a5a3e13f4345e908b8a596543",
+    "origin": "Native 0.1.1 UI recook"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_list_small.rrtex": {
+    "toc": "data",
+    "bytes": 893,
+    "sha256": "0703cd1cac5ae29627dbf4001d6cb44b21fb6147c5c8ecfd5e623e6d35641cda",
+    "origin": "Native 0.1.1 UI recook"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_secondary.rrtex": {
+    "toc": "data",
+    "bytes": 11512,
+    "sha256": "ab5f1d8704319593315ff30afde7c52eef77b2a88f21a79fd0d293464dcd215e",
+    "origin": "Native 0.1.1 UI recook"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_secondary_small.rrtex": {
+    "toc": "data",
+    "bytes": 4837,
+    "sha256": "6f86ae582585d57ae55453e7904ae49dbfa7a0549672cbd3d7b90fd932ebe9d7",
+    "origin": "Native 0.1.1 UI recook"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_fade.rrtex": {
+    "toc": "data",
+    "bytes": 4570,
+    "sha256": "e1854d076f1901620df03e2d0f6835dc773140925a8e7e72af30dd57fb0758c5",
+    "origin": "Native 0.1.1 UI recook"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_loading.rrtex": {
+    "toc": "data",
+    "bytes": 158066,
+    "sha256": "f3d24c9a2ce19c5c898c1cfa56c2a9b57ec98969c6a32461155bd8974e7b1ace",
+    "origin": "Native 0.1.1 UI recook"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_pattern.rrtex": {
+    "toc": "data",
+    "bytes": 28015,
+    "sha256": "d2a11118dd34c0de6ff4cff5d51dbadfe4e6dbb9d3c331b70f60f0eb59d9b96c",
+    "origin": "Native 0.1.1 UI recook"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_tile.rrtex": {
+    "toc": "data",
+    "bytes": 34368,
+    "sha256": "bded2bb3190ca305a2ff73e6031744acb386c99b3d1bdd0fede73408e8186a30",
+    "origin": "Native 0.1.1 UI recook"
+  },
+  "ui/images/garrison/korea/presentation_011/flag_mastery.rrtex": {
+    "toc": "data",
+    "bytes": 30189,
+    "sha256": "31c47a320d7d8dd67a67c30c6319ef5a35e7efe4d47942b806d959086bc69b85",
+    "origin": "Native 0.1.1 UI recook"
+  }
+}

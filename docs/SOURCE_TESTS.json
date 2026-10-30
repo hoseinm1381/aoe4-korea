@@ -1,0 +1,8 @@
+{
+  "version": "0.1.2",
+  "tests": 18,
+  "passed": true,
+  "scope": "Actual tested native Codex regression, research age/header/icon layout, owned overview lists, flag fallback, both native views, UI-only source changes, preserved gameplay/media/schema/start, and exact audio-only SCAR substitutions.",
+  "static_validator": "passed",
+  "native_game_test": "pending"
+}

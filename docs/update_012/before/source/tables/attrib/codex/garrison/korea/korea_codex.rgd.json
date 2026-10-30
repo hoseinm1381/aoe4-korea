@@ -1,0 +1,1403 @@
+{
+  "schema": "garrison.native-table/v1",
+  "version": 4,
+  "platform": 1,
+  "chunks": [
+    {
+      "kind": "44415441",
+      "id": "41454744",
+      "version": 3,
+      "name": "",
+      "body": ""
+    },
+    {
+      "kind": "44415441",
+      "id": "4b455953",
+      "version": 1,
+      "name": "",
+      "body": ""
+    }
+  ],
+  "keys": [
+    [
+      8529826256463028745,
+      "instance_version"
+    ],
+    [
+      4430693559278735917,
+      "default"
+    ],
+    [
+      13005689997087892415,
+      "pbgid"
+    ],
+    [
+      17267419819144943731,
+      "codex_bag"
+    ],
+    [
+      8670169076303329116,
+      "root_item"
+    ],
+    [
+      910591044068032828,
+      "model_type"
+    ],
+    [
+      16164076759358946812,
+      "pbg"
+    ],
+    [
+      5464984021694833596,
+      "$PBGNAME"
+    ],
+    [
+      1238668035833122403,
+      "$PBGMAP"
+    ],
+    [
+      12528127969626336146,
+      "children"
+    ],
+    [
+      11478075221874936028,
+      "codex_item_default"
+    ],
+    [
+      5195343093789358946,
+      "codex_item_container"
+    ],
+    [
+      3990676116315761960,
+      "ui_codex_info"
+    ],
+    [
+      2569609609292370995,
+      "ui_position"
+    ],
+    [
+      11627997653030084307,
+      "ui_position_column"
+    ],
+    [
+      16933140635952216258,
+      "ui_position_row"
+    ],
+    [
+      8249342442429208318,
+      "is_connector_visible"
+    ],
+    [
+      3706601655199670163,
+      "priority"
+    ],
+    [
+      6998867517914059163,
+      "$REF"
+    ],
+    [
+      6428669997485224280,
+      "unique_units"
+    ],
+    [
+      14917087696313371197,
+      "unique_techs"
+    ],
+    [
+      8611377963867220461,
+      "tech_tree"
+    ],
+    [
+      13760894482427081831,
+      "group"
+    ],
+    [
+      1074026605013007683,
+      "items"
+    ],
+    [
+      3509536125197694834,
+      "tech_tree_item"
+    ],
+    [
+      4567820370496894843,
+      "top_line_length"
+    ],
+    [
+      662422830909267380,
+      "left_branch_length"
+    ],
+    [
+      10090445694321652979,
+      "right_branch_length"
+    ],
+    [
+      13125466323801989164,
+      "x_position"
+    ],
+    [
+      16568627111818451631,
+      "y_position"
+    ],
+    [
+      17285589515027571339,
+      "upgrade_pbg"
+    ],
+    [
+      2328177384021122683,
+      "background_height"
+    ],
+    [
+      5955964121976568472,
+      "background_template"
+    ],
+    [
+      1314859031858793748,
+      "special_items"
+    ],
+    [
+      16101402647946736686,
+      "has_unique_panel"
+    ],
+    [
+      6540172686672827147,
+      "landmark_count"
+    ],
+    [
+      12536324260443616212,
+      "campaign"
+    ]
+  ],
+  "nodes": [
+    {
+      "key": "default",
+      "hash": 4430693559278735917,
+      "kind": "List",
+      "value": [
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 37219533
+        },
+        {
+          "key": "codex_bag",
+          "hash": 17267419819144943731,
+          "kind": "List",
+          "value": [
+            {
+              "key": "special_items",
+              "hash": 1314859031858793748,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "unique_units",
+              "hash": 6428669997485224280,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "landmark_count",
+              "hash": 6540172686672827147,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "tech_tree",
+              "hash": 8611377963867220461,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "group",
+                  "hash": 13760894482427081831,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "items",
+                      "hash": 1074026605013007683,
+                      "kind": "List2",
+                      "value": [
+                        {
+                          "key": "tech_tree_item",
+                          "hash": 3509536125197694834,
+                          "kind": "List",
+                          "value": [
+                            {
+                              "key": "left_branch_length",
+                              "hash": 662422830909267380,
+                              "kind": "Int",
+                              "value": 2
+                            },
+                            {
+                              "key": "top_line_length",
+                              "hash": 4567820370496894843,
+                              "kind": "Int",
+                              "value": 0
+                            },
+                            {
+                              "key": "$REF",
+                              "hash": 6998867517914059163,
+                              "kind": "CString",
+                              "value": "codex_item\\tech_tree_item"
+                            },
+                            {
+                              "key": "right_branch_length",
+                              "hash": 10090445694321652979,
+                              "kind": "Int",
+                              "value": 2
+                            },
+                            {
+                              "key": "x_position",
+                              "hash": 13125466323801989164,
+                              "kind": "Int",
+                              "value": 0
+                            },
+                            {
+                              "key": "pbg",
+                              "hash": 16164076759358946812,
+                              "kind": "List2",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "hash": 5464984021694833596,
+                                  "kind": "CString",
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_town_center_capital_chi_ha_01"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "hash": 1238668035833122403,
+                                  "kind": "CString",
+                                  "value": "ebps"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "y_position",
+                              "hash": 16568627111818451631,
+                              "kind": "Int",
+                              "value": 0
+                            },
+                            {
+                              "key": "upgrade_pbg",
+                              "hash": 17285589515027571339,
+                              "kind": "List2",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "hash": 5464984021694833596,
+                                  "kind": "CString",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "hash": 1238668035833122403,
+                                  "kind": "CString",
+                                  "value": ""
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "tech_tree_item",
+                          "hash": 3509536125197694834,
+                          "kind": "List",
+                          "value": [
+                            {
+                              "key": "left_branch_length",
+                              "hash": 662422830909267380,
+                              "kind": "Int",
+                              "value": 0
+                            },
+                            {
+                              "key": "top_line_length",
+                              "hash": 4567820370496894843,
+                              "kind": "Int",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "hash": 6998867517914059163,
+                              "kind": "CString",
+                              "value": "codex_item\\tech_tree_item"
+                            },
+                            {
+                              "key": "right_branch_length",
+                              "hash": 10090445694321652979,
+                              "kind": "Int",
+                              "value": 0
+                            },
+                            {
+                              "key": "x_position",
+                              "hash": 13125466323801989164,
+                              "kind": "Int",
+                              "value": -2
+                            },
+                            {
+                              "key": "pbg",
+                              "hash": 16164076759358946812,
+                              "kind": "List2",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "hash": 5464984021694833596,
+                                  "kind": "CString",
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "hash": 1238668035833122403,
+                                  "kind": "CString",
+                                  "value": "sbps"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "y_position",
+                              "hash": 16568627111818451631,
+                              "kind": "Int",
+                              "value": 1
+                            },
+                            {
+                              "key": "upgrade_pbg",
+                              "hash": 17285589515027571339,
+                              "kind": "List2",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "hash": 5464984021694833596,
+                                  "kind": "CString",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "hash": 1238668035833122403,
+                                  "kind": "CString",
+                                  "value": ""
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "tech_tree_item",
+                          "hash": 3509536125197694834,
+                          "kind": "List",
+                          "value": [
+                            {
+                              "key": "left_branch_length",
+                              "hash": 662422830909267380,
+                              "kind": "Int",
+                              "value": 0
+                            },
+                            {
+                              "key": "top_line_length",
+                              "hash": 4567820370496894843,
+                              "kind": "Int",
+                              "value": 1
+                            },
+                            {
+                              "key": "$REF",
+                              "hash": 6998867517914059163,
+                              "kind": "CString",
+                              "value": "codex_item\\tech_tree_item"
+                            },
+                            {
+                              "key": "right_branch_length",
+                              "hash": 10090445694321652979,
+                              "kind": "Int",
+                              "value": 0
+                            },
+                            {
+                              "key": "x_position",
+                              "hash": 13125466323801989164,
+                              "kind": "Int",
+                              "value": 0
+                            },
+                            {
+                              "key": "pbg",
+                              "hash": 16164076759358946812,
+                              "kind": "List2",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "hash": 5464984021694833596,
+                                  "kind": "CString",
+                                  "value": "unit_scout_1_chi"
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "hash": 1238668035833122403,
+                                  "kind": "CString",
+                                  "value": "sbps"
+                                }
+                              ]
+                            },
+                            {
+                              "key": "y_position",
+                              "hash": 16568627111818451631,
+                              "kind": "Int",
+                              "value": 1
+                            },
+                            {
+                              "key": "upgrade_pbg",
+                              "hash": 17285589515027571339,
+                              "kind": "List2",
+                              "value": [
+                                {
+                                  "key": "$PBGNAME",
+                                  "hash": 5464984021694833596,
+                                  "kind": "CString",
+                                  "value": ""
+                                },
+                                {
+                                  "key": "$PBGMAP",
+                                  "hash": 1238668035833122403,
+                                  "kind": "CString",
+                                  "value": ""
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "background_height",
+                      "hash": 2328177384021122683,
+                      "kind": "Int",
+                      "value": 11
+                    },
+                    {
+                      "key": "background_template",
+                      "hash": 5955964121976568472,
+                      "kind": "CString",
+                      "value": "center"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "root_item",
+              "hash": 8670169076303329116,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "model_type",
+                  "hash": 910591044068032828,
+                  "kind": "CString",
+                  "value": "CardinalEngineerCodexItemModel"
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "codex_item\\codex_item_custom_model"
+                },
+                {
+                  "key": "children",
+                  "hash": 12528127969626336146,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "codex_item_default",
+                      "hash": 11478075221874936028,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "ui_codex_info",
+                          "hash": 3990676116315761960,
+                          "kind": "List",
+                          "value": [
+                            {
+                              "key": "ui_position",
+                              "hash": 2569609609292370995,
+                              "kind": "List",
+                              "value": [
+                                {
+                                  "key": "ui_position_column",
+                                  "hash": 11627997653030084307,
+                                  "kind": "Int",
+                                  "value": 1
+                                },
+                                {
+                                  "key": "ui_position_row",
+                                  "hash": 16933140635952216258,
+                                  "kind": "Int",
+                                  "value": -1
+                                }
+                              ]
+                            },
+                            {
+                              "key": "priority",
+                              "hash": 3706601655199670163,
+                              "kind": "Int",
+                              "value": 4850
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "hash": 6998867517914059163,
+                          "kind": "CString",
+                          "value": "codex_item\\codex_item_default"
+                        },
+                        {
+                          "key": "children",
+                          "hash": 12528127969626336146,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "codex_item_container",
+                              "hash": 5195343093789358946,
+                              "kind": "List",
+                              "value": [
+                                {
+                                  "key": "ui_codex_info",
+                                  "hash": 3990676116315761960,
+                                  "kind": "List",
+                                  "value": [
+                                    {
+                                      "key": "ui_position",
+                                      "hash": 2569609609292370995,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_position_column",
+                                          "hash": 11627997653030084307,
+                                          "kind": "Int",
+                                          "value": -1
+                                        },
+                                        {
+                                          "key": "ui_position_row",
+                                          "hash": 16933140635952216258,
+                                          "kind": "Int",
+                                          "value": -1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "is_connector_visible",
+                                      "hash": 8249342442429208318,
+                                      "kind": "Boolean",
+                                      "value": true
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "hash": 6998867517914059163,
+                                  "kind": "CString",
+                                  "value": "codex_item\\codex_item_container"
+                                },
+                                {
+                                  "key": "children",
+                                  "hash": 12528127969626336146,
+                                  "kind": "List2",
+                                  "value": [
+                                    {
+                                      "key": "codex_item_default",
+                                      "hash": 11478075221874936028,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_codex_info",
+                                          "hash": 3990676116315761960,
+                                          "kind": "List",
+                                          "value": [
+                                            {
+                                              "key": "ui_position",
+                                              "hash": 2569609609292370995,
+                                              "kind": "List",
+                                              "value": [
+                                                {
+                                                  "key": "ui_position_column",
+                                                  "hash": 11627997653030084307,
+                                                  "kind": "Int",
+                                                  "value": 1
+                                                },
+                                                {
+                                                  "key": "ui_position_row",
+                                                  "hash": 16933140635952216258,
+                                                  "kind": "Int",
+                                                  "value": -1
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "priority",
+                                              "hash": 3706601655199670163,
+                                              "kind": "Int",
+                                              "value": 0
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "hash": 6998867517914059163,
+                                          "kind": "CString",
+                                          "value": "codex_item\\codex_item_default"
+                                        },
+                                        {
+                                          "key": "children",
+                                          "hash": 12528127969626336146,
+                                          "kind": "List2",
+                                          "value": []
+                                        },
+                                        {
+                                          "key": "pbg",
+                                          "hash": 16164076759358946812,
+                                          "kind": "List2",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "hash": 5464984021694833596,
+                                              "kind": "CString",
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "hash": 1238668035833122403,
+                                              "kind": "CString",
+                                              "value": "sbps"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "codex_item_container",
+                              "hash": 5195343093789358946,
+                              "kind": "List",
+                              "value": [
+                                {
+                                  "key": "ui_codex_info",
+                                  "hash": 3990676116315761960,
+                                  "kind": "List",
+                                  "value": [
+                                    {
+                                      "key": "ui_position",
+                                      "hash": 2569609609292370995,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_position_column",
+                                          "hash": 11627997653030084307,
+                                          "kind": "Int",
+                                          "value": -1
+                                        },
+                                        {
+                                          "key": "ui_position_row",
+                                          "hash": 16933140635952216258,
+                                          "kind": "Int",
+                                          "value": -1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "is_connector_visible",
+                                      "hash": 8249342442429208318,
+                                      "kind": "Boolean",
+                                      "value": true
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "hash": 6998867517914059163,
+                                  "kind": "CString",
+                                  "value": "codex_item\\codex_item_container"
+                                },
+                                {
+                                  "key": "children",
+                                  "hash": 12528127969626336146,
+                                  "kind": "List2",
+                                  "value": [
+                                    {
+                                      "key": "codex_item_default",
+                                      "hash": 11478075221874936028,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_codex_info",
+                                          "hash": 3990676116315761960,
+                                          "kind": "List",
+                                          "value": [
+                                            {
+                                              "key": "ui_position",
+                                              "hash": 2569609609292370995,
+                                              "kind": "List",
+                                              "value": [
+                                                {
+                                                  "key": "ui_position_column",
+                                                  "hash": 11627997653030084307,
+                                                  "kind": "Int",
+                                                  "value": 1
+                                                },
+                                                {
+                                                  "key": "ui_position_row",
+                                                  "hash": 16933140635952216258,
+                                                  "kind": "Int",
+                                                  "value": -1
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "priority",
+                                              "hash": 3706601655199670163,
+                                              "kind": "Int",
+                                              "value": 0
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "hash": 6998867517914059163,
+                                          "kind": "CString",
+                                          "value": "codex_item\\codex_item_default"
+                                        },
+                                        {
+                                          "key": "children",
+                                          "hash": 12528127969626336146,
+                                          "kind": "List2",
+                                          "value": []
+                                        },
+                                        {
+                                          "key": "pbg",
+                                          "hash": 16164076759358946812,
+                                          "kind": "List2",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "hash": 5464984021694833596,
+                                              "kind": "CString",
+                                              "value": "unit_scout_1_chi"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "hash": 1238668035833122403,
+                                              "kind": "CString",
+                                              "value": "sbps"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "codex_item_container",
+                              "hash": 5195343093789358946,
+                              "kind": "List",
+                              "value": [
+                                {
+                                  "key": "ui_codex_info",
+                                  "hash": 3990676116315761960,
+                                  "kind": "List",
+                                  "value": [
+                                    {
+                                      "key": "ui_position",
+                                      "hash": 2569609609292370995,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_position_column",
+                                          "hash": 11627997653030084307,
+                                          "kind": "Int",
+                                          "value": -1
+                                        },
+                                        {
+                                          "key": "ui_position_row",
+                                          "hash": 16933140635952216258,
+                                          "kind": "Int",
+                                          "value": -1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "is_connector_visible",
+                                      "hash": 8249342442429208318,
+                                      "kind": "Boolean",
+                                      "value": true
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "hash": 6998867517914059163,
+                                  "kind": "CString",
+                                  "value": "codex_item\\codex_item_container"
+                                },
+                                {
+                                  "key": "children",
+                                  "hash": 12528127969626336146,
+                                  "kind": "List2",
+                                  "value": [
+                                    {
+                                      "key": "codex_item_default",
+                                      "hash": 11478075221874936028,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_codex_info",
+                                          "hash": 3990676116315761960,
+                                          "kind": "List",
+                                          "value": [
+                                            {
+                                              "key": "ui_position",
+                                              "hash": 2569609609292370995,
+                                              "kind": "List",
+                                              "value": [
+                                                {
+                                                  "key": "ui_position_column",
+                                                  "hash": 11627997653030084307,
+                                                  "kind": "Int",
+                                                  "value": 1
+                                                },
+                                                {
+                                                  "key": "ui_position_row",
+                                                  "hash": 16933140635952216258,
+                                                  "kind": "Int",
+                                                  "value": -1
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "priority",
+                                              "hash": 3706601655199670163,
+                                              "kind": "Int",
+                                              "value": 0
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "hash": 6998867517914059163,
+                                          "kind": "CString",
+                                          "value": "codex_item\\codex_item_default"
+                                        },
+                                        {
+                                          "key": "children",
+                                          "hash": 12528127969626336146,
+                                          "kind": "List2",
+                                          "value": []
+                                        },
+                                        {
+                                          "key": "pbg",
+                                          "hash": 16164076759358946812,
+                                          "kind": "List2",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "hash": 5464984021694833596,
+                                              "kind": "CString",
+                                              "value": "upgrade_villager_health"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "hash": 1238668035833122403,
+                                              "kind": "CString",
+                                              "value": "upgrade"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "pbg",
+                          "hash": 16164076759358946812,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_town_center_capital_chi_ha_01"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pbg",
+                  "hash": 16164076759358946812,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "unique_techs",
+              "hash": 14917087696313371197,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "has_unique_panel",
+              "hash": 16101402647946736686,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "instance_version",
+      "hash": 8529826256463028745,
+      "kind": "Int",
+      "value": 2
+    },
+    {
+      "key": "campaign",
+      "hash": 12536324260443616212,
+      "kind": "List",
+      "value": [
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 37219533
+        },
+        {
+          "key": "codex_bag",
+          "hash": 17267419819144943731,
+          "kind": "List",
+          "value": [
+            {
+              "key": "special_items",
+              "hash": 1314859031858793748,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "unique_units",
+              "hash": 6428669997485224280,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "landmark_count",
+              "hash": 6540172686672827147,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "tech_tree",
+              "hash": 8611377963867220461,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "root_item",
+              "hash": 8670169076303329116,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "model_type",
+                  "hash": 910591044068032828,
+                  "kind": "CString",
+                  "value": "CardinalEngineerCodexItemModel"
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "codex_item\\codex_item_custom_model"
+                },
+                {
+                  "key": "children",
+                  "hash": 12528127969626336146,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "codex_item_default",
+                      "hash": 11478075221874936028,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "ui_codex_info",
+                          "hash": 3990676116315761960,
+                          "kind": "List",
+                          "value": [
+                            {
+                              "key": "ui_position",
+                              "hash": 2569609609292370995,
+                              "kind": "List",
+                              "value": [
+                                {
+                                  "key": "ui_position_column",
+                                  "hash": 11627997653030084307,
+                                  "kind": "Int",
+                                  "value": 1
+                                },
+                                {
+                                  "key": "ui_position_row",
+                                  "hash": 16933140635952216258,
+                                  "kind": "Int",
+                                  "value": -1
+                                }
+                              ]
+                            },
+                            {
+                              "key": "priority",
+                              "hash": 3706601655199670163,
+                              "kind": "Int",
+                              "value": 5900
+                            }
+                          ]
+                        },
+                        {
+                          "key": "$REF",
+                          "hash": 6998867517914059163,
+                          "kind": "CString",
+                          "value": "codex_item\\codex_item_default"
+                        },
+                        {
+                          "key": "children",
+                          "hash": 12528127969626336146,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "codex_item_container",
+                              "hash": 5195343093789358946,
+                              "kind": "List",
+                              "value": [
+                                {
+                                  "key": "ui_codex_info",
+                                  "hash": 3990676116315761960,
+                                  "kind": "List",
+                                  "value": [
+                                    {
+                                      "key": "ui_position",
+                                      "hash": 2569609609292370995,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_position_column",
+                                          "hash": 11627997653030084307,
+                                          "kind": "Int",
+                                          "value": 1
+                                        },
+                                        {
+                                          "key": "ui_position_row",
+                                          "hash": 16933140635952216258,
+                                          "kind": "Int",
+                                          "value": -1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "is_connector_visible",
+                                      "hash": 8249342442429208318,
+                                      "kind": "Boolean",
+                                      "value": true
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "hash": 6998867517914059163,
+                                  "kind": "CString",
+                                  "value": "codex_item\\codex_item_container"
+                                },
+                                {
+                                  "key": "children",
+                                  "hash": 12528127969626336146,
+                                  "kind": "List2",
+                                  "value": [
+                                    {
+                                      "key": "codex_item_default",
+                                      "hash": 11478075221874936028,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_codex_info",
+                                          "hash": 3990676116315761960,
+                                          "kind": "List",
+                                          "value": [
+                                            {
+                                              "key": "ui_position",
+                                              "hash": 2569609609292370995,
+                                              "kind": "List",
+                                              "value": [
+                                                {
+                                                  "key": "ui_position_column",
+                                                  "hash": 11627997653030084307,
+                                                  "kind": "Int",
+                                                  "value": 1
+                                                },
+                                                {
+                                                  "key": "ui_position_row",
+                                                  "hash": 16933140635952216258,
+                                                  "kind": "Int",
+                                                  "value": -1
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "priority",
+                                              "hash": 3706601655199670163,
+                                              "kind": "Int",
+                                              "value": 0
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "hash": 6998867517914059163,
+                                          "kind": "CString",
+                                          "value": "codex_item\\codex_item_default"
+                                        },
+                                        {
+                                          "key": "children",
+                                          "hash": 12528127969626336146,
+                                          "kind": "List2",
+                                          "value": []
+                                        },
+                                        {
+                                          "key": "pbg",
+                                          "hash": 16164076759358946812,
+                                          "kind": "List2",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "hash": 5464984021694833596,
+                                              "kind": "CString",
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "hash": 1238668035833122403,
+                                              "kind": "CString",
+                                              "value": "sbps"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "key": "codex_item_container",
+                              "hash": 5195343093789358946,
+                              "kind": "List",
+                              "value": [
+                                {
+                                  "key": "ui_codex_info",
+                                  "hash": 3990676116315761960,
+                                  "kind": "List",
+                                  "value": [
+                                    {
+                                      "key": "ui_position",
+                                      "hash": 2569609609292370995,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_position_column",
+                                          "hash": 11627997653030084307,
+                                          "kind": "Int",
+                                          "value": 1
+                                        },
+                                        {
+                                          "key": "ui_position_row",
+                                          "hash": 16933140635952216258,
+                                          "kind": "Int",
+                                          "value": -1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key": "is_connector_visible",
+                                      "hash": 8249342442429208318,
+                                      "kind": "Boolean",
+                                      "value": true
+                                    }
+                                  ]
+                                },
+                                {
+                                  "key": "$REF",
+                                  "hash": 6998867517914059163,
+                                  "kind": "CString",
+                                  "value": "codex_item\\codex_item_container"
+                                },
+                                {
+                                  "key": "children",
+                                  "hash": 12528127969626336146,
+                                  "kind": "List2",
+                                  "value": [
+                                    {
+                                      "key": "codex_item_default",
+                                      "hash": 11478075221874936028,
+                                      "kind": "List",
+                                      "value": [
+                                        {
+                                          "key": "ui_codex_info",
+                                          "hash": 3990676116315761960,
+                                          "kind": "List",
+                                          "value": [
+                                            {
+                                              "key": "ui_position",
+                                              "hash": 2569609609292370995,
+                                              "kind": "List",
+                                              "value": [
+                                                {
+                                                  "key": "ui_position_column",
+                                                  "hash": 11627997653030084307,
+                                                  "kind": "Int",
+                                                  "value": 1
+                                                },
+                                                {
+                                                  "key": "ui_position_row",
+                                                  "hash": 16933140635952216258,
+                                                  "kind": "Int",
+                                                  "value": -1
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "priority",
+                                              "hash": 3706601655199670163,
+                                              "kind": "Int",
+                                              "value": 0
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "$REF",
+                                          "hash": 6998867517914059163,
+                                          "kind": "CString",
+                                          "value": "codex_item\\codex_item_default"
+                                        },
+                                        {
+                                          "key": "children",
+                                          "hash": 12528127969626336146,
+                                          "kind": "List2",
+                                          "value": []
+                                        },
+                                        {
+                                          "key": "pbg",
+                                          "hash": 16164076759358946812,
+                                          "kind": "List2",
+                                          "value": [
+                                            {
+                                              "key": "$PBGNAME",
+                                              "hash": 5464984021694833596,
+                                              "kind": "CString",
+                                              "value": "unit_scout_1_chi"
+                                            },
+                                            {
+                                              "key": "$PBGMAP",
+                                              "hash": 1238668035833122403,
+                                              "kind": "CString",
+                                              "value": "sbps"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "key": "pbg",
+                          "hash": 16164076759358946812,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_town_center_capital_chi_ha_01"
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": "ebps"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "pbg",
+                  "hash": 16164076759358946812,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "unique_techs",
+              "hash": 14917087696313371197,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "has_unique_panel",
+              "hash": 16101402647946736686,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

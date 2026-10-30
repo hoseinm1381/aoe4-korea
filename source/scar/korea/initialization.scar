@@ -1,0 +1,40 @@
+-- Direct native ArmyBP start. No legacy chooser or donor conversion.
+KoreaInitializationState = {applied={}}
+local PREFIX="748d61b94d3e4cf3a506a9ac1f992d1d:"
+function KoreaInitialization_Apply(player)
+    if player == nil or not player.isHuman or not Player_IsAlive(player.id)
+      or Player_GetRaceName(player.id) ~= "748d61b94d3e4cf3a506a9ac1f992d1d:korea" then return false,"ineligible-player",false end
+    if KoreaInitializationState.applied[player.index] then return true,"already-applied",false end
+    for _,age in ipairs({"feudal_age","castle_age","imperial_age"}) do
+        if Player_HasUpgrade(player.id,BP_GetUpgradeBlueprint(age)) then return false,"unsupported-age",false end
+    end
+    local capitals,workers,scouts,buffalos=0,0,0,0
+    local workerEntities={}
+    local capital=BP_GetEntityBlueprint(PREFIX.."kr_building_town_center_capital_chi_ha_01")
+    local entities=EGroup_CreateUnique()
+    Player_GetEntitiesEGroup(player.id,entities)
+    for i=1,EGroup_CountSpawned(entities) do
+        local entity=EGroup_GetSpawnedEntityAt(entities,i)
+        if Entity_GetBlueprint(entity)==capital then capitals=capitals+1 end
+    end
+    EGroup_Destroy(entities)
+    local worker=BP_GetSquadBlueprint(PREFIX.."kr_unit_villager_1_chi_ha_01")
+    local scout=BP_GetSquadBlueprint("unit_scout_1_chi")
+    local squads=Player_GetSquads(player.id) -- borrowed engine group
+    for i=1,SGroup_CountSpawned(squads) do
+        local squad=SGroup_GetSpawnedSquadAt(squads,i)
+        local bp=Squad_GetBlueprint(squad)
+        if bp==worker then
+            workers=workers+1;table.insert(workerEntities,Squad_GetFirstEntity(squad))
+        elseif bp==scout then scouts=scouts+1 end
+        
+    end
+    if capitals~=1 or workers~=6 or scouts~=1 then
+        print("KOREA_NATIVE_START_REJECT unsupported-starting-army")
+        return false,"unsupported-starting-army",false
+    end
+
+    KoreaInitializationState.applied[player.index]=true
+    print("KOREA_NATIVE_START_APPLIED capital=1 villagers=6 scout=1")
+    return true,"direct-native-start",false
+end

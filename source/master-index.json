@@ -1,0 +1,2666 @@
+{
+  "schema": "garrison.editable-masters/v1",
+  "files": [
+    {
+      "path": "attribute-editor/resource_type_info/merc_byz.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\resource_type_info\\merc_byz.xml",
+      "bytes": 3347,
+      "sha256": "8fb095d985f09d58e5dead407aeaa371860229b00df9f6554251fd2ab2d95e00",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_acre_barrage_dot_abb.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_acre_barrage_dot_abb.xml",
+      "bytes": 39945,
+      "sha256": "014d7afef16d3323c668ea7b34013847ea5698ba5285c338734d4265e4399985",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_2.xml",
+      "bytes": 57768,
+      "sha256": "08566df390ac62c1b4e708a9bdd3596c350d23cd2b2568425a69fb7a4db553b3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_2_hre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_2_hre_ha_01.xml",
+      "bytes": 2454,
+      "sha256": "5606cb151dab68f9eb608aeb6bdb10ae53081f7049fea94b9836c0a3cb858c50",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_2_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_2_korea.xml",
+      "bytes": 57763,
+      "sha256": "85f824cddbcca64a59f4d7ab528e2f4553f51411951fd1b9f0527e1bfd55b572",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_2_nrm.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_2_nrm.xml",
+      "bytes": 1720,
+      "sha256": "7cc5faa8eef2a39a51b126a2b75344bba56e6eaf589cc140791c4cd6e0321411",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_3.xml",
+      "bytes": 7866,
+      "sha256": "bd16bc48b48c01fad17e63cf0bdda2f97fbbe400dfc587864f3ba72df8081d9a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_3_hre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_3_hre_ha_01.xml",
+      "bytes": 2874,
+      "sha256": "589ec809132a4fb7c6f5e5ce62b725a17b6cd56c50000a4513aa7fa0aee7d8d0",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_3_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_3_korea.xml",
+      "bytes": 6776,
+      "sha256": "6d0a53f396ee26deb69aadda0fc6fbee0e3efec393df6af0bf7230d6d5114025",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_3_nrm.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_3_nrm.xml",
+      "bytes": 1720,
+      "sha256": "48100c2daea9e8889e17b3107ef3a00f01e22c7d5e1d7444d0292d7555f70dec",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_4.xml",
+      "bytes": 7131,
+      "sha256": "73f11a841573c874f6903dd22ffdfc46ebd673e00a4a5c77cf1ba7f3ec421320",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_4_hre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_4_hre_ha_01.xml",
+      "bytes": 3217,
+      "sha256": "4706d5796e24ec2a0fc668005db09d3751b426869bcdf26b0879f809c3342c52",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_4_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_4_korea.xml",
+      "bytes": 6043,
+      "sha256": "031bd5c1ad5e3407ba8e809acebfe89150abf1cdcde8fc1df1ba11f0ccaffd4b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_4_nrm.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_4_nrm.xml",
+      "bytes": 2143,
+      "sha256": "dba33bc8ec0f97b62c841bad2ac32383d08d79cb59513dff61ba88e07503a6bf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary.xml",
+      "bytes": 39853,
+      "sha256": "d7dd5934230eaf8d25cb465eb14f1a7b96e7ef7f7722687e5f5fcb84c63d6d70",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_3.xml",
+      "bytes": 21106,
+      "sha256": "18e5952b9c1615e683fce648e25f7e5e459aba45c1dfdde2dd26ac2490cab943",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_3_hre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_3_hre_ha_01.xml",
+      "bytes": 2054,
+      "sha256": "e288cf9e63851630489155c173a840b100779bad9ec21c79acdee3c44ffa7d36",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_3_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_3_korea.xml",
+      "bytes": 19982,
+      "sha256": "300e581e2148701b40793627a8e9a72cb336e662c5892c9ee1159a5ff51da88d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_4.xml",
+      "bytes": 21282,
+      "sha256": "994784cbba2352cc8be5a0221026e8b79d3e2876520b3d4b8bb223d981f95fe3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_4_hre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_4_hre_ha_01.xml",
+      "bytes": 2229,
+      "sha256": "e15ffa5b2adc1b0e2a52a7594c511d30202fe8c916f6e0391c540cfbd944664a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_4_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_4_korea.xml",
+      "bytes": 20158,
+      "sha256": "f25a2282af7dfee20e033175f0bd61702c0c402327ad58230277f2885fdb7f2a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_building_fire.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_building_fire.xml",
+      "bytes": 2590,
+      "sha256": "3c2d3140503cd158b6517444eea9806dc1aa27a05694280e76e79b1bbabe6a4b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_building_fire_hre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_building_fire_hre_ha_01.xml",
+      "bytes": 2699,
+      "sha256": "73688cb68c55e90572bf39f60f08cb442d867724f15f82c5a715209bc3b11bcf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_hre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_hre_ha_01.xml",
+      "bytes": 1938,
+      "sha256": "bf4520a8b5cfbddceef67a23b141354ea975d15ce17d85c7860fd890e72e846c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_archer_incendiary_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_archer_incendiary_korea.xml",
+      "bytes": 38731,
+      "sha256": "c1570a685c63c0fe2f9582c02cd60f47f146c739198ad76808071fd2fc3b11ef",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_barrage_initial_explosive.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_barrage_initial_explosive.xml",
+      "bytes": 21118,
+      "sha256": "ade42a239da80ad019e9c4c9095badee76c5a76f877de3e6d58edcb592da7054",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_horseman_2_charge_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_horseman_2_charge_korea.xml",
+      "bytes": 3064,
+      "sha256": "53664b12a281296766e8e4f7d69fa6ce6f5f9ae61a0725d08b40f92ee56cddba",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_horseman_2_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_horseman_2_korea.xml",
+      "bytes": 3022,
+      "sha256": "851d9810dcee7c2a705ef00a7ab957224c167e072ab9110ff52fa6d38f18bbb0",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_horseman_3_charge_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_horseman_3_charge_korea.xml",
+      "bytes": 3841,
+      "sha256": "33c37770169ee5470f0d7c9c2529ba223a4cee68425d8d9141966fce0c2f9cb7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_horseman_3_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_horseman_3_korea.xml",
+      "bytes": 4431,
+      "sha256": "f4ced04735a5c5965d0d31d9dca8681629efbd09aaf09d213f28e4af3ae49c8b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_horseman_4_charge_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_horseman_4_charge_korea.xml",
+      "bytes": 2567,
+      "sha256": "1b93a720d3982ec80f490cb1d8589e98b2da3b918dea157c6624338e74e890e4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_horseman_4_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_horseman_4_korea.xml",
+      "bytes": 2764,
+      "sha256": "11bd6a8dadc13d4591a7c1181a4b4b373109427e3227f449c93ce715a85c45c7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_knight_3_charge_iron_flails_kor.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_knight_3_charge_iron_flails_kor.xml",
+      "bytes": 1183,
+      "sha256": "f5a87bb5ad30b79c66fe1b0d1e997a1a04fc9cfafbc334387ebcde1377e1b231",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_knight_3_iron_flails_kor.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_knight_3_iron_flails_kor.xml",
+      "bytes": 1367,
+      "sha256": "3121627f90bbc2d087511597a20bd2958e30f5268b7d005bb246d82f774a6dbe",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_knight_4_charge_iron_flails_kor.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_knight_4_charge_iron_flails_kor.xml",
+      "bytes": 1182,
+      "sha256": "8894eda9833af14d6d2e1a043f56fb106a53e63472cdec1e49ae347fd94e0870",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_knight_4_iron_flails_kor.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_knight_4_iron_flails_kor.xml",
+      "bytes": 1158,
+      "sha256": "143f0d85cac1b49613274cb495e696905b1c1ee1d1325e8ed4c6f3ae7d81cc4e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_manatarms_2_charge_nov.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_manatarms_2_charge_nov.xml",
+      "bytes": 913,
+      "sha256": "47203b148dc3a731b5bea7b507be051c577142313653b98eb87f1eaa9b170e23",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_manatarms_2_nov.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_manatarms_2_nov.xml",
+      "bytes": 1071,
+      "sha256": "eaf35f45b3d07d4cf1ed6492bafeae23afae0e6399b7bd1a7ef119d1bb6c0d3c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_manatarms_3_charge_nov.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_manatarms_3_charge_nov.xml",
+      "bytes": 913,
+      "sha256": "6b9222e42811359c7ecc9b7312cc9905f54f53d13ed4435ccfabba8690f0a809",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_manatarms_3_nov.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_manatarms_3_nov.xml",
+      "bytes": 1071,
+      "sha256": "ff7965ef3e8cff6acb3d205771ad21ea1015ff71f22b0fd1251f0188f3f4025f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_manatarms_4_charge_nov.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_manatarms_4_charge_nov.xml",
+      "bytes": 913,
+      "sha256": "f24f541b1065fcf557c452e10e7a72750fc18b83e52a91bae47b4a6842531f2d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_manatarms_4_nov.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_manatarms_4_nov.xml",
+      "bytes": 1071,
+      "sha256": "0e1f5abbe62caf05506fea65eca58cbd388ba7a6fc04620a202b48bf91f7542e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_repeater_crossbow_2_library_upgrade_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_repeater_crossbow_2_library_upgrade_chi_ha_01.xml",
+      "bytes": 1286,
+      "sha256": "ead02c3a8eea63a4b90df05a238cf4772e562f2e06c2f6b692f8f089d839fbf5",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_repeater_crossbow_3_library_upgrade_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_repeater_crossbow_3_library_upgrade_chi_ha_01.xml",
+      "bytes": 1245,
+      "sha256": "49b3e93406d298996e3b24a149df4376cea322398647d7cea9c34d66e0347815",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_repeater_crossbow_4_library_upgrade_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_repeater_crossbow_4_library_upgrade_chi_ha_01.xml",
+      "bytes": 1343,
+      "sha256": "f4077c21d9155e1d8fb7b68fb8c81816b19145a33e4cdfb399e41df69428b699",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_repeater_crossbow_4_library_upgrade_incendiary_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_repeater_crossbow_4_library_upgrade_incendiary_chi_ha_01.xml",
+      "bytes": 3813,
+      "sha256": "9ae42a31832fc0a6b637cc0daad15eab99cefe8793441d09e08688b60968a2bf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_turkic_horsearcher_2_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_turkic_horsearcher_2_ayy.xml",
+      "bytes": 37323,
+      "sha256": "b2300853e31eeba308a91b1b2bdaab10b073b0cf0d169fc71758cb032eceebf0",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_turkic_horsearcher_3_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_turkic_horsearcher_3_ayy.xml",
+      "bytes": 37321,
+      "sha256": "01bad2491627d5441793fd582beb15766ba439954b69d8e56d9ea35b29cb52b8",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_turkic_horsearcher_4_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_turkic_horsearcher_4_ayy.xml",
+      "bytes": 37325,
+      "sha256": "06272538fe2e1f39480c7236d2d0ea5c2547a4442a87d9539291e357e1f5b544",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_2_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_turkic_horsearcher_incendiary_2_ayy.xml",
+      "bytes": 37363,
+      "sha256": "3313e52fd5e367f7653ba672e0fdcc60d208de682f89179e33eb9b994c97acac",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_3_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_turkic_horsearcher_incendiary_3_ayy.xml",
+      "bytes": 37362,
+      "sha256": "28e957bcf8153c2f46505ba7e4a080136e35b1bf0670bb71f04b0f7afd6b259a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_4_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\weapon\\korea\\kr_weapon_turkic_horsearcher_incendiary_4_ayy.xml",
+      "bytes": 37365,
+      "sha256": "059a7afbef0c0a62b7ca1dac5886942094cfdb90a16a7ee6773349d200260262",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_activate_getting_resource_on_kill_horseman_archer_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_activate_getting_resource_on_kill_horseman_archer_korea.xml",
+      "bytes": 1975,
+      "sha256": "2f91484e20c5190f9550bde6c4eb7edca0c55031aabd1b37ea67127e044008ec",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_chart_a_course_aquarius_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_chart_a_course_aquarius_2.xml",
+      "bytes": 10409,
+      "sha256": "5e87757cd13c406b20aef1034d70f1030c6edcd5a4916e28e842f46110c74ac3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_land_monster_attack_damage_military.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_land_monster_attack_damage_military.xml",
+      "bytes": 9134,
+      "sha256": "e9a68f6a36f361910fad875c283741ed52214513939a230132f7961d25fc9c50",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_player_dynasty0_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_player_dynasty0_chi_ha_01.xml",
+      "bytes": 6612,
+      "sha256": "1014bd864d353209ba8713416e60e4464834ed08a8b33b4ae208671739971810",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_armor_clad_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_armor_clad_cru.xml",
+      "bytes": 5623,
+      "sha256": "b414c198e3dbad16ac8207750af537466d9b3c3dd5dfd833c436d40553162820",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_crossbow_gambesons_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_crossbow_gambesons_cru.xml",
+      "bytes": 4344,
+      "sha256": "e50c401e039168798eafbe0d2bf1ab7ca910ac51957824f34cc8a94adf6eb17b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_crossbow_stirrups_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_crossbow_stirrups_cru.xml",
+      "bytes": 5139,
+      "sha256": "267a12748ea5d8fc07d725cd486ae211a24cc4d0b3a616e648dae95d2b991c3d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_dali_horses_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_dali_horses_chi_ha_01.xml",
+      "bytes": 9821,
+      "sha256": "1ae03eeea8847045f1c9c10523829e1c5bac4724101c4df8cdab3d7d28c913dc",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_farm_improved_enclosures_nrm.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_farm_improved_enclosures_nrm.xml",
+      "bytes": 22429,
+      "sha256": "4c5728551d14b341bbed16ada8a4e90f7f2cf8b8e2e64007057b14fcf9c2f021",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_keep_cannon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_keep_cannon.xml",
+      "bytes": 36192,
+      "sha256": "2d37761ea88ca86166496d2b63a307334acf75c684024e2e52ff7c7453713e3c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_keep_springald.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_keep_springald.xml",
+      "bytes": 32363,
+      "sha256": "f69a085b58594b2a65be1be4d55c08c502ae048cdcb7a0c9ce51cfa8ab004d48",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_landmark_enlistment_incentives_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_landmark_enlistment_incentives_cru.xml",
+      "bytes": 11996,
+      "sha256": "6d3ca86f8b3257791a3ec338e7bfbd20499455d27c4fa2f458913189aef774fa",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_library_flaming_charge.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_library_flaming_charge.xml",
+      "bytes": 9940,
+      "sha256": "25eb4eeb6f8332532ea74a9b1a6f304d03d8da7cc1b1190ab647df63264374d0",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_library_siege_works.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_library_siege_works.xml",
+      "bytes": 10179,
+      "sha256": "0baee2ec71b037fdb58c484a8ff577a86d015f5cbd06acafefd2966d80922499",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_longbow_arrow_volley_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_longbow_arrow_volley_cru.xml",
+      "bytes": 3685,
+      "sha256": "4eedf45c805e5e2687e8c77774d98fa7fab2fdeaac77619662dfbceab12b9566",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_man_at_arms_armor_clad_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_man_at_arms_armor_clad_cru.xml",
+      "bytes": 11157,
+      "sha256": "e2c646e05722d50ed0cfa71f1cfb13e16d5b5fce2c3461087b6ea2a209721fd5",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_naval_arrowslits.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_naval_arrowslits.xml",
+      "bytes": 23331,
+      "sha256": "2f4169dc2eb35819663037a45a0901a14ba8db3ff93fbd479238f83d05cf603f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_naval_long_guns_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_naval_long_guns_cru.xml",
+      "bytes": 2838,
+      "sha256": "bbcb519724b2b62b3ffa400f9b8427e83240bd27786fb9d124d5051b2d3ba7b4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_outpost_arrowslits.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_outpost_arrowslits.xml",
+      "bytes": 46294,
+      "sha256": "84e0eeecc20a77dcf03f20c29be1255993d86fbc9dbc9ded8f3720323cd1c803",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_outpost_cannon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_outpost_cannon.xml",
+      "bytes": 53291,
+      "sha256": "21ddbe0c1d8431ff22fd77ee9027910850197519002ee20b1c6754b7e560dc6d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_outpost_springald.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_outpost_springald.xml",
+      "bytes": 47724,
+      "sha256": "c3600e5cefe7a2ec892140f6a980401213d7fca492c850e2804569ac59f912c0",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_outpost_stone.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_outpost_stone.xml",
+      "bytes": 34420,
+      "sha256": "0f462cea866a7190fa7573efcf7a6d0d2ec6d5a2c96d22205b827300eb9c4d78",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_ranged_longbow_damage_nrm.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_ranged_longbow_damage_nrm.xml",
+      "bytes": 16874,
+      "sha256": "181743b68b0e10b2eb650559d899d904016c73d5987244a869e88021c1d71b6b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_reliable_supplies_fre.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_reliable_supplies_fre.xml",
+      "bytes": 7642,
+      "sha256": "d5c47a706d020ab75220452a7496febc51a890b9b532a7dfef7a62f24f476685",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_royal_edict_hre.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_royal_edict_hre.xml",
+      "bytes": 8722,
+      "sha256": "5d84988073eb9f49efdb39c928bdbbd7c4476f1da0402527132e8e3ae5ca032b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_tech_university_murder_holes_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_tech_university_murder_holes_4.xml",
+      "bytes": 33263,
+      "sha256": "716aa928b5bb67a9d3f7326a41f0eda4ffddfe95664cf5e9e7f5daca1a5220bf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_tech_university_murder_holes_4_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_tech_university_murder_holes_4_korea.xml",
+      "bytes": 33230,
+      "sha256": "349bf232f108fecfa4967168653850632733cd2312b5fc3cb336d4cab6c1c088",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_tower_cannon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_tower_cannon.xml",
+      "bytes": 38592,
+      "sha256": "0c89d3e5a1d1b7c223ef9d191f5765f3b036d7686c602cbaa3ccacaae8a6e5a2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_tower_springald.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_tower_springald.xml",
+      "bytes": 36026,
+      "sha256": "f4dc7ea5a6033402d521a349268b0602cd41f63f228b4f7b2a8ec23ddc9d009e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_unit_manatarms_2_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_unit_manatarms_2_cru.xml",
+      "bytes": 11330,
+      "sha256": "560649976ae10a70c433e4a7c6a98bffed6d40313ff4296bd5ff9667bbc7c366",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_unit_manatarms_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_unit_manatarms_4_chi_ha_01.xml",
+      "bytes": 9431,
+      "sha256": "dd20a5ea56034632e7187209068fed22ad746e5b8dd2beb8a6b72c49461b3de9",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_unit_religious_sanctity_4_sul.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_unit_religious_sanctity_4_sul.xml",
+      "bytes": 11273,
+      "sha256": "eea5f6eb6a405bc503e58dcabec3aea9f6c4bb6196aee88f1718f0087eacb065",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_unit_repeater_crossbow_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_unit_repeater_crossbow_3_chi_ha_01.xml",
+      "bytes": 9378,
+      "sha256": "5d4a0c0307acde0cbfabdbcd8e1f70e4794b00cd2d85c4a5c39be8781fe31f4d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_unit_repeater_crossbow_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_unit_repeater_crossbow_4_chi_ha_01.xml",
+      "bytes": 10156,
+      "sha256": "eb19e4e009830385056af295f7ea81267edaa7b49dd1e0c50ae650cd29df881b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_unit_town_center_wheelbarrow_2_jpn.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_unit_town_center_wheelbarrow_2_jpn.xml",
+      "bytes": 14060,
+      "sha256": "192705332975de72dd70fe4e2e3357c75f25dd4ccf2bb7565b5707ccec574c1a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/upgrade/korea/kr_upgrade_unit_turkic_horse_archer_3_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\upgrade\\korea\\kr_upgrade_unit_turkic_horse_archer_3_ayy.xml",
+      "bytes": 4078,
+      "sha256": "52e4b73af890fcfd28f20957657d88591acab00a7fb8c5788823ee4213324acd",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_gapsa_dummy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_gapsa_dummy.xml",
+      "bytes": 29909,
+      "sha256": "c5befd5cf9514e8d6a1a4a01999b5a2a914b23a73d7b1c84fd4e10672ee20629",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_hwacha_dummy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_hwacha_dummy.xml",
+      "bytes": 29862,
+      "sha256": "0e1e2387db1a34b2afbbebac79e478687ad3c5daec05d7d4f20195291c2e7d33",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_tiger_hunter_dummy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_tiger_hunter_dummy.xml",
+      "bytes": 29963,
+      "sha256": "a01efe1adde88fab9fd41bc223f7e575b36ccfee427c6efff10e5bff52b8f7ee",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_archer_2_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_archer_2_ayy.xml",
+      "bytes": 14126,
+      "sha256": "e391152dcf76b04996df45ee4417fb305f0de34a0d038a20da073105f5dd1d94",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_archer_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_archer_2_chi_ha_01.xml",
+      "bytes": 8271,
+      "sha256": "8c40f243ee7ec0f36711a5d0b82b8b7cf9a2590d997f3457e215f77760bc96e3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_archer_3_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_archer_3_ayy.xml",
+      "bytes": 14942,
+      "sha256": "5609a2961d62ce08cec8bf98491c37ad17486fc417be6b1125c8cfd8ab3c585b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_archer_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_archer_3_chi_ha_01.xml",
+      "bytes": 9579,
+      "sha256": "9422b7412d9ae18c7d6e8e8860138f2b618d49de6622aa305ecf3c8dbba97019",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_archer_4_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_archer_4_ayy.xml",
+      "bytes": 14055,
+      "sha256": "9786f0b809ad47efcbc741ed2ccc03f290fe484738a9e2df97deba15716c3f72",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_archer_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_archer_4_chi_ha_01.xml",
+      "bytes": 9560,
+      "sha256": "541cf73b019a70618362dbf6c41773c2b4d72052f510cee7cf72b77bada1bc6a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_crossbowman_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_crossbowman_3_chi_ha_01.xml",
+      "bytes": 8308,
+      "sha256": "f83b3a4cb8780359c9187998d802b74e927b00b023425a4b590c29d5ea819974",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_crossbowman_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_crossbowman_4_chi_ha_01.xml",
+      "bytes": 8536,
+      "sha256": "1235ad94ca0ffcdf329533bad39e9da5771f39f268c3ed688d89f06b07be8afe",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_handcannon_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_handcannon_4_chi_ha_01.xml",
+      "bytes": 6802,
+      "sha256": "bf19aeb93ab31ebc4056c0c63aaa171423fb008bcf0ef687e08e73ef2b71db8e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_horseman_2_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_horseman_2_ayy.xml",
+      "bytes": 5919,
+      "sha256": "a928b47b625227125c6040314ba15137f0b477dbc4158d435c5d4620cb9bb789",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_horseman_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_horseman_2_chi_ha_01.xml",
+      "bytes": 2842,
+      "sha256": "f5f99c8cd4c8e3119b43a8334bb6b09d0185d9858c11febcfc04f1763cad709e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_horseman_3_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_horseman_3_ayy.xml",
+      "bytes": 5976,
+      "sha256": "729e71b347b2654cde03e99a17884c88a128df35ea7a7523eb7331587bff8b76",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_horseman_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_horseman_3_chi_ha_01.xml",
+      "bytes": 2840,
+      "sha256": "c950a1b48b29453263143ec6949dc33823d2bb9c1d8d58b7d159705dc49e5223",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_horseman_4_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_horseman_4_ayy.xml",
+      "bytes": 5188,
+      "sha256": "73b2fea157b456b5dae908559a41630accc7b31e889c79c7750cc64b675f5497",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_horseman_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_horseman_4_chi_ha_01.xml",
+      "bytes": 2842,
+      "sha256": "8c433293c55562b1109c5cdfff2cf5548191e1ed891d601fd7f2bee76cd2bcaf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_knight_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_knight_3_chi_ha_01.xml",
+      "bytes": 21551,
+      "sha256": "56f11df0cb287a2fc203185e5e05d61e0f4773b4c974bd3ab893164a0238f837",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_knight_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_knight_4_chi_ha_01.xml",
+      "bytes": 21138,
+      "sha256": "9e1027a851bc2a210e932d2055c475e863265e0650094eae2e0cf7112a824eb7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_leader_baibars_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_leader_baibars_ayy.xml",
+      "bytes": 24265,
+      "sha256": "81907931dec1a90534db6ff5fab73cb22e769c1395f80064d8aedfb1e2fdbe09",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_manatarms_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_manatarms_3_chi_ha_01.xml",
+      "bytes": 29486,
+      "sha256": "6d215f7fef169a955382a81c109d79e9998832f678a72cf891a6698c8c8f46bc",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_manatarms_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_manatarms_4_chi_ha_01.xml",
+      "bytes": 28693,
+      "sha256": "223d0cac930e774759cc9a9932f6f34638b8c30782b93058cb991bed9a0df7c1",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_militia_cmp_chi.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_militia_cmp_chi.xml",
+      "bytes": 44309,
+      "sha256": "d409ddb1362a600a93b0a432efde2e05bfe49f567c8cccf51086089260839b65",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_militia_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_militia_cru.xml",
+      "bytes": 29788,
+      "sha256": "fef7b98bb0b93a30c0c98d716920b5f73152a7319fc97c6d874e5d8a681c1308",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_naval_fireship_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_naval_fireship_3_chi_ha_01.xml",
+      "bytes": 2201,
+      "sha256": "b53a28ca896e5e782fd794c01de4dae5c9f1d1ffd057a9517e48deb3ffa2afd2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_naval_fishing_boat_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_naval_fishing_boat_2_chi_ha_01.xml",
+      "bytes": 2164,
+      "sha256": "4074760842f3bf6af8217bdc8dcba120ae905028f100dec09436acda0c0082b7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_naval_turtle_ship_3_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_naval_turtle_ship_3_korea.xml",
+      "bytes": 18395,
+      "sha256": "c2699eed9e0bdb6bde1ebbdb9d164dd045d2827a9cbf2c8dd2e6dc1dcdd624cc",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_nest_of_bees_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_nest_of_bees_4_chi_ha_01.xml",
+      "bytes": 4759,
+      "sha256": "5e15118829e0576518fbb0a4d5e815a2fc3afdaac1730dc2c8fdb481533615cf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_official_1_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_official_1_chi_ha_01.xml",
+      "bytes": 18343,
+      "sha256": "4bc810b8c97fbc092621ed83c8f99cf8afa0f2db618721c966ce46a3a686e05d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_ram_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_ram_3_chi_ha_01.xml",
+      "bytes": 18872,
+      "sha256": "6c25aeea1e2b2de37d254782569bd53b5753d8c716f13fcbcdf1d3485a9b19e3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_repeater_crossbowman_2_chi_ha_01.xml",
+      "bytes": 25878,
+      "sha256": "719beab5b36da831f7906dc89086b18efcec1ee029e5d1a45891636c0af30e47",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_repeater_crossbowman_3_chi_ha_01.xml",
+      "bytes": 25864,
+      "sha256": "fd6b14621588b4ca910171c68c7af6b0ccf7110a2bd7c866eed3aeb48fd84764",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_repeater_crossbowman_4_chi_ha_01.xml",
+      "bytes": 25877,
+      "sha256": "e1764dce419e917557a3d6a1615ca41ebf8ca1a7463037bffe425d9c50f17a5e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_spearman_1_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_spearman_1_chi_ha_01.xml",
+      "bytes": 8524,
+      "sha256": "c44d15a38867d41860d3297a316f3f5a7bf05bcfd1b15d9525586c03b695af20",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_spearman_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_spearman_2_chi_ha_01.xml",
+      "bytes": 8524,
+      "sha256": "028aa698cf9d2d81e3ba03afb0d137100c44f14de45566d6a73f26a7c8c324d5",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_spearman_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_spearman_3_chi_ha_01.xml",
+      "bytes": 8524,
+      "sha256": "ce3610df2fd277093e9231fe9a90fe8aef05da192ebc49ea1de08aba96bfd7f4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_spearman_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_spearman_4_chi_ha_01.xml",
+      "bytes": 8527,
+      "sha256": "9812efb2f2ebab89602e8c4dce94f36d7c6d67d744c7a9baebad81cd5edaf663",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_trebuchet_4_cw_chi_ha_01.xml",
+      "bytes": 18709,
+      "sha256": "5e61321444113bf107e984f9e5bb670824abff9a2df79125f1f0252009e42a90",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_villager_1_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_villager_1_chi_ha_01.xml",
+      "bytes": 92997,
+      "sha256": "5672bc2c3db9a7980e1686aa70e183243ff14e9f7ccb0552dc443a5cdf83826a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/sbps/korea/kr_unit_workshop_ram_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\sbps\\korea\\kr_unit_workshop_ram_3_chi_ha_01.xml",
+      "bytes": 18931,
+      "sha256": "df6393ebdcfa7745f89591754f6f91780d4405f902c96af367d48c17019ae126",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi.xml",
+      "bytes": 4802,
+      "sha256": "f1ac9d4d0db322be0bc6cce3bcc1c6cdbf78d37fa4a7e98d898813d91759f376",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_blacksmith.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_blacksmith.xml",
+      "bytes": 4832,
+      "sha256": "8a41130e2fdb37e9091d11dd62bf27e51fbc494ccd95ef8d5ee67da3e69a6b94",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_eco_mill.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_eco_mill.xml",
+      "bytes": 4831,
+      "sha256": "244b83ddc73f287761a25c2a4b2ee66f9f1280858551094300838df5b415cb2f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_foreign_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_foreign_1.xml",
+      "bytes": 4772,
+      "sha256": "8df7a535165d923c180a82ed66f6e74285e5f9cb4ff48f017919a40f93996f25",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_foreign_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_foreign_2.xml",
+      "bytes": 4772,
+      "sha256": "d64ec100941b221a7c2cc2c44d2d2ad468fdd0df767673329d1a7438f1c58eff",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_military_building.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_military_building.xml",
+      "bytes": 4844,
+      "sha256": "228daf17235e6cc84de798febea8f2400eedecd22129ee48ba89070507540152",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_naval.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_naval.xml",
+      "bytes": 4783,
+      "sha256": "02fec02833139ebd5d0471eb67aa8d4f3a804625c1e1e3f3a874885d335c9e8a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_other.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_other.xml",
+      "bytes": 4822,
+      "sha256": "ffc9ab98c401601baaa218c36bfb1b40d1ea247f13ccff277dc0061a59d07d20",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_siege.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_siege.xml",
+      "bytes": 4836,
+      "sha256": "81404baadd463e08c31d6a51f0b618a48cf4f6bcfaf9418d93a4f802f4a82d45",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/menu/korea/kr_korea_upgrade_tab_senobi_university.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\menu\\korea\\kr_korea_upgrade_tab_senobi_university.xml",
+      "bytes": 4832,
+      "sha256": "e76eedfac94021924f9fe598857252c7cbcc94dfdcc6d7bb424a95552febeb50",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_defense_keep_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_defense_keep_chi_ha_01.xml",
+      "bytes": 155381,
+      "sha256": "b72400344b9f67d15b2facbb030b2e0a923a6cd57dd80189b85b39a4548d54e6",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_defense_outpost_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_defense_outpost_chi_ha_01.xml",
+      "bytes": 31344,
+      "sha256": "a5715cacfab98031c44309a93d1e5ab702fe475f347f65fa016ba453d0526be2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_defense_palisade_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_defense_palisade_chi_ha_01.xml",
+      "bytes": 2014,
+      "sha256": "bcb6720cd06d08eb758531a88381b279cf19b0875576e77ce2422d2ef23e18ec",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_defense_palisade_gate_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_defense_palisade_gate_chi_ha_01.xml",
+      "bytes": 1944,
+      "sha256": "4181b43c71ae4ad9012f645994313e2b1eb50f37cd06e8229440af396f457baf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_defense_tower_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_defense_tower_chi_ha_01.xml",
+      "bytes": 2683,
+      "sha256": "fa712a236264dfd56482c3f399114554e8f8a133a8eec4eebb3092c19aab6a50",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_defense_wall_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_defense_wall_chi_ha_01.xml",
+      "bytes": 5537,
+      "sha256": "8fdd732c695eb0d1494feadd1f9d579961fad740d2f880bc200850d4ebc0077c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_defense_wall_gate_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_defense_wall_gate_chi_ha_01.xml",
+      "bytes": 7218,
+      "sha256": "b5d9af315efbfce719a0b33260d9d6dcb6d859f789c0999562a3b440e7a5a449",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_dynasty_pagoda_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_dynasty_pagoda_control_chi_ha_01.xml",
+      "bytes": 56844,
+      "sha256": "d15c73c81ed12b759f7d5a2ca5a244c16000bbf7a7f675e81b9954049baaa530",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_econ_food_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_econ_food_control_chi_ha_01.xml",
+      "bytes": 9462,
+      "sha256": "49b859790c2d5a965dab30ab6c060896030664518803344ac1964734db9a47b8",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_econ_market_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_econ_market_control_chi_ha_01.xml",
+      "bytes": 15332,
+      "sha256": "d06063968f28a866745b9e446aa7459ed3cb8924980979877b0b801849ed2fd8",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_econ_mining_camp_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_econ_mining_camp_ayy.xml",
+      "bytes": 2035,
+      "sha256": "9d0fb204b97a90217ab4ab7ff9de0db90d586ca405adb6e73d72d9c6cfa2c2c2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_econ_mining_camp_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_econ_mining_camp_control_chi_ha_01.xml",
+      "bytes": 8240,
+      "sha256": "7edeedf440e9ebfe6de4baa412a803ea9fa19a395d8b3dcd3e0e288f366b8f58",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_econ_wood_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_econ_wood_control_chi_ha_01.xml",
+      "bytes": 8437,
+      "sha256": "4d59c35ef67c7e7421233c4c2c3017c721bda6b29ec2e9ecb121853c8c13de61",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_house_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_house_control_chi_ha_01.xml",
+      "bytes": 11489,
+      "sha256": "030e6bb1c9ab26ff3c1bd1ee9a4056a4db06f1d4bbe6ff9530c7d0d07e4cd09b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_landmark_age1_meditation_gardens_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_landmark_age1_meditation_gardens_control_chi_ha_01.xml",
+      "bytes": 57500,
+      "sha256": "4a668d87340ecf7e419d938c2f6d6e0a25824eeb61a80a2dfa2013106ef25666",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main.xml",
+      "bytes": 51797,
+      "sha256": "98a35a80714de90aadeb472f8691b17b51d5364561dba303484567e9d4766fa4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_landmark_age1_prefecture_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_landmark_age1_prefecture_chi_ha_01.xml",
+      "bytes": 44026,
+      "sha256": "d7e3dfe54b90b5d04a240b335e0ecb0a505dcfb7ddf5a7c357fe456a66ae085c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_landmark_age2_shaolin_temple_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_landmark_age2_shaolin_temple_control_chi_ha_01.xml",
+      "bytes": 43280,
+      "sha256": "d0e96c626ade5355cafcaf5bafdcd7600d6797e778c3a3b740c81a75d55e3a1f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_landmark_age2_white_deer_grotto_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_landmark_age2_white_deer_grotto_control_chi_ha_01.xml",
+      "bytes": 46312,
+      "sha256": "b156c557e89de51ef66b8ffbf9902d832e8fc6fd02ab04dc79dd20415470a630",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_landmark_age3_library_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_landmark_age3_library_chi_ha_01.xml",
+      "bytes": 14072,
+      "sha256": "2caeae82cdad1b7315065993481593c72334282bd43df2466dc80e8ba970c645",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01.xml",
+      "bytes": 154669,
+      "sha256": "8a17570556f8ff88cdfe9b14eef90aa714ab26d84a8396afb44a51a2a4c8e3c9",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_resource_farm_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_resource_farm_chi_ha_01.xml",
+      "bytes": 5629,
+      "sha256": "823fb1db487b0fe660b731b3d03cdc36f55bf686bbe8b8a804d04dddd17a640a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_tech_unit_infantry_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_tech_unit_infantry_control_chi_ha_01.xml",
+      "bytes": 15081,
+      "sha256": "a71692c5c006c013b63db38665b1c438aa0a93140807355698aa1139025e3c5f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_tech_university_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_tech_university_control_chi_ha_01.xml",
+      "bytes": 10208,
+      "sha256": "f44751d7b6d6c51f1f0a7a7a1152e4b37a3bf44997be37a3e4327cce380e6767",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_abb_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_abb_ha_01.xml",
+      "bytes": 24424,
+      "sha256": "130a9e9c5d241025cfe04734c809acd2b1da152d0adad3772150f4049e03fac2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_abb.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_abb.xml",
+      "bytes": 107747,
+      "sha256": "f1f55ad10a4427ac3e663089792502d148d39fa1269814b579cd7c74183dbff3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_byz.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_byz.xml",
+      "bytes": 20724,
+      "sha256": "9335ab833e29770d780955373665cb9a471036f16d00556506b09f9951da3509",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_chi.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_chi.xml",
+      "bytes": 92677,
+      "sha256": "823808b2c8492649f3fe4eec4621144ffa98c4e38c8dedc825233c279ecfc38e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_chi_ha_01.xml",
+      "bytes": 25992,
+      "sha256": "60cf4e674142db35085406af4615334e35da565679c28a22bb6a22025a22ff57",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_eng.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_eng.xml",
+      "bytes": 202777,
+      "sha256": "c4573177abb8668c4202580cd67a40885b90e6de6e213e31a71a2b281f1be4f2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_fre.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_fre.xml",
+      "bytes": 109080,
+      "sha256": "9a51443b3d9ebf8bab1c73da4be058897e844be7e93245000eb63da312260637",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_fre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_fre_ha_01.xml",
+      "bytes": 22265,
+      "sha256": "92d99f0cb461632e83b633744e2fde5d0faf97509cf8ead6479b96d8cbc3a05e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_hre.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_hre.xml",
+      "bytes": 97477,
+      "sha256": "196de1642566cb174da75f89d46a62184adb06063c28d1aaabe89eac99374d5c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_hre_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_hre_ha_01.xml",
+      "bytes": 25729,
+      "sha256": "f7fecc0b5a7f27548641b5d9073407f17da588727a72ac08f25c170b6e89b450",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_jpn.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_jpn.xml",
+      "bytes": 97729,
+      "sha256": "4c98cb75302209f2ad27c29dc475dd39e4046928177e870f459dc0ea71bcf7dd",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_lan.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_lan.xml",
+      "bytes": 69108,
+      "sha256": "f493e933b9ca5ef8ffe796605846975d83bf982f9b1bf585765e586720dd587f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_mal.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_mal.xml",
+      "bytes": 33999,
+      "sha256": "b728bcca99096759cef5c559a375d2c75efedb25f3a40374db0fa7d4f1b1cbf8",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_mon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_mon.xml",
+      "bytes": 142799,
+      "sha256": "81da89b3fcb05857b16c93661d0664337ca68f673cc5640bea64b8938813abce",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_ott.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_ott.xml",
+      "bytes": 51291,
+      "sha256": "050e4f1a84f63f66d742ac8d2e51fefc4572f182c2cf19154307cf2745413ca6",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_rus.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_rus.xml",
+      "bytes": 81508,
+      "sha256": "011af14fc0778e9c082ef49cce2441a39f4f175309c63d98fe52772b2433cc52",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_sul.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_sul.xml",
+      "bytes": 80227,
+      "sha256": "dc4c0be2e0012655e9d0c10ebd1eefe0962713a2d2022e2e58998b1d55d3588c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_capital_tem.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_capital_tem.xml",
+      "bytes": 29104,
+      "sha256": "9b258681c27c62b6f0ee5c251f67f6714488dcb372cb066df6f8665a9ecf65dc",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_town_center_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_town_center_chi_ha_01.xml",
+      "bytes": 28489,
+      "sha256": "9119df221982db31c241beb4d38ed76b289ffa1c16be9fb5c56cf2b9de6da70b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_trade_post_core.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_trade_post_core.xml",
+      "bytes": 295365,
+      "sha256": "29613e47db5a57b4005a36ccccfc3d5566a95a2df18b80e845be8b9f58d6292d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_trade_post_east.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_trade_post_east.xml",
+      "bytes": 10995,
+      "sha256": "afb5759ffdd5611fc34a32acaaf063863eb18809f731d66146817526165d5c67",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_trade_post_mid_east.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_trade_post_mid_east.xml",
+      "bytes": 11017,
+      "sha256": "c6f389969eb88793c49da12b6bd46378765ea5f41225fca41d236a1bcab9c232",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_trade_post_west.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_trade_post_west.xml",
+      "bytes": 11001,
+      "sha256": "b6a6ffcbe4c7260fd1ee866db906043fb7f7af6da010a7d32208c8e2ae25e506",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_unit_cavalry_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_unit_cavalry_control_chi_ha_01.xml",
+      "bytes": 38076,
+      "sha256": "ad129be2f49dfcd7469302f401c160c0a3ba815b168a655c868c495168f02f2f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_unit_infantry_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_unit_infantry_control_chi_ha_01.xml",
+      "bytes": 34020,
+      "sha256": "195938d855b5c251681d8b529cbd7e9d0dd75b2b6f206b91f1f7eea41e5eb316",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_unit_naval_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_unit_naval_chi_ha_01.xml",
+      "bytes": 41303,
+      "sha256": "03c122845b29f0e7abe114f164afc71ce43a3542f1d6b0e6942bafa9254de99c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_unit_ranged_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_unit_ranged_control_chi_ha_01.xml",
+      "bytes": 56903,
+      "sha256": "26d39e9193a408ba847457f57e6cb04ec08cf7d13ab0058f41280100effa5a3e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_unit_religious_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_unit_religious_control_chi_ha_01.xml",
+      "bytes": 47063,
+      "sha256": "a9a2e5fd729c833f3dca2b18d5330171fe6348bd7d2f89678938ddb6995cd07e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_unit_siege_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_unit_siege_control_chi_ha_01.xml",
+      "bytes": 31852,
+      "sha256": "8a5dd7f2656729287e946fabe0c379f15b55c2d5e2b4fa671899ae6a4411ceb3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_building_wonder_age4_forbidden_control_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_wonder_age4_forbidden_control_chi_ha_01.xml",
+      "bytes": 5375,
+      "sha256": "2ad456a4a11420e58b40bf30b3370cf9b2e580d0d1149d45242a20ebf61816fc",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_gapsa_dummy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_gapsa_dummy.xml",
+      "bytes": 69244,
+      "sha256": "250f100bb0225715e6327b30d00404777ef6ae45cb9df2299695e556751d7ba3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_hwacha_dummy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_hwacha_dummy.xml",
+      "bytes": 69216,
+      "sha256": "cc4c67fafa5ec5e631c05d7fad7c7a33842150fdccfa31450b7a005fa6ba6409",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_naval_trade_post_east.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_naval_trade_post_east.xml",
+      "bytes": 61082,
+      "sha256": "7c421001b0c601b457e301c81d33fb4035041ed5d15cd2b8862549ac52adcf35",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_naval_trade_post_mid_east.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_naval_trade_post_mid_east.xml",
+      "bytes": 61113,
+      "sha256": "79d3fc71ca8a0525827a89eea349756597bcb136c409c6d3e67cafde5c793e0f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_naval_trade_post_west.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_naval_trade_post_west.xml",
+      "bytes": 61100,
+      "sha256": "4e4ca44bbd28d1cc252d873187c6787e14da7fc1ede733629466a68495060148",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_projectile_arrow_naval_nestofbees_special_archer.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_projectile_arrow_naval_nestofbees_special_archer.xml",
+      "bytes": 9764,
+      "sha256": "6fc07f421dc403d31aac1512bfe306ccf3253e2b53df5fe901e36fc59b0a1dd5",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_projectile_arrow_nestofbees_hwacha.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_projectile_arrow_nestofbees_hwacha.xml",
+      "bytes": 19664,
+      "sha256": "1d29c6797bafcaaa1b21a2415ae4f375afc440e704395e0f555fee5d4af1d464",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_projectile_barrage_campaign.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_projectile_barrage_campaign.xml",
+      "bytes": 19569,
+      "sha256": "69a9c1307dae2b68aa83ccaf9ac27c18223fa83d2f1db49a97c3f5babbc93d68",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_projectile_barrage_initial_explosion_campaign.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_projectile_barrage_initial_explosion_campaign.xml",
+      "bytes": 19541,
+      "sha256": "7fb5d5583c2f425044d074f3d53fd0f20424d4d78019a26c48c86e6a26f18b8b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_tiger_hunter_dummy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_tiger_hunter_dummy.xml",
+      "bytes": 69241,
+      "sha256": "6578cd1bdd0ed268d1ddc770b9e1ec06de0763ec09f017ce4142c2c0923278f6",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_archer_2_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_archer_2_ayy.xml",
+      "bytes": 40627,
+      "sha256": "8190f745afd513804e5855cbb4c248974852da6ec2562d257b71ab236691d8e0",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_archer_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_archer_2_chi_ha_01.xml",
+      "bytes": 11478,
+      "sha256": "844c869c43fdf6e5a9c1a958dc356312e81678828dcd2074fb59876a8c63de57",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_archer_3_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_archer_3_ayy.xml",
+      "bytes": 38653,
+      "sha256": "078fbda02697fdc82a1031a4076ce8e501c920c753000dfbc5b54e0ccee219f6",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_archer_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_archer_3_chi_ha_01.xml",
+      "bytes": 10030,
+      "sha256": "6236e5cc82a2c7d60c1012040767e14ebab18a4e8791a6aa2597e49fc42ec903",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_archer_4_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_archer_4_ayy.xml",
+      "bytes": 36328,
+      "sha256": "c5e760c5401cc24f1a7b2f1fe659593c0857b343ea0b29c2933442bbc40155d2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_archer_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_archer_4_chi_ha_01.xml",
+      "bytes": 8181,
+      "sha256": "1c9b03c3a5134cf63423f7d0d2c5995d5d33e395f06c292ce3e29d5219892123",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_bombard_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_bombard_4_chi_ha_01.xml",
+      "bytes": 32999,
+      "sha256": "0a4bc1255dcb306c78e0a145b0220a873fd65321338f1e2dd49013f9e95aeba5",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_crossbowman_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_crossbowman_3_chi_ha_01.xml",
+      "bytes": 11220,
+      "sha256": "f96f6d489e15749ad7e56a13989268f5fd9dcb5a8d003f2e0c1870b94f490df3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_crossbowman_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_crossbowman_4_chi_ha_01.xml",
+      "bytes": 9578,
+      "sha256": "6f0ce57a3c80ceccd77db5b3101deb6e659273e8ae827c5dc7fc9ff256aa94ce",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_handcannon_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_handcannon_4_chi_ha_01.xml",
+      "bytes": 4691,
+      "sha256": "9df5b4596585c718999bcf93f26bea38793972f6e134a4ecda1964b38ef21d97",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_horseman_2_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_horseman_2_ayy.xml",
+      "bytes": 40058,
+      "sha256": "fb4a674211903067df4a5f01602157c08f5aaf9487a9acd0dd7f85951fa8d983",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_horseman_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_horseman_2_chi_ha_01.xml",
+      "bytes": 9096,
+      "sha256": "7bee47476e7dece9a391547f5eecd273098e6e8558d00e3d59a77b8a8688a030",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_horseman_3_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_horseman_3_ayy.xml",
+      "bytes": 38126,
+      "sha256": "7a0daab53785c585bb03fbaf737b1c8ac855e07ed772da05024229bc8d54ea75",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_horseman_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_horseman_3_chi_ha_01.xml",
+      "bytes": 7474,
+      "sha256": "b3f602b3fcd0a5a3e610fbeeba5187e691ecb9550d38116eed8ddf511a9cb157",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_horseman_4_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_horseman_4_ayy.xml",
+      "bytes": 35674,
+      "sha256": "f62ffcb3571fc92311ebc164bc83d6fc666d601df803a6b7c6461c3edd235acb",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_horseman_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_horseman_4_chi_ha_01.xml",
+      "bytes": 5856,
+      "sha256": "fe19a359ca84d5e5b13602ec2d0f3533a3fd05498d80f266df70ab8b13f507c8",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_knight_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_knight_3_chi_ha_01.xml",
+      "bytes": 39642,
+      "sha256": "762bc4cc13b0acc947a6ac9a0540710c3e6fa711a1538f28d66839963b632342",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_knight_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_knight_4_chi_ha_01.xml",
+      "bytes": 37982,
+      "sha256": "e3a9175597fbbe5895345aa4040aea1b9a20986bb0fa5be42daefebe64d892bb",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_leader_baibars_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_leader_baibars_ayy.xml",
+      "bytes": 38354,
+      "sha256": "5fa87f1487c9888f7a7ccd1d0948cffd773e8377097495f543eaba976184cb15",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_manatarms_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_manatarms_3_chi_ha_01.xml",
+      "bytes": 39039,
+      "sha256": "cb34827e239905cbe4e05f21903cd86d655eb10cd5d21fe9d9e86ca95f4e0085",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_manatarms_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_manatarms_4_chi_ha_01.xml",
+      "bytes": 37374,
+      "sha256": "b19d1442d88bfa6707238c8c34034ed6c16e37e6fe444959b76a916a8026a217",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_militia_cmp_chi.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_militia_cmp_chi.xml",
+      "bytes": 65116,
+      "sha256": "8f881737d126a9888da05d754e1e4d01e1039d11bef3fb6d5afb87b65357fe4d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_militia_cru.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_militia_cru.xml",
+      "bytes": 69231,
+      "sha256": "cbb7c20fc45b8b8c4fd9442840aeee2ef34606e8c27ee991a3d29e8d81ae2c24",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_combat_ship_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_combat_ship_3_chi_ha_01.xml",
+      "bytes": 3253,
+      "sha256": "e5fdeee3cc0f4dc4c9a3d905787291f7003984f8547e0eb0203235680cb97aba",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_combat_warship_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_combat_warship_4_chi_ha_01.xml",
+      "bytes": 33843,
+      "sha256": "b476fec34cde75e13b6b0a84cc32cd9c77a5264c8e0d5c78a60c3707c7cab9b3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_fireship_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_fireship_3_chi_ha_01.xml",
+      "bytes": 1324,
+      "sha256": "1827e58828ece1c59fd4b48ebfd76049583b453fdf2fe8500388d54eab6f4fdf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_fishing_boat_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_fishing_boat_2_chi_ha_01.xml",
+      "bytes": 1998,
+      "sha256": "1b9d784f031cc85e855df1640b3ea45db9db0107cb55b503a4623a5f7a845d24",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_scout_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_scout_2_chi_ha_01.xml",
+      "bytes": 1077,
+      "sha256": "c8edb824497f298125b574d02905cbd13b8fe7ac69637c4d14b6517dc165a507",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_trade_ship_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_trade_ship_3_chi_ha_01.xml",
+      "bytes": 1636,
+      "sha256": "a8d985c1bc45f5a33dc1e674685b45b9983872a39d688a7162f0579e161ca040",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_transport_ship_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_transport_ship_2_chi_ha_01.xml",
+      "bytes": 1641,
+      "sha256": "d4136733db62985c3e851a49b773832d1974dd13b6aceddc0176f43cde7d4c8e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_turtle_ship_3_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_turtle_ship_3_korea.xml",
+      "bytes": 33192,
+      "sha256": "f2079783c2210ef8aa26bf8869ae23a65f6d8fce7fa4e50fc879d2b2e7eeb1a7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_naval_war_galley_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_naval_war_galley_3_chi_ha_01.xml",
+      "bytes": 1639,
+      "sha256": "a93053b8da85ce889308d2006b081bed4a2e6ecc4fa9c7358b2684180c560c9a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_nest_of_bees_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_nest_of_bees_4_chi_ha_01.xml",
+      "bytes": 6483,
+      "sha256": "b599f6c186d03f7618d159d39757b2ea9359c737bb9f5dbfb041e4ab929c591a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_official_1_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_official_1_chi_ha_01.xml",
+      "bytes": 33061,
+      "sha256": "23234ecb9f702456b1e478fd2a00e4ac4dafd36fe8ace541beefae27cd12f82c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_repeater_crossbowman_2_chi_ha_01.xml",
+      "bytes": 40953,
+      "sha256": "d3f09f8b8a87172228a777fc08e3490f97d22237f6bf5ae5706e2e61085223d4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_repeater_crossbowman_3_chi_ha_01.xml",
+      "bytes": 39323,
+      "sha256": "2628a19b8f436d4222a24dac9db07bbd44006f5d42a83052b40aa8a858cdc373",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_repeater_crossbowman_4_chi_ha_01.xml",
+      "bytes": 37635,
+      "sha256": "888000177c20e33afe1a8429ca3f90a9ec7b0b0a16b135eab2914fbb8884e4bf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_scout_1_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_scout_1_chi_ha_01.xml",
+      "bytes": 8184,
+      "sha256": "e0d1ef0a8a6ea590024e4339f667e62b8fdee6986441eedf29842080e836d6a5",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_spearman_1_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_spearman_1_chi_ha_01.xml",
+      "bytes": 17286,
+      "sha256": "486ac45e781820de098c7496142230690ac955729c269d01b38cac36ec147001",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_spearman_2_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_spearman_2_chi_ha_01.xml",
+      "bytes": 15515,
+      "sha256": "9673991276ee2bbfb8b8bc55271f7a7d63202710c4b6f0a337b5d3dc8a46a958",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_spearman_3_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_spearman_3_chi_ha_01.xml",
+      "bytes": 13874,
+      "sha256": "d0f97cae28e3848fd85c9c82320e7ff740e480e3649a7eae1ec02e61704f3f95",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_spearman_4_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_spearman_4_chi_ha_01.xml",
+      "bytes": 12232,
+      "sha256": "c148df5bb20ad4ca133cfda4363e1b6b66f207deb77820878717af4d33ee0a45",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_trebuchet_4_cw_chi_ha_01.xml",
+      "bytes": 35795,
+      "sha256": "8d7985d0e37ed07388d557bf7e6f05bdbb3e0bdc412289b3ea6c5ba9d7c0f624",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_unit_villager_1_chi_ha_01.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_unit_villager_1_chi_ha_01.xml",
+      "bytes": 11772,
+      "sha256": "a13b21070aa11895ee93892c8ed4f57419361be5f78bb10c2c74e587847c5c4b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_wpn_siege_keep_cannon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_wpn_siege_keep_cannon.xml",
+      "bytes": 2453,
+      "sha256": "b7e236425654b0f504bed558e6ffb30a29d841cd58d53bd1ef424e748d740242",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/ebps/korea/kr_wpn_siege_keep_hwacha.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_wpn_siege_keep_hwacha.xml",
+      "bytes": 2495,
+      "sha256": "90ba8acda6a4bd4b60cb3387d2323f3e167e0ff1cefc3f6c83d4e46f588cb10d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_acre_barrage_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_acre_barrage_ayy.xml",
+      "bytes": 23045,
+      "sha256": "8eb4a189d5e4cd8e1edd87b55f6603853cfa882e2c6f24e945ad7ee093cd30bb",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_acre_barrage_small_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_acre_barrage_small_ayy.xml",
+      "bytes": 23070,
+      "sha256": "4e2f5a9451fb9f19d986c6d943ee46de6cbcbddafb8b07b51e592863793178ae",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_archery_archer_tier_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_archery_archer_tier_3.xml",
+      "bytes": 23789,
+      "sha256": "509321a93c72eafa5ea54b03cecec67a90c590fcfdb80486cc25a7e95c7e15ec",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_archery_archer_tier_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_archery_archer_tier_4.xml",
+      "bytes": 24524,
+      "sha256": "ca08101940bcd0671e56501287f214792ce3ac9ab5f7bdd9ffc8b92fd2f2ca7b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_archery_crossbow_tier_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_archery_crossbow_tier_4.xml",
+      "bytes": 23803,
+      "sha256": "ece4d942c25215f8fd80fba0780827f16ea6f4dd032da39bf5a57f7d16e002c6",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_archery_ranged_arrow_chutes.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_archery_ranged_arrow_chutes.xml",
+      "bytes": 23983,
+      "sha256": "e72921de1b2098cc8d90456d605d3d1f93cf0c4cedc4e759473170f7d3c35ade",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_archery_tiger_hunter_tier_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_archery_tiger_hunter_tier_3.xml",
+      "bytes": 23877,
+      "sha256": "ef03b9c28e69d33a6dd73f285201efbb30e804266820b628d6768ba57718338b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_archery_tiger_hunter_tier_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_archery_tiger_hunter_tier_4.xml",
+      "bytes": 24662,
+      "sha256": "e52300966ca7dc914d0a14ecd46e08df4337243e2637575e2dab974f9c3bfb6c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_archery_tiger_hunter_tier_rocket.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_archery_tiger_hunter_tier_rocket.xml",
+      "bytes": 24060,
+      "sha256": "b81b355372239f517d861cd320f07a94af953a182baf837ee5041d6413f9f03e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_barracks_maa_heavy_spear_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_barracks_maa_heavy_spear_4.xml",
+      "bytes": 24666,
+      "sha256": "0961c4e8caa675f8795c8730c8bc3fbb0a83e31436db4457dfbbdbfeb1d1db41",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_barracks_spear_tier_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_barracks_spear_tier_2.xml",
+      "bytes": 24526,
+      "sha256": "6945880b37b83c08a9eb7bf65b558fb778f96fcaf9b32074a76aa663011df924",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_barracks_spear_tier_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_barracks_spear_tier_3.xml",
+      "bytes": 25258,
+      "sha256": "075206d4f7906661f99d0e36b75006c1d329173bb5738180ccebd77ee030cdd7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_barracks_spear_tier_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_barracks_spear_tier_4.xml",
+      "bytes": 25259,
+      "sha256": "61744d0768c3aef3691d1354f2be033e6421fa11b3460a739331de75cb1fbe8d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_barracks_unique_tech_spear.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_barracks_unique_tech_spear.xml",
+      "bytes": 24659,
+      "sha256": "4bce68e3ae54c0f13eb6c21cffb2783d2f5db2b308128a669d4a73e13a76547f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_melee_armor_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_melee_armor_1.xml",
+      "bytes": 26910,
+      "sha256": "f8bc446b2abaa48d309d9bcfaa0f576225aada44ca9dc264f17ada44c4147fb4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_melee_armor_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_melee_armor_2.xml",
+      "bytes": 28775,
+      "sha256": "7004c92f00d72f8aa72be5cb850ab62d733c3d436f354b1e785da52d78eb25dd",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_melee_armor_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_melee_armor_3.xml",
+      "bytes": 30636,
+      "sha256": "d4f8f179852299fd3a0e10785ad0ec827dd10acc8ab325038ae96b1e8250b642",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_melee_damage_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_melee_damage_1.xml",
+      "bytes": 26909,
+      "sha256": "59e3d8410ef692739be22730428ec2807e119223a0df9f2e6fcbabcdb4aa1d3c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_melee_damage_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_melee_damage_2.xml",
+      "bytes": 28780,
+      "sha256": "201b9536621d2323465511c7b94c275d139c4428139f848340f76a1c947a6381",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_melee_damage_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_melee_damage_3.xml",
+      "bytes": 30664,
+      "sha256": "41a5a077538623d3a75ad5ad4fc6d04463675d5184c0f2779c19b17165776348",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_military_academy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_military_academy.xml",
+      "bytes": 26891,
+      "sha256": "c0008e2330e2ba5946154349cae4bf9b53ac214860d98145a028099af28cf978",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_ranged_armor_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_ranged_armor_1.xml",
+      "bytes": 26912,
+      "sha256": "2cd8a890005f52c29aee22e567a98ab4a6b7c12001b1a9539579a2b5e5f0a025",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_ranged_armor_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_ranged_armor_2.xml",
+      "bytes": 28783,
+      "sha256": "50d88a16e7812552bddd4c2f3956e22f8775aa555097e9f3153f4b4d61b3bfeb",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_ranged_armor_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_ranged_armor_3.xml",
+      "bytes": 30661,
+      "sha256": "69278fc5274e0b42388b05f412c98c4ed6f06558423605bc8c9f081ea1073527",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_ranged_damage_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_ranged_damage_1.xml",
+      "bytes": 26912,
+      "sha256": "fc76f8ce85a7fa5e8ac3a2bdd451fb6ec44493d777cf6132decede60540bc760",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_ranged_damage_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_ranged_damage_2.xml",
+      "bytes": 28789,
+      "sha256": "9bcfa8794dd88a4e6ad9a921c03ea4250939c955519658605e354354bd5770c8",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_ranged_damage_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_ranged_damage_3.xml",
+      "bytes": 30667,
+      "sha256": "5d5a8163b6fa486fe62df234197f3bc9dd260c2335783b7044d1189df01501e1",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_blacksmith_siege_engineers.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_blacksmith_siege_engineers.xml",
+      "bytes": 26665,
+      "sha256": "c66e21730ae656ba826c5f36d42c2e972915d1d413799a2019e0dbef06511dcf",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_building_spend_10_or_less.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_building_spend_10_or_less.xml",
+      "bytes": 23113,
+      "sha256": "0a507611e92c8799b54f8ced7e256b98579ecbe10bbcc5bb6dbabfea916bdeeb",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_convert_archer_to_horseman.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_convert_archer_to_horseman.xml",
+      "bytes": 23082,
+      "sha256": "6014da73ab0f024f0b13f9c731da3dd8450fcf028462d8ab51ad5f93115daf6d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_convert_horseman_to_archer.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_convert_horseman_to_archer.xml",
+      "bytes": 23096,
+      "sha256": "39a25a41e5ab8bf97780f21585c3fc8c96ed480fa080f511332a111b5a79290d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_core_market_buy_merc_bulk_kor.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_core_market_buy_merc_bulk_kor.xml",
+      "bytes": 1075,
+      "sha256": "baaa543fa4e45c26a8e24c76d135d2ea82bb9cba9449ee1151a36a99fd43532b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_core_market_buy_merc_kor.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_core_market_buy_merc_kor.xml",
+      "bytes": 26691,
+      "sha256": "90acc3eb52418d5d76ce883be32defd8c0329c7cc559528bd4897d17c464055c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_core_market_sell_merc_bulk_kor.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_core_market_sell_merc_bulk_kor.xml",
+      "bytes": 1079,
+      "sha256": "5db24da7a95d7647711e89483bca7f72c743f00c118e1698fef23e74eebdae63",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_core_market_sell_merc_kor.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_core_market_sell_merc_kor.xml",
+      "bytes": 26706,
+      "sha256": "cd11f0bb011446dedf5811ed4761fab03cfc787c72cbd72b19c64e54410ed55e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_display_foreign_tech_for_everyone.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_display_foreign_tech_for_everyone.xml",
+      "bytes": 23075,
+      "sha256": "409609ee64f1fe25b6289fd2009aa756086fc54535062c3f23a84d03afa3e47c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_lumber_mine_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_lumber_mine_1.xml",
+      "bytes": 26719,
+      "sha256": "3f7b2683fa9fe143a1d99ff46c1a2a2af813a04e0ceaca560eb85491523349c7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_lumber_mine_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_lumber_mine_2.xml",
+      "bytes": 28585,
+      "sha256": "59ea25167c59d35924bdad6876e38a88d713ac01c607d1a28b92eec73934e62f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_lumber_mine_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_lumber_mine_3.xml",
+      "bytes": 28592,
+      "sha256": "7473539fafb4c0328285ee2ecf9212444bf639b05731fff4a9b7f004b38a65d0",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_lumber_wood_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_lumber_wood_1.xml",
+      "bytes": 26711,
+      "sha256": "10f4c70a9fddff9b6a02a6c6fd4d5fa1f2a85d9a0d68b3f252ec932802b57132",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_lumber_wood_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_lumber_wood_2.xml",
+      "bytes": 28585,
+      "sha256": "952248d52e8962a4d9e41cc6ea2939a0cd596fc39fed6d0209d08c04446cdb6c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_lumber_wood_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_lumber_wood_3.xml",
+      "bytes": 28649,
+      "sha256": "d56659ede7b2d71c82dd3a00a348505a09dc7d214add4762a4024ce122b4e0e7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_lumber_wood_chop.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_lumber_wood_chop.xml",
+      "bytes": 24985,
+      "sha256": "acb3421d72fa4b9a6b917c34dfd116afe2c2815b77d19b0e0474129f0894b677",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_mill_food_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_mill_food_1.xml",
+      "bytes": 27473,
+      "sha256": "e312750ab10f1f5bf0624b3e1457e8105d878bc3e442d2ed7e980158cb87d91f",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_mill_food_2.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_mill_food_2.xml",
+      "bytes": 29346,
+      "sha256": "e8cc9ed65c092767ee771ed2e2ac1f0cdc7a773e29ee6adf7c9e47c64d9130a9",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_mill_food_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_mill_food_3.xml",
+      "bytes": 29361,
+      "sha256": "3dc9e6474b1e3ce9525db7b2467c56bbe3a93171ce123a6aa70c4e41f8cf2cf4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_mill_hunt_gather_rate.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_mill_hunt_gather_rate.xml",
+      "bytes": 25991,
+      "sha256": "9668454b398029ea531771025cc6140803d216123f6f6961878f5d4751706cce",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_mill_pro_scout.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_mill_pro_scout.xml",
+      "bytes": 26265,
+      "sha256": "33f195e9b4df3fbd7bb1ad74a75909ab307f4ff57f90ef3da9abd5f036fbecb7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_economic_mill_wheelbarrow.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_economic_mill_wheelbarrow.xml",
+      "bytes": 27442,
+      "sha256": "f79f4ec0a4e8c10a785ebc86c2f2ccf18ed7223d3dd7b9394a3a29d209b06db7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_general_aura_infantry.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_general_aura_infantry.xml",
+      "bytes": 23280,
+      "sha256": "0dc3a23d3bf26a186d64aa6af4c87720f5f51f383c1bb9bf5a212a723b814173",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_general_aura_logistics.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_general_aura_logistics.xml",
+      "bytes": 23317,
+      "sha256": "3828c93c1d08316dfc941ae7ba755d7e859a10898a4bcd180b811faf1c06c6a1",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_general_aura_production.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_general_aura_production.xml",
+      "bytes": 23273,
+      "sha256": "117a7321857202fe71112a7400a2d809f14c7d193554459fba392f806274c409",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_general_aura_raiding.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_general_aura_raiding.xml",
+      "bytes": 23281,
+      "sha256": "321a98be37bb21c981864b5fcb9f7b25c2299fc5b2466ea66e087d6de3ac2771",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_general_aura_siege.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_general_aura_siege.xml",
+      "bytes": 23291,
+      "sha256": "13f5e8c85be23cbdd4a1c1e1058e70dfda426ed890716377152518e53f93f738",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_hall_of_worthies_food_decree.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_hall_of_worthies_food_decree.xml",
+      "bytes": 22517,
+      "sha256": "4287d0128d8dc8e97c8406ed9957ff06173770d797bcfe61311a24454232f102",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_hall_of_worthies_gold_decree.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_hall_of_worthies_gold_decree.xml",
+      "bytes": 22510,
+      "sha256": "e041c5332122776cfea865d2d7d00b111bb3dbab6751d72953f020f04e2e776e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_hall_of_worthies_stone_decree.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_hall_of_worthies_stone_decree.xml",
+      "bytes": 22478,
+      "sha256": "44ac794e3631e0e5ec45ad68f8d37c286c2eaaaf27010c7dfc18f74c0238da2b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_hall_of_worthies_wood_decree.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_hall_of_worthies_wood_decree.xml",
+      "bytes": 22507,
+      "sha256": "b8a3fc4d2c8e48271f898084c7defb251c652982069479f5118e991f6a8dac31",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_horseman_or_archer_kill_tracker.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_horseman_or_archer_kill_tracker.xml",
+      "bytes": 23099,
+      "sha256": "d834784e856140ae6d0261147f6e8dff763ffb6baaef8714732a3c90146731f3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_hwarang_study_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_hwarang_study_korea.xml",
+      "bytes": 30286,
+      "sha256": "95d4dcc832bfb5a826b847e8c41227c407b032d74216b055ded562e254f3d21e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_korea_rigteous_army_range.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_korea_rigteous_army_range.xml",
+      "bytes": 13484,
+      "sha256": "8dbc2a840f44a655e1240f0a1bff1ecbacfb4cc3d597367345c4e0c11114faca",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_korea_seowon_range.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_korea_seowon_range.xml",
+      "bytes": 13219,
+      "sha256": "92e162c553b969075ffd91dca9d7f96179acfc45dddcbfc5e93a2db572351a99",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_korea_seowon_range_dummy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_korea_seowon_range_dummy.xml",
+      "bytes": 13485,
+      "sha256": "1e393314029e2929d213ba65bd146853983ce124e1291af66c430c42cb070912",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_armor_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_armor_activated.xml",
+      "bytes": 24228,
+      "sha256": "37255227ee97ef29f43af0e658b03361c5f36b422d414e996e7bb5f55e757e9c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_attack_speed_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_attack_speed_activated.xml",
+      "bytes": 36027,
+      "sha256": "b6c73c26c76383659ea5e584b03c6c52bb35aa756435ee8e6afec2197ac6243d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_construction_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_construction_activated.xml",
+      "bytes": 36003,
+      "sha256": "7b927ffb7bac42be0eaff7c56615ed386755570146f770cdcb5435b180394db5",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_damage_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_damage_activated.xml",
+      "bytes": 24073,
+      "sha256": "59b4ec4c1b9dd41688075800c51c77555929bac694add00c49318027eaee53f9",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_decay_armor_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_decay_armor_activated.xml",
+      "bytes": 38806,
+      "sha256": "19f52e2985afac4641e6d2c859ff73e639f32ba919dd4fb65516b23554e3a570",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_falcon_sight.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_falcon_sight.xml",
+      "bytes": 36994,
+      "sha256": "9fa9ea60b96597855273baccd3658401fd55a2e628e0f2f7fceda77121aed4d4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_gunpowder_attack_speed_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_gunpowder_attack_speed_activated.xml",
+      "bytes": 35927,
+      "sha256": "e74b03bd75cf14d15fd5ae6a68a63f69c2b85a419861fa2f1e32524c37361f77",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_healing_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_healing_activated.xml",
+      "bytes": 36518,
+      "sha256": "7e55813fc3fc76887e09bec126ee73d6ab2f7f3da3275dffedee8350a1d251fb",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_improved_armor_maneuver_arrow.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_improved_armor_maneuver_arrow.xml",
+      "bytes": 37490,
+      "sha256": "862529faa8a3b93e247893563846f43652b84bc57750e5c9ed1f3af9ac8eadcb",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_improved_incendiary_attack_speed_arrow.xml",
+      "bytes": 38337,
+      "sha256": "f1ba6c18d94693c14b8ba3ee1d3a6fb7f375a7ab425962b63031c6efc4c6fb78",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_knight_damage_move_speed_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_knight_damage_move_speed_activated.xml",
+      "bytes": 35867,
+      "sha256": "531d94d625dab4a42a2e544ebf3221126e0889d007e524a8bae796294c1bc197",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_move_speed_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_move_speed_activated.xml",
+      "bytes": 36519,
+      "sha256": "90a917dfa804fd5e2a059d50fcd83f22a73017356369f41eff7799347b366dad",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_production_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_production_activated.xml",
+      "bytes": 36434,
+      "sha256": "4f8e02752d95b3e02bcae2e3a54ea6683d72c23f07a6e3a0fd20a8ceb596d8fe",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_production_mon_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_production_mon_activated.xml",
+      "bytes": 35486,
+      "sha256": "f9f105cef4d3cde2cbade7ec7a25728145d47ecd72117ba0eca7b548a62e6c7e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_ranged_attack_speed_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_ranged_attack_speed_activated.xml",
+      "bytes": 36643,
+      "sha256": "c3dc325def1f82ed389099aa06f497f3aba827a4e37bbfcd7dc0ec27a8feb311",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_leader_siege_damage_activated.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_leader_siege_damage_activated.xml",
+      "bytes": 24077,
+      "sha256": "c223e4bab55ef2ce8a35fd593fcf82a3eed678bf0784dbda502bafea6fafae76",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_longbow_set_up_camp_nrm.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_longbow_set_up_camp_nrm.xml",
+      "bytes": 12161,
+      "sha256": "a2ca558c9d2779603aeed2205f73d75dab089b9e96a1d2d458a296e05e0cd317",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_mehter_attack_buff_ott.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_mehter_attack_buff_ott.xml",
+      "bytes": 11881,
+      "sha256": "8dd60cef46e1a8033cc607d9688be66c6d95bb419dcfd3362810d394656eab6e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_monestary_herbal_medicine.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_monestary_herbal_medicine.xml",
+      "bytes": 26270,
+      "sha256": "f900d1d33c7ba3e6bd60f9febf5c09eb1c946566322e0ed6b6037e6b709db4f2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_monestary_piety.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_monestary_piety.xml",
+      "bytes": 25472,
+      "sha256": "a9b72cc00427d2baf2150f63d730e0047d03349456343afd0244d681ffbca4fe",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_monestary_tithe_barns.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_monestary_tithe_barns.xml",
+      "bytes": 26382,
+      "sha256": "982bd58804044b13cbdecec213ca76033bb264a109150abc680b8a71cd9ef8e7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_monk_inspire_target_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_monk_inspire_target_ayy.xml",
+      "bytes": 27413,
+      "sha256": "9b5bf8dfab906d4d337462420cf9b5fcd10c6ea116a7ef846ee53d00cc34b203",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_naval_armored_hull.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_naval_armored_hull.xml",
+      "bytes": 24800,
+      "sha256": "e692422493b5585c95f9f4cd29bb5db3a7f42aa77baea72dcd07456958fe33d6",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_naval_econ_drift_nets.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_naval_econ_drift_nets.xml",
+      "bytes": 26039,
+      "sha256": "dfa3aea79303450e266888072167eef22f2448237746aec5ce77c49905a176f1",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_naval_explosives.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_naval_explosives.xml",
+      "bytes": 24739,
+      "sha256": "ae19eac0ceddb01ec8920c5c474215d9128a1862e42a64e9bd68c8e2c06665ff",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_naval_extra_hammocks.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_naval_extra_hammocks.xml",
+      "bytes": 24739,
+      "sha256": "d275d701f029b1cf45c17a33efeb5675a327ea2d479ea0011cf1365b48ccbc84",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_naval_heated_shot.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_naval_heated_shot.xml",
+      "bytes": 24514,
+      "sha256": "655e82992ac1838264e7202d1c6af5e8e088d11ed71d28042d07e34a78d1f8e7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_naval_shipwrights.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_naval_shipwrights.xml",
+      "bytes": 25546,
+      "sha256": "e4d4eca722de607476f6237e1daf6e78096181847e1f77d8be50f01c4e29175b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_naval_swivel_cannon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_naval_swivel_cannon.xml",
+      "bytes": 24563,
+      "sha256": "565f62e3da9d3b506bf8198319a4d2d12e1ebe67e3b53d8c36018525fa395043",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_naval_upgrade_naval_incendiaries.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_naval_upgrade_naval_incendiaries.xml",
+      "bytes": 24735,
+      "sha256": "20072b59391d7b4fac7197e9a83d21de76d49126688e233139e3cc2ed2fd40c0",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_saladin_armor_activated_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_saladin_armor_activated_ayy.xml",
+      "bytes": 24621,
+      "sha256": "2a854533f6b41e272c10c1ac4a37ecab44df291ee4b11699921597ff04f9b474",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_senobi_give_10_ticket_to_building.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_senobi_give_10_ticket_to_building.xml",
+      "bytes": 29050,
+      "sha256": "7dd150337eec6287468e76ce9a2df99998f9799d4384c8c2a4d89c8545e66899",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_senobi_give_30_ticket_to_building.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_senobi_give_30_ticket_to_building.xml",
+      "bytes": 29052,
+      "sha256": "0a5dd40294dd0960fccc54d1a2043642c3f9c8943d932197d96bd8258d7a33b4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_senobi_give_max_ticket_to_building.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_senobi_give_max_ticket_to_building.xml",
+      "bytes": 29049,
+      "sha256": "0f695c48cf7bd97845a8dd9cc4b59639c3ed332a0857aec7773cf5041d2852f5",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_senobi_study_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_senobi_study_korea.xml",
+      "bytes": 29523,
+      "sha256": "11228ed1423a3ef6b2c76fe4fac2a58bd3f31c0bf6ca7082902be89c369a12dd",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_senobi_take_30_ticket_from_seowon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_senobi_take_30_ticket_from_seowon.xml",
+      "bytes": 24294,
+      "sha256": "19aaf8cf18740d4a534fa5c9f635b94b26a2b6daf325588233a0c8cc4b179e68",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_senobi_take_5_ticket_from_seowon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_senobi_take_5_ticket_from_seowon.xml",
+      "bytes": 24289,
+      "sha256": "c703823d4e0319920089cdfc87222cfd662673feff702904335adc1c982e49cc",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_senobi_take_60_ticket_from_seowon.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_senobi_take_60_ticket_from_seowon.xml",
+      "bytes": 24278,
+      "sha256": "348cab32288b8f6c9c1eb659d414b61332915f40e5cff80ec915e15cf526f064",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_seowon_hungul_script_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_seowon_hungul_script_korea.xml",
+      "bytes": 24677,
+      "sha256": "3df372deb1789d27d2020bafec85bed4de28c06e3a37ef5cfc2602f2c23f1fa3",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_seowon_hungul_script_korea_for_feudal_landmark.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_seowon_hungul_script_korea_for_feudal_landmark.xml",
+      "bytes": 23918,
+      "sha256": "26e99276b48b102fce9e8ada316cf0e511568880df4f3619629896705c0ba78e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_shirkuh_speed_activate_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_shirkuh_speed_activate_ayy.xml",
+      "bytes": 24793,
+      "sha256": "54eaaaffa42993f06878ed956c541deda346c5ab7688de0170439131e56c4c5a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_siege_bombard_range.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_siege_bombard_range.xml",
+      "bytes": 23923,
+      "sha256": "9aee3ab1d345c6741df0c2103851b25c7faf7772008b9cf73381da6e41ae4e69",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_siege_mathemathics.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_siege_mathemathics.xml",
+      "bytes": 24737,
+      "sha256": "37370c5eab0bf69356ab664906a0b2312561974a4f1e2e51eef9f30646316f47",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_siege_movement_speed.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_siege_movement_speed.xml",
+      "bytes": 25482,
+      "sha256": "d6371fc54aded970145d9e41bb1adc79c334ee33c11e590ae62b6718a4858042",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_siege_ram_upgrade.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_siege_ram_upgrade.xml",
+      "bytes": 26294,
+      "sha256": "ac21cb5e110f4d2f6b2f8bae2527b038a18cac4b86b472368e9f17596f8af137",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_siege_roller_shutter_trigger.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_siege_roller_shutter_trigger.xml",
+      "bytes": 25571,
+      "sha256": "8d848ba87210727824b288fea80aa6dc0071e7e5fb3e730de161a0ba85c6189b",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_smoke_reaction_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_smoke_reaction_ayy.xml",
+      "bytes": 22938,
+      "sha256": "54a950ab306f9a5b7fc9322a0c7865fc777aeca9d5ae69bc412dd1180f1d5df6",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_stable_horseman_tier_3.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_stable_horseman_tier_3.xml",
+      "bytes": 24526,
+      "sha256": "68fb7e32e01be3d1ef8379ee596ea26a9bea4ddb31dcf686b071e53b7fe6bc5c",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_stable_horseman_tier_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_stable_horseman_tier_4.xml",
+      "bytes": 25262,
+      "sha256": "e6918ae7def68b0379235def18fdcb3e59b6a4f790fa8efd8e61f12cc5397a6e",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_stable_knight_range.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_stable_knight_range.xml",
+      "bytes": 24621,
+      "sha256": "26b3040a569f38f862ef8c3da0d94399f1d396d5ed64d4e4e4c8aff20743cdf8",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_stable_knight_tier_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_stable_knight_tier_4.xml",
+      "bytes": 24521,
+      "sha256": "cbff98f89a4d65704a08e1a01f1c22ea38a4eccbb72a387066314f96b5835757",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_stable_scout_los_incrase.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_stable_scout_los_incrase.xml",
+      "bytes": 24715,
+      "sha256": "6d02df754115fdd6d297bfe41ad15def3ad23b282a1dc6101d45f3de4aa943ca",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_templar_master_attack_speed_tem.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_templar_master_attack_speed_tem.xml",
+      "bytes": 11839,
+      "sha256": "440f81f322a895045761370570a3d20f03a8c4a204f8aa01f4d352bcb191fcea",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_toggle_saladin_armor_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_toggle_saladin_armor_ayy.xml",
+      "bytes": 25186,
+      "sha256": "449e34bef1d02e79e730d87cc3fe02bae1b60bb9b736756535d2929a21544dcc",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_toggle_saladin_speed_ayy.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_toggle_saladin_speed_ayy.xml",
+      "bytes": 29962,
+      "sha256": "4469021b8201f318a180391747b371b42205ab8e2669510b57cd54ef5d474122",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_town_center_textile_korea.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_town_center_textile_korea.xml",
+      "bytes": 24729,
+      "sha256": "8381907aed9fbfbe2b184cd45b6ac427278ec1969f4170ce390d465a1ae8e92a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_university_architecture_4.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_university_architecture_4.xml",
+      "bytes": 25736,
+      "sha256": "b306f46665ac03004bb0f20668e24ab2222d4e4ce7102baf89b3c86f9a3c0e9d",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_university_biology.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_university_biology.xml",
+      "bytes": 26423,
+      "sha256": "17fcb61fccf3daf16c24fe3cd78398722cbfa294ec9493aa992e5771cb0b2573",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_university_elite_army_tactic.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_university_elite_army_tactic.xml",
+      "bytes": 26556,
+      "sha256": "d3dbc9c1736dc02fd6e2e25b2c4a02a785f4b87eabfeb2f9862925777112f768",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_university_leadshot.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_university_leadshot.xml",
+      "bytes": 26451,
+      "sha256": "5deeda13613f4e0dad448182d5d6e28358722a068eb8827ef5aac4f3334eff86",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_university_ranged_incendiary.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_university_ranged_incendiary.xml",
+      "bytes": 25717,
+      "sha256": "3e41238b4e8c90d0ea273d27c6b351c9ecd0f21ef5578ffb3cc97d9a7d7138f2",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_university_siege_cemistary.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_university_siege_cemistary.xml",
+      "bytes": 25704,
+      "sha256": "3cf92145638a386107ab24489c702829a13c1df0081b556e9c5df7f6f20eadd4",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_university_siege_works.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_university_siege_works.xml",
+      "bytes": 27929,
+      "sha256": "f6006166a3e5c6d13c702dc5e938ebd9bc5cc5d760492dd766ae572ae580043a",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_university_silkstring.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_university_silkstring.xml",
+      "bytes": 27319,
+      "sha256": "aa2ae4652e421f34f666e44e214c583d957e849415e1b125c4ee49bbf2822af7",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_upgrade_discount_for_observatory.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_upgrade_discount_for_observatory.xml",
+      "bytes": 11912,
+      "sha256": "0a8347dd560c9d624c4c54c26f178f404aacf4ed0b616057218839dd5f169e45",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_upgrade_econ_extended_lines.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_upgrade_econ_extended_lines.xml",
+      "bytes": 25234,
+      "sha256": "266ebff3acc8e9870688c5dfc3b7d6c96ad5e1b200214ea7b1d7cf96ac2d5e90",
+      "role": "editable original XML reference; native table is current build authority"
+    },
+    {
+      "path": "attribute-editor/abilities/korea/kr_upgrade_naval_springald_ship_upgrade_1.xml",
+      "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\abilities\\korea\\kr_upgrade_naval_springald_ship_upgrade_1.xml",
+      "bytes": 24811,
+      "sha256": "cf6fa957d3b6ffd1e053b22ef9e18f7b5541aa3b4258534466c251bdd5628611",
+      "role": "editable original XML reference; native table is current build authority"
+    }
+  ],
+  "audio": "Vietnam shipped Ogg clips are editable whole files under inputs/native/audio, not duplicated in authoring. Original WAV or voice-generation environments are not in the accepted combined GitHub snapshot.",
+  "historical_trials": "omitted from new repositories; preserved unchanged in original combined source/history",
+  "no_extra_downloads": true,
+  "source_root_aliases": [
+    "E:\\age of empires 4 mods\\01_Custom_Civilizations\\Community_Civilization_pack\\Community_civilization_pack_garrison",
+    "F:\\aoe_4_temp\\community_civilization_pack_garrison_aoe4",
+    "F:/aoe_4_temp/Temp_before_github_push"
+  ]
+}

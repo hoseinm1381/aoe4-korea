@@ -1,0 +1,201 @@
+{
+  "race": "korea",
+  "logical_working_files_excluding_git_output_release": {
+    "root files": {
+      "files": 11,
+      "bytes": 15286
+    },
+    "inputs": {
+      "files": 47,
+      "bytes": 2537928
+    },
+    "source": {
+      "files": 414,
+      "bytes": 82876468
+    },
+    "authoring": {
+      "files": 379,
+      "bytes": 9582463
+    },
+    "docs": {
+      "files": 20,
+      "bytes": 530321
+    },
+    "tools": {
+      "files": 6,
+      "bytes": 26290
+    },
+    "tests": {
+      "files": 3,
+      "bytes": 10010
+    }
+  },
+  "working_bytes_excluding_git_output_release": 95578766,
+  "files_requiring_large_file_policy": [],
+  "native_input_bytes": 2527976,
+  "native_texture_members": 45,
+  "texture_parse_failures": [],
+  "native_mip_payload_bytes_by_path": 8932048,
+  "decoded_rgba8_mips_bytes_by_path": 35728192,
+  "decoded_rgba8_mips_bytes_unique_content": 35722368,
+  "measurement": "Logical file bytes and all packaged texture mip payloads; decoded RGBA8 expansion is a working-memory estimate, not observed residency/VRAM or frame-time.",
+  "performance_acceptance": "Not measured; inherited accepted resources preserved",
+  "budget": "Standalone ZIP <=300000000 bytes. No incremental compressed contribution is claimed because there is no previously accepted standalone baseline.",
+  "largest_textures": [
+    {
+      "member": "ui/icons/korea/koreancover.rrtex",
+      "sha256": "279b863dab6bf5f810e14e71c7bfe0e907334fef8a7965187b0129e8f05c1748",
+      "archive_member_bytes": 1700011,
+      "native_mip_payload_bytes": 2097664,
+      "decoded_rgba8_mips_bytes": 8390656,
+      "mips": 1,
+      "max_width": 1928,
+      "max_height": 1088
+    },
+    {
+      "member": "ui/images/garrison/korea/presentation/flag_background.rrtex",
+      "sha256": "e76e0e942043eadc092f73e68e1eb5ce60557725cda853d73e520009476d6f31",
+      "archive_member_bytes": 204367,
+      "native_mip_payload_bytes": 2073600,
+      "decoded_rgba8_mips_bytes": 8294400,
+      "mips": 1,
+      "max_width": 1920,
+      "max_height": 1080
+    },
+    {
+      "member": "ui/images/garrison/korea/presentation/flag_loading.rrtex",
+      "sha256": "17a690f9d734e3c4faf8992cbf2f22a18c5107b7c7c44b3192efcbf56832cacb",
+      "archive_member_bytes": 204364,
+      "native_mip_payload_bytes": 2073600,
+      "decoded_rgba8_mips_bytes": 8294400,
+      "mips": 1,
+      "max_width": 1920,
+      "max_height": 1080
+    },
+    {
+      "member": "ui/images/garrison/korea/presentation/flag_mastery.rrtex",
+      "sha256": "17c03dcafa72ec7b516a87a77d1cd617c9d49008036d544f8ed2363cc7d60171",
+      "archive_member_bytes": 72944,
+      "native_mip_payload_bytes": 653856,
+      "decoded_rgba8_mips_bytes": 2615424,
+      "mips": 1,
+      "max_width": 1112,
+      "max_height": 588
+    },
+    {
+      "member": "ui/images/garrison/korea/presentation/flag_tile.rrtex",
+      "sha256": "1e8c9e6709e0d8ce0858f6dee396be268cabad166713f0cfce86ee0ee34a1d8f",
+      "archive_member_bytes": 65212,
+      "native_mip_payload_bytes": 588800,
+      "decoded_rgba8_mips_bytes": 2355200,
+      "mips": 1,
+      "max_width": 736,
+      "max_height": 800
+    },
+    {
+      "member": "ui/images/garrison/korea/presentation/flag_pattern.rrtex",
+      "sha256": "045a4d3aee23f72bd25ac7039e0d98d5281f39e9f91d78e00290357ce541fd6a",
+      "archive_member_bytes": 39441,
+      "native_mip_payload_bytes": 394240,
+      "decoded_rgba8_mips_bytes": 1576960,
+      "mips": 1,
+      "max_width": 1120,
+      "max_height": 352
+    },
+    {
+      "member": "ui/icons/korea/main_icon.rrtex",
+      "sha256": "88cb8184fe3524e7a1d9a14064489f2cf16344a5835e9f9ac600668541507b21",
+      "archive_member_bytes": 33465,
+      "native_mip_payload_bytes": 307200,
+      "decoded_rgba8_mips_bytes": 1228800,
+      "mips": 1,
+      "max_width": 640,
+      "max_height": 480
+    },
+    {
+      "member": "ui/icons/korea/koreans_2.rrtex",
+      "sha256": "6d467b98e935c7b6925a6ab4ce03eca1da2ae4b282eab878bfd453d4d1305595",
+      "archive_member_bytes": 25059,
+      "native_mip_payload_bytes": 230400,
+      "decoded_rgba8_mips_bytes": 921600,
+      "mips": 1,
+      "max_width": 480,
+      "max_height": 480
+    },
+    {
+      "member": "ui/images/garrison/korea/presentation/flag_secondary.rrtex",
+      "sha256": "19043fa1f407447fab642cd1d6163f35cbf465505d1bf8c98e541c543e6eb82d",
+      "archive_member_bytes": 18056,
+      "native_mip_payload_bytes": 109120,
+      "decoded_rgba8_mips_bytes": 436480,
+      "mips": 1,
+      "max_width": 440,
+      "max_height": 248
+    },
+    {
+      "member": "mod.rrtex",
+      "sha256": "88b2691efdb66882b906ce7538497946532f0c5ad206bd0bf83b2379ff82ca15",
+      "archive_member_bytes": 406,
+      "native_mip_payload_bytes": 65536,
+      "decoded_rgba8_mips_bytes": 262144,
+      "mips": 1,
+      "max_width": 256,
+      "max_height": 256
+    },
+    {
+      "member": "ui/images/garrison/korea/presentation/flag_fade.rrtex",
+      "sha256": "589666e2d00306d5a1bd8c26aab10a225b09a893a69c90c603c153562b90ae2d",
+      "archive_member_bytes": 7291,
+      "native_mip_payload_bytes": 35776,
+      "decoded_rgba8_mips_bytes": 143104,
+      "mips": 1,
+      "max_width": 344,
+      "max_height": 104
+    },
+    {
+      "member": "ui/images/garrison/korea/presentation/flag_secondary_small.rrtex",
+      "sha256": "ab7891ad373bf42b6fd0f817b1ab2f17c9aa350e887e62d5e4b60144ae821e8a",
+      "archive_member_bytes": 8574,
+      "native_mip_payload_bytes": 27280,
+      "decoded_rgba8_mips_bytes": 109120,
+      "mips": 1,
+      "max_width": 220,
+      "max_height": 124
+    },
+    {
+      "member": "ui/icons/korea/arrowchuteicon.rrtex",
+      "sha256": "f01214eb13a5a30ca92423e84069f72ce57854af06c701a82d6583969af6ebbf",
+      "archive_member_bytes": 4188,
+      "native_mip_payload_bytes": 9216,
+      "decoded_rgba8_mips_bytes": 36864,
+      "mips": 1,
+      "max_width": 96,
+      "max_height": 96
+    },
+    {
+      "member": "ui/icons/korea/bulgulksatemple.rrtex",
+      "sha256": "c0ad6063bd8e84fa27a4479ca53b90b1949810a10687a6a4141481e208913faf",
+      "archive_member_bytes": 5474,
+      "native_mip_payload_bytes": 9216,
+      "decoded_rgba8_mips_bytes": 36864,
+      "mips": 1,
+      "max_width": 96,
+      "max_height": 96
+    },
+    {
+      "member": "ui/icons/korea/chongtongicon.rrtex",
+      "sha256": "4451d29b10040ec46647aec8f13aa43e2b52a7b05cac00928c186d9453836767",
+      "archive_member_bytes": 3703,
+      "native_mip_payload_bytes": 9216,
+      "decoded_rgba8_mips_bytes": 36864,
+      "mips": 1,
+      "max_width": 96,
+      "max_height": 96
+    }
+  ],
+  "player_zip_bytes": 4155140,
+  "archive_bytes": 14134248,
+  "zip_under_300MB": true,
+  "verified_generated_staging_removed_bytes": 89307692,
+  "measurement_stage": "Final retained source after approved staging cleanup"
+}

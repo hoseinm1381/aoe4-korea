@@ -1,0 +1,16 @@
+{
+  "description": "Korea turns scholarship into military strength. Scholars and Seowons support Literature income and Korean research, opening access to foreign technologies. Transform eligible archers and horsemen, field Hwacha barrages, and choose specialized landmarks to build a flexible economy and army.",
+  "summary": "Literature, Scholars, Foreign Technologies.",
+  "author": "hosein81 and chilly5",
+  "civilization": {
+    "period": "Three Kingdoms to Joseon",
+    "difficulty": 3,
+    "tagline": "Literature, Scholars, Foreign Technologies",
+    "bonuses": [
+      "Scholars and Seowons support Literature income.",
+      "Research foreign technologies through Korean research.",
+      "Transform eligible archers and horsemen.",
+      "Deploy Hwacha barrages and specialized landmarks."
+    ]
+  }
+}

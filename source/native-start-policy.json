@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "food": 150.0,
+    "action": 2.0,
+    "gold": 50.0,
+    "militia_hre": 0.0,
+    "popcap": 0.0,
+    "stone": 0.0,
+    "merc_byz": 0.0,
+    "command": 0.0,
+    "wood": 200.0
+  },
+  "caps": {
+    "food": 100000.0,
+    "action": 2.0,
+    "gold": 100000.0,
+    "militia_hre": 100000.0,
+    "popcap": 200.0,
+    "stone": 100000.0,
+    "merc_byz": 100000.0,
+    "command": 10.0,
+    "wood": 100000.0
+  },
+  "basis": "Accepted 1.1.0 Korean/Zhu Xi ArmyBP including action=2 and 150 food/50 gold",
+  "no_secondary_script_spawn_or_resource_grant": true,
+  "supported": "human, standard army/resources, Dark Age"
+}

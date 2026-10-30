@@ -1,0 +1,220 @@
+{
+  "donor": "chinese_ha_01",
+  "official_schema_sha256": "f965d05919112e78cec5f17f865d0782fb3f525f0914c8175198123635127f73",
+  "method": "Generic owned player schema plus individually referenced official records; no donor startup StateTree or full donor schema copied",
+  "properties": [
+    {
+      "property": "dynasty_tax_multiplier_chi_ha_01",
+      "official_record": "default/schema_bag/sub_schemas/schema/default/schema_bag/float_properties/statemodel_float_property[9]",
+      "consumers": [
+        "source/scar/korea/lifecycle.scar"
+      ],
+      "variants": [
+        "default",
+        "campaign"
+      ]
+    },
+    {
+      "property": "district_official_ability_enabled_chi",
+      "official_record": "default/schema_bag/sub_schemas/schema/default/schema_bag/bool_properties/statemodel_bool_property[1]",
+      "consumers": [
+        "source/tables/attrib/abilities/korea/kr_hwarang_study_korea.rgd.json:/campaign/ability_bag/requirements/required_statemodelbool/key",
+        "source/tables/attrib/abilities/korea/kr_senobi_study_korea.rgd.json:/campaign/ability_bag/requirements/required_statemodelbool/key"
+      ],
+      "variants": [
+        "default",
+        "campaign"
+      ]
+    },
+    {
+      "property": "dynasty_tax_multiplier_chi_ha_01",
+      "official_record": "default/schema_bag/sub_schemas/schema/cordoba/schema_bag/float_properties/statemodel_float_property[9]",
+      "consumers": [
+        "source/scar/korea/lifecycle.scar"
+      ],
+      "variants": [
+        "default",
+        "campaign"
+      ]
+    },
+    {
+      "property": "district_official_ability_enabled_chi",
+      "official_record": "default/schema_bag/sub_schemas/schema/cordoba/schema_bag/bool_properties/statemodel_bool_property[1]",
+      "consumers": [
+        "source/tables/attrib/abilities/korea/kr_hwarang_study_korea.rgd.json:/campaign/ability_bag/requirements/required_statemodelbool/key",
+        "source/tables/attrib/abilities/korea/kr_senobi_study_korea.rgd.json:/campaign/ability_bag/requirements/required_statemodelbool/key"
+      ],
+      "variants": [
+        "default",
+        "campaign"
+      ]
+    },
+    {
+      "property": "district_official_ability_enabled_chi",
+      "official_record": "default/schema_bag/sub_schemas/schema/campaign/schema_bag/bool_properties/statemodel_bool_property[1]",
+      "consumers": [
+        "source/tables/attrib/abilities/korea/kr_hwarang_study_korea.rgd.json:/campaign/ability_bag/requirements/required_statemodelbool/key",
+        "source/tables/attrib/abilities/korea/kr_senobi_study_korea.rgd.json:/campaign/ability_bag/requirements/required_statemodelbool/key"
+      ],
+      "variants": [
+        "default",
+        "campaign"
+      ]
+    },
+    {
+      "property": "dynasty_tax_multiplier_chi_ha_01",
+      "official_record": "default/schema_bag/float_properties/statemodel_float_property[7]",
+      "consumers": [
+        "source/scar/korea/lifecycle.scar"
+      ],
+      "variants": [
+        "default",
+        "campaign"
+      ]
+    }
+  ],
+  "native_acceptance": "pending",
+  "original_player_property_ids": [
+    "active_town_bell_unit_count",
+    "age1_wonders_built_chi",
+    "age2_wonders_built_chi",
+    "age3_wonders_built_chi",
+    "age4_wonders_built_chi",
+    "behemoth_hero_rogue",
+    "build_previous_dynasty_units",
+    "can_capture_override",
+    "capture_point_control_timer",
+    "capture_point_reward_iteration",
+    "capture_point_reward_points",
+    "carrying_relics",
+    "cavalry_hero_rogue",
+    "chart_a_course_active_buffs",
+    "clocktower_health",
+    "constructed_town_bell_destinations",
+    "current_dynasty_chi",
+    "disable_landmark_rebuild",
+    "district_improved_tax_rate_chi",
+    "district_official_ability_enabled_chi",
+    "district_rapid_fire_chi",
+    "district_spec_man_at_arms_attack_buff_chi",
+    "district_spec_permanent_dynasty_bonuses_chi",
+    "dock_blocked",
+    "dock_repair_rate",
+    "dynasty_1_was_completed_chi",
+    "dynasty_2_was_completed_chi",
+    "dynasty_3_was_completed_chi",
+    "dynasty_tax_multiplier_chi_ha_01",
+    "economy_score",
+    "empire_attacker",
+    "empire_defender",
+    "endless_oak_gathered_rogue",
+    "fruits_of_labor_berry_counter_rogue",
+    "fruits_of_labor_count_rogue",
+    "gift_haul_towncenter_spawn",
+    "global_return_to_work_on_cooldown",
+    "granary_drop_off_amount_chi",
+    "grand_galley_mil_school_count_ott",
+    "great_wall_active_chi",
+    "grenadier_hero_rogue",
+    "has_capital",
+    "has_stealthed_spies",
+    "highlander_list_rogue",
+    "highlander_multiplier_rogue",
+    "horseman_champion_spawning_byz_ha_mac",
+    "house_counter_rogue",
+    "idle_economy_pop",
+    "imperial_age_wonder_constructed",
+    "infantry_hero_rogue",
+    "is_wonder_construction_enabled",
+    "jeanne_d_arc_consecration_production_cost_modifier",
+    "landmark_jiangnan_spawner_chi_ha_01",
+    "landmark_jiangnan_tower_active_chi_ha_01",
+    "landmark_mount_lu_academy_active_chi_ha_01",
+    "last_update_trade_route_tick",
+    "manatarms_max_attack_count_chi",
+    "meditation_gardens_berry_bush_food_value",
+    "meditation_gardens_gold_deposit_value",
+    "meditation_gardens_minimum_rate_percentage",
+    "meditation_gardens_resource_interval_timer",
+    "meditation_gardens_stone_deposit_value",
+    "meditation_gardens_total_food_generation",
+    "meditation_gardens_total_gold_generation",
+    "meditation_gardens_total_stone_generation",
+    "meditation_gardens_total_wood_generation",
+    "meditation_gardens_tree_wood_value",
+    "meditation_gardens_unit_penalty_value",
+    "military_score",
+    "monk_heal_rate",
+    "monk_out_of_combat_heal_time",
+    "monk_overheal_max",
+    "monk_relic_ability_range",
+    "monk_relic_ability_warmup",
+    "ndama_respawn_time_rogue",
+    "nomad_bonus_claimed",
+    "num_downed_leaders",
+    "num_food_gatherers",
+    "num_gold_gatherers",
+    "num_idle_fishponds",
+    "num_idle_highland_cattle",
+    "num_idle_villagers",
+    "num_stone_gatherers",
+    "num_wood_gatherers",
+    "official_max_gold_amount_chi",
+    "official_supervise_defensive_upgrade_in_progress_chi_ha_01",
+    "official_supervise_upgrade_in_progress_chi_ha_01",
+    "player_can_construct_structures",
+    "player_can_interact_with_resource_pickups",
+    "player_max_age",
+    "prized_ndama_rogue",
+    "relic_gold_generation_multiplier",
+    "relic_gold_generation_rate",
+    "relic_gold_income_per_second",
+    "relic_threshold",
+    "resource_pickup_multiplier_rogue",
+    "riddari_champion_spawning_byz_ha_mac",
+    "rogue_avg_town_center_position",
+    "rogue_growth_fund_activation_count",
+    "rogue_hero_respawn_time_rogue",
+    "rogue_mode_bedrock_available",
+    "rogue_mode_endless_oak_used",
+    "rogue_mode_panic_button_used",
+    "rogue_wonder_position",
+    "sacred_site_gold_generation_multiplier",
+    "sacred_site_gold_generation_rate",
+    "sacred_site_gold_income_per_second",
+    "sacred_sites_captured",
+    "scout_can_be_attacked_by_wolf",
+    "scout_champion_spawning_byz_ha_mac",
+    "secured_relics",
+    "shaolin_monk_passive_healing_amount",
+    "shinobi_hero_rogue",
+    "siege_battery_count_rogue",
+    "siege_repair_multiplier",
+    "snap_build_charges_rogue",
+    "snap_build_recharge_duration_rogue",
+    "snap_build_recharge_progress_rogue",
+    "society_score",
+    "song_dynasty_unit_food_discount_percent",
+    "special_unit_counter_rogue",
+    "spirit_way_active",
+    "springald_hero_rogue",
+    "streltsy_hero_rogue",
+    "tang_dynasty_building_discount_percent",
+    "tax_collection_cooldown_time_chi",
+    "tax_drop_off_villager_chi",
+    "technologies_researched",
+    "technology_score",
+    "temple_of_the_sun_active",
+    "total_district_tiers",
+    "total_keep_count",
+    "total_scholar_count_sul",
+    "total_score",
+    "trojan_ram_charges_rogue",
+    "trojan_ram_recharge_duration_rogue",
+    "trojan_ram_recharge_progress_rogue",
+    "upgrades_completed",
+    "wandering_storm_strikes",
+    "wonder_in_progress",
+    "wonder_timer"
+  ]
+}

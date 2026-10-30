@@ -1,0 +1,29 @@
+{
+  "errors": 0,
+  "warnings": 4,
+  "warning_categories": {
+    "sgroup-lifetime": 2,
+    "unknown-call": 1,
+    "players-contract": 1
+  },
+  "reviewed_resolutions": {
+    "sgroup-lifetime": "Player_GetSquads returns a borrowed SquadGroupObs; it must not be destroyed as a newly allocated temporary SGroup. Official API documentation was checked.",
+    "unknown-call": "Rule_RemoveSquadEvent(f,squad) is defined in current official engine scar/rulesystem.scar:279 and calls EventRule_RemoveSquadEvent. Squad_GetActiveCommand(squad) is used by current official engine scar/groups.scar:271. Garrison audio methods are defined by the bundled source/scar/garrison/garrison.scar forMod API. The remaining calls are standard Lua string methods or local aliases schar=string.char and sunpack=string.unpack.",
+    "players-contract": "Each owned dispatcher imports cardinal.scar before importing helpers that use PLAYERS."
+  },
+  "official_engine_evidence": [
+    {
+      "archive": "E:/Games/steamapps/common/Age of Empires IV/engine/archives/Data.sga",
+      "member": "scar/rulesystem.scar",
+      "sha256": "45017b2935414bc209fb325ab74d7ecbf7108a5f87cf224686710755f53ca2bb"
+    },
+    {
+      "archive": "E:/Games/steamapps/common/Age of Empires IV/engine/archives/Data.sga",
+      "member": "scar/groups.scar",
+      "sha256": "83dcb55f1a874e4e85645d19669c97ed757789a14ba0c5e43cda4fee0020e130"
+    }
+  ],
+  "MCP_index_note": "find_api/find_usage returned no match for these two helper names. Current installed engine archive evidence resolves the index gap.",
+  "unresolved_active_call_names": [],
+  "native_acceptance": "pending; static review is not engine validation"
+}

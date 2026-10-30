@@ -1,0 +1,1744 @@
+{
+  "schema": "garrison.native-table/v1",
+  "version": 4,
+  "platform": 1,
+  "chunks": [
+    {
+      "kind": "44415441",
+      "id": "41454744",
+      "version": 3,
+      "name": "",
+      "body": ""
+    },
+    {
+      "kind": "44415441",
+      "id": "4b455953",
+      "version": 1,
+      "name": "",
+      "body": ""
+    }
+  ],
+  "keys": [
+    [
+      8529826256463028745,
+      "instance_version"
+    ],
+    [
+      4430693559278735917,
+      "default"
+    ],
+    [
+      2229296013119728104,
+      "entity_blueprint_ext"
+    ],
+    [
+      4519850420117995220,
+      "alternate_sua"
+    ],
+    [
+      8643603561547579795,
+      "always_revealed_in_fow"
+    ],
+    [
+      1092443058187671076,
+      "is_visible_in_game"
+    ],
+    [
+      10192548096174954883,
+      "precise_size"
+    ],
+    [
+      145603368620213490,
+      "default_spawn_type"
+    ],
+    [
+      5772089272770214973,
+      "unit_badge"
+    ],
+    [
+      5464984021694833596,
+      "$PBGNAME"
+    ],
+    [
+      1238668035833122403,
+      "$PBGMAP"
+    ],
+    [
+      13928438513079075426,
+      "is_spawned_when_not_in_interactive_area"
+    ],
+    [
+      4656015119838962004,
+      "is_wreck"
+    ],
+    [
+      10478098900688015412,
+      "animator_attachments"
+    ],
+    [
+      3237397884599475829,
+      "animator_scale"
+    ],
+    [
+      4429742439779293520,
+      "browsable_in_editor"
+    ],
+    [
+      934903403854651522,
+      "entity_scale"
+    ],
+    [
+      13873469681020188596,
+      "subclass_type"
+    ],
+    [
+      6998867517914059163,
+      "$REF"
+    ],
+    [
+      7775526201656346272,
+      "sim_entity_ext"
+    ],
+    [
+      4980414129730875883,
+      "rotate_snap"
+    ],
+    [
+      8600330484634199344,
+      "kill_paradrop"
+    ],
+    [
+      7036842163465370455,
+      "transferable"
+    ],
+    [
+      13851491095560151450,
+      "explosion_ext"
+    ],
+    [
+      14634837743315404787,
+      "terrain_hit"
+    ],
+    [
+      1289470607700884881,
+      "chance_splat_only"
+    ],
+    [
+      16776561421158260998,
+      "cover_type"
+    ],
+    [
+      9929130454255126716,
+      "deformation"
+    ],
+    [
+      12614454315885522377,
+      "deform_decal_file"
+    ],
+    [
+      4865244308347477377,
+      "limited"
+    ],
+    [
+      6348515499421633193,
+      "random_rotation"
+    ],
+    [
+      1983193769238854184,
+      "rotation"
+    ],
+    [
+      4029687163604542354,
+      "vertical_scale"
+    ],
+    [
+      3086856005188801875,
+      "deform_type"
+    ],
+    [
+      1710259795158334628,
+      "splat_list"
+    ],
+    [
+      2414782753851472464,
+      "radius_max"
+    ],
+    [
+      13369693987099400999,
+      "radius_min"
+    ],
+    [
+      16829574181082297189,
+      "splat_only_splat_seconds"
+    ],
+    [
+      7962445863510115250,
+      "splat_only_splats"
+    ],
+    [
+      3240199734783872024,
+      "entry"
+    ],
+    [
+      3075339700762342008,
+      "splat_texture"
+    ],
+    [
+      11622696211349699257,
+      "terrain_material"
+    ],
+    [
+      5167817804310223907,
+      "on_detonate_action_tree"
+    ],
+    [
+      3837083494325526760,
+      "ActionTree_OpeningBranch"
+    ],
+    [
+      857811608375552855,
+      "start_suspended"
+    ],
+    [
+      10414912200233224276,
+      "on_absorbed_action_tree"
+    ],
+    [
+      3274948882064174728,
+      "area_over_time_option"
+    ],
+    [
+      1564779715515275840,
+      "transform_duration_seconds"
+    ],
+    [
+      11845308907789965100,
+      "projectile_ext"
+    ],
+    [
+      14965612835433329927,
+      "acceleration"
+    ],
+    [
+      12344008533825119280,
+      "artillery"
+    ],
+    [
+      16675346622655351131,
+      "can_counter_barrage"
+    ],
+    [
+      7569618599080341045,
+      "is_artillery"
+    ],
+    [
+      7465487762491839088,
+      "is_target_only"
+    ],
+    [
+      12628365284769638811,
+      "speed_distance_multiplier"
+    ],
+    [
+      12016532923750881805,
+      "speed_increment"
+    ],
+    [
+      6835405580737068460,
+      "firing_angle_type"
+    ],
+    [
+      8434734677326091016,
+      "use_homing_when_no_blocker"
+    ],
+    [
+      7278030721024753834,
+      "non_collide_start_angle"
+    ],
+    [
+      16616844010275155295,
+      "non_collide_end_angle"
+    ],
+    [
+      8710069032414165518,
+      "collision_building_wall_panel_ignore"
+    ],
+    [
+      15232543770084356525,
+      "collision_type"
+    ],
+    [
+      3601689043970150963,
+      "enum_projectile_collision"
+    ],
+    [
+      12422228427405650057,
+      "deathtimer"
+    ],
+    [
+      5318328015684223725,
+      "delay_detonate_time"
+    ],
+    [
+      15017136020117113336,
+      "delay_detonate_ui_enabled"
+    ],
+    [
+      12478397055527258873,
+      "launcher_marker"
+    ],
+    [
+      17459643699024748844,
+      "life_time_while_alive"
+    ],
+    [
+      15923087303789800990,
+      "rotation_speed"
+    ],
+    [
+      3469558517929675856,
+      "spawn_collision_fx"
+    ],
+    [
+      17091032133312472732,
+      "speed"
+    ],
+    [
+      13267770056768165810,
+      "collision_land_ignore"
+    ],
+    [
+      12245555018699461399,
+      "snap_above_terrain"
+    ],
+    [
+      11884603969992066621,
+      "collision_cover_shoot_through_ignore"
+    ],
+    [
+      13911537112167189243,
+      "can_be_disjointed"
+    ],
+    [
+      15749542955114511908,
+      "set_player_owner"
+    ],
+    [
+      6624835304431166096,
+      "trajectory_option"
+    ],
+    [
+      3865070782619344193,
+      "height_min"
+    ],
+    [
+      4669964901621299299,
+      "height_max"
+    ],
+    [
+      1328598615761351450,
+      "speed_min"
+    ],
+    [
+      4724287139711077218,
+      "speed_max"
+    ],
+    [
+      10623446953605642830,
+      "time_seconds"
+    ],
+    [
+      4351171626643046645,
+      "interpolate_distance_min"
+    ],
+    [
+      8670945644561592373,
+      "interpolate_distance_max"
+    ],
+    [
+      18333608673492281099,
+      "slope_aggression"
+    ],
+    [
+      9404732885434420010,
+      "random_rotation_during_flight"
+    ],
+    [
+      5882478083720180871,
+      "min_distance_to_enable"
+    ],
+    [
+      3532507792215560754,
+      "collide_using_bounding_box"
+    ],
+    [
+      3834745972281476074,
+      "force_3d_collision"
+    ],
+    [
+      14082413021770882319,
+      "target_squad_if_homing"
+    ],
+    [
+      10377808397441472452,
+      "prediction"
+    ],
+    [
+      7575283096800609774,
+      "use_predictive_aiming"
+    ],
+    [
+      14736212440712335839,
+      "max_prediction_speed"
+    ],
+    [
+      7638463081694224147,
+      "use_target_entity_position"
+    ],
+    [
+      2312694420802004269,
+      "projectile_piercing_damage_option"
+    ],
+    [
+      5710821699877011384,
+      "check_collision_against_target_entity_only"
+    ],
+    [
+      7330506763453721979,
+      "trajectory_preview_line_bag"
+    ],
+    [
+      6850088757129698643,
+      "force_max_range"
+    ],
+    [
+      13498150104919118759,
+      "action_apply_ext"
+    ],
+    [
+      10018004925687841239,
+      "action_state_trees"
+    ],
+    [
+      12597131576279646365,
+      "reset_on_load"
+    ],
+    [
+      1965170776092603499,
+      "physical_state_trees"
+    ],
+    [
+      6503770468126988896,
+      "container"
+    ],
+    [
+      5993043126228552632,
+      "state_tree"
+    ],
+    [
+      17042357362353166377,
+      "deferred_action_state_trees"
+    ],
+    [
+      4537920799192779818,
+      "action_state_trees_run_once"
+    ],
+    [
+      13602868659493031696,
+      "deferred_action_state_trees_run_once"
+    ],
+    [
+      3668809654247083208,
+      "physical_state_trees_run_once"
+    ],
+    [
+      13005689997087892415,
+      "pbgid"
+    ],
+    [
+      14182368983149674761,
+      "parent_pbg"
+    ]
+  ],
+  "nodes": [
+    {
+      "key": "default",
+      "hash": 4430693559278735917,
+      "kind": "List",
+      "value": [
+        {
+          "key": "entity_blueprint_ext",
+          "hash": 2229296013119728104,
+          "kind": "List",
+          "value": [
+            {
+              "key": "default_spawn_type",
+              "hash": 145603368620213490,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "entity_scale",
+              "hash": 934903403854651522,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "is_visible_in_game",
+              "hash": 1092443058187671076,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "animator_scale",
+              "hash": 3237397884599475829,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "browsable_in_editor",
+              "hash": 4429742439779293520,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "alternate_sua",
+              "hash": 4519850420117995220,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "is_wreck",
+              "hash": 4656015119838962004,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "unit_badge",
+              "hash": 5772089272770214973,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\entity_blueprint_ext"
+            },
+            {
+              "key": "always_revealed_in_fow",
+              "hash": 8643603561547579795,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "precise_size",
+              "hash": 10192548096174954883,
+              "kind": "Int",
+              "value": -1
+            },
+            {
+              "key": "animator_attachments",
+              "hash": 10478098900688015412,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": "projectile_rocket"
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": "attachments\\attachment_lists"
+                }
+              ]
+            },
+            {
+              "key": "subclass_type",
+              "hash": 13873469681020188596,
+              "kind": "Int",
+              "value": 2
+            },
+            {
+              "key": "is_spawned_when_not_in_interactive_area",
+              "hash": 13928438513079075426,
+              "kind": "Boolean",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "sim_entity_ext",
+          "hash": 7775526201656346272,
+          "kind": "List",
+          "value": [
+            {
+              "key": "rotate_snap",
+              "hash": 4980414129730875883,
+              "kind": "Float",
+              "value": 90.0
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\sim_entity_ext"
+            },
+            {
+              "key": "transferable",
+              "hash": 7036842163465370455,
+              "kind": "Int",
+              "value": 0
+            },
+            {
+              "key": "kill_paradrop",
+              "hash": 8600330484634199344,
+              "kind": "Boolean",
+              "value": false
+            }
+          ]
+        },
+        {
+          "key": "projectile_ext",
+          "hash": 11845308907789965100,
+          "kind": "List",
+          "value": [
+            {
+              "key": "projectile_piercing_damage_option",
+              "hash": 2312694420802004269,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "options\\none"
+                }
+              ]
+            },
+            {
+              "key": "spawn_collision_fx",
+              "hash": 3469558517929675856,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "collide_using_bounding_box",
+              "hash": 3532507792215560754,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "force_3d_collision",
+              "hash": 3834745972281476074,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "delay_detonate_time",
+              "hash": 5318328015684223725,
+              "kind": "Float",
+              "value": 0.0
+            },
+            {
+              "key": "check_collision_against_target_entity_only",
+              "hash": 5710821699877011384,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "trajectory_option",
+              "hash": 6624835304431166096,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "speed_min",
+                  "hash": 1328598615761351450,
+                  "kind": "Float",
+                  "value": 45.0
+                },
+                {
+                  "key": "height_min",
+                  "hash": 3865070782619344193,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "interpolate_distance_min",
+                  "hash": 4351171626643046645,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "height_max",
+                  "hash": 4669964901621299299,
+                  "kind": "Float",
+                  "value": 4.0
+                },
+                {
+                  "key": "speed_max",
+                  "hash": 4724287139711077218,
+                  "kind": "Float",
+                  "value": 45.0
+                },
+                {
+                  "key": "min_distance_to_enable",
+                  "hash": 5882478083720180871,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "options\\ebpextensions\\projectileext\\projectile_trajectory_option"
+                },
+                {
+                  "key": "interpolate_distance_max",
+                  "hash": 8670945644561592373,
+                  "kind": "Float",
+                  "value": 34.0
+                },
+                {
+                  "key": "random_rotation_during_flight",
+                  "hash": 9404732885434420010,
+                  "kind": "List",
+                  "value": []
+                },
+                {
+                  "key": "time_seconds",
+                  "hash": 10623446953605642830,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "slope_aggression",
+                  "hash": 18333608673492281099,
+                  "kind": "Float",
+                  "value": 0.0
+                }
+              ]
+            },
+            {
+              "key": "force_max_range",
+              "hash": 6850088757129698643,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\projectile_ext"
+            },
+            {
+              "key": "trajectory_preview_line_bag",
+              "hash": 7330506763453721979,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "$PBGNAME",
+                  "hash": 5464984021694833596,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "$PBGMAP",
+                  "hash": 1238668035833122403,
+                  "kind": "CString",
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "key": "use_target_entity_position",
+              "hash": 7638463081694224147,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "collision_building_wall_panel_ignore",
+              "hash": 8710069032414165518,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "prediction",
+              "hash": 10377808397441472452,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "use_predictive_aiming",
+                  "hash": 7575283096800609774,
+                  "kind": "Boolean",
+                  "value": true
+                },
+                {
+                  "key": "max_prediction_speed",
+                  "hash": 14736212440712335839,
+                  "kind": "Float",
+                  "value": 4.0
+                }
+              ]
+            },
+            {
+              "key": "collision_cover_shoot_through_ignore",
+              "hash": 11884603969992066621,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "snap_above_terrain",
+              "hash": 12245555018699461399,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "artillery",
+              "hash": 12344008533825119280,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "firing_angle_type",
+                  "hash": 6835405580737068460,
+                  "kind": "Int",
+                  "value": 0
+                },
+                {
+                  "key": "non_collide_start_angle",
+                  "hash": 7278030721024753834,
+                  "kind": "Float",
+                  "value": 5.0
+                },
+                {
+                  "key": "is_target_only",
+                  "hash": 7465487762491839088,
+                  "kind": "Boolean",
+                  "value": false
+                },
+                {
+                  "key": "is_artillery",
+                  "hash": 7569618599080341045,
+                  "kind": "Boolean",
+                  "value": true
+                },
+                {
+                  "key": "use_homing_when_no_blocker",
+                  "hash": 8434734677326091016,
+                  "kind": "Boolean",
+                  "value": false
+                },
+                {
+                  "key": "speed_increment",
+                  "hash": 12016532923750881805,
+                  "kind": "Float",
+                  "value": 0.5
+                },
+                {
+                  "key": "speed_distance_multiplier",
+                  "hash": 12628365284769638811,
+                  "kind": "Float",
+                  "value": 0.20000000298023224
+                },
+                {
+                  "key": "non_collide_end_angle",
+                  "hash": 16616844010275155295,
+                  "kind": "Float",
+                  "value": 20.0
+                },
+                {
+                  "key": "can_counter_barrage",
+                  "hash": 16675346622655351131,
+                  "kind": "Boolean",
+                  "value": false
+                }
+              ]
+            },
+            {
+              "key": "deathtimer",
+              "hash": 12422228427405650057,
+              "kind": "Float",
+              "value": 0.0
+            },
+            {
+              "key": "launcher_marker",
+              "hash": 12478397055527258873,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "collision_land_ignore",
+              "hash": 13267770056768165810,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "can_be_disjointed",
+              "hash": 13911537112167189243,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "target_squad_if_homing",
+              "hash": 14082413021770882319,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "acceleration",
+              "hash": 14965612835433329927,
+              "kind": "Float",
+              "value": 60.0
+            },
+            {
+              "key": "delay_detonate_ui_enabled",
+              "hash": 15017136020117113336,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "collision_type",
+              "hash": 15232543770084356525,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "enum_projectile_collision",
+                  "hash": 3601689043970150963,
+                  "kind": "CString",
+                  "value": "tp_collide"
+                }
+              ]
+            },
+            {
+              "key": "set_player_owner",
+              "hash": 15749542955114511908,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "rotation_speed",
+              "hash": 15923087303789800990,
+              "kind": "Float",
+              "value": 5.0
+            },
+            {
+              "key": "speed",
+              "hash": 17091032133312472732,
+              "kind": "Float",
+              "value": 0.0
+            },
+            {
+              "key": "life_time_while_alive",
+              "hash": 17459643699024748844,
+              "kind": "Float",
+              "value": 5.0
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 2147482936
+        },
+        {
+          "key": "action_apply_ext",
+          "hash": 13498150104919118759,
+          "kind": "List",
+          "value": [
+            {
+              "key": "physical_state_trees",
+              "hash": 1965170776092603499,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "container",
+                  "hash": 6503770468126988896,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "state_tree",
+                      "hash": 5993043126228552632,
+                      "kind": "CString",
+                      "value": "projectile_action_apply\\set_rocket_arrow_statemachine"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "physical_state_trees_run_once",
+              "hash": 3668809654247083208,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "action_state_trees_run_once",
+              "hash": 4537920799192779818,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\action_apply_ext"
+            },
+            {
+              "key": "action_state_trees",
+              "hash": 10018004925687841239,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "reset_on_load",
+              "hash": 12597131576279646365,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "deferred_action_state_trees_run_once",
+              "hash": 13602868659493031696,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "deferred_action_state_trees",
+              "hash": 17042357362353166377,
+              "kind": "List2",
+              "value": []
+            }
+          ]
+        },
+        {
+          "key": "explosion_ext",
+          "hash": 13851491095560151450,
+          "kind": "List",
+          "value": [
+            {
+              "key": "area_over_time_option",
+              "hash": 3274948882064174728,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "transform_duration_seconds",
+                  "hash": 1564779715515275840,
+                  "kind": "Float",
+                  "value": 0.375
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "options\\area_info_over_time_options\\expand_option"
+                }
+              ]
+            },
+            {
+              "key": "on_detonate_action_tree",
+              "hash": 5167817804310223907,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "hash": 857811608375552855,
+                  "kind": "Boolean",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "hash": 3837083494325526760,
+                  "kind": "CString",
+                  "value": "projectile_detonate"
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\explosion_ext"
+            },
+            {
+              "key": "on_absorbed_action_tree",
+              "hash": 10414912200233224276,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "start_suspended",
+                  "hash": 857811608375552855,
+                  "kind": "Boolean",
+                  "value": false
+                },
+                {
+                  "key": "ActionTree_OpeningBranch",
+                  "hash": 3837083494325526760,
+                  "kind": "CString",
+                  "value": ""
+                },
+                {
+                  "key": "$REF",
+                  "hash": 6998867517914059163,
+                  "kind": "CString",
+                  "value": "state_tree_reference_info"
+                }
+              ]
+            },
+            {
+              "key": "terrain_hit",
+              "hash": 14634837743315404787,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "chance_splat_only",
+                  "hash": 1289470607700884881,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "radius_max",
+                  "hash": 2414782753851472464,
+                  "kind": "Float",
+                  "value": 4.0
+                },
+                {
+                  "key": "splat_only_splats",
+                  "hash": 7962445863510115250,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key": "entry",
+                      "hash": 3240199734783872024,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "splat_texture",
+                          "hash": 3075339700762342008,
+                          "kind": "CString",
+                          "value": ""
+                        },
+                        {
+                          "key": "terrain_material",
+                          "hash": 11622696211349699257,
+                          "kind": "List2",
+                          "value": [
+                            {
+                              "key": "$PBGNAME",
+                              "hash": 5464984021694833596,
+                              "kind": "CString",
+                              "value": ""
+                            },
+                            {
+                              "key": "$PBGMAP",
+                              "hash": 1238668035833122403,
+                              "kind": "CString",
+                              "value": ""
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "deformation",
+                  "hash": 9929130454255126716,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "splat_list",
+                      "hash": 1710259795158334628,
+                      "kind": "List2",
+                      "value": []
+                    },
+                    {
+                      "key": "rotation",
+                      "hash": 1983193769238854184,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "deform_type",
+                      "hash": 3086856005188801875,
+                      "kind": "CString",
+                      "value": "tp_additive"
+                    },
+                    {
+                      "key": "vertical_scale",
+                      "hash": 4029687163604542354,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "limited",
+                      "hash": 4865244308347477377,
+                      "kind": "Boolean",
+                      "value": true
+                    },
+                    {
+                      "key": "random_rotation",
+                      "hash": 6348515499421633193,
+                      "kind": "Boolean",
+                      "value": true
+                    },
+                    {
+                      "key": "deform_decal_file",
+                      "hash": 12614454315885522377,
+                      "kind": "CString",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "key": "radius_min",
+                  "hash": 13369693987099400999,
+                  "kind": "Float",
+                  "value": 3.0
+                },
+                {
+                  "key": "cover_type",
+                  "hash": 16776561421158260998,
+                  "kind": "CString",
+                  "value": "tp_defcover"
+                },
+                {
+                  "key": "splat_only_splat_seconds",
+                  "hash": 16829574181082297189,
+                  "kind": "Float",
+                  "value": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "parent_pbg",
+          "hash": 14182368983149674761,
+          "kind": "List2",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "hash": 5464984021694833596,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "hash": 1238668035833122403,
+              "kind": "CString",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "instance_version",
+      "hash": 8529826256463028745,
+      "kind": "Int",
+      "value": 2
+    }
+  ]
+}

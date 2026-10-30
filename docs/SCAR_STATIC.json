@@ -1,0 +1,133 @@
+[
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\blueprints.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\catalog.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\core.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "sgroup-lifetime",
+        "message": "Temporary squad group `group` from `Player_GetSquads` is not visibly destroyed.",
+        "line": 100
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\economy.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\effect_catalog.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\effects.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "unknown-call",
+        "message": "Call `Squad_GetActiveCommand` is absent from official API/source evidence and local definitions.",
+        "line": 134
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\landmarks.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\lifecycle.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "players-contract",
+        "message": "`PLAYERS` is used without a visible `cardinal.scar` import; confirm the loader provides it."
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\research.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\research_core.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\ui.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\initialization.scar",
+    "diagnostics": [
+      {
+        "severity": "warning",
+        "code": "sgroup-lifetime",
+        "message": "Temporary squad group `squads` from `Player_GetSquads` is not visibly destroyed.",
+        "line": 23
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 1
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\garrison\\korea\\dispatcher.scar",
+    "diagnostics": [],
+    "summary": {
+      "errors": 0,
+      "warnings": 0
+    }
+  }
+]

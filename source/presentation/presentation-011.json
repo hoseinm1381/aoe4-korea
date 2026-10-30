@@ -1,0 +1,63 @@
+{
+  "version": "0.1.1",
+  "master": "hd/flag.png",
+  "surfaces": [
+    {
+      "name": "flag_list",
+      "width": 104,
+      "height": 56,
+      "bytes": 1461
+    },
+    {
+      "name": "flag_list_small",
+      "width": 52,
+      "height": 28,
+      "bytes": 521
+    },
+    {
+      "name": "flag_secondary",
+      "width": 440,
+      "height": 248,
+      "bytes": 11593
+    },
+    {
+      "name": "flag_secondary_small",
+      "width": 220,
+      "height": 124,
+      "bytes": 5009
+    },
+    {
+      "name": "flag_fade",
+      "width": 344,
+      "height": 104,
+      "bytes": 6179
+    },
+    {
+      "name": "flag_loading",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 133647
+    },
+    {
+      "name": "flag_pattern",
+      "width": 1120,
+      "height": 352,
+      "bytes": 29547
+    },
+    {
+      "name": "flag_tile",
+      "width": 736,
+      "height": 800,
+      "bytes": 40328
+    },
+    {
+      "name": "flag_mastery",
+      "width": 1112,
+      "height": 588,
+      "bytes": 36063
+    }
+  ],
+  "client_cover_bytes": 80088,
+  "loading_shadow": "97% dark left -> clear right",
+  "pattern_alpha": "transparent left -> opaque right"
+}

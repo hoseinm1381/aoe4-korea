@@ -1,0 +1,20 @@
+{
+  "race": "korea",
+  "version": "0.1.0-trial.1",
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "source_fingerprint": "e6931ff7bbfa47bb7e11d90a754f0bb229c3cfa02fcbad4caecb1361993d37b1",
+  "tables": 385,
+  "members": 446,
+  "archive_bytes": 14134248,
+  "archive_sha256": "49f36df9515fe08d829ec1b1104d5af37e91adaf7c7b2f695c98e47fc767a5dd",
+  "zip_name": "Korea-Garrison-0.1.0-trial.1.zip",
+  "zip_bytes": 4155140,
+  "zip_sha256": "3f2a1dce34e074bf601d8b043f8bded1dcce76d5edbe47e65004ae763ac472da",
+  "all_member_readback_sha256": true,
+  "native_crc_sha1": true,
+  "zip_crc": true,
+  "preserved_native_media_members": 0,
+  "native_game_test": "pending",
+  "multiplayer_save_ai_performance": "not qualified",
+  "publication": "not performed"
+}
