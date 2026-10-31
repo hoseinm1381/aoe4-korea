@@ -1,0 +1,20 @@
+test_accepted_starting_resources_and_allowances (test_codex.ConstructionCodex.test_accepted_starting_resources_and_allowances) ... ok
+test_owned_engineer_squads_and_both_native_views (test_codex.ConstructionCodex.test_owned_engineer_squads_and_both_native_views) ... ok
+test_preserved_player_requirements_have_native_definitions (test_player_schema.PlayerSchema.test_preserved_player_requirements_have_native_definitions) ... ok
+test_script_player_properties_have_native_definitions (test_player_schema.PlayerSchema.test_script_player_properties_have_native_definitions) ... ok
+test_actual_new_masks_expand_unit_colour_and_preserve_skin_hair_sources (verify.Native016.test_actual_new_masks_expand_unit_colour_and_preserve_skin_hair_sources) ... ok
+test_all_bound_masks_have_valid_bc3_mip_streams_and_digests (verify.Native016.test_all_bound_masks_have_valid_bc3_mip_streams_and_digests) ... ok
+test_build_hold_stops_before_verification_staging_or_assembly (verify.Native016.test_build_hold_stops_before_verification_staging_or_assembly) ... ok
+test_current_native_changes_and_gameplay_match_exact_source_allowlist (verify.Native016.test_current_native_changes_and_gameplay_match_exact_source_allowlist) ... ok
+test_every_cavalry_skin_maps_to_owner_hierarchy_and_lod_domains (verify.Native016.test_every_cavalry_skin_maps_to_owner_hierarchy_and_lod_domains) ... ok
+test_geometry_vertex_index_buffers_are_byte_identical_all_lods (verify.Native016.test_geometry_vertex_index_buffers_are_byte_identical_all_lods) ... ok
+test_mesh_and_material_keys_resolve_without_cross_mesh_collisions (verify.Native016.test_mesh_and_material_keys_resolve_without_cross_mesh_collisions) ... ok
+test_model_metadata_changes_are_exact_and_all_other_records_preserved (verify.Native016.test_model_metadata_changes_are_exact_and_all_other_records_preserved) ... ok
+test_non_pattern_shader_slots_and_parameters_preserved (verify.Native016.test_non_pattern_shader_slots_and_parameters_preserved) ... ok
+test_real_old_cavalry_root_and_duplicate_names_are_rejected (verify.Native016.test_real_old_cavalry_root_and_duplicate_names_are_rejected) ... ok
+test_scout_and_infantry_animation_data_are_untouched (verify.Native016.test_scout_and_infantry_animation_data_are_untouched) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 6.977s
+
+OK

@@ -14,6 +14,20 @@ local function refund(player, costs)
     end
 end
 
+-- Some native cost tables expose only the four common resource fields.
+-- Retained catalogue fees match every ability variant; merc_byz/action have
+-- no ability-cost modifier in the installed native resource descriptors.
+local function paidCosts(player, route, ability)
+    local paid = Player_GetAbilityBPCost(player.id, ability) or {}
+    local costs = {}
+    for resource, _ in pairs(resourceEnums) do
+        local amount = paid[resource]
+        if amount == nil then amount = route.costs[resource] or 0 end
+        costs[resource] = amount
+    end
+    return costs
+end
+
 local function pick(count)
     -- The official Table_GetRandomItem wrapper uses synchronized engine RNG.
     local indices = {}
@@ -72,13 +86,13 @@ end
 function KoreaResearch_Ability(context, player)
     local route = KoreaResearchRoutes[key(context.ability)]
     if route == nil then return false end
+    local costs = paidCosts(player, route, context.ability)
     local actor = context.executer
-    if not Korea_Alive(actor) then return true end
-    -- Query effective cost, including any native ability discount. This API is
-    -- documented in ScarDoc; its engine behavior is a named native test gate.
-    local paid = Player_GetAbilityBPCost(player.id, context.ability)
-    local costs = {}
-    for resource, _ in pairs(resourceEnums) do costs[resource] = paid[resource] or 0 end
+    if not Korea_Alive(actor) then
+        refund(player, costs)
+        syncAllowances(player)
+        return true
+    end
     if (route.foreign and not player.research.offered[route.ability])
         or Player_HasUpgrade(player.id, route.upgradePBG)
         or not KoreaResearchCore.Begin(player.research, route.key, costs, route.foreign,

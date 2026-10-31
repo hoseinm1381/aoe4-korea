@@ -1,0 +1,23 @@
+{
+  "id": "jangchang_plain",
+  "donor": "art/civilizations/common/weapons/melee/spear_basic/spear_basic.rgm",
+  "kind": "spear",
+  "design": "Plain long spear, slender leaf point and dark hardwood shaft; grip preserved",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\jangchang_plain\\66200181a839bdd116a1\\decoded-static.json",
+  "manifest_sha256": "427804fad4134defe85fb483acb10d6de2d80a9d3bb6ef39b63fc50537adbd05",
+  "bounds": {
+    "min": [
+      -0.083251953125,
+      -0.05810546875,
+      -0.80810546875
+    ],
+    "max": [
+      0.083251953125,
+      0.05810546875,
+      2.7578125
+    ]
+  },
+  "native_triangles": 90,
+  "bones": 0
+}

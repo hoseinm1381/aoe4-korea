@@ -1,0 +1,211 @@
+{
+  "module": "Korean timber and reed work shelter",
+  "origin": [
+    -3.8,
+    -5.4,
+    0
+  ],
+  "proportions": {
+    "length_m": 2.05,
+    "depth_m": 1.45,
+    "eave_height_m": 1.7399999999999998,
+    "roof_rise_m": 0.48
+  },
+  "contacts": [
+    {
+      "interface": "post bottom / stone footing top",
+      "gap_m": 0.0,
+      "anchor": [
+        -4.824999999999999,
+        -6.125,
+        0.18
+      ]
+    },
+    {
+      "interface": "post bottom / stone footing top",
+      "gap_m": 0.0,
+      "anchor": [
+        -4.824999999999999,
+        -4.675000000000001,
+        0.18
+      ]
+    },
+    {
+      "interface": "post bottom / stone footing top",
+      "gap_m": 0.0,
+      "anchor": [
+        -2.775,
+        -6.125,
+        0.18
+      ]
+    },
+    {
+      "interface": "post bottom / stone footing top",
+      "gap_m": 0.0,
+      "anchor": [
+        -2.775,
+        -4.675000000000001,
+        0.18
+      ]
+    },
+    {
+      "interface": "bearing beam bottom / post top",
+      "gap_m": 0.0,
+      "plane_z": 1.5999999999999999
+    },
+    {
+      "interface": "bearing beam bottom / post top",
+      "gap_m": 0.0,
+      "plane_z": 1.5999999999999999
+    },
+    {
+      "interface": "rafter underside / bearing beam top",
+      "signed_gap_m": -0.03519871794871787,
+      "intentional": "small timber seating overlap, never daylight"
+    },
+    {
+      "interface": "rafter upper face / roof undersurface",
+      "signed_gap_m": -0.008,
+      "intentional": "8mm overlap to avoid daylight at roof contact"
+    }
+  ],
+  "objects": [
+    "Korean_work_shelter_footing_0_0",
+    "Korean_work_shelter_post_0_0",
+    "Korean_work_shelter_footing_0_1",
+    "Korean_work_shelter_post_0_1",
+    "Korean_work_shelter_footing_1_0",
+    "Korean_work_shelter_post_1_0",
+    "Korean_work_shelter_footing_1_1",
+    "Korean_work_shelter_post_1_1",
+    "Korean_work_shelter_bearing_beam",
+    "Korean_work_shelter_bearing_beam.001",
+    "Korean_work_shelter_continuous_reed_roof",
+    "Korean_work_shelter_continuous_rafter",
+    "Korean_work_shelter_continuous_rafter.001",
+    "Korean_work_shelter_continuous_rafter.002",
+    "Korean_work_shelter_continuous_rafter.003",
+    "Korean_work_shelter_continuous_rafter.004",
+    "Korean_work_shelter_continuous_rafter.005",
+    "Korean_work_shelter_continuous_rafter.006",
+    "Korean_work_shelter_continuous_rafter.007"
+  ],
+  "topology": [
+    {
+      "object": "Korean_work_shelter_footing_0_0",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.014111856619517006,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_post_0_0",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.027833508948485075,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_footing_0_1",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.014111911257108048,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_post_0_1",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.02783151715993884,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_footing_1_0",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.014111841718355795,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_post_1_0",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.02783266827464101,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_footing_1_1",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.014111950993537906,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_post_1_1",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.02783144637942314,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_bearing_beam",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.054506033658981226,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_bearing_beam.001",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.05450167258580537,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_reed_roof",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.5469762434562051,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_rafter",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.00823715329170227,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_rafter.001",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.008236413200696319,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_rafter.002",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.008233939607938138,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_rafter.003",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.008237188061078374,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_rafter.004",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.008236154913902276,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_rafter.005",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.008236855268478402,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_rafter.006",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.008240426580111189,
+      "positive_winding": true
+    },
+    {
+      "object": "Korean_work_shelter_continuous_rafter.007",
+      "closed_manifold": true,
+      "signed_volume_m3": 0.00823849439620972,
+      "positive_winding": true
+    }
+  ],
+  "triangles": 588,
+  "integration": "Editable source; native first-visible/lifecycle bindings required later"
+}

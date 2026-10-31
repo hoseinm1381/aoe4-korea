@@ -1,0 +1,891 @@
+[
+  {
+    "asset": "kr_archer_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_archer_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/d0c131f1e45aa3d59db176207e8fc19a33c7de0b4df9589f0d301ebb06b56a5b.rrtex"
+    }
+  },
+  {
+    "asset": "kr_archer_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_archer_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6321b15c90970b52e18647b01f3513b53bbb58b8c5181ca947a9cb56693afc08.rrtex"
+    }
+  },
+  {
+    "asset": "kr_archer_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_archer_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/bd385d544089530333299a37175206314782de3e8235610e0842b079bcbed5e9.rrtex"
+    }
+  },
+  {
+    "asset": "kr_crossbowman_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_crossbowman_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/b9bd87464ed9426af1fd48be6fbd6651f2253ca4896019d029d8c3e7b96fad1d.rrtex"
+    }
+  },
+  {
+    "asset": "kr_crossbowman_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_crossbowman_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/66797d5af26c15d11aecb854ed695a09157f0e8aabeaf027bed8754034174137.rrtex"
+    }
+  },
+  {
+    "asset": "kr_gapsa_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_gapsa_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    }
+  },
+  {
+    "asset": "kr_gapsa_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_gapsa_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.rrtex"
+    }
+  },
+  {
+    "asset": "kr_handcannoneer_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_handcannoneer_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/dc9cbb81d52828000c6e59f39ceb44f3712d3f81f4bf09f0b52a09d839e0fe87.rrtex"
+    }
+  },
+  {
+    "asset": "kr_horseman_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_horseman_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8.rrtex"
+    }
+  },
+  {
+    "asset": "kr_horseman_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_horseman_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947.rrtex"
+    }
+  },
+  {
+    "asset": "kr_horseman_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_horseman_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57.rrtex"
+    }
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_hwarang_dismounted_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    }
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_hwarang_dismounted_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    }
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_hwarang_dismounted_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.rrtex"
+    }
+  },
+  {
+    "asset": "kr_hwarang_mounted_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_hwarang_mounted_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8.rrtex"
+    }
+  },
+  {
+    "asset": "kr_hwarang_mounted_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_hwarang_mounted_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947.rrtex"
+    }
+  },
+  {
+    "asset": "kr_hwarang_mounted_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_hwarang_mounted_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57.rrtex"
+    }
+  },
+  {
+    "asset": "kr_lancer_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_lancer_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/35ab20ef7863deb25d3eda7e0db1b230bd429b7c1eb5c8ad086913371567a7c2.rrtex"
+    }
+  },
+  {
+    "asset": "kr_lancer_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_lancer_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/9f8ea9f057d6bb22426bbdfc2fe98be96da7e5d75662382f1790ffb2c1da4dc7.rrtex"
+    }
+  },
+  {
+    "asset": "kr_monk_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_monk_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f.rrtex"
+    }
+  },
+  {
+    "asset": "kr_monk_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_monk_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_horseman_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_horseman_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_horseman_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_horseman_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_horseman_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_horseman_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_hwarang_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_hwarang_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_hwarang_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_hwarang_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_hwarang_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_hwarang_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_lancer_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_lancer_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_lancer_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_lancer_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_scout_a1",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_scout_a1",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_scout_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_scout_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_scout_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_scout_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_scout_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_scout_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_trader_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_trader_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_trader_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_trader_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_mount_trader_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_mount_trader_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_righteous_army_monk_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_righteous_army_monk_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f.rrtex"
+    }
+  },
+  {
+    "asset": "kr_righteous_army_monk_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_righteous_army_monk_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee.rrtex"
+    }
+  },
+  {
+    "asset": "kr_scout_a1",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_scout_a1",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/e01f8128980fab054ce4616e960ac82b2b0672d258d67440f50c96070a09152c.rrtex"
+    }
+  },
+  {
+    "asset": "kr_scout_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_scout_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/eb5fadc157547576d52c5c2e70c8fcd745b974ac47a6fb2afbe77fc14645648f.rrtex"
+    }
+  },
+  {
+    "asset": "kr_scout_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_scout_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c.rrtex"
+    }
+  },
+  {
+    "asset": "kr_scout_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_scout_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c.rrtex"
+    }
+  },
+  {
+    "asset": "kr_scout_female_a1",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_scout_female_a1",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/decf4849ff62482244c445cfc3c15b4cd3bbffa88c57ad3ff269b665aa911676.rrtex"
+    }
+  },
+  {
+    "asset": "kr_scout_female_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_scout_female_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/eed4dd28cdfd2f546e24dfd427a93567b3a90022e507d7a9e811f2682d8ae597.rrtex"
+    }
+  },
+  {
+    "asset": "kr_scout_female_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_scout_female_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b.rrtex"
+    }
+  },
+  {
+    "asset": "kr_scout_female_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_scout_female_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b.rrtex"
+    }
+  },
+  {
+    "asset": "kr_seonbi_a1",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_seonbi_a1",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/251b4d9f7adfc6b36024559cc40cc2b3b37c5e57e2e3dc3901d10842ebe947e2.rrtex"
+    }
+  },
+  {
+    "asset": "kr_seonbi_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_seonbi_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/1ee1589384b2d0c43bfdd646ed6fa6f3476a6ee9deb74851cfbda2de4c9eced3.rrtex"
+    }
+  },
+  {
+    "asset": "kr_spearman_a1",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_spearman_a1",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/d31b72ca658bbd1a9e2c626c03995d86fa69f1980c6b28933c942b2bc5f809e6.rrtex"
+    }
+  },
+  {
+    "asset": "kr_spearman_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_spearman_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/9862120e88d6a6f2a3dd7942b08e6eae9343b4a9a0ee82839d48a4a2fa08b629.rrtex"
+    }
+  },
+  {
+    "asset": "kr_spearman_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_spearman_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/4ffdc8514bcd41a3961ba27a216948fe839be9f03e4ec0e352bd32252544bd48.rrtex"
+    }
+  },
+  {
+    "asset": "kr_spearman_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_spearman_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/e610ea408543d8323cf16763fbac85eb5d3173915d19d8692423c36690766c64.rrtex"
+    }
+  },
+  {
+    "asset": "kr_tiger_hunter_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_tiger_hunter_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    }
+  },
+  {
+    "asset": "kr_tiger_hunter_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_tiger_hunter_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    }
+  },
+  {
+    "asset": "kr_tiger_hunter_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_tiger_hunter_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trade_cargo_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trade_cargo_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trade_cargo_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trade_cargo_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trade_cargo_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trade_cargo_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trader_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trader_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trader_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trader_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trader_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trader_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trader_female_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trader_female_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trader_female_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trader_female_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b.rrtex"
+    }
+  },
+  {
+    "asset": "kr_trader_female_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_trader_female_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09.rrtex"
+    }
+  },
+  {
+    "asset": "kr_villager_female_a1",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_villager_female_a1",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.rrtex"
+    }
+  },
+  {
+    "asset": "kr_villager_female_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_villager_female_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.rrtex"
+    }
+  },
+  {
+    "asset": "kr_villager_female_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_villager_female_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b.rrtex"
+    }
+  },
+  {
+    "asset": "kr_villager_female_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_villager_female_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09.rrtex"
+    }
+  },
+  {
+    "asset": "kr_villager_male_a1",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_villager_male_a1",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.rrtex"
+    }
+  },
+  {
+    "asset": "kr_villager_male_a2",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_villager_male_a2",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.rrtex"
+    }
+  },
+  {
+    "asset": "kr_villager_male_a3",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_villager_male_a3",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801.rrtex"
+    }
+  },
+  {
+    "asset": "kr_villager_male_a4",
+    "kind": "unit",
+    "stem": "art/kr013/units/kr_villager_male_a4",
+    "patterns": {
+      "Korean unified atlas": "art/kr014/patterns/8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4.rrtex"
+    }
+  },
+  {
+    "asset": "bulguksa_temple",
+    "kind": "static",
+    "stem": "art/kr013/static/bulguksa_temple",
+    "patterns": {
+      "kr014_bulguksa_temple_korea_unique_shared_atlas": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  },
+  {
+    "asset": "gate_of_reverence",
+    "kind": "static",
+    "stem": "art/kr013/static/gate_of_reverence",
+    "patterns": {
+      "kr014_gate_of_reverence_korea_unique_shared_atlas": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  },
+  {
+    "asset": "gyeongbok_palace",
+    "kind": "static",
+    "stem": "art/kr013/static/gyeongbok_palace",
+    "patterns": {
+      "kr014_gyeongbok_palace_korea_unique_shared_atlas": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  },
+  {
+    "asset": "hall_of_worthies",
+    "kind": "static",
+    "stem": "art/kr013/static/hall_of_worthies",
+    "patterns": {
+      "kr014_hall_of_worthies_korea_unique_shared_atlas": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  },
+  {
+    "asset": "hwangnyongsa",
+    "kind": "static",
+    "stem": "art/kr013/static/hwangnyongsa",
+    "patterns": {
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_0_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_25_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_50_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_50_part1": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_75_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_75_part1": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_75_part2": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_75_part3": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_25_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_25_part1": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_25_part2": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_50_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_50_part1": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_50_part2": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_75_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_75_part1": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_75_part2": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_healthy_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_healthy_part1": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_healthy_part2": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_healthy_part3": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex",
+      "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_ruins_part0": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_cavalry_spear",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_cavalry_spear",
+    "patterns": {
+      "kr014_korea_cavalry_spear_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_crossbow",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_crossbow",
+    "patterns": {
+      "kr014_korea_crossbow_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_gakgung_archer",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_gakgung_archer",
+    "patterns": {
+      "kr014_korea_gakgung_archer_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_gakgung_hwarang",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_gakgung_hwarang",
+    "patterns": {
+      "kr014_korea_gakgung_hwarang_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_gakgung_tiger_hunter",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_gakgung_tiger_hunter",
+    "patterns": {
+      "kr014_korea_gakgung_tiger_hunter_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_gapsa_heavy_spear",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_gapsa_heavy_spear",
+    "patterns": {
+      "kr014_korea_gapsa_heavy_spear_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_gapsa_long_spear",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_gapsa_long_spear",
+    "patterns": {
+      "kr014_korea_gapsa_long_spear_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_hand_chongtong",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_hand_chongtong",
+    "patterns": {
+      "kr014_korea_hand_chongtong_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_hwarang_sword",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_hwarang_sword",
+    "patterns": {
+      "kr014_korea_hwarang_sword_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_jangchang_plain",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_jangchang_plain",
+    "patterns": {
+      "kr014_korea_jangchang_plain_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_jangchang_tassel",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_jangchang_tassel",
+    "patterns": {
+      "kr014_korea_jangchang_tassel_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_lancer_lance",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_lancer_lance",
+    "patterns": {
+      "kr014_korea_lancer_lance_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_lancer_polearm_upgrade",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_lancer_polearm_upgrade",
+    "patterns": {
+      "kr014_korea_lancer_polearm_upgrade_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_lumber_camp01",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_lumber_camp01",
+    "patterns": {
+      "kr014_korea_lumber_camp01_korea_camp_rough_granite": "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex",
+      "kr014_korea_lumber_camp01_korea_camp_weathered_timber": "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex",
+      "kr014_korea_lumber_camp01_korea_camp_reed_thatch": "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_mining_camp01",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_mining_camp01",
+    "patterns": {
+      "kr014_korea_mining_camp01_korea_camp_rough_granite": "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex",
+      "kr014_korea_mining_camp01_korea_camp_weathered_timber": "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex",
+      "kr014_korea_mining_camp01_korea_camp_reed_thatch": "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_monk_staff",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_monk_staff",
+    "patterns": {
+      "kr014_korea_monk_staff_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_righteous_monk_sword",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_righteous_monk_sword",
+    "patterns": {
+      "kr014_korea_righteous_monk_sword_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_seonbi_book",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_seonbi_book",
+    "patterns": {
+      "kr014_korea_seonbi_book_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_shared_torch",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_shared_torch",
+    "patterns": {
+      "kr014_korea_shared_torch_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_villager_axe",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_villager_axe",
+    "patterns": {
+      "kr014_korea_villager_axe_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_villager_basket",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_villager_basket",
+    "patterns": {
+      "kr014_korea_villager_basket_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_villager_crook",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_villager_crook",
+    "patterns": {
+      "kr014_korea_villager_crook_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_villager_hammer",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_villager_hammer",
+    "patterns": {
+      "kr014_korea_villager_hammer_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_villager_hunting_bow",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_villager_hunting_bow",
+    "patterns": {
+      "kr014_korea_villager_hunting_bow_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_villager_hunting_spear",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_villager_hunting_spear",
+    "patterns": {
+      "kr014_korea_villager_hunting_spear_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_villager_pick",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_villager_pick",
+    "patterns": {
+      "kr014_korea_villager_pick_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "Korea_villager_sickle",
+    "kind": "static",
+    "stem": "art/kr013/static/korea_villager_sickle",
+    "patterns": {
+      "kr014_korea_villager_sickle_korea equipment shared source atlas": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    }
+  },
+  {
+    "asset": "mountain_fortress",
+    "kind": "static",
+    "stem": "art/kr013/static/mountain_fortress",
+    "patterns": {
+      "kr014_mountain_fortress_korea_unique_shared_atlas": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  },
+  {
+    "asset": "seon_deok_observatory",
+    "kind": "static",
+    "stem": "art/kr013/static/seon_deok_observatory",
+    "patterns": {
+      "kr014_seon_deok_observatory_korea_unique_shared_atlas": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  },
+  {
+    "asset": "seowon_academy",
+    "kind": "static",
+    "stem": "art/kr013/static/seowon_academy",
+    "patterns": {
+      "kr014_seowon_academy_korea_unique_shared_atlas": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  },
+  {
+    "asset": "stone_pagoda",
+    "kind": "static",
+    "stem": "art/kr013/static/stone_pagoda",
+    "patterns": {
+      "kr014_stone_pagoda_korea_unique_shared_atlas": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  }
+]

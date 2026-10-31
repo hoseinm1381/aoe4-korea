@@ -1,0 +1,23 @@
+{
+  "id": "cavalry_spear",
+  "donor": "art/civilizations/common/weapons/melee/spear_cavalry_charge/spear_cavalry_charge.rgm",
+  "kind": "spear",
+  "design": "Riding spear and charge variant with same native grip/length",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\cavalry_spear\\c7b90981cfac73fa4810\\decoded-static.json",
+  "manifest_sha256": "3b2f4d12855a4fa60309d5ad8bc55dd62ced0661cf9bbbfd89b5fa9c10858808",
+  "bounds": {
+    "min": [
+      -0.07244873046875,
+      -0.049102783203125,
+      -0.80517578125
+    ],
+    "max": [
+      0.07244873046875,
+      0.049072265625,
+      2.751953125
+    ]
+  },
+  "native_triangles": 90,
+  "bones": 0
+}

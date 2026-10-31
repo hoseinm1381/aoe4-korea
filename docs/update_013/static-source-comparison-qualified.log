@@ -1,0 +1,73 @@
+00:00.484  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\cavalry_spear\Korea_cavalry_spear.blend"
+STATIC_SOURCE_NATIVE_MATCH 1 36 Korea_cavalry_spear 270
+00:00.500  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\crossbow\Korea_crossbow.blend"
+STATIC_SOURCE_NATIVE_MATCH 2 36 Korea_crossbow 2392
+00:00.531  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_archer\Korea_gakgung_archer.blend"
+STATIC_SOURCE_NATIVE_MATCH 3 36 Korea_gakgung_archer 1008
+00:00.562  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_hwarang\Korea_gakgung_hwarang.blend"
+STATIC_SOURCE_NATIVE_MATCH 4 36 Korea_gakgung_hwarang 1008
+00:00.593  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_tiger_hunter\Korea_gakgung_tiger_hunter.blend"
+STATIC_SOURCE_NATIVE_MATCH 5 36 Korea_gakgung_tiger_hunter 1008
+00:00.609  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gapsa_heavy_spear\Korea_gapsa_heavy_spear.blend"
+STATIC_SOURCE_NATIVE_MATCH 6 36 Korea_gapsa_heavy_spear 270
+00:00.625  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gapsa_long_spear\Korea_gapsa_long_spear.blend"
+STATIC_SOURCE_NATIVE_MATCH 7 36 Korea_gapsa_long_spear 2075
+00:00.656  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\hand_chongtong\Korea_hand_chongtong.blend"
+STATIC_SOURCE_NATIVE_MATCH 8 36 Korea_hand_chongtong 707
+00:00.687  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\hwarang_sword\Korea_hwarang_sword.blend"
+STATIC_SOURCE_NATIVE_MATCH 9 36 Korea_hwarang_sword 1539
+00:00.718  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\jangchang_plain\Korea_jangchang_plain.blend"
+STATIC_SOURCE_NATIVE_MATCH 10 36 Korea_jangchang_plain 270
+00:00.734  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\jangchang_tassel\Korea_jangchang_tassel.blend"
+STATIC_SOURCE_NATIVE_MATCH 11 36 Korea_jangchang_tassel 1018
+00:00.750  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\lancer_lance\Korea_lancer_lance.blend"
+STATIC_SOURCE_NATIVE_MATCH 12 36 Korea_lancer_lance 1180
+00:00.781  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\lancer_polearm_upgrade\Korea_lancer_polearm_upgrade.blend"
+STATIC_SOURCE_NATIVE_MATCH 13 36 Korea_lancer_polearm_upgrade 1050
+00:00.796  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\lumber_camp01\Korea_lumber_camp01.blend"
+STATIC_SOURCE_NATIVE_MATCH 14 36 Korea_lumber_camp01 2526
+00:00.843  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\mining_camp01\Korea_mining_camp01.blend"
+STATIC_SOURCE_NATIVE_MATCH 15 36 Korea_mining_camp01 2680
+00:00.937  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\monk_staff\Korea_monk_staff.blend"
+STATIC_SOURCE_NATIVE_MATCH 16 36 Korea_monk_staff 3446
+00:01.046  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\righteous_monk_sword\Korea_righteous_monk_sword.blend"
+STATIC_SOURCE_NATIVE_MATCH 17 36 Korea_righteous_monk_sword 873
+00:01.140  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\seonbi_book\Korea_seonbi_book.blend"
+STATIC_SOURCE_NATIVE_MATCH 18 36 Korea_seonbi_book 243
+00:01.203  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\shared_torch\Korea_shared_torch.blend"
+STATIC_SOURCE_NATIVE_MATCH 19 36 Korea_shared_torch 156
+00:01.265  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_axe\Korea_villager_axe.blend"
+STATIC_SOURCE_NATIVE_MATCH 20 36 Korea_villager_axe 438
+00:01.359  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_basket\Korea_villager_basket.blend"
+STATIC_SOURCE_NATIVE_MATCH 21 36 Korea_villager_basket 4375
+00:01.500  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_crook\Korea_villager_crook.blend"
+STATIC_SOURCE_NATIVE_MATCH 22 36 Korea_villager_crook 658
+00:01.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hammer\Korea_villager_hammer.blend"
+STATIC_SOURCE_NATIVE_MATCH 23 36 Korea_villager_hammer 252
+00:01.656  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hunting_bow\Korea_villager_hunting_bow.blend"
+STATIC_SOURCE_NATIVE_MATCH 24 36 Korea_villager_hunting_bow 630
+00:01.781  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hunting_spear\Korea_villager_hunting_spear.blend"
+STATIC_SOURCE_NATIVE_MATCH 25 36 Korea_villager_hunting_spear 450
+00:01.843  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_pick\Korea_villager_pick.blend"
+STATIC_SOURCE_NATIVE_MATCH 26 36 Korea_villager_pick 502
+00:01.937  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_sickle\Korea_villager_sickle.blend"
+STATIC_SOURCE_NATIVE_MATCH 27 36 Korea_villager_sickle 533
+00:02.046  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\bulguksa_temple\bulguksa_temple.blend"
+STATIC_SOURCE_NATIVE_MATCH 28 36 bulguksa_temple 364851
+00:05.953  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\gate_of_reverence\gate_of_reverence.blend"
+STATIC_SOURCE_NATIVE_MATCH 29 36 gate_of_reverence 240042
+00:08.937  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\gyeongbok_palace\gyeongbok_palace.blend"
+STATIC_SOURCE_NATIVE_MATCH 30 36 gyeongbok_palace 248149
+00:11.765  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\hall_of_worthies\hall_of_worthies.blend"
+STATIC_SOURCE_NATIVE_MATCH 31 36 hall_of_worthies 210536
+00:14.234  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\hwangnyongsa\hwangnyongsa.blend"
+Traceback (most recent call last):
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_static_sources.py", line 53, in <module>
+    assert selectors(actual)==selectors(expected),(name,'Native lifecycle selector bytes differ')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('hwangnyongsa', 'Native lifecycle selector bytes differ')
+
+Error: script failed, file: 'F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_static_sources.py', exiting.
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

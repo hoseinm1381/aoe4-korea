@@ -1,0 +1,11 @@
+{
+  "version": "0.1.3",
+  "source_tables": 171,
+  "native_inputs": 1008,
+  "native_bytes": 219243303,
+  "old_native_inputs_byte_preserved": 55,
+  "source_numeric_gameplay_preserved": true,
+  "source_blends_unchanged": true,
+  "publication": "not performed",
+  "native_game_acceptance": "pending"
+}

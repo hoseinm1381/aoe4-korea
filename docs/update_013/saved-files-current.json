@@ -1,0 +1,1377 @@
+{
+  "schema": "korea.art013-saved-file-verification/v1",
+  "assets": [
+    {
+      "id": "Korea_archery_range02",
+      "semantic_sha256": "ae5dc6c3e7484a59833b87079e362e9635e8a060b6e8cf36b3fc9a6cb9f31037",
+      "blend_sha256": "83661ed82d1d2580d45a5a2c9147366e3d9677dec570718ddae59873f5d0f36b",
+      "mesh_objects": 16,
+      "triangles": 116649,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_archery_range03",
+      "semantic_sha256": "ffc761c9696aa841848373ac91a457009c4d249e09d21c120650cb568941e243",
+      "blend_sha256": "35ad96af131ef9440115a6a3d6c54184226087a730a2fe00cf7520d5ba4ed678",
+      "mesh_objects": 16,
+      "triangles": 116390,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_archery_range04",
+      "semantic_sha256": "cc796c1c0138714a8c56f37cc89c2bc108756c1832c71363299db38280e97254",
+      "blend_sha256": "69da5a9b76878b758b18ec374496784b697c18486d8ec692fd3bd264e2faa7db",
+      "mesh_objects": 32,
+      "triangles": 187882,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_barracks_combined01",
+      "semantic_sha256": "0c06955c07a2c46a00576825c04ea7aa5f7eb56ad047b671571dfd79b8f5d5a0",
+      "blend_sha256": "b81c694c239a79965e659ec8d4f7eaf6c1b0e6a7c7265d1e63a58886a6a44b47",
+      "mesh_objects": 24,
+      "triangles": 117011,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_barracks_combined02",
+      "semantic_sha256": "78a7b3edc758b5bcde9fc83d89204f8ba70b924dbab7f331775f5d0c17f66d3d",
+      "blend_sha256": "c2e61c04dd5e3eec990d447ca9766a0ee0ca015a6bc50f441ae2867dcfb3c92b",
+      "mesh_objects": 28,
+      "triangles": 168189,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_barracks_combined03",
+      "semantic_sha256": "4ae83b3e975f39440b0e693d48369f21b4bd4c55367da833e236d61e43b7d782",
+      "blend_sha256": "2097829ce0c41282865acc1d9408ecbf0561df305470ec4295a3521b4fc3c9f1",
+      "mesh_objects": 28,
+      "triangles": 167822,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_barracks_combined04",
+      "semantic_sha256": "79327a939ab60c16735dde9c24188f997841a3ba2c35a1363a7b36b7eef5fbde",
+      "blend_sha256": "f947e06fb64ac1d8976c35fd7cca63ebc0303ada18de9ef9d33a19cfccea9631",
+      "mesh_objects": 28,
+      "triangles": 200410,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_blacksmith02",
+      "semantic_sha256": "cdf62320f22d88f698ed860a292e85ac68f8b0161e258524efb1304b7ca7ab24",
+      "blend_sha256": "db0ddd6af678b92336138be8cf3d5a30a9ab021688f63d19a13c2efe7b120eea",
+      "mesh_objects": 12,
+      "triangles": 68432,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_blacksmith03",
+      "semantic_sha256": "09d82275e8d0451df59ddcb2df06a21de819b834041f7a090ff26df69d576e79",
+      "blend_sha256": "39e6ea7b633cd19bc46a210cb6ea1798e5dda140226461af35b7ac1f97552170",
+      "mesh_objects": 12,
+      "triangles": 67172,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_blacksmith04",
+      "semantic_sha256": "c2faafeca813e91a59fe37bca69cd45867f00fa8982bef8707076b7c801572f0",
+      "blend_sha256": "c02939a1b0f4f335244122ce62aeca8d961d158c022ee115dbf099ed1519e32b",
+      "mesh_objects": 16,
+      "triangles": 98691,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_dock02",
+      "semantic_sha256": "7cf270dc36adc4df1154399afd5bf147da0d528551c729ec46ccf9a2714d0377",
+      "blend_sha256": "c8d36f47a1df32c50aae8af4ebdf597eb3824cf9d685c2ae716f22cb45ca244a",
+      "mesh_objects": 20,
+      "triangles": 190704,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_dock03",
+      "semantic_sha256": "4fb2999fabadf002ecf6472182648da95a59c5793d8fb5981fa3d3d9a753f9f1",
+      "blend_sha256": "a8d42c7a8285a1570f93f1f9b2e009f6830c27813d2683b4bffb8869b9d5eccd",
+      "mesh_objects": 20,
+      "triangles": 187273,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_dock04",
+      "semantic_sha256": "173105b6bab7779adb17ef2197d6cb078c74dc582e5fa279c1c21f339f463fa1",
+      "blend_sha256": "091e7bf5d25b053a43d2d52be76309e1536da91c5719c80fa13658d9d1687b2a",
+      "mesh_objects": 24,
+      "triangles": 190724,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_gristmill01",
+      "semantic_sha256": "4c367af1844497e31a1d18d98a38b744a0e766323e7e83d2f10375d6fd2340be",
+      "blend_sha256": "121ebf056cebb8cef1d7a6b36e9cfee20051f27665fde959e9aa620fa858d3c4",
+      "mesh_objects": 12,
+      "triangles": 45220,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_housea01",
+      "semantic_sha256": "3da9ea985b1e183e8f1ce13b33b6abc82ebc4276e6f2ccdfcf281b22a35c238d",
+      "blend_sha256": "750d9e454f935cae57174587d3228f2c5f0e5671157ccdab5ca8e59970dc504f",
+      "mesh_objects": 8,
+      "triangles": 28794,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_housea02",
+      "semantic_sha256": "19435598cb4e85e08a8e44545f7df07b03f7bf70767a30e649e63c0bcebaaeb1",
+      "blend_sha256": "e4f16748f0fffd37497178202d9affa47968acc23348ee6f5ed026b73714cbb7",
+      "mesh_objects": 8,
+      "triangles": 33181,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_housea03",
+      "semantic_sha256": "5c59baf276d664462b5367ea6dccb44c741b98f618423a2ccfc691925f15b706",
+      "blend_sha256": "181fe4af50b51b223fe121c17aa94301b5fa7dd1e1eafbcae799e9ee7a8db97f",
+      "mesh_objects": 8,
+      "triangles": 33285,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_housea04",
+      "semantic_sha256": "78563f902fff7ebb3c1f18965cb366c265c20c5a4a91a930be33e5ce05ee6442",
+      "blend_sha256": "44dc00ef5f4fd43a8857641b24ac676c4055773dc7488afea2574cab3a921dd4",
+      "mesh_objects": 12,
+      "triangles": 69299,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_houseb01",
+      "semantic_sha256": "2296eaf176dec31c887c47b0ac574d17662ce7d918c4d0d92ce74498e253461b",
+      "blend_sha256": "957c23c85e94d3443b883e4e7c889badf588afe51182f90759e1f0f29628978d",
+      "mesh_objects": 8,
+      "triangles": 27522,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_houseb02",
+      "semantic_sha256": "cae75b50f92b222bc81f3f556c7f0f8061dfe0970794acb70894628f733780b1",
+      "blend_sha256": "a6a8bdaa36b0fcd52d17a12061c271f9e72b9f15648b6a3d8399d99b20847122",
+      "mesh_objects": 8,
+      "triangles": 28666,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_houseb03",
+      "semantic_sha256": "7029965ccdd68dede485ed3f55b6606cabbfec2fbfe14169cff05d1f5e07dfc3",
+      "blend_sha256": "b3aae56b8ffcb28eaed98c1ee18493800940abbed1248daa1adb083a124a2422",
+      "mesh_objects": 8,
+      "triangles": 29012,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_houseb04",
+      "semantic_sha256": "bb6afea3e260ac1cb4a8d4386b0c5e2e9bf066161123cb2b5bf1fa3ad89da8ac",
+      "blend_sha256": "45ae32a5959531f6d79e35bb453530b5dff1c6e08b1da1a3258c1ddfdf6af087",
+      "mesh_objects": 12,
+      "triangles": 75469,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_housec01",
+      "semantic_sha256": "0f93f37a1049d182f8d312df0f7300b7bcc1501f57a11c01f2eaef9ee4cb3e8d",
+      "blend_sha256": "994742f275f7d0cbd8d657f62d9664e8014e1d98058de971aa6a531abefa04e4",
+      "mesh_objects": 8,
+      "triangles": 28200,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_housec02",
+      "semantic_sha256": "5165ebfeb851cd797aef2d523303d33ed86188278dc36fa7c3f35f53341d545b",
+      "blend_sha256": "f15c9397ee4cbf8228d3826886dc40482c1c6911092a916b1e60b94b88569b56",
+      "mesh_objects": 8,
+      "triangles": 32439,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_housec03",
+      "semantic_sha256": "205292b60acda6847ed8922700c0c5c540f45f68bcdec36ddf0360e422058bd9",
+      "blend_sha256": "267ebd0555f32aadd84940e5e7abe2dcde23309db14101823672ab0d9ae5dcb6",
+      "mesh_objects": 8,
+      "triangles": 31861,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_housec04",
+      "semantic_sha256": "9a4eddafdec6511c90137a81dcd9aa43bfea3960577706feca30f7f82e4b447c",
+      "blend_sha256": "26019ecb0c88bdcc57369d977239d3fe851f3c7f0b883904ac01a235e26d007c",
+      "mesh_objects": 280,
+      "triangles": 48673,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_lumber_camp01",
+      "semantic_sha256": "4ce7ee6ed37cc28e1f67b3fdc0d3ce02ab8a12708b53d444aa9208d07fa38e1a",
+      "blend_sha256": "8f991ba907b0d019995d0b4e346a4874dddebab32f00f869ad97ad80568ee1c3",
+      "mesh_objects": 69,
+      "triangles": 8545,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_market02",
+      "semantic_sha256": "b1af2a7dbf82a5abff53e902c6246f4a6d57400a84edb82544f76c207ae9ce90",
+      "blend_sha256": "181c6b17cb68797b84d25a0eb32e6947fa69c437be07834c18e1abd52d2e6c4f",
+      "mesh_objects": 12,
+      "triangles": 73019,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_market03",
+      "semantic_sha256": "fd36838dee2a56f25144364b3653af30527fdb107e724b12265902115ff43773",
+      "blend_sha256": "568588397a7784953cd0fcad356a4df90c635b641efe96c638ed99d2b64625d4",
+      "mesh_objects": 12,
+      "triangles": 71929,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_market04",
+      "semantic_sha256": "54b961382399e89b422b35d40cdb18588cc82e41e59da38183a5b9b1c5ec7582",
+      "blend_sha256": "8bf6729ae345dfd5b21349ce51ae9feb588cedb1cfa749bb1a04ca816e4f30c2",
+      "mesh_objects": 16,
+      "triangles": 74079,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_mining_camp01",
+      "semantic_sha256": "84e05254efdc29a06df713bd4f5548bc82b0925a4838a7770689f56334b316d6",
+      "blend_sha256": "3b2fcbd768ec4336a23ad25027b4c39c96bd2439fb4746f16ae1bea0f2e4740b",
+      "mesh_objects": 65,
+      "triangles": 20254,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_monastery03",
+      "semantic_sha256": "7a818f8faee4b55d2a3fa60f0d5a77a4d4aef84925de5e98fa6080577b07eae2",
+      "blend_sha256": "1f0f3eea768ebb53ace1b25d118c65847dd56b459b14cfa9bfe3699e849d07cd",
+      "mesh_objects": 12,
+      "triangles": 113591,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_monastery04",
+      "semantic_sha256": "05c59dc08a0c83d67b46d80b3b68b461924c76501bfea06491b11c6d39913b51",
+      "blend_sha256": "2133ba2de8d1510b8a4f62d43221a9789ba054dbb56743bd83a58c251742045c",
+      "mesh_objects": 16,
+      "triangles": 132318,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_outpost01",
+      "semantic_sha256": "301683162d17b703b9a8afd56e9ee8df995f5b5a9f4020e151676abac813244a",
+      "blend_sha256": "9ed11e7e2bb4eccbffa7b89b08c90a223639ae950899598697169b32f70c40c8",
+      "mesh_objects": 12,
+      "triangles": 52376,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_outpost_stone01",
+      "semantic_sha256": "a14adfc66b7ced256a16f8f5ef8208b6b7b223b5ec44a23789120653aa723124",
+      "blend_sha256": "1e3a5c7d0b4f65088ffe507565c7c36de3e5e3bf1b94f20236bf88bcef3cdd47",
+      "mesh_objects": 12,
+      "triangles": 91129,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_siege_workshop03",
+      "semantic_sha256": "aad8d625966ab4e3980036378b244b4ad82001ea350c9da6a64cc42b44500046",
+      "blend_sha256": "b34462035d50ad8dbb859d6a8e6b261a02e5bebc6e1facd43b01b139b6173954",
+      "mesh_objects": 24,
+      "triangles": 117000,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_siege_workshop04",
+      "semantic_sha256": "0ef738604aba6bfe30ca9bd1970b43aa9fff68411d6b4c01d887088cbfca97e9",
+      "blend_sha256": "46c0a667e38cb2c62b24a295cfed37eaef9b7bc60a1da6be8741ec0a71e5eb48",
+      "mesh_objects": 20,
+      "triangles": 153547,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_stable02",
+      "semantic_sha256": "275226c6542f49fc998b5e42ab002588d636514f3196581197b64e8cf2c076cc",
+      "blend_sha256": "ba685f07641c0d62ba204f8bec85a9f37f340d0c4234fb80c669d73586eab09a",
+      "mesh_objects": 12,
+      "triangles": 79108,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_stable03",
+      "semantic_sha256": "a83624f399bdfcf4b0a1ecb4342ee33933607051c58bf1e09a7220f222611a1a",
+      "blend_sha256": "a4e982de91858278693ad1bda2d244ddb6047f384312b7a635ce58f847024610",
+      "mesh_objects": 12,
+      "triangles": 79504,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_stable04",
+      "semantic_sha256": "b84cfa310c84637d20e07e7a334118a6a39f04cc65a1c74867f2de13cfd75e7a",
+      "blend_sha256": "56e28542a8ad3fba6feae67a3f27963cb5eaf89da6b662ce96592474a9f3d994",
+      "mesh_objects": 16,
+      "triangles": 132758,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_stone_tower02",
+      "semantic_sha256": "1964dad562d13445c7f67b4e7af811a2adbfcfa7149b6f14f6bd15c6eb6a40b4",
+      "blend_sha256": "99249a43e71455b9aa98b6dd716363b897bd480ae56efe9f35c49833651fc4ba",
+      "mesh_objects": 8,
+      "triangles": 72502,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_towncenter_combined01",
+      "semantic_sha256": "c80956405a16df2dd191f8c3f72792ec3b291e03a45e2f7f1b0a727b1d536172",
+      "blend_sha256": "e8ddcf9622901566fe06234d110e7101bc74be0d75a7a5f7f136a6d3febe8610",
+      "mesh_objects": 44,
+      "triangles": 162183,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_towncenter_combined02",
+      "semantic_sha256": "d2982724aac325aa2b1e5a4b879780f46cfc04bd36572416df56513ce58864b9",
+      "blend_sha256": "07e6dcebffee76c254a7dca2d1c005d8e405562466090cedd827de5170930ff7",
+      "mesh_objects": 56,
+      "triangles": 187929,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_towncenter_combined03",
+      "semantic_sha256": "319c6bbf8ec2004893e5876abb7515436968c5c574e64af830fbe830f4f4b15e",
+      "blend_sha256": "736f5d99dae8e58c5abda3af43be6c3109d9d8130f79ea6f780ac400fc91a045",
+      "mesh_objects": 56,
+      "triangles": 190486,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_towncenter_combined04",
+      "semantic_sha256": "0286fa4049e0e4f0dedb1372c1b42a95c6a0b2be9fb043cf3bff8854e7024fdb",
+      "blend_sha256": "a5571984268087ec1a7d36f475766d459bab70c934234d071a54631d7ef83d18",
+      "mesh_objects": 48,
+      "triangles": 248798,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_university04",
+      "semantic_sha256": "cc07ebc17bf5a89b6c1f61e048cfbfd5a768828a53c04bb257e8cc4e744e777b",
+      "blend_sha256": "b3d039cb488b642f36bb529ced73f42129f0fc5800b516fcd201fe3cda1a10ab",
+      "mesh_objects": 16,
+      "triangles": 117778,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_cavalry_spear",
+      "semantic_sha256": "66cebfde06224499efed0246b14e9df053a47d90b5c421fb9ace27d4207d520c",
+      "blend_sha256": "ec2d9d42a532bc4544701ca00342b5869a2386a4040dfcc1fa590f376824742f",
+      "mesh_objects": 3,
+      "triangles": 90,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_crossbow",
+      "semantic_sha256": "3744d027d93015605ffb65d6b28539b9fe0ec928e2db4fdc65d526b76ba81521",
+      "blend_sha256": "ef6c3628991336cb637347279853920b3436dad599182e0dbd60e43df5b35205",
+      "mesh_objects": 3,
+      "triangles": 818,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_gakgung_archer",
+      "semantic_sha256": "4ba526840823be743d8f741c4fec00e6b0eae43726e93b851142a21e8a0b2224",
+      "blend_sha256": "82b32bd39198ac9298c07c46e3be43b5a60dd33f976c496e6cb73aa8cd40d7e3",
+      "mesh_objects": 3,
+      "triangles": 336,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_gakgung_hwarang",
+      "semantic_sha256": "6ca2d33cbb7a6f8d60aef01897e1844a00088487012e468ff73a84e489e4e572",
+      "blend_sha256": "1f16dfaf39916020bff7160ba56b466cde017d6bb89f2d1cb8508568489314ae",
+      "mesh_objects": 3,
+      "triangles": 336,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_gakgung_tiger_hunter",
+      "semantic_sha256": "efaa81e88975ff96f1612236194aff0d32d9faf8f1a334f3e1235db12f751230",
+      "blend_sha256": "5f51e21201363d7e2553f8ddadc20cfad06eb6286685e4d9b247a504dbee7e48",
+      "mesh_objects": 3,
+      "triangles": 336,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_gapsa_heavy_spear",
+      "semantic_sha256": "1dd5cc31e2be754f8c4656c0e2a9af654db23237a59a697d2426e7ffb90d0226",
+      "blend_sha256": "0db500a5a9775061f995980a8613fe27c558ba24377e7023784b31db0f6dcb7f",
+      "mesh_objects": 3,
+      "triangles": 90,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_gapsa_long_spear",
+      "semantic_sha256": "ea3fe3b2e7269e119cf9057c827f6fbd5e2c8908f6d15f9bdf0004bf7e5811a4",
+      "blend_sha256": "6a04a78283a48341dea1832d490dd88c2be7e1ecc0891ee1497b279050e84728",
+      "mesh_objects": 3,
+      "triangles": 696,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_hand_chongtong",
+      "semantic_sha256": "dcc8a3cabd688aa6e958924b357bebbdae5261e3978eb42459ecb3ff3d129c5d",
+      "blend_sha256": "4c3c7fc8822f7815e226ebc7e8ac25bb91edfebd63b35715f0e9bf8fd19e6ab9",
+      "mesh_objects": 3,
+      "triangles": 244,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_hwarang_sword",
+      "semantic_sha256": "21a5ff89f305eda72a1a1c56631bce47dfbac9ef9510edabc4d4334015e5c784",
+      "blend_sha256": "60c296317d07a2235fa16f35634980756387c4a6b17907ea9d2498214cc193bc",
+      "mesh_objects": 6,
+      "triangles": 521,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_jangchang_plain",
+      "semantic_sha256": "b6ba73e6b746d9240bcc7dd86cec301803f176eb0cb78f6bb4a7e274663bc261",
+      "blend_sha256": "46e5ebf7f0eb75974061e8cd1bd32155cbe556c865ee24b7ef8c88601d539ff3",
+      "mesh_objects": 3,
+      "triangles": 90,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_jangchang_tassel",
+      "semantic_sha256": "cea3848b52963b5240b393055a9527729538ffc620f05a43056dc3fecd870b7e",
+      "blend_sha256": "2b8682da4f41e8a9fa1746c7d1819b67194b83b15470b547c7aaad31f3387468",
+      "mesh_objects": 3,
+      "triangles": 340,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_lancer_lance",
+      "semantic_sha256": "c18ceb7dc3d8b87c6d6c0e7baa80db7a13105afa2ada86414c6e5473fceab91d",
+      "blend_sha256": "fb278d6e8b6ec65020a426ffc19e6a5fff3042760afa109e0988d88bd077602f",
+      "mesh_objects": 3,
+      "triangles": 394,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_lancer_polearm_upgrade",
+      "semantic_sha256": "2183a09377c3e26af39a1a00815ac6c70a831ecf8b1ef899d920fafefe0dcc25",
+      "blend_sha256": "e32b021272aaebe6ee92e9e5d4737e9d228b24b152d8ac7f0a01f97316fc03ce",
+      "mesh_objects": 3,
+      "triangles": 350,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_monk_staff",
+      "semantic_sha256": "c77a790a710b60148fbe74520a20cbc61591ccc0608c712e43bd5785d68ca11c",
+      "blend_sha256": "930a5917c6207b453d00580515c1737ce4e8a70d3da8d92d466a854b95b44aee",
+      "mesh_objects": 3,
+      "triangles": 1150,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_righteous_monk_sword",
+      "semantic_sha256": "6206f436bd0f73500df56b24383aba6e33d5817fa977e7b5b9593c705f44ceca",
+      "blend_sha256": "cd43405dbdb63a76536e045d8258eb2ae4c680576ff9c34c5446cb028355a89e",
+      "mesh_objects": 3,
+      "triangles": 291,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_seonbi_book",
+      "semantic_sha256": "90c2ad3a9ed3fd1a6ab193a3d0e3e32eebaa6c8c28fb1d5e79c6be0425bf19fd",
+      "blend_sha256": "17fff79e1330e93997c737fef7b4ed009de708eacdd8a23fdfb3c66dbfaa69ec",
+      "mesh_objects": 3,
+      "triangles": 84,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_shared_torch",
+      "semantic_sha256": "ca7a72499de7ec99799a8c356bcdcf592545ef4058615ed1e023df4f8493f194",
+      "blend_sha256": "dc8410d1799d2476f23603e1b2e16e39e7017c789ba31e4f1170eed510081828",
+      "mesh_objects": 3,
+      "triangles": 54,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_villager_axe",
+      "semantic_sha256": "42ae8e5ea5de2644c537f97bd587832c42678cfc9f4d124ce3eb6b94593f69f2",
+      "blend_sha256": "209ac4892ef7a9464342c5bcc781ad84fd6aa45c84f57c9b4f68bfa88056388f",
+      "mesh_objects": 3,
+      "triangles": 150,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_villager_basket",
+      "semantic_sha256": "9851636038cda71c31dfd974b633c5e201a96490fae8ef69fb57c82c5874b9af",
+      "blend_sha256": "4bd1db30c381a4785d086ceec0b896285fcb5ddb721385110b8848e6c9c0530d",
+      "mesh_objects": 3,
+      "triangles": 1540,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_villager_crook",
+      "semantic_sha256": "7a0d5ebee06cb55760731b52f8dc509060f9fe9ed97ddce78eb7381450f0505e",
+      "blend_sha256": "f0e0b20d1c8299d95488592255969b439ed0f04b09f313e198d0629e5677ae55",
+      "mesh_objects": 3,
+      "triangles": 220,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_villager_hammer",
+      "semantic_sha256": "a8e6c4f2d9de8a5e79fdf3e7a8ba95a267a6f051bd4928da9f0a38735cf420ea",
+      "blend_sha256": "bcc1deeb01cd8b006432bb197043f048dfd362fab19572af5f29f59a42ef796f",
+      "mesh_objects": 3,
+      "triangles": 88,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_villager_hunting_bow",
+      "semantic_sha256": "8dbef78a6bcff2d60b637256de46d1a550772561107f0bcd9d52370a7d0654a8",
+      "blend_sha256": "c8aab4a4a821d1adfe998b7ff7bffcd9c08af5f4e5ef6be639351369c0f20abc",
+      "mesh_objects": 3,
+      "triangles": 210,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_villager_hunting_spear",
+      "semantic_sha256": "b96e6f077914c77ff64370116e285ebf095990362ebf0866942e1789754a4066",
+      "blend_sha256": "ab4b9461bcc6e3ac8ffa70127d3bc130a27b0de26e874fc32bc9ddfe5f96592c",
+      "mesh_objects": 3,
+      "triangles": 150,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_villager_pick",
+      "semantic_sha256": "4f884ca39508244adc5e34b5b9d509dd16982935560e4a760ecef098c67206c1",
+      "blend_sha256": "c1ef387a09559443d89a0851e765fb6ee6e67f288c7fcb24697e4b55ac1b4321",
+      "mesh_objects": 3,
+      "triangles": 168,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "Korea_villager_sickle",
+      "semantic_sha256": "ece7422e953b8030442e8439205adf9f0030cac22a5d475a68fc1fe1a26e4f42",
+      "blend_sha256": "ee03361de96bfb7ce5e0df63e625febeaa1db6084e6be2e44caa480c2c4f1f20",
+      "mesh_objects": 3,
+      "triangles": 178,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "bulguksa_temple",
+      "semantic_sha256": "5ac5ea8136f62b44f238984f27a5721b48894f12fa776a54e5d5f54e25d6b93f",
+      "blend_sha256": "7cb7daae3430ccd3bade9b24b7f496cced79066afb1b76831a3864620c00fecf",
+      "mesh_objects": 199,
+      "triangles": 195716,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "gate_of_reverence",
+      "semantic_sha256": "1180a8a8bcffda6c3581988040d788da50c0b205af78d20c75e3d76fec3d5da3",
+      "blend_sha256": "cf45e15b9b33745f644b756ac4e7a2d678feef79cbc6d8294892319deb59b125",
+      "mesh_objects": 121,
+      "triangles": 132452,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "gyeongbok_palace",
+      "semantic_sha256": "31195b845b7ee123f66385abf68433bc01152418630cd5d5511f0f6124a0249f",
+      "blend_sha256": "6ba9ae411fd3b61102851e1883c7d2c441858ac1737124f2247dc2c88f5fdc4f",
+      "mesh_objects": 122,
+      "triangles": 137000,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "hall_of_worthies",
+      "semantic_sha256": "88c52e5180d7c0f45754bdc0665add6e00ee13cbe8050d088834a616dcb4e2b3",
+      "blend_sha256": "7fabc772a2e109f7794c4624c70a3ffcb9e23e2f22a5e13c45fa5c2a89a5b81f",
+      "mesh_objects": 148,
+      "triangles": 115488,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "hwangnyongsa",
+      "semantic_sha256": "82ffb15b0bb4563ee3f73866f9a9314fa621a14517b0b604a79ed3ee3dd2797c",
+      "blend_sha256": "ff6cfbf725322f886724917fb34d46f15bc93e3b969cf2dfb0c4208525caec74",
+      "mesh_objects": 149,
+      "triangles": 301312,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "mountain_fortress",
+      "semantic_sha256": "ba8c58cb50084cd89d13c8ce50009f7fc910d7f7f78a2b3d50c8bbfb4dcd5dba",
+      "blend_sha256": "b714ceaeb005f8dc31ebbc30189580a5e4e959b996fecf0ad900a0e282943a4f",
+      "mesh_objects": 130,
+      "triangles": 131776,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "seon_deok_observatory",
+      "semantic_sha256": "7e372ae6ad5004fc5d6109bd7d50166dea2a356aea2e3ba3fe803182fee37fc3",
+      "blend_sha256": "799b83a1d7b0640321a3d445fde400a9acffe175bbd281ecf18107434fb5b96d",
+      "mesh_objects": 75,
+      "triangles": 55216,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "seowon_academy",
+      "semantic_sha256": "57b85caa3e35ccc080b0908a98a6f3d3553b647bb37937e5fb44b1cded3b479f",
+      "blend_sha256": "f67eab6c9aaa478fc2f8066eb9b0d547db308391a1f6f7c5313f32dd561e5a39",
+      "mesh_objects": 153,
+      "triangles": 120792,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "stone_pagoda",
+      "semantic_sha256": "8d32a624dba4b235a068919b8677cd7b5a50b1502ed29a9f47015c84d57d8b2d",
+      "blend_sha256": "7c29335cdab66737d9a8cc43538c2d34d14aa40a169607a0387573c9ed467786",
+      "mesh_objects": 89,
+      "triangles": 16644,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_archer_a2",
+      "semantic_sha256": "d9ac74fe3dee66dc22036d26cf0ee65ad831781dbfdb8505c783346d43c3f624",
+      "blend_sha256": "e5b4a47fa59fdf12073680db72dfa2ccb32fa8fca5999ccd42da8e1040e1708a",
+      "mesh_objects": 3,
+      "triangles": 2423,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_archer_a3",
+      "semantic_sha256": "85d775a9763884b056a7051d4bd4c9f3cb9995b4a64aa5f4053eab0a27ff8d05",
+      "blend_sha256": "2432c1506d9918fe2fcb07e395e1973ce4581e4fa71e402b12abb56ce5e0a382",
+      "mesh_objects": 3,
+      "triangles": 2384,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_archer_a4",
+      "semantic_sha256": "680f3479001333c8bbd5a6ddfbb8da9dd7f6f0fc991e730df41530b2a9f4d020",
+      "blend_sha256": "72bd0a915a42d589c0d218de9ec9c809b16223c96d60bc99d7cd59410d4cee68",
+      "mesh_objects": 3,
+      "triangles": 2335,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_crossbowman_a3",
+      "semantic_sha256": "d3c9f9ee1ca43a2760615d08c1bcd830b4b4963e588d3a6c831d75163fba9a18",
+      "blend_sha256": "b535ccb19f33bfa6f7c42d457a608b3689e024f267abff40a04d0da18ebcd48e",
+      "mesh_objects": 3,
+      "triangles": 2535,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_crossbowman_a4",
+      "semantic_sha256": "9bc985a156e7fcb2ffffc05c834211dd2ba3771ae01b604f6e6771c8156453c0",
+      "blend_sha256": "0e6c63898801f28643ee7f3aa8700ee65765e0fc92f1d7a12f63597b2548dcd4",
+      "mesh_objects": 3,
+      "triangles": 2689,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_gapsa_a3",
+      "semantic_sha256": "4e661d4dc75c70d75b66bc37847884a3e1158abc4d9b8c9d3d7e6a49b209e597",
+      "blend_sha256": "147bd8507c9ec9e8e654b045fa4d14db163505d246dbd20fb0ead4c6172aab48",
+      "mesh_objects": 3,
+      "triangles": 2378,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_gapsa_a4",
+      "semantic_sha256": "016ff068ee41fd04f88106848edaeb7632aa802a3292deb27473fbc613e2b72e",
+      "blend_sha256": "71c3085a52b57e98e50ccf47ce695016ad01e0baa8d1c15b1776a38f09887cf2",
+      "mesh_objects": 3,
+      "triangles": 2592,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_handcannoneer_a4",
+      "semantic_sha256": "77f379b6fa684eb06fc65674f4e1da3159af69efdbe71dff309a7bcb26328c33",
+      "blend_sha256": "8b1ab53ec0ede713af7a80174a25f7b115681afa34c3c95cc2e582178a7f8c7d",
+      "mesh_objects": 3,
+      "triangles": 2375,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_horseman_a2",
+      "semantic_sha256": "44db061fd0c12184189d0d7c9180395b510595b3e295744aae8b323637e8d1a8",
+      "blend_sha256": "70103e958a7094578e736f5b806c0600304b8df71770a09c5543f7dca1a6a1e3",
+      "mesh_objects": 3,
+      "triangles": 2401,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_horseman_a3",
+      "semantic_sha256": "b70bb7600a494d96ade75214d20dd4737b67cb7b0b06986ac66deb40bcb73274",
+      "blend_sha256": "5bcd34ac01bd39310be2252bfa4d4721feff7925029fe0e458e94342fbedfd7f",
+      "mesh_objects": 3,
+      "triangles": 2455,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_horseman_a4",
+      "semantic_sha256": "5984c0de44bd46bddda18e6bd5b59e6b7d209347326adc0f4fcfd85156f1e954",
+      "blend_sha256": "a52911dcc43f24e40979d24a8a300c48ee76bdccd3db40954a62f92bda110c67",
+      "mesh_objects": 3,
+      "triangles": 2608,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_hwarang_dismounted_a2",
+      "semantic_sha256": "539838b08cc334a472ae221630db1197d15b836de4f56ecf29979a755e9a065f",
+      "blend_sha256": "eed5fa78180e78d71aa9b3608ce3286cbd0a36662a32ce4870da4b5a67c1ccc4",
+      "mesh_objects": 3,
+      "triangles": 2478,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_hwarang_dismounted_a3",
+      "semantic_sha256": "e98c8fc5c23868871e15af7a8c639ceececf73f7601f5ef7d9eb137aa2939295",
+      "blend_sha256": "96fa52e4dc9d471b05aabc74505be81b6da22de5e390246be79ea30fe56c9663",
+      "mesh_objects": 3,
+      "triangles": 2544,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_hwarang_dismounted_a4",
+      "semantic_sha256": "530f4d89124c9109761940c19b6d88036bba6078c2dfb1e78e3f685e85ff7b51",
+      "blend_sha256": "91fa9305a63ec911a27254c661410514df7e36f4aca554a5a34fb80e1cf92721",
+      "mesh_objects": 3,
+      "triangles": 2564,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_hwarang_mounted_a2",
+      "semantic_sha256": "ad34f78db29e0fca6eb05330cac0c01037f3bf314b442e8d21fac6070d5cf6c5",
+      "blend_sha256": "dc12bb14a65f3fcd1856a15c1b603695074554e424b206a3c6f0ff2021ddf549",
+      "mesh_objects": 3,
+      "triangles": 2321,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_hwarang_mounted_a3",
+      "semantic_sha256": "c7fe156f487d9cbb32d3b2d96ccab70e756b712445402fdc9f77b54cc3b917f8",
+      "blend_sha256": "3979fe75e226ee6af331047d6da7ed6a850fc149bdd3ff2767673306752d300d",
+      "mesh_objects": 3,
+      "triangles": 2438,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_hwarang_mounted_a4",
+      "semantic_sha256": "526c91e30eb8400bbe6791345825446b0275f35c1ec52f3725779f29549dfc9b",
+      "blend_sha256": "a22ab4406693c0c7751e5eb9b3084ef19f1ac99fd94eb4d0fa77be8aae3624bc",
+      "mesh_objects": 3,
+      "triangles": 2630,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_lancer_a3",
+      "semantic_sha256": "8f4663cdcd2f5031ed6f2302ea549f0dfc6c624b54a0433ba770a2b19b907ff6",
+      "blend_sha256": "4af1b638d1105816951d8f72d9a19eaf5479ae56c2e1b6e9aa6d357233c30b89",
+      "mesh_objects": 3,
+      "triangles": 2704,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_lancer_a4",
+      "semantic_sha256": "d503ab7bdf1008af4f9287b3760acae7ae478b61729789b0d6cd2a256a4452c4",
+      "blend_sha256": "165fdb2de25d61d2e4c90f1d63395b8f89930a1b9942917ef340a5c50c7e1d4e",
+      "mesh_objects": 3,
+      "triangles": 2535,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_monk_a3",
+      "semantic_sha256": "4b665ebc9581adc6debba01d38c75b772eed66b607ee65e6748af0db62f9ecea",
+      "blend_sha256": "f4bdd165bdeb1ae0521e71ab5e16c3ed989f9f2f37d934b3db32547d13a6581c",
+      "mesh_objects": 3,
+      "triangles": 2315,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_monk_a4",
+      "semantic_sha256": "f566cd63b47ea9b2ca2da7f95a0e99a0dc861a5ccebe4ee6dbe96d36aa470ade",
+      "blend_sha256": "73cced70241dbe0acc35321cca9e9bd7e61abf9e635de3f5193378399acea45a",
+      "mesh_objects": 3,
+      "triangles": 2276,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_horseman_a2",
+      "semantic_sha256": "9495e272a0bed047da6c206f65de566a44dc4b601352a3196803ea91dae0924d",
+      "blend_sha256": "84c5b6ff26aaeeab6740d41c608fe1df164c2e1c33c7710f5c134a139f5f4018",
+      "mesh_objects": 3,
+      "triangles": 2728,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_horseman_a3",
+      "semantic_sha256": "ec79fd907e3e88775a39ebaa99a7afaf1b7d8fcb1d0ddd42e25b443dd4eb859e",
+      "blend_sha256": "9f1d0c7585cd0f9c3e9fa70c65f156cc0116c149751b27ebc2382aeaebc5b949",
+      "mesh_objects": 3,
+      "triangles": 3125,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_horseman_a4",
+      "semantic_sha256": "a98edebd317aed0f4010580129f9d644cf722fb8444106c253bdda879ad9e1a5",
+      "blend_sha256": "0104de90c163da68b6288409ade2c63bad0df9d2b9229c6c8ec2c28a0156a8f4",
+      "mesh_objects": 3,
+      "triangles": 3282,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_hwarang_a2",
+      "semantic_sha256": "c80f3e20d8a2b79660d96e4920c99c9a2e998a00ff1e64885b7fe1d9d550f1a5",
+      "blend_sha256": "28b629010623b495de56e633cad6b8b282c3f273c6d36cc4cd6d36dce0c6a9cb",
+      "mesh_objects": 3,
+      "triangles": 2728,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_hwarang_a3",
+      "semantic_sha256": "da01415463b8981d73e24f269ae86d16b6e052c203096bed51da79e9c2ecda99",
+      "blend_sha256": "74078d711a0d6842b766f6e1d6e12bb45292099367b4086b5fa3ab169e3ccb4f",
+      "mesh_objects": 3,
+      "triangles": 3125,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_hwarang_a4",
+      "semantic_sha256": "0dbae145ed15fb7cad92a3a417107d4462b41eb2b500c53422226be38cd7b75b",
+      "blend_sha256": "6170c8f5fa6ba91d1ab83b6c2562691970c082c27567be6b8650d8ff3c372a65",
+      "mesh_objects": 3,
+      "triangles": 3282,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_lancer_a3",
+      "semantic_sha256": "4e244705fe1ff637082fac5bd87f186d75448ff39913d6908aee28860806deb5",
+      "blend_sha256": "944d43bb6d8686252f33be3770ce039ea855c7cb865e869571a14582b982e6fb",
+      "mesh_objects": 3,
+      "triangles": 3275,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_lancer_a4",
+      "semantic_sha256": "a50e53e13e60c954b6cbd0dfcea53d838844c85bf2aa6fa15d7463380e393374",
+      "blend_sha256": "4d1f6b80cc06b49d64d45c4f661b12df41e830005c890f5cfcef8ecf21421b81",
+      "mesh_objects": 3,
+      "triangles": 4042,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_scout_a1",
+      "semantic_sha256": "75cb95263336c6eb33da6761a4a89d4a8390ac1976ee1344d1d11f650ffbbcec",
+      "blend_sha256": "2a7e5a588633900bc61d629636138248727e0af6cfcb1ca8841b248182f4683f",
+      "mesh_objects": 3,
+      "triangles": 2824,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_scout_a2",
+      "semantic_sha256": "fd877a31d8c3385142c5ba22cf837ae0349184f8db2ff95b76631aeab97c7c7e",
+      "blend_sha256": "5c06b05e5d62ff3fdd3754656f88a93133b3a05e66493e8a7297e6745f900c11",
+      "mesh_objects": 3,
+      "triangles": 2824,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_scout_a3",
+      "semantic_sha256": "52c56f5a7be64eb63459ad181934918c9c24f4d8d3ba267dc59860673b31f7d3",
+      "blend_sha256": "b644870d44f5dec51ebcf987caaf51c25400c66aa5eb096965d1c46f6000d1eb",
+      "mesh_objects": 3,
+      "triangles": 2824,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_scout_a4",
+      "semantic_sha256": "61bafe2cb6e699cc1b09a755c70b603a5e46fce1f215a894b8dc0f5978f9c04c",
+      "blend_sha256": "64121d85a2adfe70687fe29231b68efe780a8ec7932fcb4c6f8aece195814167",
+      "mesh_objects": 3,
+      "triangles": 2824,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_trader_a2",
+      "semantic_sha256": "eb26373e98bc4676bbe809df0ec06c0e4b89ba147995401a1517ebf00be40e81",
+      "blend_sha256": "99549fa1324a1b3125f14a5a3ed91f37eb7c4ba82c66cd4439144a6e47173885",
+      "mesh_objects": 3,
+      "triangles": 3281,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_trader_a3",
+      "semantic_sha256": "c7fa0703d245ec7fc6155bcede5f5f8d77a0642330de6168ec8ae9b81414cb04",
+      "blend_sha256": "9bb0701ea370a87f83590d7eff2d1072428906ccc916ef6dfdbc881daea3d9b6",
+      "mesh_objects": 3,
+      "triangles": 3323,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_mount_trader_a4",
+      "semantic_sha256": "fd6ca02877232398ab82b63229927ebd156a6cf6ff04eba1010f28fea1284403",
+      "blend_sha256": "f71295538661fa157fef8eab3a104f1cadd581da2356fa349213391558420a8c",
+      "mesh_objects": 3,
+      "triangles": 3587,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_righteous_army_monk_a3",
+      "semantic_sha256": "69a0b52557a1dc2434615a488d52c6bc8b669afd6190ca55600febf8579a91a5",
+      "blend_sha256": "82e5f47c4cec4e07d7771f7477d4744bc4457c448a1ff91377dd6c20278853f1",
+      "mesh_objects": 3,
+      "triangles": 2385,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_righteous_army_monk_a4",
+      "semantic_sha256": "8b22048a76e45c708d3d52d9c103e9b20fdbdef02b1b77d00d624679e7a83433",
+      "blend_sha256": "a376adaa04da3d22a70cbf8d635b130e0d350347abf32d8643797e140a7a3a06",
+      "mesh_objects": 3,
+      "triangles": 2324,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_scout_a1",
+      "semantic_sha256": "a2df41b9806a94124213690148a17763c9d591a8958dfb2b6d580b8d39a64969",
+      "blend_sha256": "c925aa3c08a317ea8f23b00314130c118b519140885967224b1251b63702c795",
+      "mesh_objects": 3,
+      "triangles": 2295,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_scout_a2",
+      "semantic_sha256": "7ff90e4410b5b8dce71ea47530706c97364aebfaba42dd39d554eee935306175",
+      "blend_sha256": "f6dbd6b57236caf91ec86ab59d4ef1040e020da3091d99ad7932ca77f300f4c7",
+      "mesh_objects": 3,
+      "triangles": 2437,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_scout_a3",
+      "semantic_sha256": "0ecfd53e32c29fa4664a7fafa3801b26c990e81346057e452aa94d75465b1eeb",
+      "blend_sha256": "9b45be0df4d40f1618f38ace7864e6c5cb1a1ca1092ec1f795ae31180982cc07",
+      "mesh_objects": 3,
+      "triangles": 2575,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_scout_a4",
+      "semantic_sha256": "afd449a008752084cddfb4329515641f6e882c08957bcb9f8578ab60bd4d6c5b",
+      "blend_sha256": "cfc36df3621c316f6a38a8428fd9702de479b4a7257515399e6e79f7f628d526",
+      "mesh_objects": 3,
+      "triangles": 2630,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_scout_female_a1",
+      "semantic_sha256": "2c3b0951d1995d1b138696e9636304b0e777476986c1dfce6945fff8fbe0a103",
+      "blend_sha256": "279475f8da7edf73db642ae81fb1862da73ad5ee9a8b7d9d52051f75657e057a",
+      "mesh_objects": 3,
+      "triangles": 2302,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_scout_female_a2",
+      "semantic_sha256": "84098ca2fcf124bf19b762d851e5045d22f736ea69835c5f3be8ad19affbb139",
+      "blend_sha256": "4613279bc69f56e3a6e51d464dc8ff4ada915bbf09059d8101e24bf9110d9da9",
+      "mesh_objects": 3,
+      "triangles": 2512,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_scout_female_a3",
+      "semantic_sha256": "81bae410995a01ce9787937376b2f8e265d0a01bd946acd50c339cc28ff10b76",
+      "blend_sha256": "ba9268e1a2bcc7fd9e2c43885393189d677371854213ce31c372a1d673b34c46",
+      "mesh_objects": 3,
+      "triangles": 2668,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_scout_female_a4",
+      "semantic_sha256": "b754a76ebd37f111081c9f0caef5f691d94fdbb74498f3a2325fb182997c7e16",
+      "blend_sha256": "461e8024a825c3d62154a2e397bce04b0b08c891a5f00c114837d884a9d3a9ff",
+      "mesh_objects": 3,
+      "triangles": 2668,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_seonbi_a1",
+      "semantic_sha256": "f27aff6ab665a6ceca25158dff5bf1d956659217b69a417bad3cf36c90a6d6e1",
+      "blend_sha256": "f694d6d7338bd9988e466e9fff8e341830e4f2c9afdaf7a899a3b3db70585334",
+      "mesh_objects": 3,
+      "triangles": 2298,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_seonbi_a3",
+      "semantic_sha256": "8358e0f3e82a68f58f49671397daf508a07c7ef055a4f374fdf082530378e2d4",
+      "blend_sha256": "a772354d9dad44bd10a0419da6b07f616b1e30027ee028f1bfbb3e5cb952bcb9",
+      "mesh_objects": 3,
+      "triangles": 2322,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_spearman_a1",
+      "semantic_sha256": "904a1dd84c1734360efb42c5e78b9246ecd1a82847c389dc8212b2033e2f77e6",
+      "blend_sha256": "d991fdeddffe7fa3c4a882ef9930a61bbd6223efe5e6d82707e3dd42d172a2bd",
+      "mesh_objects": 3,
+      "triangles": 2294,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_spearman_a2",
+      "semantic_sha256": "b164a3dac82725ec5fa925b73981e7ad6da7f9fcb2809ed98fd2c85481a910f6",
+      "blend_sha256": "20c1193d79af05fc8f86935eb972bd0c372af4f47552d10625af61133a6fe2ea",
+      "mesh_objects": 3,
+      "triangles": 2296,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_spearman_a3",
+      "semantic_sha256": "346a9c8d3038f6766f4ac4d6bf9f411ff1a3dd032525eb64e797b65304104cf6",
+      "blend_sha256": "b0948c93cfdfeb51e33033e8c5247946f31404d7c177d94465071b291981bde7",
+      "mesh_objects": 3,
+      "triangles": 2221,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_spearman_a4",
+      "semantic_sha256": "a7e88ff4a001f609eb43b3ae740103ed6ca9f8c9d6c8500a6c667fd07c616b9e",
+      "blend_sha256": "4de48dfa20c56925966c3ada36779c118b65f2437be8127240abd9b9014edb5b",
+      "mesh_objects": 3,
+      "triangles": 2299,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_tiger_hunter_a2",
+      "semantic_sha256": "d6f002c46bf059ae655cf39ace8aa2460d02d3fd1504f26f06236508a90391bc",
+      "blend_sha256": "bfec698b944c7e4a9efe2e3e3884d6e31b286863a7e19691635a584a3568dd9c",
+      "mesh_objects": 3,
+      "triangles": 2428,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_tiger_hunter_a3",
+      "semantic_sha256": "2632f36671ee2112b79590cdd5b2b2d82614a3a3fefe25c3fdd2c03bf046f5ec",
+      "blend_sha256": "112097ba6e622a305a7bec45677072ad658dcf5fff5b032c81850be7a4e53910",
+      "mesh_objects": 3,
+      "triangles": 2428,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_tiger_hunter_a4",
+      "semantic_sha256": "10e0c39f60fb901984ef92f1587515e70b43384ee3711e64b3010b75f4e40f47",
+      "blend_sha256": "d3789d30c6e7d05141a8bd3611f94c9d8b785136d89f07426218aaf4edede828",
+      "mesh_objects": 3,
+      "triangles": 2646,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trade_cargo_a2",
+      "semantic_sha256": "8d0756876d2168c60ccf15e8c7e7fec29b42b4e39d260cbddfb944a33eb007e0",
+      "blend_sha256": "b50b286ac41fe3af86f42dd9e79ec1e196964eca2de3fbf0bf3d812e87990c2f",
+      "mesh_objects": 3,
+      "triangles": 3023,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trade_cargo_a3",
+      "semantic_sha256": "6127266d71adb3753807909388ecee4e59e7229bbce661c67f9a08dac1ee3a66",
+      "blend_sha256": "50d11a2b914d2ad10176fded191232b4491f312d4c41e942c7145483580e8783",
+      "mesh_objects": 3,
+      "triangles": 3287,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trade_cargo_a4",
+      "semantic_sha256": "0b895aea3a107813f6e086a2188e4bfd2d22377f21754f32f055ee012933ce50",
+      "blend_sha256": "97a1baa5fcf4a8feedfa75e40c121fe0886f4104010356825163920cb92224d7",
+      "mesh_objects": 3,
+      "triangles": 4275,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trader_a2",
+      "semantic_sha256": "957b4a4933dc1bd04d0dfe4a46a6222335219db203e91135bcebe13625f05fa3",
+      "blend_sha256": "f14d3b0b595903774896ca0efd506229050a91d9d2311e41a3620290853593db",
+      "mesh_objects": 3,
+      "triangles": 2218,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trader_a3",
+      "semantic_sha256": "aa7a20c4b24758404bec4553933a6076e70d9e67637d2d617987fefef2ba9c38",
+      "blend_sha256": "eae2bbb81f46c50f1925b0fd8c2f37aba97150905b1b1d7cab49fb603f7613ae",
+      "mesh_objects": 3,
+      "triangles": 2325,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trader_a4",
+      "semantic_sha256": "22a5bd93116f288698dbe03e776cab1e18e18c10815b8e429d1911dd396319d2",
+      "blend_sha256": "77755cc6ca443c9c9d78cc26636d6e4fbfb2841de7234141c074c3b5db4784f9",
+      "mesh_objects": 3,
+      "triangles": 2478,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trader_female_a2",
+      "semantic_sha256": "7c04e21461f25b093ea3379062c9d338b0c441d435c8bba671970878b1344729",
+      "blend_sha256": "23c4dfc20d89277af40eb48215e79f86e6484041b7325a0256f4fc468d6fa5c9",
+      "mesh_objects": 3,
+      "triangles": 2364,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trader_female_a3",
+      "semantic_sha256": "ce7d3600ee07cc84a954eaa6fc13fbdda7f6031159a96389330dc23df20dc5f4",
+      "blend_sha256": "50276c6e7fbc7e4db09f80fdd3ba08763fb101952e311859a58d5d7b18573336",
+      "mesh_objects": 3,
+      "triangles": 2314,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_trader_female_a4",
+      "semantic_sha256": "7bee09cfdc6dd2230fe058aa30ff16b6970c7fe60bb9e751588faf3523d34b4d",
+      "blend_sha256": "a6697afb5f62885ef4e4fe3a05f7217af39e3dc04109859d953c712d06268818",
+      "mesh_objects": 3,
+      "triangles": 2449,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_villager_female_a1",
+      "semantic_sha256": "a489352f2b3980a6abba2c25d38b022a5bcd80941d86b6c80c0cf0cb9166d662",
+      "blend_sha256": "b2bbd4e0de6ab0e5f426840dbd3024a924168807510f6490ca12477dab418151",
+      "mesh_objects": 3,
+      "triangles": 2006,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_villager_female_a2",
+      "semantic_sha256": "2dcc6ad66784329b32c7fdbc8325cf47c89de2b1dd6f5a9c490bbeebf3b49b5e",
+      "blend_sha256": "78e52da21d7412ec323593efedcb71936f72f63d0f014c055df13168b55797f3",
+      "mesh_objects": 3,
+      "triangles": 2006,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_villager_female_a3",
+      "semantic_sha256": "57f0dbd50d5d875e5dfa5135974bb1db3aea3a3ec24926411590b5ed283ab372",
+      "blend_sha256": "411c170e7d68c767e5f03385216f5b50a55a16444c2fb1883f93ea5e5754c599",
+      "mesh_objects": 3,
+      "triangles": 2144,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_villager_female_a4",
+      "semantic_sha256": "3f69e768e8e7005e8376d7dd9938170692f4a6385fed05ac46166aab2b819eec",
+      "blend_sha256": "d0827522f6331347c13a2bc4485e9aade5457dd12720bebc88f1df600b86b645",
+      "mesh_objects": 3,
+      "triangles": 2287,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_villager_male_a1",
+      "semantic_sha256": "d72a95b552962b762d65678c06c6882422206c56b37ee46be684ac5b696ded41",
+      "blend_sha256": "af04fafef851e14d7dca3ed27a901a4e522a8507d71974c792b3770628468543",
+      "mesh_objects": 3,
+      "triangles": 2218,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_villager_male_a2",
+      "semantic_sha256": "c77e7aa990e1e57ac556ce97c7ddd631765f49518b89336d7f6919e40a15709a",
+      "blend_sha256": "a61c1189f18de9676932d64a587bec66d3f3516662f29617341cac6aff637aaf",
+      "mesh_objects": 3,
+      "triangles": 2218,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_villager_male_a3",
+      "semantic_sha256": "91bd80c4bca30c5a84dd70697813b3bf9b71f4bbfe46aa56ae4ef956bf7596c4",
+      "blend_sha256": "770c68d775c3e0779adc716954a811f11b65b1d7c5f19cf9f9feadb0ed1edb61",
+      "mesh_objects": 3,
+      "triangles": 2354,
+      "original_semantics_equal": null,
+      "cold_open": true
+    },
+    {
+      "id": "kr_villager_male_a4",
+      "semantic_sha256": "1813769859fb536a631b677a412acce7bd8138d2e08b0459c4ec1c3e13fe6f51",
+      "blend_sha256": "65ff17cad99abc0f09663df0ff8e454c39dab1ff222d5bcb4e610fcc04851fee",
+      "mesh_objects": 3,
+      "triangles": 2502,
+      "original_semantics_equal": null,
+      "cold_open": true
+    }
+  ],
+  "source_only": true,
+  "native_cook": false,
+  "all_original_semantics_equal": null,
+  "packed_texture_deduplication": false
+}

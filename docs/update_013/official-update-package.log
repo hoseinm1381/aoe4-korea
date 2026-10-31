@@ -1,0 +1,9 @@
+BlenderMCP addon registered (auto-connect: on)
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+OFFICIAL_GARRISON_VERIFIED 0.1.9 53559526 sha256:026d601bd2389a775b41041a2278b741fd2ade621b5d049f99cc015ea81589e0 C:\Users\RS\AppData\Local\Temp\korea-garrison-tools-019\garrison
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

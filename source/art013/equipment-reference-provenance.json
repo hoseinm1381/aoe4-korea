@@ -1,0 +1,394 @@
+{
+  "attachment_lists": {
+    "attachments\\attachment_lists\\races\\japanese\\weapons\\wpn_melee_samurai_katana_jpn": [
+      "kr_unit_archer_2_ayy",
+      "kr_unit_archer_2_ayy",
+      "kr_unit_archer_3_ayy",
+      "kr_unit_archer_3_ayy",
+      "kr_unit_archer_4_ayy",
+      "kr_unit_archer_4_ayy"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_siege_torch": [
+      "kr_unit_archer_2_ayy",
+      "kr_unit_archer_3_ayy",
+      "kr_unit_archer_4_ayy",
+      "kr_unit_militia_cmp_chi",
+      "kr_unit_militia_cru",
+      "kr_unit_militia_cru",
+      "kr_unit_scout_1_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_range_archer_2_chi": [
+      "kr_unit_archer_2_chi_ha_01",
+      "kr_unit_archer_2_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_siege_archer_incendiary": [
+      "kr_unit_archer_2_chi_ha_01",
+      "kr_unit_archer_3_chi_ha_01",
+      "kr_unit_archer_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_range_archer_3_chi": [
+      "kr_unit_archer_3_chi_ha_01",
+      "kr_unit_archer_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_range_archer_4_chi": [
+      "kr_unit_archer_4_chi_ha_01",
+      "kr_unit_archer_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_range_crossbow_3_chi": [
+      "kr_unit_crossbowman_3_chi_ha_01",
+      "kr_unit_crossbowman_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_siege_crossbow_incendiary": [
+      "kr_unit_crossbowman_3_chi_ha_01",
+      "kr_unit_crossbowman_3_chi_ha_01",
+      "kr_unit_crossbowman_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_range_crossbow_4_chi": [
+      "kr_unit_crossbowman_4_chi_ha_01",
+      "kr_unit_crossbowman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_siege_crossbow_incendiary_4": [
+      "kr_unit_crossbowman_4_chi_ha_01",
+      "kr_unit_crossbowman_4_chi_ha_01",
+      "kr_unit_crossbowman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_range_handcannon_4_chi": [
+      "kr_unit_handcannon_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\mongol\\weapons\\wpn_range_horsearcher_2_mon": [
+      "kr_unit_horseman_2_ayy",
+      "kr_unit_horseman_2_ayy"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_horseman_2_chi": [
+      "kr_unit_horseman_2_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_siege_torch_horseman": [
+      "kr_unit_horseman_2_chi_ha_01",
+      "kr_unit_horseman_3_chi_ha_01",
+      "kr_unit_horseman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_melee_horseman_charge": [
+      "kr_unit_horseman_2_chi_ha_01",
+      "kr_unit_horseman_3_chi_ha_01",
+      "kr_unit_horseman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\mongol\\weapons\\wpn_range_horsearcher_3_mon": [
+      "kr_unit_horseman_3_ayy",
+      "kr_unit_horseman_3_ayy"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_horseman_3_chi": [
+      "kr_unit_horseman_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\mongol\\weapons\\wpn_range_horsearcher_4_mon": [
+      "kr_unit_horseman_4_ayy",
+      "kr_unit_horseman_4_ayy"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_horseman_4_chi": [
+      "kr_unit_horseman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_knight_3_chi": [
+      "kr_unit_knight_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\japanese\\weapons\\wpn_melee_onna_bugeisha_jpn": [
+      "kr_unit_knight_3_chi_ha_01",
+      "kr_unit_knight_3_chi_ha_01",
+      "kr_unit_knight_4_chi_ha_01",
+      "kr_unit_knight_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_siege_torch_eng": [
+      "kr_unit_knight_3_chi_ha_01",
+      "kr_unit_knight_4_chi_ha_01",
+      "kr_unit_manatarms_3_chi_ha_01",
+      "kr_unit_manatarms_4_chi_ha_01",
+      "kr_unit_spearman_1_chi_ha_01",
+      "kr_unit_spearman_2_chi_ha_01",
+      "kr_unit_spearman_3_chi_ha_01",
+      "kr_unit_spearman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_knight_3_charge_chi": [
+      "kr_unit_knight_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_knight_4_chi": [
+      "kr_unit_knight_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_knight_4_charge_chi": [
+      "kr_unit_knight_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_manatarms_3_chi": [
+      "kr_unit_leader_baibars_ayy"
+    ],
+    "attachments\\attachment_lists\\races\\rus\\weapons\\wpn_siege_torch_rus": [
+      "kr_unit_leader_baibars_ayy"
+    ],
+    "attachments\\attachment_lists\\races\\japanese\\weapons\\wpn_melee_spearman_long_spear_3_jpn": [
+      "kr_unit_manatarms_3_chi_ha_01",
+      "kr_unit_manatarms_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\templar\\weapons\\wpn_melee_heavy_spearman_3_tem": [
+      "kr_unit_manatarms_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\japanese\\weapons\\wpn_melee_spearman_long_spear_4_jpn": [
+      "kr_unit_manatarms_4_chi_ha_01",
+      "kr_unit_manatarms_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\templar\\weapons\\wpn_melee_heavy_spearman_4_tem": [
+      "kr_unit_manatarms_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\hre_ha_01\\weapons\\wpn_range_archer_4_hre_ha_01": [
+      "kr_unit_militia_cmp_chi",
+      "kr_unit_repeater_crossbowman_4_chi_ha_01",
+      "kr_unit_repeater_crossbowman_4_chi_ha_01",
+      "kr_unit_repeater_crossbowman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_melee_knight_2": [
+      "kr_unit_militia_cmp_chi"
+    ],
+    "attachments\\attachment_lists\\civilizations\\crusader_cmp\\weapons\\wpn_melee_militia_cru": [
+      "kr_unit_militia_cru",
+      "kr_unit_militia_cru"
+    ],
+    "attachments\\attachment_lists\\races\\hre_ha_01\\weapons\\wpn_range_archer_2_hre_ha_01": [
+      "kr_unit_repeater_crossbowman_2_chi_ha_01",
+      "kr_unit_repeater_crossbowman_2_chi_ha_01",
+      "kr_unit_repeater_crossbowman_2_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\hre_ha_01\\weapons\\wpn_range_archer_3_hre_ha_01": [
+      "kr_unit_repeater_crossbowman_3_chi_ha_01",
+      "kr_unit_repeater_crossbowman_3_chi_ha_01",
+      "kr_unit_repeater_crossbowman_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_melee_scout_1_chi": [
+      "kr_unit_scout_1_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_range_scout_hunt_1": [
+      "kr_unit_scout_1_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_melee_spearman_2_eng": [
+      "kr_unit_spearman_1_chi_ha_01",
+      "kr_unit_spearman_2_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\mongol\\weapons\\wpn_melee_knight_2_charge_mon": [
+      "kr_unit_spearman_1_chi_ha_01",
+      "kr_unit_spearman_1_chi_ha_01",
+      "kr_unit_spearman_1_chi_ha_01",
+      "kr_unit_spearman_2_chi_ha_01",
+      "kr_unit_spearman_2_chi_ha_01",
+      "kr_unit_spearman_2_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_melee_spearman_2_charge_eng": [
+      "kr_unit_spearman_1_chi_ha_01",
+      "kr_unit_spearman_2_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_melee_spearman_3_eng": [
+      "kr_unit_spearman_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\mongol\\weapons\\wpn_melee_knight_3_charge_mon": [
+      "kr_unit_spearman_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_melee_spearwall_3_eng": [
+      "kr_unit_spearman_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_melee_spearman_3_charge_eng": [
+      "kr_unit_spearman_3_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_melee_spearman_4_eng": [
+      "kr_unit_spearman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\mongol\\weapons\\wpn_melee_knight_4_charge_mon": [
+      "kr_unit_spearman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_melee_spearwall_4_eng": [
+      "kr_unit_spearman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\english\\weapons\\wpn_melee_spearman_4_charge_eng": [
+      "kr_unit_spearman_4_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\core\\weapons\\wpn_ebps_template": [
+      "kr_unit_villager_1_chi_ha_01",
+      "kr_unit_villager_1_chi_ha_01",
+      "kr_unit_villager_1_chi_ha_01",
+      "kr_unit_villager_1_chi_ha_01"
+    ],
+    "attachments\\attachment_lists\\races\\chinese\\weapons\\wpn_siege_torch_weak_chi": [
+      "kr_unit_villager_1_chi_ha_01"
+    ]
+  },
+  "candidate_stock_models": [
+    "art/civilizations/chinese/weapons/chi_axe_guandao_1/chi_axe_guandao_1.rgm",
+    "art/civilizations/chinese/weapons/chi_axe_guandao_2/chi_axe_guandao_2.rgm",
+    "art/civilizations/chinese/weapons/chi_crossbow_repeating/chi_crossbow_repeating.rgm",
+    "art/civilizations/chinese/weapons/chi_fire_lance/chi_fire_lance.rgm",
+    "art/civilizations/chinese/weapons/chi_lance_fire/chi_lance_fire.rgm",
+    "art/civilizations/chinese/weapons/chi_shield_buckler/chi_shield_buckler.rgm",
+    "art/civilizations/chinese/weapons/chi_shield_round_bronze/chi_shield_round_bronze.rgm",
+    "art/civilizations/chinese/weapons/chi_spear_ji/chi_spear_ji.rgm",
+    "art/civilizations/chinese/weapons/chi_staff_khakkhara_1/chi_staff_khakkhara_1.rgm",
+    "art/civilizations/chinese/weapons/chi_staff_khakkhara_2/chi_staff_khakkhara_2.rgm",
+    "art/civilizations/chinese/weapons/chi_sword_dao/chi_sword_dao.rgm",
+    "art/civilizations/chinese/weapons/chi_sword_jian/chi_sword_jian.rgm",
+    "art/civilizations/chinese/weapons/chi_trade_horse_age02/chi_trade_horse_age02.rgm",
+    "art/civilizations/chinese/weapons/chi_trade_horse_age03/chi_trade_horse_age03.rgm",
+    "art/civilizations/chinese/weapons/chi_trade_horse_age04/chi_trade_horse_age04.rgm",
+    "art/civilizations/common/weapons/ability/boggy_ground/boggy_ground.rgm",
+    "art/civilizations/common/weapons/defense/pailing/pailing.rgm",
+    "art/civilizations/common/weapons/defense/shield_buckler/shield_buckler.rgm",
+    "art/civilizations/common/weapons/defense/shield_buckler_gold/shield_buckler_gold.rgm",
+    "art/civilizations/common/weapons/defense/shield_heater/shield_heater.rgm",
+    "art/civilizations/common/weapons/defense/shield_kite/shield_kite.rgm",
+    "art/civilizations/common/weapons/defense/shield_pavise/shield_pavise.rgm",
+    "art/civilizations/common/weapons/defense/shield_round/shield_round.rgm",
+    "art/civilizations/common/weapons/defense/shield_round_gold_wicker/shield_round_gold_wicker.rgm",
+    "art/civilizations/common/weapons/defense/shield_round_metal_wicker/shield_round_metal_wicker.rgm",
+    "art/civilizations/common/weapons/defense/shield_round_metal_wicker_sml/shield_round_metal_wicker_sml.rgm",
+    "art/civilizations/common/weapons/defense/shield_round_wood/shield_round_wood.rgm",
+    "art/civilizations/common/weapons/defense/shield_round_wood_wicker/shield_round_wood_wicker.rgm",
+    "art/civilizations/common/weapons/melee/axe_1hand/axe_1hand.rgm",
+    "art/civilizations/common/weapons/melee/axe_2hand_battle/axe_2hand_battle.rgm",
+    "art/civilizations/common/weapons/melee/axe_bardiche/axe_bardiche.rgm",
+    "art/civilizations/common/weapons/melee/axe_bardiche_short/axe_bardiche_short.rgm",
+    "art/civilizations/common/weapons/melee/axe_dane/axe_dane.rgm",
+    "art/civilizations/common/weapons/melee/axe_pole/axe_pole.rgm",
+    "art/civilizations/common/weapons/melee/book_closed/book_closed.rgm",
+    "art/civilizations/common/weapons/melee/lance_basic/lance_basic.rgm",
+    "art/civilizations/common/weapons/melee/lance_grapperedvamplate/lance_grapperedvamplate.rgm",
+    "art/civilizations/common/weapons/melee/lance_grapperedvamplate_stripes/lance_grapperedvamplate_stripes.rgm",
+    "art/civilizations/common/weapons/melee/lance_grappervamplate_teamcolor/lance_grappervamplate_teamcolor.rgm",
+    "art/civilizations/common/weapons/melee/lance_tassle/lance_tassle.rgm",
+    "art/civilizations/common/weapons/melee/lance_tassle_gold/lance_tassle_gold.rgm",
+    "art/civilizations/common/weapons/melee/mace_2hand/mace_2hand.rgm",
+    "art/civilizations/common/weapons/melee/mace_flanged/mace_flanged.rgm",
+    "art/civilizations/common/weapons/melee/spear_basic/spear_basic.rgm",
+    "art/civilizations/common/weapons/melee/spear_billhook/spear_billhook.rgm",
+    "art/civilizations/common/weapons/melee/spear_cavalry_charge/spear_cavalry_charge.rgm",
+    "art/civilizations/common/weapons/melee/spear_short/spear_short.rgm",
+    "art/civilizations/common/weapons/melee/spear_tassle/spear_tassle.rgm",
+    "art/civilizations/common/weapons/melee/spear_tassle_billhook/spear_tassle_billhook.rgm",
+    "art/civilizations/common/weapons/melee/spear_tassle_billhook_advanced/spear_tassle_billhook_advanced.rgm",
+    "art/civilizations/common/weapons/melee/spear_tassle_gold/spear_tassle_gold.rgm",
+    "art/civilizations/common/weapons/melee/spear_villager/spear_villager.rgm",
+    "art/civilizations/common/weapons/melee/spear_voulge/spear_voulge.rgm",
+    "art/civilizations/common/weapons/melee/staff_banner/staff_banner.rgm",
+    "art/civilizations/common/weapons/melee/staff_crozier/staff_crozier.rgm",
+    "art/civilizations/common/weapons/melee/staff_crozier_base/staff_crozier_base.rgm",
+    "art/civilizations/common/weapons/melee/staff_crozier_reichsadler/staff_crozier_reichsadler.rgm",
+    "art/civilizations/common/weapons/melee/staff_wood/staff_wood.rgm",
+    "art/civilizations/common/weapons/melee/sword_broad/sword_broad.rgm",
+    "art/civilizations/common/weapons/melee/sword_dagger/sword_dagger.rgm",
+    "art/civilizations/common/weapons/melee/sword_sabre/sword_sabre.rgm",
+    "art/civilizations/common/weapons/melee/sword_sabre_gold/sword_sabre_gold.rgm",
+    "art/civilizations/common/weapons/melee/sword_short/sword_short.rgm",
+    "art/civilizations/common/weapons/melee/sword_zwiehander/sword_zwiehander.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow/common_arrow.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_bleed/common_arrow_bleed.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_gial/common_arrow_gial.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_homing/common_arrow_homing.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_incendiary/common_arrow_incendiary.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_incendiary_3/common_arrow_incendiary_3.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_naval/common_arrow_naval.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_naval_incendiary/common_arrow_naval_incendiary.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_poison/common_arrow_poison.rgm",
+    "art/civilizations/common/weapons/projectiles/common_arrow_tower/common_arrow_tower.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bedcrossbow_arrow/common_bedcrossbow_arrow.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bedcrossbow_arrow_naval/common_bedcrossbow_arrow_naval.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bedcrossbow_arrow_tower/common_bedcrossbow_arrow_tower.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bolt/common_bolt.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bolt_homing/common_bolt_homing.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bolt_incendiary/common_bolt_incendiary.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bolt_tower/common_bolt_tower.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bombard_great/common_bombard_great.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bombard_great_emplacement/common_bombard_great_emplacement.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bombard_naval/common_bombard_naval.rgm",
+    "art/civilizations/common/weapons/projectiles/common_bombard_stone/common_bombard_stone.rgm",
+    "art/civilizations/common/weapons/projectiles/common_boulder/common_boulder.rgm",
+    "art/civilizations/common/weapons/projectiles/common_boulder_campaign/common_boulder_campaign.rgm",
+    "art/civilizations/common/weapons/projectiles/common_boulder_emplacement/common_boulder_emplacement.rgm",
+    "art/civilizations/common/weapons/projectiles/common_boulder_greek_fire/common_boulder_greek_fire.rgm",
+    "art/civilizations/common/weapons/projectiles/common_boulder_improved/common_boulder_improved.rgm",
+    "art/civilizations/common/weapons/projectiles/common_boulder_incendiary/common_boulder_incendiary.rgm",
+    "art/civilizations/common/weapons/projectiles/common_boulder_large/common_boulder_large.rgm",
+    "art/civilizations/common/weapons/projectiles/common_cannonball/common_cannonball.rgm",
+    "art/civilizations/common/weapons/projectiles/common_cannonball_gial/common_cannonball_gial.rgm",
+    "art/civilizations/common/weapons/projectiles/common_cannonball_improved/common_cannonball_improved.rgm",
+    "art/civilizations/common/weapons/projectiles/common_cannonball_ozutsu/common_cannonball_ozutsu.rgm",
+    "art/civilizations/common/weapons/projectiles/common_cannonball_small/common_cannonball_small.rgm",
+    "art/civilizations/common/weapons/projectiles/common_cannonball_small_improved/common_cannonball_small_improved.rgm",
+    "art/civilizations/common/weapons/projectiles/common_cannonball_tower/common_cannonball_tower.rgm",
+    "art/civilizations/common/weapons/projectiles/common_cannonball_tower_improved/common_cannonball_tower_improved.rgm",
+    "art/civilizations/common/weapons/projectiles/common_chainshot/common_chainshot.rgm",
+    "art/civilizations/common/weapons/projectiles/common_grenade/common_grenade.rgm",
+    "art/civilizations/common/weapons/projectiles/common_hand_cannonball/common_hand_cannonball.rgm",
+    "art/civilizations/common/weapons/projectiles/common_handcannon_siege/common_handcannon_siege.rgm",
+    "art/civilizations/common/weapons/projectiles/common_javelin/common_javelin.rgm",
+    "art/civilizations/common/weapons/projectiles/common_rocket/common_rocket.rgm",
+    "art/civilizations/common/weapons/projectiles/common_rocket_keep/common_rocket_keep.rgm",
+    "art/civilizations/common/weapons/projectiles/common_shinobi_grenade/common_shinobi_grenade.rgm",
+    "art/civilizations/common/weapons/projectiles/common_ship_cannon/common_ship_cannon.rgm",
+    "art/civilizations/common/weapons/projectiles/common_ship_cannon_improved/common_ship_cannon_improved.rgm",
+    "art/civilizations/common/weapons/projectiles/common_ship_cannon_incendiary/common_ship_cannon_incendiary.rgm",
+    "art/civilizations/common/weapons/projectiles/common_springald_arrow/common_springald_arrow.rgm",
+    "art/civilizations/common/weapons/projectiles/common_springald_arrow_fire/common_springald_arrow_fire.rgm",
+    "art/civilizations/common/weapons/projectiles/common_springald_arrow_improved/common_springald_arrow_improved.rgm",
+    "art/civilizations/common/weapons/projectiles/common_springald_arrow_naval/common_springald_arrow_naval.rgm",
+    "art/civilizations/common/weapons/projectiles/common_springald_arrow_tower/common_springald_arrow_tower.rgm",
+    "art/civilizations/common/weapons/projectiles/common_torch/common_torch.rgm",
+    "art/civilizations/common/weapons/ranged/archetypes/base_arbalest/base_arbalest.rgm",
+    "art/civilizations/common/weapons/ranged/archetypes/base_bow/base_bow.rgm",
+    "art/civilizations/common/weapons/ranged/archetypes/base_cross/base_cross.rgm",
+    "art/civilizations/common/weapons/ranged/bow_arbalest/bow_arbalest.rgm",
+    "art/civilizations/common/weapons/ranged/bow_arbalest_gold/bow_arbalest_gold.rgm",
+    "art/civilizations/common/weapons/ranged/bow_arrow/bow_arrow.rgm",
+    "art/civilizations/common/weapons/ranged/bow_cross/bow_cross.rgm",
+    "art/civilizations/common/weapons/ranged/bow_long/bow_long.rgm",
+    "art/civilizations/common/weapons/ranged/bow_recurve/bow_recurve.rgm",
+    "art/civilizations/common/weapons/ranged/bow_recurve_gold/bow_recurve_gold.rgm",
+    "art/civilizations/common/weapons/ranged/bow_recurve_gold_short/bow_recurve_gold_short.rgm",
+    "art/civilizations/common/weapons/ranged/bow_recurve_short/bow_recurve_short.rgm",
+    "art/civilizations/common/weapons/ranged/bow_short/bow_short.rgm",
+    "art/civilizations/common/weapons/ranged/cannon_hand/cannon_hand.rgm",
+    "art/civilizations/common/weapons/ranged/cannon_tower/cannon_tower.rgm",
+    "art/civilizations/common/weapons/ranged/rifle_matchlock_arquebus/rifle_matchlock_arquebus.rgm",
+    "art/civilizations/common/weapons/ranged/rifle_stand/rifle_stand.rgm",
+    "art/civilizations/common/weapons/tools/axe_2hand/axe_2hand.rgm",
+    "art/civilizations/common/weapons/tools/axe_doublebit/axe_doublebit.rgm",
+    "art/civilizations/common/weapons/tools/axe_pick/axe_pick.rgm",
+    "art/civilizations/common/weapons/tools/basket_back/basket_back.rgm",
+    "art/civilizations/common/weapons/tools/basket_berries/basket_berries.rgm",
+    "art/civilizations/common/weapons/tools/basket_horseback/basket_horseback.rgm",
+    "art/civilizations/common/weapons/tools/basket_seed/basket_seed.rgm",
+    "art/civilizations/common/weapons/tools/crook_shepherd/crook_shepherd.rgm",
+    "art/civilizations/common/weapons/tools/fork_farming/fork_farming.rgm",
+    "art/civilizations/common/weapons/tools/hammer_construction/hammer_construction.rgm",
+    "art/civilizations/common/weapons/tools/hammer_mining/hammer_mining.rgm",
+    "art/civilizations/common/weapons/tools/hammer_pick/hammer_pick.rgm",
+    "art/civilizations/common/weapons/tools/hammer_sledge/hammer_sledge.rgm",
+    "art/civilizations/common/weapons/tools/knife_skinning/knife_skinning.rgm",
+    "art/civilizations/common/weapons/tools/net_fishing/net_fishing.rgm",
+    "art/civilizations/common/weapons/tools/pouch_farmer/pouch_farmer.rgm",
+    "art/civilizations/common/weapons/tools/res_berry_backpack/res_berry_backpack.rgm",
+    "art/civilizations/common/weapons/tools/res_berry_carry/res_berry_carry.rgm",
+    "art/civilizations/common/weapons/tools/res_berry_empty/res_berry_empty.rgm",
+    "art/civilizations/common/weapons/tools/res_berry_horseback/res_berry_horseback.rgm",
+    "art/civilizations/common/weapons/tools/res_fish_carry/res_fish_carry.rgm",
+    "art/civilizations/common/weapons/tools/res_fish_horseback/res_fish_horseback.rgm",
+    "art/civilizations/common/weapons/tools/res_gold_backpack/res_gold_backpack.rgm",
+    "art/civilizations/common/weapons/tools/res_gold_horseback/res_gold_horseback.rgm",
+    "art/civilizations/common/weapons/tools/res_gold_tradecart/res_gold_tradecart.rgm",
+    "art/civilizations/common/weapons/tools/res_meat_backpack/res_meat_backpack.rgm",
+    "art/civilizations/common/weapons/tools/res_meat_carry/res_meat_carry.rgm",
+    "art/civilizations/common/weapons/tools/res_meat_horseback/res_meat_horseback.rgm",
+    "art/civilizations/common/weapons/tools/res_rice_carry/res_rice_carry.rgm",
+    "art/civilizations/common/weapons/tools/res_rice_horseback/res_rice_horseback.rgm",
+    "art/civilizations/common/weapons/tools/res_stone_backpack/res_stone_backpack.rgm",
+    "art/civilizations/common/weapons/tools/res_stone_horseback/res_stone_horseback.rgm",
+    "art/civilizations/common/weapons/tools/res_veggie_carry/res_veggie_carry.rgm",
+    "art/civilizations/common/weapons/tools/res_wheat_backpack/res_wheat_backpack.rgm",
+    "art/civilizations/common/weapons/tools/res_wheat_carry/res_wheat_carry.rgm",
+    "art/civilizations/common/weapons/tools/res_wheat_horseback/res_wheat_horseback.rgm",
+    "art/civilizations/common/weapons/tools/res_wood_backpack/res_wood_backpack.rgm",
+    "art/civilizations/common/weapons/tools/res_wood_carry/res_wood_carry.rgm",
+    "art/civilizations/common/weapons/tools/res_wood_horseback/res_wood_horseback.rgm",
+    "art/civilizations/common/weapons/tools/scythe_farming/scythe_farming.rgm",
+    "art/civilizations/common/weapons/tools/sickle_farming/sickle_farming.rgm",
+    "art/civilizations/common/weapons/tools/torch/torch.rgm"
+  ]
+}

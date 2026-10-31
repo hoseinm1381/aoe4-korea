@@ -27,7 +27,18 @@ def safe_output_cleanup(out,owner):
             if p.is_symlink() or p.is_junction() or not p.resolve().is_relative_to(expected):raise ValueError('Linked/escaped output is protected')
     shutil.rmtree(out)
 def build(out,prepare_only=False,replace_current=False):
-    config=read_json(ROOT/'project.json');verify()
+    config=read_json(ROOT/'project.json')
+    if config.get('build_hold'):raise ValueError(config['build_hold'])
+    verify()
+    if config.get("excluded_tables"):
+        from research016_ui import verify as verify_research_tooltips
+        verify_research_tooltips()
+    if config['version']=='0.1.6':
+        from release016 import verify_source
+        verify_source()
+    if config['version']=='0.1.5':
+        from art015.contracts import verify_native
+        print('NATIVE_MODEL_CONTRACTS',verify_native(ROOT/'inputs/native'),flush=True)
     release=ROOT/'release';previous=None
     if release.exists() and any(release.iterdir()) and not prepare_only:
         if not replace_current:raise ValueError('Use --replace-current to replace the verified local player ZIP after the new build passes')
@@ -55,6 +66,10 @@ def build(out,prepare_only=False,replace_current=False):
     tables={}
     for p in sorted((ROOT/'source/tables').rglob('*.rgd.json')):
         member=p.relative_to(ROOT/'source/tables').as_posix()[:-5]
+        exclusion=config.get('excluded_tables',{}).get(member)
+        if exclusion:
+            if digest(p)!=exclusion['sha256']:raise ValueError('Reviewed excluded table changed: '+member)
+            continue
         tables[member]=rgd.read(import_table(read_json(p)))
     _,codex_report=build_codex(tables,config);write_json(out/'codex-report.json',codex_report)
     roots=[(m,d) for m,d in tables.items() if m.count('/')==1]
@@ -77,7 +92,7 @@ def build(out,prepare_only=False,replace_current=False):
     if prepare_only:
         print('PREPARED_AND_VALIDATED',config['race'],len(tables),'tables',len(expected),'members',flush=True)
         return
-    assembly=Path(tempfile.gettempdir())/'garrison-independent-builds'/config['owner']/'current'
+    assembly=Path(tempfile.gettempdir())/'garrison-independent-builds'/config['owner']/config.get('build_stage','current')
     if assembly.exists():raise ValueError('Previous native assembly diagnostics are protected: '+str(assembly))
     assembly.parent.mkdir(parents=True,exist_ok=True)
     print('NATIVE_ASSEMBLY',config['race'],str(assembly),flush=True)
@@ -105,21 +120,25 @@ def build(out,prepare_only=False,replace_current=False):
     declaration=read_json(readback/'garrison/civilizations.json')
     for row in [declaration['attribute_root']]+declaration['races']+declaration['scripts']:
         if digest(readback/row['member'])!=row['sha256']:raise ValueError('Declaration digest differs')
-    policy=read_json(ROOT/'source/update-012-policy.json')
-    baseline=json.loads(gzip.decompress((ROOT/'docs/update_012/baseline-members.json.gz').read_bytes()))['members']
+    policy=read_json(ROOT/config.get('update_policy','source/update-012-policy.json'))
+    baseline=json.loads(gzip.decompress((ROOT/config.get('baseline_members','docs/update_012/baseline-members.json.gz')).read_bytes()))['members']
     changed=sorted(m for m in baseline if m in report['members'] and baseline[m]!=report['members'][m])
     added=sorted(set(report['members'])-set(baseline));removed=sorted(set(baseline)-set(report['members']))
     if set(removed)!=set(policy['allowed_removed']) or set(changed)-set(policy['allowed_changed']) or set(added)!=set(policy['allowed_added']):
-        raise ValueError('Update escaped its explicit 0.1.2 UI/audio allowlist: '+str((changed,added,removed)))
+        raise ValueError('Update escaped its explicit source/art allowlist: '+str((changed,added,removed)))
     card=read_json(ROOT/'source/client-card.json')
     details={'id':config['race'],'name':config['name'],'version':config['version'],
       'summary':config['name']+' independent civilization.',
       'description':'Select '+config['name']+' with native Standard and Tuning Pack=None.',
-      'author':'hosein81 and chilly5','updated':'2026-10-31','min_garrison':'0.1.9',
+      'author':'hosein81 and chilly5','updated':'2026-11-01','min_garrison':'0.1.9',
       'content_types':['civilization'],'cover':'cover.png',
       'changelog':'Local standalone candidate from accepted combined 1.1.0. Independent native dropdown, preserved gameplay/art/audio and editable whole-file source.'}
     details.update(card)
     details['changelog']='0.1.2: populated unique units and technologies, detailed bonuses, correct research ages, spaced tech trees, plural civilization labels and selector flags. Berber music/voice compression from retained masters. World gameplay, identities and loading/art quality preserved.'
+    if config['version']=='0.1.3':details['changelog']='0.1.3: Korean unit, mount, equipment, ordinary-building and unique-building art; private native visual bindings and isolated trader/monk consumers. Gameplay values and independent identity preserved. Native match acceptance pending.'
+    if config['version']=='0.1.4':details['changelog']='0.1.4: remove inherited free Imperial Official; repair official unit skeleton/LOD and RGB mask bindings; correct rigid unique-building attachment; add editable Korean Hwacha with native siege animation ownership. Native match acceptance pending.'
+    if config['version']=='0.1.5':details['changelog']='0.1.5: repair Korean body material keys and official lifecycle OR selectors; replace the unavailable Hwacha barrage-cleanup API. Geometry, rigs, textures, gameplay and identity preserved. Fresh-match acceptance pending.'
+    if config['version']=='0.1.6':details['changelog']='0.1.6: restore extensive dynamic player colour and cavalry skin bindings; fix Gapsa duplicate spear by restoring its shield; correct Korean research prices, book tooltips and refunds. Native match acceptance pending.'
     delivery=out/'delivery';delivery.mkdir();package=delivery/(config['name']+'-Garrison-'+config['version']+'.zip')
     mod_bundle.write_package(delivery/'package',package,bundle_key=config['bundle_key'],details=details,
       archives=[(config['race'],'civilization',archive)],start_here=(ROOT/'START-HERE.md').read_text(encoding='utf-8'),cover=ROOT/'source/presentation/cover.png')
@@ -149,7 +168,7 @@ def build(out,prepare_only=False,replace_current=False):
       'preserved_native_media_members':sum(1 for m in native if m.startswith(('art/','audio/'))),
       'native_game_test':'pending','multiplayer_save_ai_performance':'not qualified',
       'publication':'not performed','changed_members':changed,'added_members':added,
-      'preserved_baseline_members':len(baseline)-len(changed),'native_codex_retest':'pending','removed_members':removed,'assembly_path':str(assembly),'baseline_zip_bytes':previous['zip_bytes'] if previous else None,'audio_full_decode_verified':bool(config['race']=='berbers'),'world_art_changed':False,'native_input_manifest_sha256':digest(ROOT/'inputs/native-manifest.json'),'editable_master_index_sha256':digest(ROOT/'source/master-index.json')}
+      'preserved_baseline_members':len(baseline)-len(changed)-len(removed),'native_codex_retest':'pending','removed_members':removed,'assembly_path':str(assembly),'baseline_zip_bytes':previous['zip_bytes'] if previous else None,'audio_full_decode_verified':bool(config['race']=='berbers'),'world_art_changed':config['version'] in ('0.1.3','0.1.4','0.1.5','0.1.6'),'native_input_manifest_sha256':digest(ROOT/'inputs/native-manifest.json'),'editable_master_index_sha256':digest(ROOT/'source/master-index.json')}
     write_json(out/'verification.json',receipt)
     release.mkdir(exist_ok=True)
     staged=release/'.verified-new.zip'
@@ -160,7 +179,10 @@ def build(out,prepare_only=False,replace_current=False):
     if previous and previous['zip_name']!=package.name:
         old=release/previous['zip_name']
         if digest(old)!=previous['zip_sha256']:raise ValueError('Old local ZIP changed during build')
-        old.unlink()
+        rollback=ROOT/config.get('rollback_folder','archives/art013-baseline')/previous['zip_sha256'][:12]/old.name
+        if rollback.exists():raise ValueError('Previous player ZIP rollback already exists; preserve it')
+        rollback.parent.mkdir(parents=True,exist_ok=True)
+        shutil.move(str(old),str(rollback))
     write_json(ROOT/'docs/BUILD_VERIFICATION.json',receipt)
     write_json(ROOT/'docs/CODEX_GRAPH.json',codex_report)
     print(json.dumps(receipt,indent=2),flush=True)

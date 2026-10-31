@@ -1,0 +1,16 @@
+[
+  {
+    "model": "art/civilizations/chinese/structures/archery_range/chi_archery_range_control_age02/chi_archery_range_control_age02",
+    "rgm_sha256": "248d45c44c2689a51fc231bff5be3e1e84d50fdcb8f2c703dce770048d103b65",
+    "condition": "Korea_archery_range02-official-condition.bin",
+    "condition_sha256": "e087c26426e38e46055325f216b78db261f67cb6e4545ec8c557c97e5450114a",
+    "condition_count": 2
+  },
+  {
+    "model": "art/civilizations/chinese/structures/stable/chi_stable_control_age02/chi_stable_control_age02",
+    "rgm_sha256": "2f19f09605576f8b8e3598fd72a9c354c7c85430cd8ba03633b7eb221025f167",
+    "condition": "Korea_stable02-official-condition.bin",
+    "condition_sha256": "e087c26426e38e46055325f216b78db261f67cb6e4545ec8c557c97e5450114a",
+    "condition_count": 2
+  }
+]

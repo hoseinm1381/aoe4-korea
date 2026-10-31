@@ -1,0 +1,14 @@
+{
+  "archive_sha256": "68f35b39e9116806ec1232f2f2c9914ccf00c4bb22506659ae52735ff6766fa0",
+  "archive_bytes": 185404,
+  "native_integrity": true,
+  "official_skeleton_payload_preserved": true,
+  "triangles": [
+    3081,
+    2002,
+    1054
+  ],
+  "actual_bound_pattern": "art/kr014/patterns/4d20f2f6cf2d482353933f1f54e55cc9af7ffaf83d18d8081654ffa4919ea591.rrtex",
+  "native_stage": "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-native-r2",
+  "runtime_animation_acceptance": "pending"
+}

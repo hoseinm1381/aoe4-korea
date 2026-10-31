@@ -1,0 +1,64 @@
+{
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "version": "0.1.6",
+  "mode": "applied",
+  "targets": [
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current\\prepared",
+      "files": 495,
+      "logical_bytes": 12387001
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current\\delivery",
+      "files": 5,
+      "logical_bytes": 357088819
+    },
+    {
+      "path": "F:\\aoe_4_temp\\Temp_aoe4\\k16\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\art016-current",
+      "files": 3576,
+      "logical_bytes": 1234757976
+    }
+  ],
+  "logical_bytes": 1604233796,
+  "zip_sha256_before": "e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788",
+  "native_inputs_and_master_indexes_unchanged": true,
+  "release_and_source_inputs": "preserved",
+  "zip_sha256_after": "e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788",
+  "compacted_remaining_build_files": [
+    {
+      "name": "codex-report.json",
+      "bytes": 44013,
+      "sha256": "db1a2bf454ff2e06c9841ac2e1a57544cbae8a81052b50bcc40d1f814cc35309"
+    },
+    {
+      "name": "build-recipe.json",
+      "bytes": 624094,
+      "sha256": "b21b54175ffa4655d15cf6bb5ee2ac7c9ea7809b26555d2457c8599506506be0"
+    },
+    {
+      "name": "expected-members.json",
+      "bytes": 348345,
+      "sha256": "fc31160cd95bc169b16795926f6256abb2d004f359716308e5f43652b0d9d610"
+    },
+    {
+      "name": "validate.log",
+      "bytes": 482843,
+      "sha256": "91d9b4251fb5ee769e8827ea84db6f4a8273f8c2e4f0e053f037b4069ced9af3"
+    },
+    {
+      "name": "assembly.log",
+      "bytes": 328,
+      "sha256": "27343bf4f59ec609f8387a56dd2ecbf6be716e89790f83fcc444979e79096e02"
+    },
+    {
+      "name": "verification.json",
+      "bytes": 26028,
+      "sha256": "fb8bc28d4f3378d7a3f49e20634077010a445b30d8e7e267aa4dc129d1070e00"
+    }
+  ],
+  "total_logical_bytes_removed": 1605759447,
+  "task_F_temp_root_empty": true,
+  "known_E_task_temp_absent": true,
+  "zip_and_rollback_sha256_after_verified": true,
+  "protected_sources_inputs_masters_retained": true
+}

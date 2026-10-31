@@ -1,0 +1,10 @@
+{
+  "id": "kr_monk_a4",
+  "family": "monk",
+  "age": 4,
+  "donor": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age04/chi_infantry_monk_age04.rgm",
+  "design": "grey jangsam, ochre gasa diagonal panel, shaved head and beads",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces"
+  }
+}

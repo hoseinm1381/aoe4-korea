@@ -1,0 +1,7 @@
+{
+  "source": "tools/art014/hwacha_recipe.py",
+  "reference": "https://contents.history.go.kr/front/km/print.do?levelId=km_014_0050_0010_0050_0040",
+  "donor": "art/civilizations/chinese/team_weapons/chi_nest_of_bees/chi_nest_of_bees",
+  "design": "Rectangular Korean 10 by 10 rocket rack on the native two-wheel siege chassis; retained wheel skinning, unchanged cannon skeleton and stock animation graph.",
+  "art_originals": "Generated atlas and editable geometry owned by this project; donor provenance retained."
+}

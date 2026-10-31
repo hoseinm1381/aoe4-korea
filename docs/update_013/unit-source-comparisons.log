@@ -1,0 +1,3815 @@
+00:00.828  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a2\kr_archer_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_archer_a2",
+  "source_blend_sha256": "e5b4a47fa59fdf12073680db72dfa2ccb32fa8fca5999ccd42da8e1040e1708a",
+  "manifest_sha256": "2a44834d5b4205fa3899c083bfcedba325a318a31662a9fa663196edff71697d",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_archer_a2_LOD0",
+      "source_vertices": 1215,
+      "native_vertices": 4004,
+      "triangles": 1444,
+      "matched_native_vertices": 4004,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009823114378377795,
+      "max_uv_error": 0.0006342301680738619,
+      "max_normalized_weight_error": 0.006594635612633626,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_archer_a2_LOD1",
+      "source_vertices": 678,
+      "native_vertices": 1906,
+      "triangles": 708,
+      "matched_native_vertices": 1906,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.0005833823600155934,
+      "max_normalized_weight_error": 0.007677191436223085,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_archer_a2_LOD2",
+      "source_vertices": 310,
+      "native_vertices": 689,
+      "triangles": 271,
+      "matched_native_vertices": 689,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.0005655172381855356,
+      "max_normalized_weight_error": 0.007283421824960112,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 1 72 kr_archer_a2 True
+00:01.078  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a3\kr_archer_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_archer_a3",
+  "source_blend_sha256": "2432c1506d9918fe2fcb07e395e1973ce4581e4fa71e402b12abb56ce5e0a382",
+  "manifest_sha256": "e671b9a551119a56a31c22db3dadcbe049895c834156a65687c648a1df33d8ca",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_archer_a3_LOD0",
+      "source_vertices": 1183,
+      "native_vertices": 3867,
+      "triangles": 1400,
+      "matched_native_vertices": 3867,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.0006129182255553936,
+      "max_normalized_weight_error": 0.007174487090578274,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_archer_a3_LOD1",
+      "source_vertices": 683,
+      "native_vertices": 1909,
+      "triangles": 711,
+      "matched_native_vertices": 1909,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.0005663778247597538,
+      "max_normalized_weight_error": 0.008674723941250462,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_archer_a3_LOD2",
+      "source_vertices": 316,
+      "native_vertices": 695,
+      "triangles": 273,
+      "matched_native_vertices": 695,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.00712369237605337,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011035347208965404
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 2 72 kr_archer_a3 True
+00:01.344  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a4\kr_archer_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_archer_a4",
+  "source_blend_sha256": "72bd0a915a42d589c0d218de9ec9c809b16223c96d60bc99d7cd59410d4cee68",
+  "manifest_sha256": "1ed6f34f41b10e1089753b95cd1d0b9627c9d662dc296a0a58f29a160cb51b67",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_archer_a4_LOD0",
+      "source_vertices": 1148,
+      "native_vertices": 3729,
+      "triangles": 1354,
+      "matched_native_vertices": 3729,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009992063278332353,
+      "max_uv_error": 0.0005776866704659926,
+      "max_normalized_weight_error": 0.007174487090578274,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019633783033146776
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_archer_a4_LOD1",
+      "source_vertices": 658,
+      "native_vertices": 1880,
+      "triangles": 700,
+      "matched_native_vertices": 1880,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.0005829525655059752,
+      "max_normalized_weight_error": 0.008094377486838278,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.001963423000489978
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_archer_a4_LOD2",
+      "source_vertices": 325,
+      "native_vertices": 719,
+      "triangles": 281,
+      "matched_native_vertices": 719,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.0005264801885658999,
+      "max_normalized_weight_error": 0.009162854037752854,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019640933354331813
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 3 72 kr_archer_a4 True
+00:01.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_crossbowman_a3\kr_crossbowman_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_crossbowman_a3",
+  "source_blend_sha256": "b535ccb19f33bfa6f7c42d457a608b3689e024f267abff40a04d0da18ebcd48e",
+  "manifest_sha256": "c188949de6221b270669bf924306335a4aeb92c9b7a45a2818ddeb20db0204b0",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_crossbowman_a3_LOD0",
+      "source_vertices": 1299,
+      "native_vertices": 4250,
+      "triangles": 1512,
+      "matched_native_vertices": 4250,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009792232885956764,
+      "max_uv_error": 0.0005285010182069245,
+      "max_normalized_weight_error": 0.00898145503216341,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_crossbowman_a3_LOD1",
+      "source_vertices": 707,
+      "native_vertices": 1912,
+      "triangles": 710,
+      "matched_native_vertices": 1912,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.008041877375553563,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_crossbowman_a3_LOD2",
+      "source_vertices": 350,
+      "native_vertices": 775,
+      "triangles": 313,
+      "matched_native_vertices": 775,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009533655247651041,
+      "max_uv_error": 0.0005198509774843867,
+      "max_normalized_weight_error": 0.0076816792909863985,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011035347208965404
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 4 72 kr_crossbowman_a3 True
+00:01.844  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_crossbowman_a4\kr_crossbowman_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_crossbowman_a4",
+  "source_blend_sha256": "0e6c63898801f28643ee7f3aa8700ee65765e0fc92f1d7a12f63597b2548dcd4",
+  "manifest_sha256": "1d15da384362a895804f0bb7e85fb8176cf9da1236b821eefa40d6c9ffa96df7",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_crossbowman_a4_LOD0",
+      "source_vertices": 1428,
+      "native_vertices": 4543,
+      "triangles": 1609,
+      "matched_native_vertices": 4543,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009512593387626112,
+      "max_uv_error": 0.0006482190781707712,
+      "max_normalized_weight_error": 0.009363061151459351,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_crossbowman_a4_LOD1",
+      "source_vertices": 764,
+      "native_vertices": 1975,
+      "triangles": 729,
+      "matched_native_vertices": 1975,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000953183276578784,
+      "max_uv_error": 0.0006482190781707712,
+      "max_normalized_weight_error": 0.0068953396461838845,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_crossbowman_a4_LOD2",
+      "source_vertices": 410,
+      "native_vertices": 901,
+      "triangles": 351,
+      "matched_native_vertices": 901,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009603084763512015,
+      "max_uv_error": 0.0006482190781707712,
+      "max_normalized_weight_error": 0.006418170756033903,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011035347208965404
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 5 72 kr_crossbowman_a4 True
+00:02.110  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_gapsa_a3\kr_gapsa_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_gapsa_a3",
+  "source_blend_sha256": "147bd8507c9ec9e8e654b045fa4d14db163505d246dbd20fb0ead4c6172aab48",
+  "manifest_sha256": "343668096b3a4f78d9017fa1b401f98d85b764f06d5fce80123bee6c0f974397",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_gapsa_a3_LOD0",
+      "source_vertices": 1200,
+      "native_vertices": 4076,
+      "triangles": 1454,
+      "matched_native_vertices": 4076,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009596180752851069,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.008053797954070685,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_gapsa_a3_LOD1",
+      "source_vertices": 624,
+      "native_vertices": 1678,
+      "triangles": 630,
+      "matched_native_vertices": 1678,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009573456482030451,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.007543121954769694,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_gapsa_a3_LOD2",
+      "source_vertices": 344,
+      "native_vertices": 722,
+      "triangles": 294,
+      "matched_native_vertices": 722,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000952678732573986,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.006706741791086768,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019678875649835744
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 6 72 kr_gapsa_a3 True
+00:02.344  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_gapsa_a4\kr_gapsa_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_gapsa_a4",
+  "source_blend_sha256": "71c3085a52b57e98e50ccf47ce695016ad01e0baa8d1c15b1776a38f09887cf2",
+  "manifest_sha256": "ca9e676a67f71412e54e6cd5cb761b7f7ef9e66db3205b443020832d8b1cdf7d",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_gapsa_a4_LOD0",
+      "source_vertices": 1267,
+      "native_vertices": 4460,
+      "triangles": 1584,
+      "matched_native_vertices": 4460,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009515193523839116,
+      "max_uv_error": 0.0005659092992363857,
+      "max_normalized_weight_error": 0.008124495721330838,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_gapsa_a4_LOD1",
+      "source_vertices": 654,
+      "native_vertices": 1791,
+      "triangles": 669,
+      "matched_native_vertices": 1791,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009664353565312922,
+      "max_uv_error": 0.000578917733593954,
+      "max_normalized_weight_error": 0.008789855898677867,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_gapsa_a4_LOD2",
+      "source_vertices": 388,
+      "native_vertices": 857,
+      "triangles": 339,
+      "matched_native_vertices": 857,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.00095666095148772,
+      "max_uv_error": 0.0005871548728919063,
+      "max_normalized_weight_error": 0.008574740979400308,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 7 72 kr_gapsa_a4 True
+00:02.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_handcannoneer_a4\kr_handcannoneer_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_handcannoneer_a4",
+  "source_blend_sha256": "8b1ab53ec0ede713af7a80174a25f7b115681afa34c3c95cc2e582178a7f8c7d",
+  "manifest_sha256": "68ffe0e1a5569929fe1dbfa81c33f93a3089ca1ba103f91157379340b0bb5892",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_handcannoneer_a4_LOD0",
+      "source_vertices": 1052,
+      "native_vertices": 3888,
+      "triangles": 1408,
+      "matched_native_vertices": 3888,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009694725158624351,
+      "max_uv_error": 0.0005198509774843867,
+      "max_normalized_weight_error": 0.00852242452606422,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_handcannoneer_a4_LOD1",
+      "source_vertices": 581,
+      "native_vertices": 1789,
+      "triangles": 675,
+      "matched_native_vertices": 1789,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009418256231583655,
+      "max_uv_error": 0.0006345684406601239,
+      "max_normalized_weight_error": 0.00841520847722188,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_handcannoneer_a4_LOD2",
+      "source_vertices": 307,
+      "native_vertices": 744,
+      "triangles": 292,
+      "matched_native_vertices": 744,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009483331232331693,
+      "max_uv_error": 0.0006345684406601239,
+      "max_normalized_weight_error": 0.006558390458424879,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 8 72 kr_handcannoneer_a4 True
+00:02.844  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a2\kr_horseman_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_horseman_a2",
+  "source_blend_sha256": "70103e958a7094578e736f5b806c0600304b8df71770a09c5543f7dca1a6a1e3",
+  "manifest_sha256": "f7b8a2c5d5aa112ab97372764e5cd581aae98ba5d110bb275ecbc014bad28bb3",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_horseman_a2_LOD0",
+      "source_vertices": 1095,
+      "native_vertices": 4028,
+      "triangles": 1443,
+      "matched_native_vertices": 4028,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000968234904576093,
+      "max_uv_error": 0.0005371896511235576,
+      "max_normalized_weight_error": 0.006302775611643219,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_horseman_a2_LOD1",
+      "source_vertices": 597,
+      "native_vertices": 1819,
+      "triangles": 674,
+      "matched_native_vertices": 1819,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009455925319343805,
+      "max_uv_error": 0.0006147315987099798,
+      "max_normalized_weight_error": 0.007861581970663611,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_horseman_a2_LOD2",
+      "source_vertices": 285,
+      "native_vertices": 732,
+      "triangles": 284,
+      "matched_native_vertices": 732,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009488410432823002,
+      "max_uv_error": 0.0005371896511235576,
+      "max_normalized_weight_error": 0.005474023743123557,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 9 72 kr_horseman_a2 True
+00:03.094  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a3\kr_horseman_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_horseman_a3",
+  "source_blend_sha256": "5bcd34ac01bd39310be2252bfa4d4721feff7925029fe0e458e94342fbedfd7f",
+  "manifest_sha256": "ced395932679f4772effee9089cb97fd7ca8992f3e88f7d2b9ddb319e0033766",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_horseman_a3_LOD0",
+      "source_vertices": 1192,
+      "native_vertices": 4091,
+      "triangles": 1477,
+      "matched_native_vertices": 4091,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009734987979754806,
+      "max_uv_error": 0.0006270403644429244,
+      "max_normalized_weight_error": 0.006773380071930624,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_horseman_a3_LOD1",
+      "source_vertices": 658,
+      "native_vertices": 1862,
+      "triangles": 696,
+      "matched_native_vertices": 1862,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000942729995585978,
+      "max_uv_error": 0.0006076246381250331,
+      "max_normalized_weight_error": 0.00631947337546368,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_horseman_a3_LOD2",
+      "source_vertices": 306,
+      "native_vertices": 718,
+      "triangles": 282,
+      "matched_native_vertices": 718,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009569607791490853,
+      "max_uv_error": 0.0005371896511235576,
+      "max_normalized_weight_error": 0.006560783312119067,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.001963128783494295
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 10 72 kr_horseman_a3 True
+00:03.344  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a4\kr_horseman_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_horseman_a4",
+  "source_blend_sha256": "a52911dcc43f24e40979d24a8a300c48ee76bdccd3db40954a62f92bda110c67",
+  "manifest_sha256": "ff75bb3699187bf2ee463f57b789a9b8e7a22fead5a678ed7ab9da196bf03516",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_horseman_a4_LOD0",
+      "source_vertices": 1283,
+      "native_vertices": 4701,
+      "triangles": 1645,
+      "matched_native_vertices": 4701,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000939155463129282,
+      "max_uv_error": 0.0006713679227040248,
+      "max_normalized_weight_error": 0.007104212045669578,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_horseman_a4_LOD1",
+      "source_vertices": 624,
+      "native_vertices": 1799,
+      "triangles": 657,
+      "matched_native_vertices": 1799,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009512953110970557,
+      "max_uv_error": 0.0006713679227040248,
+      "max_normalized_weight_error": 0.0062848821342368355,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_horseman_a4_LOD2",
+      "source_vertices": 340,
+      "native_vertices": 790,
+      "triangles": 306,
+      "matched_native_vertices": 790,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009458623244427145,
+      "max_uv_error": 0.0006270403644429244,
+      "max_normalized_weight_error": 0.007394235722453346,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 11 72 kr_horseman_a4 True
+00:03.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a2\kr_hwarang_dismounted_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_hwarang_dismounted_a2",
+  "source_blend_sha256": "eed5fa78180e78d71aa9b3608ce3286cbd0a36662a32ce4870da4b5a67c1ccc4",
+  "manifest_sha256": "5f6c3f70abe59f495f003951de1620042fef648643f14d9e44a86d4257fd6881",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_hwarang_dismounted_a2_LOD0",
+      "source_vertices": 1251,
+      "native_vertices": 4326,
+      "triangles": 1528,
+      "matched_native_vertices": 4326,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009436020627617836,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.008053797954070685,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019643167293195026
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_hwarang_dismounted_a2_LOD1",
+      "source_vertices": 648,
+      "native_vertices": 1780,
+      "triangles": 656,
+      "matched_native_vertices": 1780,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009553200798109174,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.007843231622531421,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019643167293195026
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_hwarang_dismounted_a2_LOD2",
+      "source_vertices": 346,
+      "native_vertices": 732,
+      "triangles": 294,
+      "matched_native_vertices": 732,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009459208231419325,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.010426864502597666,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019678875649835744
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 12 72 kr_hwarang_dismounted_a2 True
+00:03.860  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a3\kr_hwarang_dismounted_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_hwarang_dismounted_a3",
+  "source_blend_sha256": "96fa52e4dc9d471b05aabc74505be81b6da22de5e390246be79ea30fe56c9663",
+  "manifest_sha256": "649fee3b1afb81a5a68c7586f9a978ceac9aa27de4a50d3fc30f505220c25c99",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_hwarang_dismounted_a3_LOD0",
+      "source_vertices": 1311,
+      "native_vertices": 4386,
+      "triangles": 1558,
+      "matched_native_vertices": 4386,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009531836258247495,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.008053797954070685,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019643167293195026
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_hwarang_dismounted_a3_LOD1",
+      "source_vertices": 696,
+      "native_vertices": 1828,
+      "triangles": 680,
+      "matched_native_vertices": 1828,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009617008618079126,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.007843231622531421,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019643167293195026
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_hwarang_dismounted_a3_LOD2",
+      "source_vertices": 370,
+      "native_vertices": 756,
+      "triangles": 306,
+      "matched_native_vertices": 756,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009592730784788728,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.010426864502597666,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019678875649835744
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 13 72 kr_hwarang_dismounted_a3 True
+00:04.078  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a4\kr_hwarang_dismounted_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_hwarang_dismounted_a4",
+  "source_blend_sha256": "91fa9305a63ec911a27254c661410514df7e36f4aca554a5a34fb80e1cf92721",
+  "manifest_sha256": "590343242feda9d07f1e0b356b75b01464b36a53c666895b796a4efa1191e9e5",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_hwarang_dismounted_a4_LOD0",
+      "source_vertices": 1274,
+      "native_vertices": 4604,
+      "triangles": 1608,
+      "matched_native_vertices": 4604,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009385763551108539,
+      "max_uv_error": 0.0006414883483926209,
+      "max_normalized_weight_error": 0.008124495721330838,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019643167293195026
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_hwarang_dismounted_a4_LOD1",
+      "source_vertices": 614,
+      "native_vertices": 1733,
+      "triangles": 631,
+      "matched_native_vertices": 1733,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009734133491292596,
+      "max_uv_error": 0.000578917733593954,
+      "max_normalized_weight_error": 0.008789855898677867,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019643167293195026
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_hwarang_dismounted_a4_LOD2",
+      "source_vertices": 384,
+      "native_vertices": 837,
+      "triangles": 325,
+      "matched_native_vertices": 837,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009507874492555857,
+      "max_uv_error": 0.0005871548728919063,
+      "max_normalized_weight_error": 0.008574740979400308,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019669954668988126
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 14 72 kr_hwarang_dismounted_a4 True
+00:04.344  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a2\kr_hwarang_mounted_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_hwarang_mounted_a2",
+  "source_blend_sha256": "dc12bb14a65f3fcd1856a15c1b603695074554e424b206a3c6f0ff2021ddf549",
+  "manifest_sha256": "eecc680cac5a9e581e3aa0bbe933e4d75790b4a0e92ef37d24e412f11df0e7c8",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_hwarang_mounted_a2_LOD0",
+      "source_vertices": 1053,
+      "native_vertices": 3884,
+      "triangles": 1371,
+      "matched_native_vertices": 3884,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009448708151467144,
+      "max_uv_error": 0.0005371896511235576,
+      "max_normalized_weight_error": 0.006302775611643219,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_hwarang_mounted_a2_LOD1",
+      "source_vertices": 583,
+      "native_vertices": 1767,
+      "triangles": 648,
+      "matched_native_vertices": 1767,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009685933473519981,
+      "max_uv_error": 0.0006147315987099798,
+      "max_normalized_weight_error": 0.007861581970663611,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_hwarang_mounted_a2_LOD2",
+      "source_vertices": 305,
+      "native_vertices": 768,
+      "triangles": 302,
+      "matched_native_vertices": 768,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009495120611973107,
+      "max_uv_error": 0.0005371896511235576,
+      "max_normalized_weight_error": 0.005474023743123557,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 15 72 kr_hwarang_mounted_a2 True
+00:04.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a3\kr_hwarang_mounted_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_hwarang_mounted_a3",
+  "source_blend_sha256": "3979fe75e226ee6af331047d6da7ed6a850fc149bdd3ff2767673306752d300d",
+  "manifest_sha256": "8fe98300f3400a013ecff09bd66363eaefb917b8eb760ef714f927701c37e4da",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_hwarang_mounted_a3_LOD0",
+      "source_vertices": 1209,
+      "native_vertices": 4247,
+      "triangles": 1433,
+      "matched_native_vertices": 4247,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009595376322977245,
+      "max_uv_error": 0.0006270403644429244,
+      "max_normalized_weight_error": 0.007839772134403566,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_hwarang_mounted_a3_LOD1",
+      "source_vertices": 692,
+      "native_vertices": 2033,
+      "triangles": 693,
+      "matched_native_vertices": 2033,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009559829486533999,
+      "max_uv_error": 0.0006076246381250331,
+      "max_normalized_weight_error": 0.00631947337546368,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_hwarang_mounted_a3_LOD2",
+      "source_vertices": 350,
+      "native_vertices": 894,
+      "triangles": 312,
+      "matched_native_vertices": 894,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000959214405156672,
+      "max_uv_error": 0.0005371896511235576,
+      "max_normalized_weight_error": 0.0075147385909503095,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.001963128783494295
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 16 72 kr_hwarang_mounted_a3 True
+00:04.844  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a4\kr_hwarang_mounted_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_hwarang_mounted_a4",
+  "source_blend_sha256": "a22ab4406693c0c7751e5eb9b3084ef19f1ac99fd94eb4d0fa77be8aae3624bc",
+  "manifest_sha256": "501f787bbbdd0322da05528dcd3f070010b2a7281f37521382362e0321b5b180",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_hwarang_mounted_a4_LOD0",
+      "source_vertices": 1292,
+      "native_vertices": 4903,
+      "triangles": 1649,
+      "matched_native_vertices": 4903,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000939561112318188,
+      "max_uv_error": 0.0006713679227040248,
+      "max_normalized_weight_error": 0.00804015658212176,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_hwarang_mounted_a4_LOD1",
+      "source_vertices": 628,
+      "native_vertices": 1935,
+      "triangles": 661,
+      "matched_native_vertices": 1935,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009454541723243892,
+      "max_uv_error": 0.0006713679227040248,
+      "max_normalized_weight_error": 0.007540858388053628,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_hwarang_mounted_a4_LOD2",
+      "source_vertices": 356,
+      "native_vertices": 918,
+      "triangles": 320,
+      "matched_native_vertices": 918,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009520787862129509,
+      "max_uv_error": 0.0006270403644429244,
+      "max_normalized_weight_error": 0.007553100990104311,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 17 72 kr_hwarang_mounted_a4 True
+00:05.157  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_lancer_a3\kr_lancer_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_lancer_a3",
+  "source_blend_sha256": "4af1b638d1105816951d8f72d9a19eaf5479ae56c2e1b6e9aa6d357233c30b89",
+  "manifest_sha256": "cf25a1e1f282a831ec85a82083cbfe5349e1eaccbe8d594e8083cc74b6a14161",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_lancer_a3_LOD0",
+      "source_vertices": 1324,
+      "native_vertices": 4705,
+      "triangles": 1663,
+      "matched_native_vertices": 4705,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009518270962871611,
+      "max_uv_error": 0.0006345684406601239,
+      "max_normalized_weight_error": 0.006686171638321248,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_lancer_a3_LOD1",
+      "source_vertices": 664,
+      "native_vertices": 1825,
+      "triangles": 683,
+      "matched_native_vertices": 1825,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009528120281174779,
+      "max_uv_error": 0.0006345684406601239,
+      "max_normalized_weight_error": 0.0066819010650275845,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_lancer_a3_LOD2",
+      "source_vertices": 389,
+      "native_vertices": 898,
+      "triangles": 358,
+      "matched_native_vertices": 898,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009675272740423679,
+      "max_uv_error": 0.0005285010182069245,
+      "max_normalized_weight_error": 0.006943016945452962,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 18 72 kr_lancer_a3 True
+00:05.407  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_lancer_a4\kr_lancer_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_lancer_a4",
+  "source_blend_sha256": "165fdb2de25d61d2e4c90f1d63395b8f89930a1b9942917ef340a5c50c7e1d4e",
+  "manifest_sha256": "00d89ee21ac9e9608cd14cf398b6ec7bd84450b2075bf2fba39aef4f0e70836f",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_lancer_a4_LOD0",
+      "source_vertices": 1265,
+      "native_vertices": 4737,
+      "triangles": 1653,
+      "matched_native_vertices": 4737,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009603300713934004,
+      "max_uv_error": 0.0005717486592911351,
+      "max_normalized_weight_error": 0.005333281456256944,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_lancer_a4_LOD1",
+      "source_vertices": 551,
+      "native_vertices": 1616,
+      "triangles": 588,
+      "matched_native_vertices": 1616,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009635528549551964,
+      "max_uv_error": 0.000564574040597181,
+      "max_normalized_weight_error": 0.007536007951484236,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_lancer_a4_LOD2",
+      "source_vertices": 315,
+      "native_vertices": 758,
+      "triangles": 294,
+      "matched_native_vertices": 758,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009595471201464534,
+      "max_uv_error": 0.0005027267362779995,
+      "max_normalized_weight_error": 0.005751173088167083,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 19 72 kr_lancer_a4 True
+00:05.657  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_monk_a3\kr_monk_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_monk_a3",
+  "source_blend_sha256": "f4bdd165bdeb1ae0521e71ab5e16c3ed989f9f2f37d934b3db32547d13a6581c",
+  "manifest_sha256": "c3ec60f0e20af506495fc644504d9b5fd6f83a72ec68cff079841a7b506e2a91",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_monk_a3_LOD0",
+      "source_vertices": 1029,
+      "native_vertices": 3598,
+      "triangles": 1324,
+      "matched_native_vertices": 3598,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009504372137598693,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.009212843790400549,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_monk_a3_LOD1",
+      "source_vertices": 544,
+      "native_vertices": 1638,
+      "triangles": 628,
+      "matched_native_vertices": 1638,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0008937616948969662,
+      "max_uv_error": 0.000564574040597181,
+      "max_normalized_weight_error": 0.007868193996092288,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_monk_a3_LOD2",
+      "source_vertices": 342,
+      "native_vertices": 933,
+      "triangles": 363,
+      "matched_native_vertices": 933,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009458050481043756,
+      "max_uv_error": 0.000564574040597181,
+      "max_normalized_weight_error": 0.007283351163413054,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 20 72 kr_monk_a3 True
+00:05.891  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_monk_a4\kr_monk_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_monk_a4",
+  "source_blend_sha256": "73cced70241dbe0acc35321cca9e9bd7e61abf9e635de3f5193378399acea45a",
+  "manifest_sha256": "a212cdd1d9a6c2360b0d520f2ea81e511bdd953ba67ee0e03d4660eee1163974",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_monk_a4_LOD0",
+      "source_vertices": 992,
+      "native_vertices": 3554,
+      "triangles": 1292,
+      "matched_native_vertices": 3554,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009480596636421978,
+      "max_uv_error": 0.000605947705001209,
+      "max_normalized_weight_error": 0.007448428635503712,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_monk_a4_LOD1",
+      "source_vertices": 559,
+      "native_vertices": 1712,
+      "triangles": 644,
+      "matched_native_vertices": 1712,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0008676817524246871,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.007048982059408515,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_monk_a4_LOD2",
+      "source_vertices": 342,
+      "native_vertices": 888,
+      "triangles": 340,
+      "matched_native_vertices": 888,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009465549956075847,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.007281420369453229,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 21 72 kr_monk_a4 True
+00:06.125  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a2\kr_mount_horseman_a2.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 22 72 kr_mount_horseman_a2 False
+00:06.235  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a3\kr_mount_horseman_a3.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 23 72 kr_mount_horseman_a3 False
+00:06.344  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a4\kr_mount_horseman_a4.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 24 72 kr_mount_horseman_a4 False
+00:06.453  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a2\kr_mount_hwarang_a2.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 25 72 kr_mount_hwarang_a2 False
+00:06.547  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a3\kr_mount_hwarang_a3.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 26 72 kr_mount_hwarang_a3 False
+00:06.657  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a4\kr_mount_hwarang_a4.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 27 72 kr_mount_hwarang_a4 False
+00:06.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_lancer_a3\kr_mount_lancer_a3.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 28 72 kr_mount_lancer_a3 False
+00:06.891  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_lancer_a4\kr_mount_lancer_a4.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 29 72 kr_mount_lancer_a4 False
+00:07.016  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a1\kr_mount_scout_a1.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 30 72 kr_mount_scout_a1 False
+00:07.125  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a2\kr_mount_scout_a2.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 31 72 kr_mount_scout_a2 False
+00:07.235  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a3\kr_mount_scout_a3.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 32 72 kr_mount_scout_a3 False
+00:07.360  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a4\kr_mount_scout_a4.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 33 72 kr_mount_scout_a4 False
+00:07.469  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a2\kr_mount_trader_a2.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 34 72 kr_mount_trader_a2 False
+00:07.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a3\kr_mount_trader_a3.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 35 72 kr_mount_trader_a3 False
+00:07.719  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a4\kr_mount_trader_a4.blend"
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 29, in <module>
+    assert [l['name'] for l in palette[0]['lod_palettes']]==['unit_mesh_lod1','unit_mesh_lod2','unit_mesh_lod3']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+NATIVE_SOURCE_COMPARISON 36 72 kr_mount_trader_a4 False
+00:07.860  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_righteous_army_monk_a3\kr_righteous_army_monk_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_righteous_army_monk_a3",
+  "source_blend_sha256": "82e5f47c4cec4e07d7771f7477d4744bc4457c448a1ff91377dd6c20278853f1",
+  "manifest_sha256": "1831aa7a841d1cadcdffa1c32ae860bfe4df0bf84aeb625c0d749bc0b428c911",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_righteous_army_monk_a3_LOD0",
+      "source_vertices": 1061,
+      "native_vertices": 3766,
+      "triangles": 1380,
+      "matched_native_vertices": 3766,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009462064481340349,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.009212843790400549,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_righteous_army_monk_a3_LOD1",
+      "source_vertices": 563,
+      "native_vertices": 1672,
+      "triangles": 642,
+      "matched_native_vertices": 1672,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0008812962914817035,
+      "max_uv_error": 0.000564574040597181,
+      "max_normalized_weight_error": 0.007868193996092288,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_righteous_army_monk_a3_LOD2",
+      "source_vertices": 342,
+      "native_vertices": 933,
+      "triangles": 363,
+      "matched_native_vertices": 933,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009501671302132308,
+      "max_uv_error": 0.000564574040597181,
+      "max_normalized_weight_error": 0.007283351163413054,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 37 72 kr_righteous_army_monk_a3 True
+00:08.110  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_righteous_army_monk_a4\kr_righteous_army_monk_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_righteous_army_monk_a4",
+  "source_blend_sha256": "a376adaa04da3d22a70cbf8d635b130e0d350347abf32d8643797e140a7a3a06",
+  "manifest_sha256": "460869416c4ee441b7eeea782133f159e380592b3688cf598e790dad7927eb86",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_righteous_army_monk_a4_LOD0",
+      "source_vertices": 1012,
+      "native_vertices": 3642,
+      "triangles": 1324,
+      "matched_native_vertices": 3642,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009479958098381758,
+      "max_uv_error": 0.000605947705001209,
+      "max_normalized_weight_error": 0.007448428635503712,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_righteous_army_monk_a4_LOD1",
+      "source_vertices": 573,
+      "native_vertices": 1742,
+      "triangles": 654,
+      "matched_native_vertices": 1742,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0008629630319774151,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.008280192029900268,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_righteous_army_monk_a4_LOD2",
+      "source_vertices": 356,
+      "native_vertices": 906,
+      "triangles": 346,
+      "matched_native_vertices": 906,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009459711145609617,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.007281420369453229,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 38 72 kr_righteous_army_monk_a4 True
+00:08.360  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a1\kr_scout_a1.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_scout_a1",
+  "source_blend_sha256": "c925aa3c08a317ea8f23b00314130c118b519140885967224b1251b63702c795",
+  "manifest_sha256": "6aa2a24c61ab3f765e0bf3ccd302519263f63b280794d475ef564bea72bdcad9",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_scout_a1_LOD0",
+      "source_vertices": 1057,
+      "native_vertices": 3981,
+      "triangles": 1430,
+      "matched_native_vertices": 3981,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009458594140596688,
+      "max_uv_error": 0.0006103038798319994,
+      "max_normalized_weight_error": 0.008175456757638977,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_scout_a1_LOD1",
+      "source_vertices": 546,
+      "native_vertices": 1613,
+      "triangles": 605,
+      "matched_native_vertices": 1613,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000938786834012717,
+      "max_uv_error": 0.0005723237153317216,
+      "max_normalized_weight_error": 0.005942375693215374,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_scout_a1_LOD2",
+      "source_vertices": 281,
+      "native_vertices": 664,
+      "triangles": 260,
+      "matched_native_vertices": 664,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009483608300797641,
+      "max_uv_error": 0.0006209836078325561,
+      "max_normalized_weight_error": 0.006193128778697987,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 39 72 kr_scout_a1 True
+00:08.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a2\kr_scout_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_scout_a2",
+  "source_blend_sha256": "f6dbd6b57236caf91ec86ab59d4ef1040e020da3091d99ad7932ca77f300f4c7",
+  "manifest_sha256": "220364f6389f9d1458df1242696862153c12ec2136d4456345307795161e3c90",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_scout_a2_LOD0",
+      "source_vertices": 1123,
+      "native_vertices": 4313,
+      "triangles": 1501,
+      "matched_native_vertices": 4313,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009391228668391705,
+      "max_uv_error": 0.0005948269767041456,
+      "max_normalized_weight_error": 0.007645464416859982,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019669954668988126
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_scout_a2_LOD1",
+      "source_vertices": 576,
+      "native_vertices": 1842,
+      "triangles": 662,
+      "matched_native_vertices": 1842,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009459074353799224,
+      "max_uv_error": 0.0005425883363068795,
+      "max_normalized_weight_error": 0.006439500112159602,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019669954668988126
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_scout_a2_LOD2",
+      "source_vertices": 299,
+      "native_vertices": 714,
+      "triangles": 274,
+      "matched_native_vertices": 714,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009471410303376615,
+      "max_uv_error": 0.0005285010182069245,
+      "max_normalized_weight_error": 0.006436930780400141,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019669954668988126
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 40 72 kr_scout_a2 True
+00:08.860  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a3\kr_scout_a3.blend"
+NATIVE_SOURCE_DIAGNOSTIC 2 native_pos [-0.321044921875, 0.0009517669677734375, 0.61962890625] source_pos [-0.3210878074169159, 0.0009517539292573929, 0.6200000047683716] distance 0.0003735682985279709 native_uv [0.26318359375, 0.9053955078125] source_uv [(0.24888184666633606, 0.9054932594299316)] native_weights {'metarig_rleg2': 0.5607843137254902, 'metarig_rleg1': 0.4392156862745098} source_weights {'metarig_rleg2': 0.5583534157521514, 'metarig_rleg1': 0.4349690014873594, 'metarig_spine1': 0.0029792291599626966, 'metarig_pelvis': 0.0036983536005265475}
+NATIVE_SOURCE_DIAGNOSTIC 2 native_pos [-0.321044921875, 0.0009517669677734375, 0.61962890625] source_pos [-0.3210878074169159, 0.0009517539292573929, 0.6200000047683716] distance 0.0003735682985279709 native_uv [0.248779296875, 0.905517578125] source_uv [(0.24888184666633606, 0.9054932594299316)] native_weights {'metarig_rleg2': 0.5607843137254902, 'metarig_rleg1': 0.4392156862745098} source_weights {'metarig_rleg2': 0.5583534157521514, 'metarig_rleg1': 0.4349690014873594, 'metarig_spine1': 0.0029792291599626966, 'metarig_pelvis': 0.0036983536005265475}
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+NATIVE_SOURCE_COMPARISON 41 72 kr_scout_a3 False
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 64, in <module>
+    assert unmatched==0,('Native corners do not match source positions/UVs/weights',index,unmatched)
+           ^^^^^^^^^^^^
+AssertionError: ('Native corners do not match source positions/UVs/weights', 2, 4)
+00:09.032  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a4\kr_scout_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_scout_a4",
+  "source_blend_sha256": "cfc36df3621c316f6a38a8428fd9702de479b4a7257515399e6e79f7f628d526",
+  "manifest_sha256": "4d0a947518e7918416a39cbbcec11a632307033e975cc5345715c3dc1239ef80",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_scout_a4_LOD0",
+      "source_vertices": 1246,
+      "native_vertices": 4704,
+      "triangles": 1642,
+      "matched_native_vertices": 4704,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.00093883799854666,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.00838272408747176,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019636017789647488
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_scout_a4_LOD1",
+      "source_vertices": 628,
+      "native_vertices": 1860,
+      "triangles": 676,
+      "matched_native_vertices": 1860,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009521216270513833,
+      "max_uv_error": 0.0005371896511235576,
+      "max_normalized_weight_error": 0.007780166117353604,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019633783033146776
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_scout_a4_LOD2",
+      "source_vertices": 340,
+      "native_vertices": 812,
+      "triangles": 312,
+      "matched_native_vertices": 812,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009459118591621518,
+      "max_uv_error": 0.00047850608825683594,
+      "max_normalized_weight_error": 0.005922488279851201,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.001963139959311567
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 42 72 kr_scout_a4 True
+00:09.313  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a1\kr_scout_female_a1.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_scout_female_a1",
+  "source_blend_sha256": "279475f8da7edf73db642ae81fb1862da73ad5ee9a8b7d9d52051f75657e057a",
+  "manifest_sha256": "76289eae8e5ee6fdd63b6da9a5eb2f3f5ec1a3e1c0da3a573722f315b4ff362c",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 71,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_scout_female_a1_LOD0",
+      "source_vertices": 1080,
+      "native_vertices": 4097,
+      "triangles": 1429,
+      "matched_native_vertices": 4097,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009443340240977705,
+      "max_uv_error": 0.0006103038798319994,
+      "max_normalized_weight_error": 0.008175456757638977,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_scout_female_a1_LOD1",
+      "source_vertices": 549,
+      "native_vertices": 1641,
+      "triangles": 595,
+      "matched_native_vertices": 1641,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009453158127143979,
+      "max_uv_error": 0.0005723237153317216,
+      "max_normalized_weight_error": 0.005942375693215374,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_scout_female_a1_LOD2",
+      "source_vertices": 307,
+      "native_vertices": 726,
+      "triangles": 278,
+      "matched_native_vertices": 726,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009483608300797641,
+      "max_uv_error": 0.0006209836078325561,
+      "max_normalized_weight_error": 0.006193128778697987,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 43 72 kr_scout_female_a1 True
+00:09.532  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a2\kr_scout_female_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_scout_female_a2",
+  "source_blend_sha256": "4613279bc69f56e3a6e51d464dc8ff4ada915bbf09059d8101e24bf9110d9da9",
+  "manifest_sha256": "42255367a3a684cc52b676ca79a8a6c17cb16dddaae050acdf43d94fd0441da6",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 71,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_scout_female_a2_LOD0",
+      "source_vertices": 1170,
+      "native_vertices": 4445,
+      "triangles": 1545,
+      "matched_native_vertices": 4445,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009391228668391705,
+      "max_uv_error": 0.0005948269767041456,
+      "max_normalized_weight_error": 0.007645464416859982,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019669954668988126
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_scout_female_a2_LOD1",
+      "source_vertices": 600,
+      "native_vertices": 1890,
+      "triangles": 678,
+      "matched_native_vertices": 1890,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009459074353799224,
+      "max_uv_error": 0.0005425883363068795,
+      "max_normalized_weight_error": 0.006439500112159602,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019669954668988126
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_scout_female_a2_LOD2",
+      "source_vertices": 318,
+      "native_vertices": 759,
+      "triangles": 289,
+      "matched_native_vertices": 759,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009471410303376615,
+      "max_uv_error": 0.0005285010182069245,
+      "max_normalized_weight_error": 0.006436930780400141,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019669954668988126
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 44 72 kr_scout_female_a2 True
+00:09.782  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a3\kr_scout_female_a3.blend"
+NATIVE_SOURCE_DIAGNOSTIC 2 native_pos [-0.321044921875, 0.0009517669677734375, 0.61962890625] source_pos [-0.3210878074169159, 0.0009517539292573929, 0.6200000047683716] distance 0.0003735682985279709 native_uv [0.26318359375, 0.9053955078125] source_uv [(0.2632629871368408, 0.9053911194205284)] native_weights {'metarig_rleg2': 0.5607843137254902, 'metarig_rleg1': 0.4392156862745098} source_weights {'metarig_rleg2': 0.5583534157521514, 'metarig_rleg1': 0.4349690014873594, 'metarig_spine1': 0.0029792291599626966, 'metarig_pelvis': 0.0036983536005265475}
+NATIVE_SOURCE_DIAGNOSTIC 2 native_pos [-0.321044921875, 0.0009517669677734375, 0.61962890625] source_pos [-0.3210878074169159, 0.0009517539292573929, 0.6200000047683716] distance 0.0003735682985279709 native_uv [0.248779296875, 0.905517578125] source_uv [(0.2632629871368408, 0.9053911194205284)] native_weights {'metarig_rleg2': 0.5607843137254902, 'metarig_rleg1': 0.4392156862745098} source_weights {'metarig_rleg2': 0.5583534157521514, 'metarig_rleg1': 0.4349690014873594, 'metarig_spine1': 0.0029792291599626966, 'metarig_pelvis': 0.0036983536005265475}
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 64, in <module>
+    assert unmatched==0,('Native corners do not match source positions/UVs/weights',index,unmatched)
+           ^^^^^^^^^^^^
+AssertionError: ('Native corners do not match source positions/UVs/weights', 2, 4)
+NATIVE_SOURCE_COMPARISON 45 72 kr_scout_female_a3 False
+00:10.000  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a4\kr_scout_female_a4.blend"
+NATIVE_SOURCE_DIAGNOSTIC 2 native_pos [-0.321044921875, 0.0009517669677734375, 0.61962890625] source_pos [-0.3210878074169159, 0.0009517539292573929, 0.6200000047683716] distance 0.0003735682985279709 native_uv [0.26318359375, 0.9053955078125] source_uv [(0.2632629871368408, 0.9053911194205284)] native_weights {'metarig_rleg2': 0.5607843137254902, 'metarig_rleg1': 0.4392156862745098} source_weights {'metarig_rleg2': 0.5583534157521514, 'metarig_rleg1': 0.4349690014873594, 'metarig_spine1': 0.0029792291599626966, 'metarig_pelvis': 0.0036983536005265475}
+NATIVE_SOURCE_DIAGNOSTIC 2 native_pos [-0.321044921875, 0.0009517669677734375, 0.61962890625] source_pos [-0.3210878074169159, 0.0009517539292573929, 0.6200000047683716] distance 0.0003735682985279709 native_uv [0.248779296875, 0.905517578125] source_uv [(0.2632629871368408, 0.9053911194205284)] native_weights {'metarig_rleg2': 0.5607843137254902, 'metarig_rleg1': 0.4392156862745098} source_weights {'metarig_rleg2': 0.5583534157521514, 'metarig_rleg1': 0.4349690014873594, 'metarig_spine1': 0.0029792291599626966, 'metarig_pelvis': 0.0036983536005265475}
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 64, in <module>
+    assert unmatched==0,('Native corners do not match source positions/UVs/weights',index,unmatched)
+           ^^^^^^^^^^^^
+AssertionError: ('Native corners do not match source positions/UVs/weights', 2, 4)
+NATIVE_SOURCE_COMPARISON 46 72 kr_scout_female_a4 False
+00:10.203  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_seonbi_a1\kr_seonbi_a1.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_seonbi_a1",
+  "source_blend_sha256": "f694d6d7338bd9988e466e9fff8e341830e4f2c9afdaf7a899a3b3db70585334",
+  "manifest_sha256": "c45fa812933b1b54b0120bd3effd21023507b6790140932381da317b1f28897e",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_seonbi_a1_LOD0",
+      "source_vertices": 1047,
+      "native_vertices": 3776,
+      "triangles": 1372,
+      "matched_native_vertices": 3776,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009511610260233283,
+      "max_uv_error": 0.000624746785803575,
+      "max_normalized_weight_error": 0.007573806300544272,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011287928942763281
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_seonbi_a1_LOD1",
+      "source_vertices": 550,
+      "native_vertices": 1636,
+      "triangles": 626,
+      "matched_native_vertices": 1636,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009400181006640196,
+      "max_uv_error": 0.0005737460534537705,
+      "max_normalized_weight_error": 0.007817249555599592,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011287928942763281
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_seonbi_a1_LOD2",
+      "source_vertices": 298,
+      "native_vertices": 768,
+      "triangles": 300,
+      "matched_native_vertices": 768,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000947397667914629,
+      "max_uv_error": 0.0006098485137641451,
+      "max_normalized_weight_error": 0.0080723747318866,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011287928942763281
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 47 72 kr_seonbi_a1 True
+00:10.422  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_seonbi_a3\kr_seonbi_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_seonbi_a3",
+  "source_blend_sha256": "a772354d9dad44bd10a0419da6b07f616b1e30027ee028f1bfbb3e5cb952bcb9",
+  "manifest_sha256": "2343b1a8160d468b5b2e42a81391fe1e0a8ff36a3d85748c3faf0056a437f602",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_seonbi_a3_LOD0",
+      "source_vertices": 1074,
+      "native_vertices": 3824,
+      "triangles": 1388,
+      "matched_native_vertices": 3824,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009512013639323413,
+      "max_uv_error": 0.0005156308559912465,
+      "max_normalized_weight_error": 0.007573806300544272,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011287928942763281
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_seonbi_a3_LOD1",
+      "source_vertices": 571,
+      "native_vertices": 1663,
+      "triangles": 635,
+      "matched_native_vertices": 1663,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009400181006640196,
+      "max_uv_error": 0.0005156308559912465,
+      "max_normalized_weight_error": 0.007817249555599592,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011287928942763281
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_seonbi_a3_LOD2",
+      "source_vertices": 299,
+      "native_vertices": 765,
+      "triangles": 299,
+      "matched_native_vertices": 765,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000947397667914629,
+      "max_uv_error": 0.0005156308559912465,
+      "max_normalized_weight_error": 0.0080723747318866,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011287928942763281
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 48 72 kr_seonbi_a3 True
+00:10.657  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a1\kr_spearman_a1.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_spearman_a1",
+  "source_blend_sha256": "d991fdeddffe7fa3c4a882ef9930a61bbd6223efe5e6d82707e3dd42d172a2bd",
+  "manifest_sha256": "fa3fb3771cfdfd4541a96457631e24b430b288c1961a91b81e053f2c87586e20",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_spearman_a1_LOD0",
+      "source_vertices": 1028,
+      "native_vertices": 3765,
+      "triangles": 1358,
+      "matched_native_vertices": 3765,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000946420943364501,
+      "max_uv_error": 0.0006199645060920202,
+      "max_normalized_weight_error": 0.008181505930373645,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_spearman_a1_LOD1",
+      "source_vertices": 595,
+      "native_vertices": 1826,
+      "triangles": 676,
+      "matched_native_vertices": 1826,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009444679017178714,
+      "max_uv_error": 0.00059679104073348,
+      "max_normalized_weight_error": 0.006355547221871705,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_spearman_a1_LOD2",
+      "source_vertices": 277,
+      "native_vertices": 663,
+      "triangles": 260,
+      "matched_native_vertices": 663,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009489243966527283,
+      "max_uv_error": 0.000564574040597181,
+      "max_normalized_weight_error": 0.0053091559924331455,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 49 72 kr_spearman_a1 True
+00:10.907  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a2\kr_spearman_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_spearman_a2",
+  "source_blend_sha256": "20c1193d79af05fc8f86935eb972bd0c372af4f47552d10625af61133a6fe2ea",
+  "manifest_sha256": "6e21da66309f933a859b8b7d3a25e262735013ef5252bd62b1c91215c084f669",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_spearman_a2_LOD0",
+      "source_vertices": 1030,
+      "native_vertices": 3854,
+      "triangles": 1386,
+      "matched_native_vertices": 3854,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009508428047411144,
+      "max_uv_error": 0.0006728434625157827,
+      "max_normalized_weight_error": 0.007365818705094729,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_spearman_a2_LOD1",
+      "source_vertices": 561,
+      "native_vertices": 1736,
+      "triangles": 646,
+      "matched_native_vertices": 1736,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009453600505366921,
+      "max_uv_error": 0.0005360671032831146,
+      "max_normalized_weight_error": 0.007048540015938798,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_spearman_a2_LOD2",
+      "source_vertices": 280,
+      "native_vertices": 676,
+      "triangles": 264,
+      "matched_native_vertices": 676,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009505371563136578,
+      "max_uv_error": 0.0006543464251143829,
+      "max_normalized_weight_error": 0.00635909648502575,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 50 72 kr_spearman_a2 True
+00:11.172  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a3\kr_spearman_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_spearman_a3",
+  "source_blend_sha256": "b0948c93cfdfeb51e33033e8c5247946f31404d7c177d94465071b291981bde7",
+  "manifest_sha256": "c54b5f9a143108cedc16b3dbf1e0d499e582117f8560eba254a24fc9640d2272",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_spearman_a3_LOD0",
+      "source_vertices": 1085,
+      "native_vertices": 3776,
+      "triangles": 1344,
+      "matched_native_vertices": 3776,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009516747086308897,
+      "max_uv_error": 0.000564574040597181,
+      "max_normalized_weight_error": 0.005333282858719146,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_spearman_a3_LOD1",
+      "source_vertices": 586,
+      "native_vertices": 1568,
+      "triangles": 588,
+      "matched_native_vertices": 1568,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009648349368944764,
+      "max_uv_error": 0.0005948269767041456,
+      "max_normalized_weight_error": 0.007360580077625856,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_spearman_a3_LOD2",
+      "source_vertices": 323,
+      "native_vertices": 719,
+      "triangles": 289,
+      "matched_native_vertices": 719,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009555271244607866,
+      "max_uv_error": 0.0006278383357681188,
+      "max_normalized_weight_error": 0.0055916473226144126,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 51 72 kr_spearman_a3 True
+00:11.407  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a4\kr_spearman_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_spearman_a4",
+  "source_blend_sha256": "4de48dfa20c56925966c3ada36779c118b65f2437be8127240abd9b9014edb5b",
+  "manifest_sha256": "298a09bbf994c72804e95b6da2489456c0b046278e6802e9a051488164dfd9ca",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_spearman_a4_LOD0",
+      "source_vertices": 1209,
+      "native_vertices": 3863,
+      "triangles": 1385,
+      "matched_native_vertices": 3863,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009544098866172135,
+      "max_uv_error": 0.0006334225310411769,
+      "max_normalized_weight_error": 0.006932578709847426,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_spearman_a4_LOD1",
+      "source_vertices": 660,
+      "native_vertices": 1672,
+      "triangles": 628,
+      "matched_native_vertices": 1672,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009528862428851426,
+      "max_uv_error": 0.0005948269767041456,
+      "max_normalized_weight_error": 0.008765387818670811,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_spearman_a4_LOD2",
+      "source_vertices": 339,
+      "native_vertices": 702,
+      "triangles": 286,
+      "matched_native_vertices": 702,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009522995096631348,
+      "max_uv_error": 0.0005451702691227229,
+      "max_normalized_weight_error": 0.008000402706507925,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 52 72 kr_spearman_a4 True
+00:11.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a2\kr_tiger_hunter_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_tiger_hunter_a2",
+  "source_blend_sha256": "bfec698b944c7e4a9efe2e3e3884d6e31b286863a7e19691635a584a3568dd9c",
+  "manifest_sha256": "8968c7cdcc7305a4ef31af4d6b2f604dbe16de90d2895c2a7df2c09b7ba4eda9",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_tiger_hunter_a2_LOD0",
+      "source_vertices": 1222,
+      "native_vertices": 4116,
+      "triangles": 1474,
+      "matched_native_vertices": 4116,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009528701775707304,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.008053797954070685,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_tiger_hunter_a2_LOD1",
+      "source_vertices": 642,
+      "native_vertices": 1710,
+      "triangles": 646,
+      "matched_native_vertices": 1710,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009573456482030451,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.007112953030151137,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_tiger_hunter_a2_LOD2",
+      "source_vertices": 360,
+      "native_vertices": 750,
+      "triangles": 308,
+      "matched_native_vertices": 750,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009606074308976531,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.008425366370959253,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019678875649835744
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 53 72 kr_tiger_hunter_a2 True
+00:12.016  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a3\kr_tiger_hunter_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_tiger_hunter_a3",
+  "source_blend_sha256": "112097ba6e622a305a7bec45677072ad658dcf5fff5b032c81850be7a4e53910",
+  "manifest_sha256": "0d88a807c9a2bf9c206c3632b0aa73cafa3d97fc9c1e24a7c25ac7e79e2a5943",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_tiger_hunter_a3_LOD0",
+      "source_vertices": 1222,
+      "native_vertices": 4116,
+      "triangles": 1474,
+      "matched_native_vertices": 4116,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009528701775707304,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.008053797954070685,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_tiger_hunter_a3_LOD1",
+      "source_vertices": 642,
+      "native_vertices": 1710,
+      "triangles": 646,
+      "matched_native_vertices": 1710,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009573456482030451,
+      "max_uv_error": 0.0006318221253978383,
+      "max_normalized_weight_error": 0.007112953030151137,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_tiger_hunter_a3_LOD2",
+      "source_vertices": 360,
+      "native_vertices": 750,
+      "triangles": 308,
+      "matched_native_vertices": 750,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009606074308976531,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.008425366370959253,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0019678875649835744
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 54 72 kr_tiger_hunter_a3 True
+00:12.250  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a4\kr_tiger_hunter_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_tiger_hunter_a4",
+  "source_blend_sha256": "d3789d30c6e7d05141a8bd3611f94c9d8b785136d89f07426218aaf4edede828",
+  "manifest_sha256": "3cdaf5b10a19b1059ac4656e7989ac1261fa0723bc748702e7c7c43688317f20",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 48,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_tiger_hunter_a4_LOD0",
+      "source_vertices": 1292,
+      "native_vertices": 4510,
+      "triangles": 1608,
+      "matched_native_vertices": 4510,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009586006053723395,
+      "max_uv_error": 0.0005659092992363857,
+      "max_normalized_weight_error": 0.008124495721330838,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_tiger_hunter_a4_LOD1",
+      "source_vertices": 672,
+      "native_vertices": 1823,
+      "triangles": 685,
+      "matched_native_vertices": 1823,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009664353565312922,
+      "max_uv_error": 0.000578917733593954,
+      "max_normalized_weight_error": 0.00921714658391326,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_tiger_hunter_a4_LOD2",
+      "source_vertices": 404,
+      "native_vertices": 885,
+      "triangles": 353,
+      "matched_native_vertices": 885,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009524754132144153,
+      "max_uv_error": 0.0005871548728919063,
+      "max_normalized_weight_error": 0.00883642066031265,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 55 72 kr_tiger_hunter_a4 True
+00:12.500  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a2\kr_trade_cargo_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_trade_cargo_a2",
+  "source_blend_sha256": "b50b286ac41fe3af86f42dd9e79ec1e196964eca2de3fbf0bf3d812e87990c2f",
+  "manifest_sha256": "d778681caa646b7e782b0494636669ae6a1af4666e57e0d351ebfc40b9023803",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 120,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_trade_cargo_a2_LOD0",
+      "source_vertices": 1458,
+      "native_vertices": 5703,
+      "triangles": 1925,
+      "matched_native_vertices": 5703,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0010146625572815537,
+      "max_uv_error": 0.0005871548728919063,
+      "max_normalized_weight_error": 0.0,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.00147484375
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_trade_cargo_a2_LOD1",
+      "source_vertices": 742,
+      "native_vertices": 2322,
+      "triangles": 790,
+      "matched_native_vertices": 2322,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.00047850608825683594,
+      "max_normalized_weight_error": 0.0,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.00147484375
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_trade_cargo_a2_LOD2",
+      "source_vertices": 354,
+      "native_vertices": 892,
+      "triangles": 308,
+      "matched_native_vertices": 892,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.0004589557647705078,
+      "max_normalized_weight_error": 0.0,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.00147484375
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 56 72 kr_trade_cargo_a2 True
+00:12.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a3\kr_trade_cargo_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_trade_cargo_a3",
+  "source_blend_sha256": "50d11a2b914d2ad10176fded191232b4491f312d4c41e942c7145483580e8783",
+  "manifest_sha256": "f329cff41ec4ef09dd39036d4211c19b38d1599470fb2393564cd36b51518eaa",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 120,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_trade_cargo_a3_LOD0",
+      "source_vertices": 1613,
+      "native_vertices": 6213,
+      "triangles": 2095,
+      "matched_native_vertices": 6213,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0010146625572815537,
+      "max_uv_error": 0.0005871548728919063,
+      "max_normalized_weight_error": 0.0,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0020816018980074633
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_trade_cargo_a3_LOD1",
+      "source_vertices": 818,
+      "native_vertices": 2502,
+      "triangles": 850,
+      "matched_native_vertices": 2502,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009765625,
+      "max_uv_error": 0.0005895416562040255,
+      "max_normalized_weight_error": 0.0,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0020816018980074633
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_trade_cargo_a3_LOD2",
+      "source_vertices": 402,
+      "native_vertices": 994,
+      "triangles": 342,
+      "matched_native_vertices": 994,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.001953125,
+      "max_uv_error": 0.0004687309265136719,
+      "max_normalized_weight_error": 0.0,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0020816018980074633
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 57 72 kr_trade_cargo_a3 True
+00:13.047  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a4\kr_trade_cargo_a4.blend"
+NATIVE_SOURCE_DIAGNOSTIC 1 native_pos [0.82080078125, 0.8056640625, 0.8955078125] source_pos [0.82080078125, 0.8056640625, 0.89599609375] distance 0.00048828125 native_uv [0.162353515625, -0.04296875] source_uv [(0.10632079839706421, -0.035491943359375), (0.10632079839706421, -0.035491943359375)] native_weights {'gaia_c_pelvis': 1.0} source_weights {'gaia_c_pelvis': 1.0}
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 8, in <module>
+    runpy.run_path(str(R/'tools/art013/compare_probe.py'),run_name='__main__');result={'asset':name,'passed':True,'report':path.relative_to(R).as_posix()}
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_probe.py", line 64, in <module>
+    assert unmatched==0,('Native corners do not match source positions/UVs/weights',index,unmatched)
+           ^^^^^^^^^^^^
+AssertionError: ('Native corners do not match source positions/UVs/weights', 1, 1)
+NATIVE_SOURCE_COMPARISON 58 72 kr_trade_cargo_a4 False
+00:13.282  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a2\kr_trader_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_trader_a2",
+  "source_blend_sha256": "f14d3b0b595903774896ca0efd506229050a91d9d2311e41a3620290853593db",
+  "manifest_sha256": "0ab7a0c092d9ce01884ae85dde4764356b061f379f2ad7f3601fd8dfa68248c9",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_trader_a2_LOD0",
+      "source_vertices": 1013,
+      "native_vertices": 3782,
+      "triangles": 1362,
+      "matched_native_vertices": 3782,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009456856059841812,
+      "max_uv_error": 0.0006103038798319994,
+      "max_normalized_weight_error": 0.007947612979052165,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_trader_a2_LOD1",
+      "source_vertices": 538,
+      "native_vertices": 1616,
+      "triangles": 606,
+      "matched_native_vertices": 1616,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009384476579725742,
+      "max_uv_error": 0.0005723237153317216,
+      "max_normalized_weight_error": 0.006051125639120858,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_trader_a2_LOD2",
+      "source_vertices": 269,
+      "native_vertices": 634,
+      "triangles": 250,
+      "matched_native_vertices": 634,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009459208231419325,
+      "max_uv_error": 0.0006209836078325561,
+      "max_normalized_weight_error": 0.006483912371338718,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 59 72 kr_trader_a2 True
+00:13.516  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a3\kr_trader_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_trader_a3",
+  "source_blend_sha256": "eae2bbb81f46c50f1925b0fd8c2f37aba97150905b1b1d7cab49fb603f7613ae",
+  "manifest_sha256": "be0d32f65b450d789232a4018ec79f32603a071ed0fab0e751fd41e30edc8ede",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_trader_a3_LOD0",
+      "source_vertices": 1096,
+      "native_vertices": 3885,
+      "triangles": 1409,
+      "matched_native_vertices": 3885,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009488100185990334,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.007927048850374874,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_trader_a3_LOD1",
+      "source_vertices": 588,
+      "native_vertices": 1689,
+      "triangles": 638,
+      "matched_native_vertices": 1689,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009387751924805343,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.007958971987446717,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_trader_a3_LOD2",
+      "source_vertices": 308,
+      "native_vertices": 708,
+      "triangles": 278,
+      "matched_native_vertices": 708,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009455379331484437,
+      "max_uv_error": 0.0005285010182069245,
+      "max_normalized_weight_error": 0.007277780303768078,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 60 72 kr_trader_a3 True
+00:13.735  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a4\kr_trader_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_trader_a4",
+  "source_blend_sha256": "77755cc6ca443c9c9d78cc26636d6e4fbfb2841de7234141c074c3b5db4784f9",
+  "manifest_sha256": "63a0cf99f8144752e8568e7bac1c4fc9177f3acc6e0ad59417770ea3ab2918c8",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_trader_a4_LOD0",
+      "source_vertices": 1122,
+      "native_vertices": 4110,
+      "triangles": 1482,
+      "matched_native_vertices": 4110,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009488100185990334,
+      "max_uv_error": 0.0005922446148977483,
+      "max_normalized_weight_error": 0.007927048850374874,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_trader_a4_LOD1",
+      "source_vertices": 618,
+      "native_vertices": 1867,
+      "triangles": 696,
+      "matched_native_vertices": 1867,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009387751924805343,
+      "max_uv_error": 0.0005795922833629841,
+      "max_normalized_weight_error": 0.0070949111784496255,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_trader_a4_LOD2",
+      "source_vertices": 313,
+      "native_vertices": 776,
+      "triangles": 300,
+      "matched_native_vertices": 776,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009483223548159003,
+      "max_uv_error": 0.0005198509774843867,
+      "max_normalized_weight_error": 0.0063861035098682906,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 61 72 kr_trader_a4 True
+00:13.969  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a2\kr_trader_female_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_trader_female_a2",
+  "source_blend_sha256": "23c4dfc20d89277af40eb48215e79f86e6484041b7325a0256f4fc468d6fa5c9",
+  "manifest_sha256": "9cacbfb946bbafe5c72121e72bd0f1a6fbbcb77efc04142117c4f40fbbaec564",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_trader_female_a2_LOD0",
+      "source_vertices": 1122,
+      "native_vertices": 4170,
+      "triangles": 1504,
+      "matched_native_vertices": 4170,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009455966064706445,
+      "max_uv_error": 0.000578917733593954,
+      "max_normalized_weight_error": 0.007947612979052165,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_trader_female_a2_LOD1",
+      "source_vertices": 521,
+      "native_vertices": 1498,
+      "triangles": 572,
+      "matched_native_vertices": 1498,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009400692651979625,
+      "max_uv_error": 0.0006371488540692834,
+      "max_normalized_weight_error": 0.007508959436253904,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_trader_female_a2_LOD2",
+      "source_vertices": 307,
+      "native_vertices": 740,
+      "triangles": 288,
+      "matched_native_vertices": 740,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009508040966466069,
+      "max_uv_error": 0.0006854400141069481,
+      "max_normalized_weight_error": 0.007187923730588408,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 62 72 kr_trader_female_a2 True
+00:14.203  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a3\kr_trader_female_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_trader_female_a3",
+  "source_blend_sha256": "50276c6e7fbc7e4db09f80fdd3ba08763fb101952e311859a58d5d7b18573336",
+  "manifest_sha256": "850c27af5b2fb603d55fe0a676b0ee2f774b91eeaa5db9985343634e564482b5",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_trader_female_a3_LOD0",
+      "source_vertices": 1067,
+      "native_vertices": 4079,
+      "triangles": 1435,
+      "matched_native_vertices": 4079,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000940273457672447,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.00847262314779329,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_trader_female_a3_LOD1",
+      "source_vertices": 541,
+      "native_vertices": 1696,
+      "triangles": 616,
+      "matched_native_vertices": 1696,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009457847918383777,
+      "max_uv_error": 0.000578917733593954,
+      "max_normalized_weight_error": 0.008099973957591544,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_trader_female_a3_LOD2",
+      "source_vertices": 285,
+      "native_vertices": 673,
+      "triangles": 263,
+      "matched_native_vertices": 673,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009483319008722901,
+      "max_uv_error": 0.0005321966390548252,
+      "max_normalized_weight_error": 0.007966399163132909,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 63 72 kr_trader_female_a3 True
+00:14.453  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a4\kr_trader_female_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_trader_female_a4",
+  "source_blend_sha256": "a6697afb5f62885ef4e4fe3a05f7217af39e3dc04109859d953c712d06268818",
+  "manifest_sha256": "ccbf7410f8879482b09fa9756a07f6a6fbe3d927a2c8b26c7111fd05ea8e3088",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_trader_female_a4_LOD0",
+      "source_vertices": 1113,
+      "native_vertices": 4301,
+      "triangles": 1509,
+      "matched_native_vertices": 4301,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000940273457672447,
+      "max_uv_error": 0.0006278383357681188,
+      "max_normalized_weight_error": 0.00847262314779329,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_trader_female_a4_LOD1",
+      "source_vertices": 569,
+      "native_vertices": 1816,
+      "triangles": 656,
+      "matched_native_vertices": 1816,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009462498128414154,
+      "max_uv_error": 0.000578917733593954,
+      "max_normalized_weight_error": 0.008298987851423356,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_trader_female_a4_LOD2",
+      "source_vertices": 298,
+      "native_vertices": 736,
+      "triangles": 284,
+      "matched_native_vertices": 736,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009456965490244329,
+      "max_uv_error": 0.0005285010182069245,
+      "max_normalized_weight_error": 0.006271196194649498,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 64 72 kr_trader_female_a4 True
+00:14.703  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a1\kr_villager_female_a1.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_female_a1",
+  "source_blend_sha256": "b2bbd4e0de6ab0e5f426840dbd3024a924168807510f6490ca12477dab418151",
+  "manifest_sha256": "42110715e98f80079c226bd189257387b64a3c0a010fbe20e22a85ce6c496d4d",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_female_a1_LOD0",
+      "source_vertices": 915,
+      "native_vertices": 3374,
+      "triangles": 1226,
+      "matched_native_vertices": 3374,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009509726078249514,
+      "max_uv_error": 0.0005345039898413903,
+      "max_normalized_weight_error": 0.007947612979052165,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_female_a1_LOD1",
+      "source_vertices": 462,
+      "native_vertices": 1364,
+      "triangles": 522,
+      "matched_native_vertices": 1364,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009385808371007442,
+      "max_uv_error": 0.0006371488540692834,
+      "max_normalized_weight_error": 0.007508959436253904,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_female_a1_LOD2",
+      "source_vertices": 269,
+      "native_vertices": 658,
+      "triangles": 258,
+      "matched_native_vertices": 658,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009485170594416559,
+      "max_uv_error": 0.00049670160659713,
+      "max_normalized_weight_error": 0.007187923730588408,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 65 72 kr_villager_female_a1 True
+00:14.907  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a2\kr_villager_female_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_female_a2",
+  "source_blend_sha256": "78e52da21d7412ec323593efedcb71936f72f63d0f014c055df13168b55797f3",
+  "manifest_sha256": "d6ecf61b8749985366842960ca392a13e5d03e54f7f2ec02faee5e384d9b0f0c",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_female_a2_LOD0",
+      "source_vertices": 915,
+      "native_vertices": 3374,
+      "triangles": 1226,
+      "matched_native_vertices": 3374,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009490940137766302,
+      "max_uv_error": 0.0005338445446223124,
+      "max_normalized_weight_error": 0.007947612979052165,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_female_a2_LOD1",
+      "source_vertices": 462,
+      "native_vertices": 1364,
+      "triangles": 522,
+      "matched_native_vertices": 1364,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009400692651979625,
+      "max_uv_error": 0.0006371488540692834,
+      "max_normalized_weight_error": 0.007508959436253904,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_female_a2_LOD2",
+      "source_vertices": 269,
+      "native_vertices": 658,
+      "triangles": 258,
+      "matched_native_vertices": 658,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009454690152779222,
+      "max_uv_error": 0.00046218574986372997,
+      "max_normalized_weight_error": 0.007187923730588408,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 66 72 kr_villager_female_a2 True
+00:15.125  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a3\kr_villager_female_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_female_a3",
+  "source_blend_sha256": "411c170e7d68c767e5f03385216f5b50a55a16444c2fb1883f93ea5e5754c599",
+  "manifest_sha256": "5e39d860e23660d18d796fa747aae02c2eb0fbba2448f26199765ff77fb232c7",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_female_a3_LOD0",
+      "source_vertices": 958,
+      "native_vertices": 3627,
+      "triangles": 1313,
+      "matched_native_vertices": 3627,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009520930470898747,
+      "max_uv_error": 0.0006025599781295533,
+      "max_normalized_weight_error": 0.008285607863395383,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_female_a3_LOD1",
+      "source_vertices": 507,
+      "native_vertices": 1578,
+      "triangles": 592,
+      "matched_native_vertices": 1578,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000938451150432229,
+      "max_uv_error": 0.000578917733593954,
+      "max_normalized_weight_error": 0.00739001749283813,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_female_a3_LOD2",
+      "source_vertices": 255,
+      "native_vertices": 601,
+      "triangles": 239,
+      "matched_native_vertices": 601,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009483032044954598,
+      "max_uv_error": 0.0005321966390548252,
+      "max_normalized_weight_error": 0.007122338992234689,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 67 72 kr_villager_female_a3 True
+00:15.360  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a4\kr_villager_female_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_female_a4",
+  "source_blend_sha256": "d0827522f6331347c13a2bc4485e9aade5457dd12720bebc88f1df600b86b645",
+  "manifest_sha256": "893cf18c33a061c5c398949b535a3f24fa43bc6ce9c06e93b4a37df8f7122890",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_female_a4_LOD0",
+      "source_vertices": 1008,
+      "native_vertices": 4047,
+      "triangles": 1395,
+      "matched_native_vertices": 4047,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009520930470898747,
+      "max_uv_error": 0.0006278383357681188,
+      "max_normalized_weight_error": 0.008285607863395383,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_female_a4_LOD1",
+      "source_vertices": 535,
+      "native_vertices": 1822,
+      "triangles": 632,
+      "matched_native_vertices": 1822,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.000938451150432229,
+      "max_uv_error": 0.000578917733593954,
+      "max_normalized_weight_error": 0.008298987851423356,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_female_a4_LOD2",
+      "source_vertices": 268,
+      "native_vertices": 742,
+      "triangles": 260,
+      "matched_native_vertices": 742,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009525571367703378,
+      "max_uv_error": 0.0005285010182069245,
+      "max_normalized_weight_error": 0.006271196194649498,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 68 72 kr_villager_female_a4 True
+00:15.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a1\kr_villager_male_a1.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_male_a1",
+  "source_blend_sha256": "af04fafef851e14d7dca3ed27a901a4e522a8507d71974c792b3770628468543",
+  "manifest_sha256": "96264e34235d03eb13e4bf61da257b8c70b8ae651b4eda75b278e1b83393a230",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_male_a1_LOD0",
+      "source_vertices": 1013,
+      "native_vertices": 3782,
+      "triangles": 1362,
+      "matched_native_vertices": 3782,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009452581871300936,
+      "max_uv_error": 0.0006103038798319994,
+      "max_normalized_weight_error": 0.007947612979052165,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_male_a1_LOD1",
+      "source_vertices": 538,
+      "native_vertices": 1616,
+      "triangles": 606,
+      "matched_native_vertices": 1616,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009384476579725742,
+      "max_uv_error": 0.0005723237153317216,
+      "max_normalized_weight_error": 0.006051125639120858,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_male_a1_LOD2",
+      "source_vertices": 269,
+      "native_vertices": 634,
+      "triangles": 250,
+      "matched_native_vertices": 634,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009452506201341748,
+      "max_uv_error": 0.0006209836078325561,
+      "max_normalized_weight_error": 0.006483912371338718,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 69 72 kr_villager_male_a1 True
+00:15.828  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a2\kr_villager_male_a2.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_male_a2",
+  "source_blend_sha256": "a61c1189f18de9676932d64a587bec66d3f3516662f29617341cac6aff637aaf",
+  "manifest_sha256": "6b7412ccd8aee6e5a266c32ccde9cb84182f176f202eba43477c0aa9d913ae82",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_male_a2_LOD0",
+      "source_vertices": 1013,
+      "native_vertices": 3782,
+      "triangles": 1362,
+      "matched_native_vertices": 3782,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009452581871300936,
+      "max_uv_error": 0.0006103038798319994,
+      "max_normalized_weight_error": 0.007947612979052165,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_male_a2_LOD1",
+      "source_vertices": 538,
+      "native_vertices": 1616,
+      "triangles": 606,
+      "matched_native_vertices": 1616,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009384476579725742,
+      "max_uv_error": 0.0005723237153317216,
+      "max_normalized_weight_error": 0.006051125639120858,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_male_a2_LOD2",
+      "source_vertices": 269,
+      "native_vertices": 634,
+      "triangles": 250,
+      "matched_native_vertices": 634,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009452506201341748,
+      "max_uv_error": 0.0006209836078325561,
+      "max_normalized_weight_error": 0.006483912371338718,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 70 72 kr_villager_male_a2 True
+00:16.063  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a3\kr_villager_male_a3.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_male_a3",
+  "source_blend_sha256": "770c68d775c3e0779adc716954a811f11b65b1d7c5f19cf9f9feadb0ed1edb61",
+  "manifest_sha256": "46bbe0bb18abe86ead3550a4fba99d96e29a4c085abf04675156f29ebcea2271",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_male_a3_LOD0",
+      "source_vertices": 1111,
+      "native_vertices": 3978,
+      "triangles": 1438,
+      "matched_native_vertices": 3978,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009514116100035608,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.007927048850374874,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_male_a3_LOD1",
+      "source_vertices": 588,
+      "native_vertices": 1689,
+      "triangles": 638,
+      "matched_native_vertices": 1689,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009387751924805343,
+      "max_uv_error": 0.000572048929146771,
+      "max_normalized_weight_error": 0.008713742331350027,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_male_a3_LOD2",
+      "source_vertices": 308,
+      "native_vertices": 708,
+      "triangles": 278,
+      "matched_native_vertices": 708,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009500467567704618,
+      "max_uv_error": 0.0005285010182069245,
+      "max_normalized_weight_error": 0.007907109402235213,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 71 72 kr_villager_male_a3 True
+00:16.328  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a4\kr_villager_male_a4.blend"
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_male_a4",
+  "source_blend_sha256": "65ff17cad99abc0f09663df0ff8e454c39dab1ff222d5bcb4e610fcc04851fee",
+  "manifest_sha256": "88e04f1a3741592e6212f4b1a93331803f19fb73f2a58e3f037b61d55933a36f",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_male_a4_LOD0",
+      "source_vertices": 1122,
+      "native_vertices": 4110,
+      "triangles": 1482,
+      "matched_native_vertices": 4110,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009514116100035608,
+      "max_uv_error": 0.0005922446148977483,
+      "max_normalized_weight_error": 0.008183274796346618,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_male_a4_LOD1",
+      "source_vertices": 628,
+      "native_vertices": 1915,
+      "triangles": 712,
+      "matched_native_vertices": 1915,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009387751924805343,
+      "max_uv_error": 0.0005795922833629841,
+      "max_normalized_weight_error": 0.008420917797599903,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_male_a4_LOD2",
+      "source_vertices": 319,
+      "native_vertices": 800,
+      "triangles": 308,
+      "matched_native_vertices": 800,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009462172165513039,
+      "max_uv_error": 0.0005198509774843867,
+      "max_normalized_weight_error": 0.006785215386858501,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded",
+      "native_parts": 1,
+      "position_limit_m": 0.0011086328125
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}
+NATIVE_SOURCE_COMPARISON 72 72 kr_villager_male_a4 True
+Traceback (most recent call last):
+  File "C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py", line 13, in <module>
+    assert len(results)==72 and all(a['passed'] for a in results),'Some source/native comparisons failed; inspect receipt'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Some source/native comparisons failed; inspect receipt
+
+Error: script failed, file: 'C:\Users\RS\AppData\Local\Temp\k13\compare_all_units.py', exiting.
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

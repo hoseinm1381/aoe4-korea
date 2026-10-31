@@ -1,0 +1,62 @@
+{
+  "schema": "garrison.essence-run/v1",
+  "status": "succeeded",
+  "started_at_utc": "2026-10-31T08:01:48.366658Z",
+  "editor": {
+    "path": "E:\\Games\\steamapps\\common\\Age of Empires IV\\EssenceEditor.exe",
+    "sha256": "df563dcdab31e0b772b9239da2c6058f86aa0063ec2359a0847e5057fae4efab",
+    "size_bytes": 10242872,
+    "profile": null,
+    "accepted_by": "capability-probe"
+  },
+  "mod": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\k013.aoe4mod",
+    "namespace": "http://schemas.datacontract.org/2004/07/Essence.Editor.Modding",
+    "mod_id": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "mod_type": "Extension",
+    "data_generic_path": "source\\",
+    "data_intermediate_path": "cache",
+    "locdb_path": "locdb\\k013.locdb",
+    "burn_project_path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\source\\_default.burnproj"
+  },
+  "run_root": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\probe-current-editor",
+  "command": [
+    "E:\\Games\\steamapps\\common\\Age of Empires IV\\EssenceEditor.exe",
+    "-rtm",
+    "--safe_settings",
+    "--do_not_restore",
+    "--quiet_crash_report",
+    "--no_source_control",
+    "--log_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\probe-current-editor\\logs",
+    "--build_mod",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\k013.aoe4mod",
+    "--no_burn_window",
+    "--burn_verbose_log_level",
+    "--burn_cache_type",
+    "Local",
+    "--burn_max_threads",
+    "1",
+    "--build_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\probe-current-editor\\output"
+  ],
+  "working_directory": "E:\\Games\\steamapps\\common\\Age of Empires IV",
+  "timeout_seconds": 120.0,
+  "intermediate_mode": "mod",
+  "generated_write_scope": [
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\cache",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project"
+  ],
+  "finished_at_utc": "2026-10-31T08:03:02.459136Z",
+  "duration_seconds": 74.096,
+  "raw_exit_code": 0,
+  "exit_code": 0,
+  "timed_out": false,
+  "diagnostics": [],
+  "logs": {
+    "application_directory": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\probe-current-editor\\logs",
+    "burn": null,
+    "stdout": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\probe-current-editor\\logs\\stdout.log",
+    "stderr": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\probe-current-editor\\logs\\stderr.log"
+  }
+}

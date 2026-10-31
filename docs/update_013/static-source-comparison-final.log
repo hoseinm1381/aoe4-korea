@@ -1,0 +1,39 @@
+00:00.468  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\cavalry_spear\Korea_cavalry_spear.blend"
+STATIC_SOURCE_NATIVE_MATCH 1 36 Korea_cavalry_spear 270
+00:00.484  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\crossbow\Korea_crossbow.blend"
+STATIC_SOURCE_NATIVE_MATCH 2 36 Korea_crossbow 2392
+00:00.531  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_archer\Korea_gakgung_archer.blend"
+STATIC_SOURCE_NATIVE_MATCH 3 36 Korea_gakgung_archer 1008
+00:00.547  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_hwarang\Korea_gakgung_hwarang.blend"
+STATIC_SOURCE_NATIVE_MATCH 4 36 Korea_gakgung_hwarang 1008
+00:00.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_tiger_hunter\Korea_gakgung_tiger_hunter.blend"
+STATIC_SOURCE_NATIVE_MATCH 5 36 Korea_gakgung_tiger_hunter 1008
+00:00.609  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gapsa_heavy_spear\Korea_gapsa_heavy_spear.blend"
+STATIC_SOURCE_NATIVE_MATCH 6 36 Korea_gapsa_heavy_spear 270
+00:00.625  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gapsa_long_spear\Korea_gapsa_long_spear.blend"
+STATIC_SOURCE_NATIVE_MATCH 7 36 Korea_gapsa_long_spear 2075
+00:00.656  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\hand_chongtong\Korea_hand_chongtong.blend"
+STATIC_SOURCE_NATIVE_MATCH 8 36 Korea_hand_chongtong 707
+00:00.672  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\hwarang_sword\Korea_hwarang_sword.blend"
+STATIC_SOURCE_NATIVE_MATCH 9 36 Korea_hwarang_sword 1539
+00:00.703  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\jangchang_plain\Korea_jangchang_plain.blend"
+STATIC_SOURCE_NATIVE_MATCH 10 36 Korea_jangchang_plain 270
+00:00.718  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\jangchang_tassel\Korea_jangchang_tassel.blend"
+STATIC_SOURCE_NATIVE_MATCH 11 36 Korea_jangchang_tassel 1018
+00:00.734  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\lancer_lance\Korea_lancer_lance.blend"
+STATIC_SOURCE_NATIVE_MATCH 12 36 Korea_lancer_lance 1180
+00:00.765  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\lancer_polearm_upgrade\Korea_lancer_polearm_upgrade.blend"
+STATIC_SOURCE_NATIVE_MATCH 13 36 Korea_lancer_polearm_upgrade 1050
+00:00.781  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\lumber_camp01\Korea_lumber_camp01.blend"
+STATIC_SOURCE_NATIVE_MATCH 14 36 Korea_lumber_camp01 2526
+00:00.890  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\mining_camp01\Korea_mining_camp01.blend"
+Traceback (most recent call last):
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_static_sources.py", line 44, in <module>
+    assert matches,(name,key,pos,uv,'Unmatched native vertex or UV')
+           ^^^^^^^
+AssertionError: ('Korea_mining_camp01', ('healthy', 0), [-4.68359375, -4.53125, 7.152557373046875e-07], [-2.341796875, 3.265625], 'Unmatched native vertex or UV')
+
+Error: script failed, file: 'F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\compare_static_sources.py', exiting.
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

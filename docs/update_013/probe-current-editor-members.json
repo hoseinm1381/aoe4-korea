@@ -1,0 +1,219 @@
+{
+  "archive": {
+    "block_size": 262144,
+    "file_count": 17,
+    "folder_count": 21,
+    "header_encryption": "None",
+    "name": "748d61b94d3e4cf3a506a9ac1f992d1d",
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\probe-current-editor\\output\\extension\\k013\\k013.sga",
+    "product": 0,
+    "signature_present": false,
+    "toc_count": 4,
+    "tocs": [
+      {
+        "alias": "attrib",
+        "name": "attrib"
+      },
+      {
+        "alias": "data",
+        "name": "data"
+      },
+      {
+        "alias": "info",
+        "name": "info"
+      },
+      {
+        "alias": "locale",
+        "name": "locale"
+      }
+    ],
+    "verification": {
+      "checked_files": 17,
+      "crc_mismatches": [],
+      "scope": "stored bytes against recorded CRC32 and SHA1 block hashes; the header signature is not validated",
+      "sha1_mismatches": [],
+      "unhashed_files": 0,
+      "verified": true
+    },
+    "version": 11
+  },
+  "filter": null,
+  "member_count": 17,
+  "members": [
+    {
+      "crc": 4146385961,
+      "encryption": "None",
+      "path": "attrib/k013.rgd",
+      "size": 186,
+      "storage": "StreamCompress",
+      "stored_size": 148,
+      "toc": "attrib",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3905007015,
+      "encryption": "None",
+      "path": "attrib/attachments/attachment_lists/garrison/k013/template_animator.rgd",
+      "size": 1277,
+      "storage": "StreamCompress",
+      "stored_size": 449,
+      "toc": "attrib",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4100160148,
+      "encryption": "None",
+      "path": "attrib/attachments/attachment_lists/garrison/k013/template_body.rgd",
+      "size": 4178,
+      "storage": "StreamCompress",
+      "stored_size": 776,
+      "toc": "attrib",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2579738435,
+      "encryption": "None",
+      "path": "art/kr013/vma1/16212577627507200274_packed.rrtex",
+      "size": 1817,
+      "storage": "Store",
+      "stored_size": 1817,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 761918771,
+      "encryption": "None",
+      "path": "art/kr013/vma1/16247761920597727312_packed.rrtex",
+      "size": 331,
+      "storage": "Store",
+      "stored_size": 331,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3355956049,
+      "encryption": "None",
+      "path": "art/kr013/vma1/7049387493259568967_packed.rrtex",
+      "size": 3006,
+      "storage": "Store",
+      "stored_size": 3006,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2791801367,
+      "encryption": "None",
+      "path": "art/kr013/vma1/albedo.rrtex",
+      "size": 96001,
+      "storage": "Store",
+      "stored_size": 96001,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2368327167,
+      "encryption": "None",
+      "path": "art/kr013/vma1/model.rrmaterial",
+      "size": 619,
+      "storage": "StreamCompress",
+      "stored_size": 340,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1299582947,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/11529601081711074169_packed.rrtex",
+      "size": 1849,
+      "storage": "Store",
+      "stored_size": 1849,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2583117947,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/1954253971730686476_packed.rrtex",
+      "size": 363,
+      "storage": "Store",
+      "stored_size": 363,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4130762905,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/2855861459186197275_packed.rrtex",
+      "size": 3038,
+      "storage": "Store",
+      "stored_size": 3038,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 20457278,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/albedo.rrtex",
+      "size": 96033,
+      "storage": "Store",
+      "stored_size": 96033,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 64079196,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/model.rrmaterial",
+      "size": 746,
+      "storage": "StreamCompress",
+      "stored_size": 369,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1492495295,
+      "encryption": "None",
+      "path": "scar/k013/blueprints.scar",
+      "size": 1419,
+      "storage": "BufferCompress",
+      "stored_size": 415,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4051897426,
+      "encryption": "None",
+      "path": "mod.bin",
+      "size": 1761,
+      "storage": "StreamCompress",
+      "stored_size": 503,
+      "toc": "info",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1510291221,
+      "encryption": "None",
+      "path": "mod.rrtex",
+      "size": 406,
+      "storage": "Store",
+      "stored_size": 406,
+      "toc": "info",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2227802772,
+      "encryption": "None",
+      "path": "en/en.ucs",
+      "size": 74,
+      "storage": "StreamCompress",
+      "stored_size": 65,
+      "toc": "locale",
+      "verification": "SHA1Blocks"
+    }
+  ],
+  "schema": "sga-archiver.list/v1",
+  "tool": {
+    "name": "sga-archiver",
+    "version": "0.3.0"
+  }
+}

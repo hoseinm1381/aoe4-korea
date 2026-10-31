@@ -5913,7 +5913,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier1_cavalry_scout_mon"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v94c78842ff641fb"
                             },
                             {
                               "key": "$PBGMAP",
@@ -6076,7 +6076,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier2_cavalry_scout_mon"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v764b89bcaa2877a"
                             },
                             {
                               "key": "$PBGMAP",
@@ -6239,7 +6239,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier3_cavalry_scout_mon"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v0073566926b12b7"
                             },
                             {
                               "key": "$PBGMAP",

@@ -1,0 +1,20 @@
+{
+  "attribute_root": {
+    "member": "attrib/korea.rgd",
+    "sha256": "2a93f1ea871a9a6f513cc8ffd28a3767c6a9713b72b0cad6b36dae24df2cb632"
+  },
+  "owner": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "races": [
+    {
+      "member": "attrib/racebps/korea.rgd",
+      "sha256": "c72bcf7080d02eaea1cfc5dfaeb216dbd97198e7b4f98e7e2c292d329bfd741e"
+    }
+  ],
+  "schema": "garrison.civilizations/v1",
+  "scripts": [
+    {
+      "member": "scar/garrison/korea/dispatcher.scar",
+      "sha256": "97cceaa36f248b6cef489071f2088162f7da52d34ffe01d8c529035764e4df2a"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "schema": "korea.art013-unit-model-cook-and-source-proof/v1",
+  "status": "72_models_cooked_decoded_and_source_compared",
+  "native_archive": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-cargo-triangulated\\output\\extension\\k013\\k013.sga",
+  "native_archive_sha256": "61d4fb12de6076a3d02387db2fa624a40eca1069aa78c7f732fe7e70d025b3d1",
+  "native_archive_bytes": 16075418,
+  "models": 72,
+  "skeleton_families": {
+    "48": 18,
+    "73": 32,
+    "86": 15,
+    "71": 4,
+    "120": 3
+  },
+  "all_native_source_comparisons_passed": true,
+  "all_latest_archive_resources_match_readback_sha256": true,
+  "resource_hash_checks": [
+    {
+      "asset": "kr_archer_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_archer_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_archer_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_crossbowman_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_crossbowman_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_gapsa_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_gapsa_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_handcannoneer_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_horseman_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_horseman_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_horseman_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_hwarang_mounted_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_lancer_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_lancer_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_monk_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_monk_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_horseman_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_horseman_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_horseman_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_hwarang_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_hwarang_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_hwarang_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_lancer_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_lancer_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_scout_a1",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_scout_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_scout_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_scout_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_trader_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_trader_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_mount_trader_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_righteous_army_monk_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_righteous_army_monk_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_scout_a1",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_scout_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_scout_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_scout_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_scout_female_a1",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_scout_female_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_scout_female_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_scout_female_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_seonbi_a1",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_seonbi_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_spearman_a1",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_spearman_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_spearman_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_spearman_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_tiger_hunter_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_tiger_hunter_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_tiger_hunter_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trade_cargo_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trade_cargo_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trade_cargo_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trader_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trader_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trader_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trader_female_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trader_female_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_trader_female_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_villager_female_a1",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_villager_female_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_villager_female_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_villager_male_a1",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_villager_male_a2",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_villager_male_a3",
+      "verified_resource_hashes": 3
+    },
+    {
+      "asset": "kr_villager_male_a4",
+      "verified_resource_hashes": 3
+    }
+  ],
+  "active_game_bindings_changed": false,
+  "full_player_zip_013_built": false,
+  "remaining": [
+    "Private consumer bindings, including combined-mounted-owner adaptation",
+    "Equipment and building integration",
+    "Final 0.1.3 assembly, exact-member verification and user native acceptance"
+  ]
+}

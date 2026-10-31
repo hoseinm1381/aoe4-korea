@@ -1,0 +1,74 @@
+{
+  "schema": "garrison.essence-run/v1",
+  "status": "timed-out",
+  "started_at_utc": "2026-10-31T12:53:57.749460Z",
+  "editor": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor\\EssenceEditor.exe",
+    "sha256": "2ff1278eed5b1a6e163e6d78e04ad768dc38e4c198f6354069c99bed9e8f84e8",
+    "size_bytes": 10231608,
+    "profile": {
+      "id": "aoe4-essence-16.3.11308",
+      "bridge_version": "16.3.11308.0",
+      "observed_build": "release_16_3_0-4178464"
+    },
+    "accepted_by": "known-profile"
+  },
+  "mod": {
+    "path": "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-project\\k013.aoe4mod",
+    "namespace": "http://schemas.datacontract.org/2004/07/Essence.Editor.Modding",
+    "mod_id": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "mod_type": "Extension",
+    "data_generic_path": "source\\",
+    "data_intermediate_path": "cache",
+    "locdb_path": "locdb\\k013.locdb",
+    "burn_project_path": "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-project\\source\\_default.burnproj"
+  },
+  "run_root": "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit",
+  "command": [
+    "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor\\EssenceEditor.exe",
+    "-rtm",
+    "--safe_settings",
+    "--do_not_restore",
+    "--quiet_crash_report",
+    "--no_source_control",
+    "--log_path",
+    "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\logs",
+    "--build_mod",
+    "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-project\\k013.aoe4mod",
+    "--no_burn_window",
+    "--burn_verbose_log_level",
+    "--burn_cache_type",
+    "Local",
+    "--burn_max_threads",
+    "1",
+    "--build_path",
+    "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\output",
+    "--intermediate_path",
+    "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\intermediate"
+  ],
+  "working_directory": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor",
+  "timeout_seconds": 1200.0,
+  "intermediate_mode": "isolated-run",
+  "generated_write_scope": [
+    "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\intermediate",
+    "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\output"
+  ],
+  "finished_at_utc": "2026-10-31T13:13:58.049162Z",
+  "duration_seconds": 1200.213,
+  "raw_exit_code": -1,
+  "exit_code": -1,
+  "timed_out": true,
+  "diagnostics": [
+    {
+      "code": "unclassified-editor-failure",
+      "message": "Inspect the captured application, burn, stdout, and stderr logs.",
+      "evidence": "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\logs"
+    }
+  ],
+  "logs": {
+    "application_directory": "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\logs",
+    "burn": null,
+    "stdout": "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\logs\\stdout.log",
+    "stderr": "F:\\aoe_4_temp\\Temp_aoe4\\unit-pilot-cook-kit\\logs\\stderr.log"
+  }
+}

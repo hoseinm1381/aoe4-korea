@@ -1,3 +1,15 @@
+# Korea research payment/UI repair - source only, 2026-11-01
+
+The owner also reported duplicate olive-oil costs and incorrect research charges.
+The source now corrects 104 free non-default ability variants, gives Korean
+research book-cost tooltips and repairs refund handling. Read
+[UPDATE_016_RESEARCH.md](UPDATE_016_RESEARCH.md) and its validation receipts.
+The colour/cavalry repair is preserved. The build hold remains; the current player
+ZIP is still 0.1.5. Native payment, tooltip and appearance acceptance is pending.
+Earlier source-preservation statements apply to their original art-only phase.
+
+---
+
 # Korea standalone design
 
 The accepted combined 1.1.0 source stays preserved. This project has owner

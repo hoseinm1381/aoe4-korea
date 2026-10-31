@@ -1,0 +1,23 @@
+{
+  "id": "righteous_monk_sword",
+  "donor": "art/civilizations/chinese/weapons/chi_sword_dao/chi_sword_dao.rgm",
+  "kind": "sword",
+  "design": "Existing sword-bearing monk role; utilitarian Korean single-edged sword finish",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\righteous_monk_sword\\eae36178152f3baacf77\\decoded-static.json",
+  "manifest_sha256": "eb2d3baf76a39269299780ea069a3286857fed881c43c3f9d36294703a982729",
+  "bounds": {
+    "min": [
+      -0.083984375,
+      -0.0919189453125,
+      -0.46923828125
+    ],
+    "max": [
+      0.0865478515625,
+      0.09417724609375,
+      1.05859375
+    ]
+  },
+  "native_triangles": 291,
+  "bones": 1
+}

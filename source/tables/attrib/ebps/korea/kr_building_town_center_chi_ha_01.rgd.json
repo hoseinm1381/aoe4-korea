@@ -9949,7 +9949,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier1_town_center_control_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v448fba1001d76ca"
                             },
                             {
                               "key": "$PBGMAP",
@@ -10112,7 +10112,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier2_town_center_control_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v4aac891945aa89f"
                             },
                             {
                               "key": "$PBGMAP",
@@ -10275,7 +10275,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier3_town_center_control_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v893843ba87a451c"
                             },
                             {
                               "key": "$PBGMAP",
@@ -10438,7 +10438,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier4_town_center_control_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v93606910e157561"
                             },
                             {
                               "key": "$PBGMAP",

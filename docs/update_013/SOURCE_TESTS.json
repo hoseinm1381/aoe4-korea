@@ -1,0 +1,7 @@
+{
+  "tests": 23,
+  "result": "passed",
+  "command": "python -B -m unittest discover -s tests -v",
+  "log": "source-tests.log",
+  "native_runtime": "pending"
+}

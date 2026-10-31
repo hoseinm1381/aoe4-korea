@@ -1,0 +1,23 @@
+{
+  "id": "gakgung_hwarang",
+  "donor": "art/civilizations/common/weapons/ranged/bow_recurve_gold_short/bow_recurve_gold_short.rgm",
+  "kind": "bow",
+  "design": "Silla-inspired elite compact bow with restrained gilt bindings",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\gakgung_hwarang\\b14c07685c36fee8adcf\\decoded-static.json",
+  "manifest_sha256": "64ad30f870239a59b89a8b4929aaca2403d46a63acbc46aaabce4debc3e3787a",
+  "bounds": {
+    "min": [
+      -0.2783203125,
+      -0.09613037109375,
+      -0.7470703125
+    ],
+    "max": [
+      0.10504150390625,
+      0.00959014892578125,
+      0.75048828125
+    ]
+  },
+  "native_triangles": 336,
+  "bones": 4
+}

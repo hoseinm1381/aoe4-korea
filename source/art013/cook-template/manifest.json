@@ -1,0 +1,43 @@
+{
+  "schema": "korea.art013-native-cook-template/v1",
+  "origin": "Garrison 0.1.9 supported English-villager model-only burner template; actor and motion files excluded",
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "files": {
+    "k013.aoe4mod": {
+      "bytes": 391,
+      "sha256": "2037494814a04f0ef4ee2fe6e5104af91b2a643bef86535208c0170ff519026c"
+    },
+    "model.rgo": {
+      "bytes": 657,
+      "sha256": "bb41b0bf48275e2b625767eadba2cafbad864b8ab76289cb7942fe8e7813290b"
+    },
+    "model.rgotemplate": {
+      "bytes": 48,
+      "sha256": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+    },
+    "source/mod.png": {
+      "bytes": 569,
+      "sha256": "09ee6d5e3ebc0a9ff8fcfdc22bd6f058f1e2d2389c94917c7678ff0f6e671efc"
+    },
+    "source/mod.rdo": {
+      "bytes": 1393,
+      "sha256": "2300f15aa6c9dae593e613a658a7d9119a95180a5eed7442fbbc2130cf863065"
+    },
+    "source/effects.edfm": {
+      "bytes": 2,
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    "source/_default.burnproj": {
+      "bytes": 18516,
+      "sha256": "5b4e77cf44b549682756add53783b34972e3e5a8c6ca66f761c5aa7e2d0fff9d"
+    },
+    "source/locdb/k013.locdb": {
+      "bytes": 670,
+      "sha256": "5ed17ae91497b3c9824350df8a44396733495a94329a206d09de3b2e7a3db44f"
+    },
+    "source/locdb/k013_en.csv": {
+      "bytes": 108,
+      "sha256": "37c6c3abb88a72cf4782dbf63298ea8c8f55c62b5ede9054f724bbd0b48b5477"
+    }
+  }
+}

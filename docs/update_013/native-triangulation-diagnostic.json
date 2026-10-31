@@ -1,0 +1,42 @@
+{
+  "assets": [
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "previous_fbx_sha256": "b81e63c239aeb09e82a913f04b49a757dc9c17034d20b9e23fad9c730b2941d0",
+      "triangulated_fbx_sha256": "ec37f09e08147541589cc89baa69d1ec3bab7f00c385aab7785e259b2bb1021d",
+      "source_blend_sha256": "3979fe75e226ee6af331047d6da7ed6a850fc149bdd3ff2767673306752d300d",
+      "expected_lod_triangles": [
+        1433,
+        693,
+        312
+      ],
+      "only_export_flag_changed": true
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "previous_fbx_sha256": "35e85142cc6b91bba1606b00a15cd0462e030d3854a71bf62bb22dff81111274",
+      "triangulated_fbx_sha256": "cef70b4358c168ae3c59cb5da8f4bcd4d8ccf1e1ef72438792df4ca92a66f320",
+      "source_blend_sha256": "a22ab4406693c0c7751e5eb9b3084ef19f1ac99fd94eb4d0fa77be8aae3624bc",
+      "expected_lod_triangles": [
+        1649,
+        661,
+        320
+      ],
+      "only_export_flag_changed": true
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "previous_fbx_sha256": "9a77dc251b22216acfc04d03914456aac1ab6960130a708b7f34f70509264e40",
+      "triangulated_fbx_sha256": "a1436c2745bc053a0791dc4c8dc070112795a019f89986e046cb07e11fba7388",
+      "source_blend_sha256": "d0827522f6331347c13a2bc4485e9aade5457dd12720bebc88f1df600b86b645",
+      "expected_lod_triangles": [
+        1395,
+        632,
+        260
+      ],
+      "only_export_flag_changed": true
+    }
+  ],
+  "previous_native_archive_preserved": true,
+  "new_native_cook": "pending"
+}

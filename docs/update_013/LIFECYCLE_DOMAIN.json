@@ -1,0 +1,83 @@
+{
+  "states": [
+    "preview",
+    "targeting",
+    "construct_00",
+    "construct_05",
+    "construct_10",
+    "construct_15",
+    "construct_20",
+    "construct_25",
+    "construct_30",
+    "construct_35",
+    "construct_40",
+    "construct_45",
+    "construct_50",
+    "construct_55",
+    "construct_60",
+    "construct_65",
+    "construct_70",
+    "construct_75",
+    "construct_80",
+    "construct_85",
+    "construct_90",
+    "construct_95",
+    "healthy",
+    "damage_1",
+    "damage_2",
+    "damage_3",
+    "damage_4",
+    "damage_5",
+    "ruins"
+  ],
+  "native_cook": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\lifecycle-domain-cook\\output\\extension\\k013\\k013.sga",
+  "models": {
+    "art/kr013/static/korea_lumber_camp01/model.rgo": {
+      "before": "86137b0ee42a01c72b6aacadb6485aa58cefaad43c8fd4c6d3375839deed91fd",
+      "after": "b9d9f7f655bb2c0a590b82c44610d2ff8f275316b652ab3e2aa57b75774fc161"
+    },
+    "art/kr013/static/korea_mining_camp01/model.rgo": {
+      "before": "86137b0ee42a01c72b6aacadb6485aa58cefaad43c8fd4c6d3375839deed91fd",
+      "after": "b9d9f7f655bb2c0a590b82c44610d2ff8f275316b652ab3e2aa57b75774fc161"
+    },
+    "art/kr013/static/bulguksa_temple/model.rgo": {
+      "before": "add04034276561faadaceacb70d10e59af3fec6ab7b40d209e8548d40f8862c6",
+      "after": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+    },
+    "art/kr013/static/gate_of_reverence/model.rgo": {
+      "before": "add04034276561faadaceacb70d10e59af3fec6ab7b40d209e8548d40f8862c6",
+      "after": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+    },
+    "art/kr013/static/gyeongbok_palace/model.rgo": {
+      "before": "add04034276561faadaceacb70d10e59af3fec6ab7b40d209e8548d40f8862c6",
+      "after": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+    },
+    "art/kr013/static/hall_of_worthies/model.rgo": {
+      "before": "add04034276561faadaceacb70d10e59af3fec6ab7b40d209e8548d40f8862c6",
+      "after": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+    },
+    "art/kr013/static/hwangnyongsa/model.rgo": {
+      "before": "b3ad36ee117d834c572f043f1c41b0ea8a8cec74cb90520cedb1f8b7d6e65bb6",
+      "after": "3fb85595018d19f57f08a101e5b0c852e3307e920cd914e1df89fe2d64056366"
+    },
+    "art/kr013/static/mountain_fortress/model.rgo": {
+      "before": "add04034276561faadaceacb70d10e59af3fec6ab7b40d209e8548d40f8862c6",
+      "after": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+    },
+    "art/kr013/static/seon_deok_observatory/model.rgo": {
+      "before": "add04034276561faadaceacb70d10e59af3fec6ab7b40d209e8548d40f8862c6",
+      "after": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+    },
+    "art/kr013/static/seowon_academy/model.rgo": {
+      "before": "add04034276561faadaceacb70d10e59af3fec6ab7b40d209e8548d40f8862c6",
+      "after": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+    },
+    "art/kr013/static/stone_pagoda/model.rgo": {
+      "before": "add04034276561faadaceacb70d10e59af3fec6ab7b40d209e8548d40f8862c6",
+      "after": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+    }
+  },
+  "passed": true,
+  "scope": "11 new private building/module RGO enum domains; selectors, geometry, materials and gameplay unchanged.",
+  "native_geometry_availability_info_preserved": true
+}

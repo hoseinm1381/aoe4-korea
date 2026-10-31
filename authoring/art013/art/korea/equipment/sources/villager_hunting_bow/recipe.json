@@ -1,0 +1,23 @@
+{
+  "id": "villager_hunting_bow",
+  "donor": "art/civilizations/common/weapons/ranged/bow_short/bow_short.rgm",
+  "kind": "bow",
+  "design": "Simple compact hunting bow with dark horn finish",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\villager_hunting_bow\\e46aa8b2f725afd7638c\\decoded-static.json",
+  "manifest_sha256": "b438685a23bf8e641dca76f755958a270d58199242e9201643b8ba2df4d9ce96",
+  "bounds": {
+    "min": [
+      -0.20068359375,
+      -0.060394287109375,
+      -0.7294921875
+    ],
+    "max": [
+      0.0955810546875,
+      0.060394287109375,
+      0.7294921875
+    ]
+  },
+  "native_triangles": 210,
+  "bones": 4
+}

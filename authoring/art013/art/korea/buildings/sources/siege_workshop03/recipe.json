@@ -1,0 +1,34 @@
+{
+  "family": "siege_workshop",
+  "age": 3,
+  "variant": "",
+  "recipe": {
+    "roof_rise_scale": 0.8,
+    "eave_spread": 0.05,
+    "tip_calm": 0.11,
+    "direction": "Korean timber arsenal/work sheds; workshop building included but siege units excluded."
+  },
+  "anchors": {
+    "has_roof": true,
+    "eave_z": 2.3828125,
+    "center": [
+      -0.2072656249999998,
+      0.486328125,
+      2.3828125
+    ],
+    "half_xy": [
+      4.117421875,
+      3.896484375
+    ],
+    "rise": 1.98046875
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\siege_workshop03\\0c44254a0b4ab285e753\\decoded-static.json"
+}

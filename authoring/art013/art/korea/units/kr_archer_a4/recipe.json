@@ -1,0 +1,10 @@
+{
+  "id": "kr_archer_a4",
+  "family": "archer",
+  "age": 4,
+  "donor": "art/civilizations/chinese/humans/chi_ranged_bow_age04/chi_ranged_bow_age04.rgm",
+  "design": "close sleeve bow coat, Korean forehead tie and quiver harness",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces"
+  }
+}

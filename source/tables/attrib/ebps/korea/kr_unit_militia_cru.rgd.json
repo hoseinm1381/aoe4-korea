@@ -5510,7 +5510,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier1_militia_cru"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v82c9a01e1c07b53"
                             },
                             {
                               "key": "$PBGMAP",
@@ -9719,7 +9719,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier1_militia_cru"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v82c9a01e1c07b53"
                             },
                             {
                               "key": "$PBGMAP",

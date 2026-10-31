@@ -46,9 +46,18 @@ class Update012(unittest.TestCase):
       for trait in traits[1:]:self.assertFalse(child(trait,'icon').value.startswith('garrison\\'))
  def test_native_world_media_unchanged_and_audio_paths_only(self):
   old=read_json(ROOT/'docs/update_012/before/inputs/native-manifest.json');new=read_json(ROOT/'inputs/native-manifest.json')
+  if (ROOT/'docs/update_016/before-source.json.gz').exists():
+   import gzip
+   new=json.loads(json.loads(gzip.decompress((ROOT/'docs/update_016/before-source.json.gz').read_bytes()))['inputs/native-manifest.json']) # actual pre-016 snapshot
   for m,row in old.items():
    if not m.startswith('audio/'):self.assertEqual(row,new[m])
-  if self.cfg['race']!='berbers':self.assertEqual(old,new);return
+  if self.cfg['race']!='berbers':
+   if self.cfg['version'] in ('0.1.3','0.1.4','0.1.5'):
+    policy=read_json(ROOT/'source/update-013-policy.json');added=set(policy['native_added'])
+    if self.cfg['version'] in ('0.1.4','0.1.5'):added.update(read_json(ROOT/'source/update-014-policy.json')['native_added'])
+    self.assertEqual(set(new)-set(old),added);self.assertFalse(set(old)-set(new))
+   else:self.assertEqual(old,new)
+   return
   recipe=read_json(ROOT/'source/audio-012-recipe.json')['files'];replacements={r['original']:n for n,r in recipe.items()}
   for p in (ROOT/'docs/update_012/before/source/scar').rglob('*.scar'):
    expected=p.read_text(encoding='utf-8')

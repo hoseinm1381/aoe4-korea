@@ -1,0 +1,14 @@
+{
+  "id": "kr_crossbowman_a3",
+  "family": "crossbowman",
+  "age": 3,
+  "donor": "art/civilizations/chinese/humans/chi_ranged_crossbow_age03/chi_ranged_crossbow_age03.rgm",
+  "design": "padded Korean coat, lamellar shoulder guards and helmet",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces",
+    "compact_authored_sections": true,
+    "LOD0_budget": 1663,
+    "reason": "Remove unnecessary native prop/limb cuts; reduce authored cloth/helmet sections, hidden headbands and lamellar rows while retaining silhouette",
+    "contact_policy": "Match coat sectors; bounded waist support-plane sash over completed coat/native waist; lower closure/tie face-interior clearance"
+  }
+}

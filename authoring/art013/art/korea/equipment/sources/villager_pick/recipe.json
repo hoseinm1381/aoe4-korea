@@ -1,0 +1,23 @@
+{
+  "id": "villager_pick",
+  "donor": "art/civilizations/common/weapons/tools/axe_pick/axe_pick.rgm",
+  "kind": "tool",
+  "design": "Mining pick, intact native striking/grip orientation",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\villager_pick\\7b4e4e726816a7dee78b\\decoded-static.json",
+  "manifest_sha256": "c6edf9a6ad0d6cee13fb7d6f9e1c1fdb870a3e2c5e085d7cdd0749d0caf659b6",
+  "bounds": {
+    "min": [
+      -0.485107421875,
+      -0.06719970703125,
+      -0.2958984375
+    ],
+    "max": [
+      0.485107421875,
+      0.06744384765625,
+      0.89892578125
+    ]
+  },
+  "native_triangles": 168,
+  "bones": 0
+}

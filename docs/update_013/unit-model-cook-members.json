@@ -1,0 +1,6039 @@
+{
+  "archive": {
+    "block_size": 262144,
+    "file_count": 599,
+    "folder_count": 94,
+    "header_encryption": "None",
+    "name": "748d61b94d3e4cf3a506a9ac1f992d1d",
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook\\output\\extension\\k013\\k013.sga",
+    "product": 0,
+    "signature_present": false,
+    "toc_count": 4,
+    "tocs": [
+      {
+        "alias": "attrib",
+        "name": "attrib"
+      },
+      {
+        "alias": "data",
+        "name": "data"
+      },
+      {
+        "alias": "info",
+        "name": "info"
+      },
+      {
+        "alias": "locale",
+        "name": "locale"
+      }
+    ],
+    "verification": {
+      "checked_files": 599,
+      "crc_mismatches": [],
+      "scope": "stored bytes against recorded CRC32 and SHA1 block hashes; the header signature is not validated",
+      "sha1_mismatches": [],
+      "unhashed_files": 0,
+      "verified": true
+    },
+    "version": 11
+  },
+  "filter": null,
+  "member_count": 599,
+  "members": [
+    {
+      "crc": 4146385961,
+      "encryption": "None",
+      "path": "attrib/k013.rgd",
+      "size": 186,
+      "storage": "StreamCompress",
+      "stored_size": 148,
+      "toc": "attrib",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3905007015,
+      "encryption": "None",
+      "path": "attrib/attachments/attachment_lists/garrison/k013/template_animator.rgd",
+      "size": 1277,
+      "storage": "StreamCompress",
+      "stored_size": 449,
+      "toc": "attrib",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4100160148,
+      "encryption": "None",
+      "path": "attrib/attachments/attachment_lists/garrison/k013/template_body.rgd",
+      "size": 4178,
+      "storage": "StreamCompress",
+      "stored_size": 776,
+      "toc": "attrib",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2223815981,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a2/3047387387625124299_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 318239075,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a2/4042714164041054090_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4076959496,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a2/6838410900705347187_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 343736481,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a2/albedo.rrtex",
+      "size": 92860,
+      "storage": "Store",
+      "stored_size": 92860,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2606246504,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a2/model.rgm",
+      "size": 42387,
+      "storage": "StreamCompress",
+      "stored_size": 30572,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 689004933,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a2/model.rrgeom",
+      "size": 212898,
+      "storage": "StreamCompress",
+      "stored_size": 72542,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1803152760,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a2/model.rrmaterial",
+      "size": 673,
+      "storage": "StreamCompress",
+      "stored_size": 346,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2193782160,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a3/13943176705819107035_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 328033965,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a3/1916848392389684120_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4043725100,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a3/5358397915133748359_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 576030405,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a3/albedo.rrtex",
+      "size": 106418,
+      "storage": "Store",
+      "stored_size": 106418,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 616593838,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a3/model.rgm",
+      "size": 41609,
+      "storage": "StreamCompress",
+      "stored_size": 29389,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2159893842,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a3/model.rrgeom",
+      "size": 209080,
+      "storage": "StreamCompress",
+      "stored_size": 70948,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3870258256,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a3/model.rrmaterial",
+      "size": 674,
+      "storage": "StreamCompress",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4279473104,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a4/15591518191203614211_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 367559111,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a4/15984300906505936763_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2435452579,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a4/6066703737282096953_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3979510118,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a4/albedo.rrtex",
+      "size": 108156,
+      "storage": "Store",
+      "stored_size": 108156,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1729226988,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a4/model.rgm",
+      "size": 41007,
+      "storage": "StreamCompress",
+      "stored_size": 29009,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3212795796,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a4/model.rrgeom",
+      "size": 204782,
+      "storage": "StreamCompress",
+      "stored_size": 68641,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3277525331,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_archer_a4/model.rrmaterial",
+      "size": 675,
+      "storage": "StreamCompress",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 274616990,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a3/1045201660082666198_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 578808697,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a3/18186161265625952577_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3018206233,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a3/3506522251386879322_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3932909510,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a3/albedo.rrtex",
+      "size": 106752,
+      "storage": "Store",
+      "stored_size": 106752,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3131435822,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a3/model.rgm",
+      "size": 44157,
+      "storage": "StreamCompress",
+      "stored_size": 31456,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1479503731,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a3/model.rrgeom",
+      "size": 223034,
+      "storage": "StreamCompress",
+      "stored_size": 76824,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 327314945,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a3/model.rrmaterial",
+      "size": 694,
+      "storage": "StreamCompress",
+      "stored_size": 355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 373011956,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a4/3129348089980254287_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 832016458,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a4/6147397270110938955_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3186878181,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a4/673956319893295574_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 47485446,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a4/albedo.rrtex",
+      "size": 107046,
+      "storage": "Store",
+      "stored_size": 107046,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1957468785,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a4/model.rgm",
+      "size": 45889,
+      "storage": "StreamCompress",
+      "stored_size": 32468,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3045678355,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a4/model.rrgeom",
+      "size": 237454,
+      "storage": "StreamCompress",
+      "stored_size": 80999,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 654135185,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_crossbowman_a4/model.rrmaterial",
+      "size": 692,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2793500306,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a3/14383399488815530492_packed.rrtex",
+      "size": 344,
+      "storage": "Store",
+      "stored_size": 344,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 201717382,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a3/4862520953532769147_packed.rrtex",
+      "size": 1830,
+      "storage": "Store",
+      "stored_size": 1830,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3938953736,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a3/6818304728305025481_packed.rrtex",
+      "size": 3019,
+      "storage": "Store",
+      "stored_size": 3019,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3168142794,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a3/albedo.rrtex",
+      "size": 112469,
+      "storage": "Store",
+      "stored_size": 112469,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3411355636,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a3/model.rgm",
+      "size": 40771,
+      "storage": "StreamCompress",
+      "stored_size": 29319,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3479713660,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a3/model.rrgeom",
+      "size": 209184,
+      "storage": "StreamCompress",
+      "stored_size": 72066,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1371346225,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a3/model.rrmaterial",
+      "size": 670,
+      "storage": "StreamCompress",
+      "stored_size": 349,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3043562913,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a4/2885417451400676054_packed.rrtex",
+      "size": 344,
+      "storage": "Store",
+      "stored_size": 344,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3970059618,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a4/6793953750752120880_packed.rrtex",
+      "size": 3019,
+      "storage": "Store",
+      "stored_size": 3019,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 34618490,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a4/7073803915764432061_packed.rrtex",
+      "size": 1830,
+      "storage": "Store",
+      "stored_size": 1830,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4126180812,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a4/albedo.rrtex",
+      "size": 113740,
+      "storage": "Store",
+      "stored_size": 113740,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2159281906,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a4/model.rgm",
+      "size": 44605,
+      "storage": "StreamCompress",
+      "stored_size": 32088,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2254163402,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a4/model.rrgeom",
+      "size": 228164,
+      "storage": "StreamCompress",
+      "stored_size": 78550,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2031879592,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_gapsa_a4/model.rrmaterial",
+      "size": 669,
+      "storage": "StreamCompress",
+      "stored_size": 348,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2027372191,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_handcannoneer_a4/14766499144064321132_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1815430038,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_handcannoneer_a4/17303564161235090165_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2461924254,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_handcannoneer_a4/3860689874012676756_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2891630099,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_handcannoneer_a4/albedo.rrtex",
+      "size": 103059,
+      "storage": "Store",
+      "stored_size": 103059,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2888732269,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_handcannoneer_a4/model.rgm",
+      "size": 41091,
+      "storage": "StreamCompress",
+      "stored_size": 28721,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_handcannoneer_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2369533999,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_handcannoneer_a4/model.rrgeom",
+      "size": 207626,
+      "storage": "StreamCompress",
+      "stored_size": 67651,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 722621664,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_handcannoneer_a4/model.rrmaterial",
+      "size": 703,
+      "storage": "StreamCompress",
+      "stored_size": 357,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3181646273,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a2/13643088687931431206_packed.rrtex",
+      "size": 347,
+      "storage": "Store",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1454783528,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a2/16522764935406422432_packed.rrtex",
+      "size": 3022,
+      "storage": "Store",
+      "stored_size": 3022,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2437021298,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a2/3713118719154229890_packed.rrtex",
+      "size": 1833,
+      "storage": "Store",
+      "stored_size": 1833,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1132139797,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a2/albedo.rrtex",
+      "size": 100955,
+      "storage": "Store",
+      "stored_size": 100955,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2900658697,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a2/model.rgm",
+      "size": 42841,
+      "storage": "StreamCompress",
+      "stored_size": 30877,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2411468358,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a2/model.rrgeom",
+      "size": 212206,
+      "storage": "StreamCompress",
+      "stored_size": 71363,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 342076984,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a2/model.rrmaterial",
+      "size": 683,
+      "storage": "StreamCompress",
+      "stored_size": 355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3152730492,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a3/10259222398071942007_packed.rrtex",
+      "size": 347,
+      "storage": "Store",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1473031142,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a3/11859332840035465085_packed.rrtex",
+      "size": 3022,
+      "storage": "Store",
+      "stored_size": 3022,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2470891606,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a3/17160778234455554862_packed.rrtex",
+      "size": 1833,
+      "storage": "Store",
+      "stored_size": 1833,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2923804982,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a3/albedo.rrtex",
+      "size": 111909,
+      "storage": "Store",
+      "stored_size": 111909,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1517070626,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a3/model.rgm",
+      "size": 42555,
+      "storage": "StreamCompress",
+      "stored_size": 29912,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3475138992,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a3/model.rrgeom",
+      "size": 215106,
+      "storage": "StreamCompress",
+      "stored_size": 71353,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 982253536,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a3/model.rrmaterial",
+      "size": 684,
+      "storage": "StreamCompress",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2639469226,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a4/14926058597664143753_packed.rrtex",
+      "size": 1833,
+      "storage": "Store",
+      "stored_size": 1833,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1370049676,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a4/5484784202587606861_packed.rrtex",
+      "size": 3022,
+      "storage": "Store",
+      "stored_size": 3022,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2818744911,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a4/8483091190428121461_packed.rrtex",
+      "size": 347,
+      "storage": "Store",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2779832296,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a4/albedo.rrtex",
+      "size": 118239,
+      "storage": "Store",
+      "stored_size": 118239,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 63785314,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a4/model.rgm",
+      "size": 44991,
+      "storage": "StreamCompress",
+      "stored_size": 31873,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3548603029,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a4/model.rrgeom",
+      "size": 233356,
+      "storage": "StreamCompress",
+      "stored_size": 76917,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 944618259,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_horseman_a4/model.rrmaterial",
+      "size": 682,
+      "storage": "StreamCompress",
+      "stored_size": 353,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1635439693,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a2/15576510663508215580_packed.rrtex",
+      "size": 357,
+      "storage": "Store",
+      "stored_size": 357,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3614862422,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a2/2134922168322839835_packed.rrtex",
+      "size": 1843,
+      "storage": "Store",
+      "stored_size": 1843,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2642110897,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a2/3909299771024251164_packed.rrtex",
+      "size": 3032,
+      "storage": "Store",
+      "stored_size": 3032,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2010452716,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a2/albedo.rrtex",
+      "size": 112370,
+      "storage": "Store",
+      "stored_size": 112370,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4242847759,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a2/model.rgm",
+      "size": 41382,
+      "storage": "StreamCompress",
+      "stored_size": 29992,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 778763746,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a2/model.rrgeom",
+      "size": 219920,
+      "storage": "StreamCompress",
+      "stored_size": 73008,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3868602864,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a2/model.rrmaterial",
+      "size": 722,
+      "storage": "StreamCompress",
+      "stored_size": 361,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2617376383,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a3/12747635049656564102_packed.rrtex",
+      "size": 3032,
+      "storage": "Store",
+      "stored_size": 3032,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1731468528,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a3/16729278955634265316_packed.rrtex",
+      "size": 357,
+      "storage": "Store",
+      "stored_size": 357,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3580969586,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a3/17460396837773245985_packed.rrtex",
+      "size": 1843,
+      "storage": "Store",
+      "stored_size": 1843,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1633190981,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a3/albedo.rrtex",
+      "size": 112370,
+      "storage": "Store",
+      "stored_size": 112370,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2123961729,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a3/model.rgm",
+      "size": 43346,
+      "storage": "StreamCompress",
+      "stored_size": 31231,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1608196549,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a3/model.rrgeom",
+      "size": 224012,
+      "storage": "StreamCompress",
+      "stored_size": 75355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1050806846,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a3/model.rrmaterial",
+      "size": 724,
+      "storage": "StreamCompress",
+      "stored_size": 361,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2590251285,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a4/651398783996812273_packed.rrtex",
+      "size": 3032,
+      "storage": "Store",
+      "stored_size": 3032,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3680798862,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a4/9034355625077986205_packed.rrtex",
+      "size": 1843,
+      "storage": "Store",
+      "stored_size": 1843,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1960601539,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a4/9748473675300241807_packed.rrtex",
+      "size": 357,
+      "storage": "Store",
+      "stored_size": 357,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3245625940,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a4/albedo.rrtex",
+      "size": 113649,
+      "storage": "Store",
+      "stored_size": 113649,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4283580364,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a4/model.rgm",
+      "size": 43129,
+      "storage": "StreamCompress",
+      "stored_size": 31448,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2864002037,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a4/model.rrgeom",
+      "size": 229844,
+      "storage": "StreamCompress",
+      "stored_size": 75576,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 422162584,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_dismounted_a4/model.rrmaterial",
+      "size": 720,
+      "storage": "StreamCompress",
+      "stored_size": 364,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1275108784,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a2/11754489781591690312_packed.rrtex",
+      "size": 354,
+      "storage": "Store",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4251378965,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a2/3723272052224479571_packed.rrtex",
+      "size": 3029,
+      "storage": "Store",
+      "stored_size": 3029,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1883982356,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a2/8313285795917972999_packed.rrtex",
+      "size": 1840,
+      "storage": "Store",
+      "stored_size": 1840,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3517092228,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a2/albedo.rrtex",
+      "size": 100819,
+      "storage": "Store",
+      "stored_size": 100819,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4075388975,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a2/model.rgm",
+      "size": 42156,
+      "storage": "StreamCompress",
+      "stored_size": 30205,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1554219211,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a2/model.rrgeom",
+      "size": 207246,
+      "storage": "StreamCompress",
+      "stored_size": 69234,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1213464312,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a2/model.rrmaterial",
+      "size": 710,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4229722843,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a3/13389257169152813035_packed.rrtex",
+      "size": 3029,
+      "storage": "Store",
+      "stored_size": 3029,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1917609008,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a3/13901663376752175919_packed.rrtex",
+      "size": 1840,
+      "storage": "Store",
+      "stored_size": 1840,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1246647565,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a3/17784876166137522385_packed.rrtex",
+      "size": 354,
+      "storage": "Store",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2328656628,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a3/albedo.rrtex",
+      "size": 111751,
+      "storage": "Store",
+      "stored_size": 111751,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1378643787,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a3/model.rgm",
+      "size": 43788,
+      "storage": "StreamCompress",
+      "stored_size": 30507,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3231785045,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a3/model.rrgeom",
+      "size": 213956,
+      "storage": "StreamCompress",
+      "stored_size": 71402,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1302749884,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a3/model.rrmaterial",
+      "size": 712,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2086252236,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a4/13279495753738489849_packed.rrtex",
+      "size": 1840,
+      "storage": "Store",
+      "stored_size": 1840,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4202272177,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a4/2453156755378651314_packed.rrtex",
+      "size": 3029,
+      "storage": "Store",
+      "stored_size": 3029,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1504063038,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a4/4197887946219778638_packed.rrtex",
+      "size": 354,
+      "storage": "Store",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2985527499,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a4/albedo.rrtex",
+      "size": 118098,
+      "storage": "Store",
+      "stored_size": 118098,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3219901038,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a4/model.rgm",
+      "size": 45302,
+      "storage": "StreamCompress",
+      "stored_size": 32029,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2398400590,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a4/model.rrgeom",
+      "size": 234652,
+      "storage": "StreamCompress",
+      "stored_size": 77117,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 843399548,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_hwarang_mounted_a4/model.rrmaterial",
+      "size": 710,
+      "storage": "StreamCompress",
+      "stored_size": 356,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2086788046,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a3/13818257398180875603_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 614124049,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a3/17462926637696471380_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1377005663,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a3/2240306300169814339_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1116749517,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a3/albedo.rrtex",
+      "size": 114063,
+      "storage": "Store",
+      "stored_size": 114063,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1080107571,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a3/model.rgm",
+      "size": 48015,
+      "storage": "StreamCompress",
+      "stored_size": 34065,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1967872518,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a3/model.rrgeom",
+      "size": 237796,
+      "storage": "StreamCompress",
+      "stored_size": 78339,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1034426768,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a3/model.rrmaterial",
+      "size": 675,
+      "storage": "StreamCompress",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1543944867,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a4/1567744890756720228_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1871290621,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a4/8006916232468430892_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 587148667,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a4/9946312232340137702_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3313745716,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a4/albedo.rrtex",
+      "size": 110165,
+      "storage": "Store",
+      "stored_size": 110165,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2870906844,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a4/model.rgm",
+      "size": 44107,
+      "storage": "StreamCompress",
+      "stored_size": 30991,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 439123106,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a4/model.rrgeom",
+      "size": 227906,
+      "storage": "StreamCompress",
+      "stored_size": 73080,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1771844408,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_lancer_a4/model.rrmaterial",
+      "size": 673,
+      "storage": "StreamCompress",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 885334523,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a3/10476041281339702181_packed.rrtex",
+      "size": 1829,
+      "storage": "Store",
+      "stored_size": 1829,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1048451688,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a3/13339226963047450894_packed.rrtex",
+      "size": 343,
+      "storage": "Store",
+      "stored_size": 343,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1872038632,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a3/5519015668661928693_packed.rrtex",
+      "size": 3018,
+      "storage": "Store",
+      "stored_size": 3018,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1823237676,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a3/albedo.rrtex",
+      "size": 77891,
+      "storage": "Store",
+      "stored_size": 77891,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1843361621,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a3/model.rgm",
+      "size": 41261,
+      "storage": "StreamCompress",
+      "stored_size": 28860,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2690388813,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a3/model.rrgeom",
+      "size": 200210,
+      "storage": "StreamCompress",
+      "stored_size": 65260,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3303061248,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a3/model.rrmaterial",
+      "size": 667,
+      "storage": "StreamCompress",
+      "stored_size": 349,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1777397122,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a4/13272498404395635722_packed.rrtex",
+      "size": 3018,
+      "storage": "Store",
+      "stored_size": 3018,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 986770183,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a4/16335090826524766546_packed.rrtex",
+      "size": 1829,
+      "storage": "Store",
+      "stored_size": 1829,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 764830043,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a4/9069458183744577189_packed.rrtex",
+      "size": 343,
+      "storage": "Store",
+      "stored_size": 343,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3977678664,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a4/albedo.rrtex",
+      "size": 97094,
+      "storage": "Store",
+      "stored_size": 97094,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2770291899,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a4/model.rgm",
+      "size": 41334,
+      "storage": "StreamCompress",
+      "stored_size": 29185,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2631904518,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a4/model.rrgeom",
+      "size": 199556,
+      "storage": "StreamCompress",
+      "stored_size": 65086,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2538249360,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_monk_a4/model.rrmaterial",
+      "size": 667,
+      "storage": "StreamCompress",
+      "stored_size": 349,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3506850561,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a2/17838851552589917828_packed.rrtex",
+      "size": 1839,
+      "storage": "Store",
+      "stored_size": 1839,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3828535760,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a2/2466330151829247230_packed.rrtex",
+      "size": 3028,
+      "storage": "Store",
+      "stored_size": 3028,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3826354104,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a2/3232716700856202485_packed.rrtex",
+      "size": 353,
+      "storage": "Store",
+      "stored_size": 353,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4278861779,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a2/albedo.rrtex",
+      "size": 108326,
+      "storage": "Store",
+      "stored_size": 108326,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 299985264,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a2/model.rgm",
+      "size": 51316,
+      "storage": "StreamCompress",
+      "stored_size": 36485,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2711838780,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a2/model.rrgeom",
+      "size": 254932,
+      "storage": "StreamCompress",
+      "stored_size": 79605,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1632023011,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a2/model.rrmaterial",
+      "size": 706,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3797896965,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a3/11387647156124421962_packed.rrtex",
+      "size": 353,
+      "storage": "Store",
+      "stored_size": 353,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3540084005,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a3/13753916981366774182_packed.rrtex",
+      "size": 1839,
+      "storage": "Store",
+      "stored_size": 1839,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3846719006,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a3/2701451282554170773_packed.rrtex",
+      "size": 3028,
+      "storage": "Store",
+      "stored_size": 3028,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2199574948,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a3/albedo.rrtex",
+      "size": 113624,
+      "storage": "Store",
+      "stored_size": 113624,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1372759369,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a3/model.rgm",
+      "size": 57334,
+      "storage": "StreamCompress",
+      "stored_size": 40947,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1611326959,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a3/model.rrgeom",
+      "size": 290662,
+      "storage": "StreamCompress",
+      "stored_size": 92722,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1158099605,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a3/model.rrmaterial",
+      "size": 707,
+      "storage": "StreamCompress",
+      "stored_size": 359,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3709120473,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a4/17481364768779440778_packed.rrtex",
+      "size": 1839,
+      "storage": "Store",
+      "stored_size": 1839,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4055315510,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a4/17966851223010307464_packed.rrtex",
+      "size": 353,
+      "storage": "Store",
+      "stored_size": 353,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3811418484,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a4/8928803973914861583_packed.rrtex",
+      "size": 3028,
+      "storage": "Store",
+      "stored_size": 3028,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 713952884,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a4/albedo.rrtex",
+      "size": 112811,
+      "storage": "Store",
+      "stored_size": 112811,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 770541621,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a4/model.rgm",
+      "size": 58406,
+      "storage": "StreamCompress",
+      "stored_size": 41457,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 893803373,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a4/model.rrgeom",
+      "size": 304792,
+      "storage": "StreamCompress",
+      "stored_size": 94823,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3195332348,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_horseman_a4/model.rrmaterial",
+      "size": 707,
+      "storage": "StreamCompress",
+      "stored_size": 359,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1766485098,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a2/3987488217737985629_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2197377813,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a2/6813389340266784366_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2847885381,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a2/9689949303852119974_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2617290207,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a2/albedo.rrtex",
+      "size": 108336,
+      "storage": "Store",
+      "stored_size": 108336,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 778560330,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a2/model.rgm",
+      "size": 51315,
+      "storage": "StreamCompress",
+      "stored_size": 36484,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1467721747,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a2/model.rrgeom",
+      "size": 254932,
+      "storage": "StreamCompress",
+      "stored_size": 79661,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3757796551,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a2/model.rrmaterial",
+      "size": 701,
+      "storage": "StreamCompress",
+      "stored_size": 357,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2206450907,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a3/13052993467857750413_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1800225358,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a3/14880911037053438342_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2951839992,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a3/9741655403657794988_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2244585047,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a3/albedo.rrtex",
+      "size": 113640,
+      "storage": "Store",
+      "stored_size": 113640,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1716965358,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a3/model.rgm",
+      "size": 57333,
+      "storage": "StreamCompress",
+      "stored_size": 40947,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2365880036,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a3/model.rrgeom",
+      "size": 290662,
+      "storage": "StreamCompress",
+      "stored_size": 92759,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 825151544,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a3/model.rrmaterial",
+      "size": 703,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2246452145,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a4/12807322699210517063_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1700300978,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a4/15459710147337919862_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3155819467,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a4/6085344704007390677_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 846640654,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a4/albedo.rrtex",
+      "size": 112844,
+      "storage": "Store",
+      "stored_size": 112844,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1674889387,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a4/model.rgm",
+      "size": 58405,
+      "storage": "StreamCompress",
+      "stored_size": 41456,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3981152471,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a4/model.rrgeom",
+      "size": 304792,
+      "storage": "StreamCompress",
+      "stored_size": 94931,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3253518265,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_hwarang_a4/model.rrmaterial",
+      "size": 703,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1293598620,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a3/14748282661883673515_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4083867350,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a3/6592304561797652136_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1888705272,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a3/9558498414886609199_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1700406294,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a3/albedo.rrtex",
+      "size": 114015,
+      "storage": "Store",
+      "stored_size": 114015,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 593602279,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a3/model.rgm",
+      "size": 60742,
+      "storage": "StreamCompress",
+      "stored_size": 43458,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 881499941,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a3/model.rrgeom",
+      "size": 304162,
+      "storage": "StreamCompress",
+      "stored_size": 98068,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 895364825,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a3/model.rrmaterial",
+      "size": 698,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3766658533,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a4/17902027791986216597_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1995881874,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a4/4609804283832998112_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1125086560,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a4/5299501504077440603_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3938853407,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a4/albedo.rrtex",
+      "size": 113486,
+      "storage": "Store",
+      "stored_size": 113486,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2655285010,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a4/model.rgm",
+      "size": 68884,
+      "storage": "StreamCompress",
+      "stored_size": 50841,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3371506679,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a4/model.rrgeom",
+      "size": 373192,
+      "storage": "StreamCompress",
+      "stored_size": 119980,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1164987473,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_lancer_a4/model.rrmaterial",
+      "size": 698,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3045948044,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a1/12186660208196518830_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 955588621,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a1/6137845757325935774_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1305308993,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a1/9776459212629091971_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2661070038,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a1/albedo.rrtex",
+      "size": 112208,
+      "storage": "Store",
+      "stored_size": 112208,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2450882109,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a1/model.rgm",
+      "size": 52503,
+      "storage": "StreamCompress",
+      "stored_size": 37409,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a1/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4096696748,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a1/model.rrgeom",
+      "size": 263572,
+      "storage": "StreamCompress",
+      "stored_size": 82667,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3819898272,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a1/model.rrmaterial",
+      "size": 694,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 841382346,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a2/17892444227808327716_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3053634270,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a2/5992106423036634849_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1271143725,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a2/8716077291428517015_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1522590419,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a2/albedo.rrtex",
+      "size": 111812,
+      "storage": "Store",
+      "stored_size": 111812,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3494821660,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a2/model.rgm",
+      "size": 52503,
+      "storage": "StreamCompress",
+      "stored_size": 37406,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2137174411,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a2/model.rrgeom",
+      "size": 263572,
+      "storage": "StreamCompress",
+      "stored_size": 82696,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 596993486,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a2/model.rrmaterial",
+      "size": 694,
+      "storage": "StreamCompress",
+      "stored_size": 356,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1237529353,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a3/13086467755511491977_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3078116624,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a3/16516926996870218503_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 879276407,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a3/618135099520462236_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2850465559,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a3/albedo.rrtex",
+      "size": 112208,
+      "storage": "Store",
+      "stored_size": 112208,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3189018614,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a3/model.rgm",
+      "size": 52495,
+      "storage": "StreamCompress",
+      "stored_size": 37406,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2680166105,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a3/model.rrgeom",
+      "size": 263572,
+      "storage": "StreamCompress",
+      "stored_size": 82660,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2160681883,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a3/model.rrmaterial",
+      "size": 694,
+      "storage": "StreamCompress",
+      "stored_size": 355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1205271029,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a4/1295476802028846933_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2971513466,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a4/15468484672758522712_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 662751812,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a4/17919246279947794055_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 107813268,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a4/albedo.rrtex",
+      "size": 112208,
+      "storage": "Store",
+      "stored_size": 112208,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4200055233,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a4/model.rgm",
+      "size": 52495,
+      "storage": "StreamCompress",
+      "stored_size": 37407,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 329178103,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a4/model.rrgeom",
+      "size": 263572,
+      "storage": "StreamCompress",
+      "stored_size": 82665,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1610995973,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_scout_a4/model.rrmaterial",
+      "size": 695,
+      "storage": "StreamCompress",
+      "stored_size": 355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2950590514,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a2/11429952387282557184_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1973813146,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a2/3096170310331222860_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 18482549,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a2/9166810838710656694_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 415224229,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a2/albedo.rrtex",
+      "size": 114956,
+      "storage": "Store",
+      "stored_size": 114956,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2356274363,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a2/model.rgm",
+      "size": 59458,
+      "storage": "StreamCompress",
+      "stored_size": 42202,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2348847641,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a2/model.rrgeom",
+      "size": 304702,
+      "storage": "StreamCompress",
+      "stored_size": 95368,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1571454022,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a2/model.rrmaterial",
+      "size": 698,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2007159230,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a3/13009427917877762722_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 6329019,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a3/16065558412086852625_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2844833935,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a3/2697142236092244320_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1288179742,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a3/albedo.rrtex",
+      "size": 114879,
+      "storage": "Store",
+      "stored_size": 114879,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1458780295,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a3/model.rgm",
+      "size": 59878,
+      "storage": "StreamCompress",
+      "stored_size": 42616,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 600770730,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a3/model.rrgeom",
+      "size": 308482,
+      "storage": "StreamCompress",
+      "stored_size": 96724,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3658006423,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a3/model.rrmaterial",
+      "size": 699,
+      "storage": "StreamCompress",
+      "stored_size": 357,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3128476604,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a4/10239648777883584205_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2042043202,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a4/15188734441449689467_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 101021137,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a4/6058322607848950783_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1538319797,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a4/albedo.rrtex",
+      "size": 116081,
+      "storage": "Store",
+      "stored_size": 116081,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4062212947,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a4/model.rgm",
+      "size": 63608,
+      "storage": "StreamCompress",
+      "stored_size": 44465,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1516828143,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a4/model.rrgeom",
+      "size": 332242,
+      "storage": "StreamCompress",
+      "stored_size": 104353,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4043986889,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_mount_trader_a4/model.rrmaterial",
+      "size": 699,
+      "storage": "StreamCompress",
+      "stored_size": 357,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2194698201,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a3/16277328282855340158_packed.rrtex",
+      "size": 1844,
+      "storage": "Store",
+      "stored_size": 1844,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3113184454,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a3/17090869813547312353_packed.rrtex",
+      "size": 3033,
+      "storage": "Store",
+      "stored_size": 3033,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2263675326,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a3/5789000360187883442_packed.rrtex",
+      "size": 358,
+      "storage": "Store",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3461310419,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a3/albedo.rrtex",
+      "size": 77711,
+      "storage": "Store",
+      "stored_size": 77711,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2768122936,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a3/model.rgm",
+      "size": 42220,
+      "storage": "StreamCompress",
+      "stored_size": 29582,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 963686116,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a3/model.rrgeom",
+      "size": 206286,
+      "storage": "StreamCompress",
+      "stored_size": 67639,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 837892908,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a3/model.rrmaterial",
+      "size": 727,
+      "storage": "StreamCompress",
+      "stored_size": 362,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2361763109,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a4/15176289882635989261_packed.rrtex",
+      "size": 1844,
+      "storage": "Store",
+      "stored_size": 1844,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2500102797,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a4/8049026072419201692_packed.rrtex",
+      "size": 358,
+      "storage": "Store",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3219819436,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a4/9247001761085884247_packed.rrtex",
+      "size": 3033,
+      "storage": "Store",
+      "stored_size": 3033,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2841013891,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a4/albedo.rrtex",
+      "size": 96868,
+      "storage": "Store",
+      "stored_size": 96868,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1582680577,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a4/model.rgm",
+      "size": 42049,
+      "storage": "StreamCompress",
+      "stored_size": 29708,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2606374900,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a4/model.rrgeom",
+      "size": 203652,
+      "storage": "StreamCompress",
+      "stored_size": 66913,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1324133756,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_righteous_army_monk_a4/model.rrmaterial",
+      "size": 726,
+      "storage": "StreamCompress",
+      "stored_size": 362,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3531382099,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a1/16310727240196709244_packed.rrtex",
+      "size": 344,
+      "storage": "Store",
+      "stored_size": 344,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3135045644,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a1/5399307852499607753_packed.rrtex",
+      "size": 3019,
+      "storage": "Store",
+      "stored_size": 3019,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3234480359,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a1/7427731098476275785_packed.rrtex",
+      "size": 1830,
+      "storage": "Store",
+      "stored_size": 1830,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4184687587,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a1/albedo.rrtex",
+      "size": 105603,
+      "storage": "Store",
+      "stored_size": 105603,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2127962348,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a1/model.rgm",
+      "size": 41782,
+      "storage": "StreamCompress",
+      "stored_size": 30092,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a1/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2208508029,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a1/model.rrgeom",
+      "size": 202582,
+      "storage": "StreamCompress",
+      "stored_size": 68543,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2634927297,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a1/model.rrmaterial",
+      "size": 670,
+      "storage": "StreamCompress",
+      "stored_size": 349,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3109206110,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a2/14289484943888489696_packed.rrtex",
+      "size": 3019,
+      "storage": "Store",
+      "stored_size": 3019,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3635397780,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a2/14563783522202478750_packed.rrtex",
+      "size": 344,
+      "storage": "Store",
+      "stored_size": 344,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3334681227,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a2/9273022026830079379_packed.rrtex",
+      "size": 1830,
+      "storage": "Store",
+      "stored_size": 1830,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3614760883,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a2/albedo.rrtex",
+      "size": 99628,
+      "storage": "Store",
+      "stored_size": 99628,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3483929674,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a2/model.rgm",
+      "size": 43294,
+      "storage": "StreamCompress",
+      "stored_size": 30664,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 807961845,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a2/model.rrgeom",
+      "size": 220542,
+      "storage": "StreamCompress",
+      "stored_size": 72224,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 423062318,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a2/model.rrmaterial",
+      "size": 671,
+      "storage": "StreamCompress",
+      "stored_size": 349,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3739290665,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a3/16941020573894729961_packed.rrtex",
+      "size": 344,
+      "storage": "Store",
+      "stored_size": 344,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3089641360,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a3/17121693517255146172_packed.rrtex",
+      "size": 3019,
+      "storage": "Store",
+      "stored_size": 3019,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3301186735,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a3/4227457876216728418_packed.rrtex",
+      "size": 1830,
+      "storage": "Store",
+      "stored_size": 1830,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1772969313,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a3/albedo.rrtex",
+      "size": 91363,
+      "storage": "Store",
+      "stored_size": 91363,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1636025983,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a3/model.rgm",
+      "size": 43940,
+      "storage": "StreamCompress",
+      "stored_size": 30612,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1957887872,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a3/model.rrgeom",
+      "size": 231786,
+      "storage": "StreamCompress",
+      "stored_size": 74351,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1298262090,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a3/model.rrmaterial",
+      "size": 671,
+      "storage": "StreamCompress",
+      "stored_size": 348,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3192768762,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a4/1933168555793156984_packed.rrtex",
+      "size": 3019,
+      "storage": "Store",
+      "stored_size": 3019,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3402749523,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a4/352363295544006419_packed.rrtex",
+      "size": 1830,
+      "storage": "Store",
+      "stored_size": 1830,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3439949594,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a4/7737379095837773216_packed.rrtex",
+      "size": 344,
+      "storage": "Store",
+      "stored_size": 344,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2298473272,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a4/albedo.rrtex",
+      "size": 92098,
+      "storage": "Store",
+      "stored_size": 92098,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 262127472,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a4/model.rgm",
+      "size": 44930,
+      "storage": "StreamCompress",
+      "stored_size": 31249,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1573572924,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a4/model.rrgeom",
+      "size": 235896,
+      "storage": "StreamCompress",
+      "stored_size": 75996,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2794431250,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_a4/model.rrmaterial",
+      "size": 668,
+      "storage": "StreamCompress",
+      "stored_size": 348,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3138088420,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a1/10612600162661863991_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 713764478,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a1/1646233744639889865_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1102100596,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a1/18033449707869942145_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1650468037,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a1/albedo.rrtex",
+      "size": 105827,
+      "storage": "Store",
+      "stored_size": 105827,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1051443658,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a1/model.rgm",
+      "size": 42036,
+      "storage": "StreamCompress",
+      "stored_size": 30543,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a1/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2221140615,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a1/model.rrgeom",
+      "size": 208392,
+      "storage": "StreamCompress",
+      "stored_size": 69822,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2235259184,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a1/model.rrmaterial",
+      "size": 699,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1111425062,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a2/1703525455667884928_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3171032968,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a2/4439322565199606941_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 542668729,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a2/6897671715892194107_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3808001538,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a2/albedo.rrtex",
+      "size": 98912,
+      "storage": "Store",
+      "stored_size": 98912,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3130508687,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a2/model.rgm",
+      "size": 44655,
+      "storage": "StreamCompress",
+      "stored_size": 32002,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3230171076,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a2/model.rrgeom",
+      "size": 227292,
+      "storage": "StreamCompress",
+      "stored_size": 75136,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1057202711,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a2/model.rrmaterial",
+      "size": 697,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3204788652,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a3/10281984130823906320_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1128634344,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a3/16618992929270720311_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 639024900,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a3/789809465801517391_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4178076400,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a3/albedo.rrtex",
+      "size": 91374,
+      "storage": "Store",
+      "stored_size": 91374,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3032953753,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a3/model.rgm",
+      "size": 45287,
+      "storage": "StreamCompress",
+      "stored_size": 32050,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2334638635,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a3/model.rrgeom",
+      "size": 240156,
+      "storage": "StreamCompress",
+      "stored_size": 77669,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2439168049,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a3/model.rrmaterial",
+      "size": 698,
+      "storage": "StreamCompress",
+      "stored_size": 353,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2970680144,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a4/12601018214715103030_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1159753858,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a4/3061775694762561066_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 905888823,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a4/9958798979256659031_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3266805693,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a4/albedo.rrtex",
+      "size": 94596,
+      "storage": "Store",
+      "stored_size": 94596,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2349217061,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a4/model.rgm",
+      "size": 45291,
+      "storage": "StreamCompress",
+      "stored_size": 32042,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4211935934,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a4/model.rrgeom",
+      "size": 240156,
+      "storage": "StreamCompress",
+      "stored_size": 77670,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2118244570,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_scout_female_a4/model.rrmaterial",
+      "size": 698,
+      "storage": "StreamCompress",
+      "stored_size": 356,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 123878314,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a1/15699772696213615057_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4118344753,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a1/16360861982929941383_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4086303992,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a1/7500499362828913083_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 732845854,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a1/albedo.rrtex",
+      "size": 94869,
+      "storage": "Store",
+      "stored_size": 94869,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1162910767,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a1/model.rgm",
+      "size": 42579,
+      "storage": "StreamCompress",
+      "stored_size": 29022,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a1/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1289320659,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a1/model.rrgeom",
+      "size": 200416,
+      "storage": "StreamCompress",
+      "stored_size": 64678,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1721852639,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a1/model.rrmaterial",
+      "size": 675,
+      "storage": "StreamCompress",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4192560459,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a3/11216528222872577892_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 57436130,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a3/3333131233106681808_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4049937252,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a3/4692426141029264200_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 460334298,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a3/albedo.rrtex",
+      "size": 103417,
+      "storage": "Store",
+      "stored_size": 103417,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3037371863,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a3/model.rgm",
+      "size": 42944,
+      "storage": "StreamCompress",
+      "stored_size": 29343,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3940444874,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a3/model.rrgeom",
+      "size": 202576,
+      "storage": "StreamCompress",
+      "stored_size": 65961,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4162443845,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_seonbi_a3/model.rrmaterial",
+      "size": 674,
+      "storage": "StreamCompress",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 872291793,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a1/13622647820652152915_packed.rrtex",
+      "size": 3022,
+      "storage": "Store",
+      "stored_size": 3022,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3599694604,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a1/14659869158854858980_packed.rrtex",
+      "size": 347,
+      "storage": "Store",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 900530682,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a1/6131159486299340305_packed.rrtex",
+      "size": 1833,
+      "storage": "Store",
+      "stored_size": 1833,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3206476878,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a1/albedo.rrtex",
+      "size": 100626,
+      "storage": "Store",
+      "stored_size": 100626,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2746544415,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a1/model.rgm",
+      "size": 39944,
+      "storage": "StreamCompress",
+      "stored_size": 28644,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a1/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4212496944,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a1/model.rrgeom",
+      "size": 202464,
+      "storage": "StreamCompress",
+      "stored_size": 64672,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3786753601,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a1/model.rrmaterial",
+      "size": 683,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3697124043,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a2/14920934286611028307_packed.rrtex",
+      "size": 347,
+      "storage": "Store",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 866415510,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a2/3522268825824193020_packed.rrtex",
+      "size": 1833,
+      "storage": "Store",
+      "stored_size": 1833,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 812754307,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a2/4562477013132900704_packed.rrtex",
+      "size": 3022,
+      "storage": "Store",
+      "stored_size": 3022,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3232110502,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a2/albedo.rrtex",
+      "size": 97719,
+      "storage": "Store",
+      "stored_size": 97719,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2591018906,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a2/model.rgm",
+      "size": 39854,
+      "storage": "StreamCompress",
+      "stored_size": 28505,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2390306447,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a2/model.rrgeom",
+      "size": 202812,
+      "storage": "StreamCompress",
+      "stored_size": 63742,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3113081413,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a2/model.rrmaterial",
+      "size": 682,
+      "storage": "StreamCompress",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 822817357,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a3/16979327276155515437_packed.rrtex",
+      "size": 3022,
+      "storage": "Store",
+      "stored_size": 3022,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 832789938,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a3/18129738776122374777_packed.rrtex",
+      "size": 1833,
+      "storage": "Store",
+      "stored_size": 1833,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3658705526,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a3/4793995582474958596_packed.rrtex",
+      "size": 347,
+      "storage": "Store",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 966453551,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a3/albedo.rrtex",
+      "size": 111018,
+      "storage": "Store",
+      "stored_size": 111018,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1434358541,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a3/model.rgm",
+      "size": 38909,
+      "storage": "StreamCompress",
+      "stored_size": 27759,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1598191905,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a3/model.rrgeom",
+      "size": 196678,
+      "storage": "StreamCompress",
+      "stored_size": 63372,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 456635434,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a3/model.rrmaterial",
+      "size": 683,
+      "storage": "StreamCompress",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3388674373,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a4/12291271967474444763_packed.rrtex",
+      "size": 347,
+      "storage": "Store",
+      "stored_size": 347,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 930010407,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a4/2197502986614935725_packed.rrtex",
+      "size": 3022,
+      "storage": "Store",
+      "stored_size": 3022,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1068930894,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a4/572293200321217913_packed.rrtex",
+      "size": 1833,
+      "storage": "Store",
+      "stored_size": 1833,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3160561464,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a4/albedo.rrtex",
+      "size": 112367,
+      "storage": "Store",
+      "stored_size": 112367,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3943019194,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a4/model.rgm",
+      "size": 40354,
+      "storage": "StreamCompress",
+      "stored_size": 28497,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 293373784,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a4/model.rrgeom",
+      "size": 202018,
+      "storage": "StreamCompress",
+      "stored_size": 66032,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2866613263,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_spearman_a4/model.rrmaterial",
+      "size": 681,
+      "storage": "StreamCompress",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1689771836,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a2/10959735146053674773_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3712506206,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a2/12864975740713076073_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2952174329,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a2/3428831992354488188_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3015195028,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a2/albedo.rrtex",
+      "size": 112513,
+      "storage": "Store",
+      "stored_size": 112513,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4028432793,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a2/model.rgm",
+      "size": 42064,
+      "storage": "StreamCompress",
+      "stored_size": 30021,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2258690089,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a2/model.rrgeom",
+      "size": 212284,
+      "storage": "StreamCompress",
+      "stored_size": 73237,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 470666087,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a2/model.rrmaterial",
+      "size": 699,
+      "storage": "StreamCompress",
+      "stored_size": 357,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1722872088,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a3/11234188950549954944_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3674640867,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a3/1843347825107486289_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2928414007,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a3/7427990268077863070_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3007841950,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a3/albedo.rrtex",
+      "size": 112513,
+      "storage": "Store",
+      "stored_size": 112513,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1699548733,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a3/model.rgm",
+      "size": 42064,
+      "storage": "StreamCompress",
+      "stored_size": 30021,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2258690089,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a3/model.rrgeom",
+      "size": 212284,
+      "storage": "StreamCompress",
+      "stored_size": 73237,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 276717972,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a3/model.rrmaterial",
+      "size": 698,
+      "storage": "StreamCompress",
+      "stored_size": 355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3371100880,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a4/11350878379100664510_packed.rrtex",
+      "size": 351,
+      "storage": "Store",
+      "stored_size": 351,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2833902173,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a4/2724189262742682910_packed.rrtex",
+      "size": 3026,
+      "storage": "Store",
+      "stored_size": 3026,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1755659236,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a4/8921859665230186733_packed.rrtex",
+      "size": 1837,
+      "storage": "Store",
+      "stored_size": 1837,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3723773737,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a4/albedo.rrtex",
+      "size": 113762,
+      "storage": "Store",
+      "stored_size": 113762,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2382853263,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a4/model.rgm",
+      "size": 45292,
+      "storage": "StreamCompress",
+      "stored_size": 32562,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3658612964,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a4/model.rrgeom",
+      "size": 231568,
+      "storage": "StreamCompress",
+      "stored_size": 79835,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2654094657,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_tiger_hunter_a4/model.rrmaterial",
+      "size": 698,
+      "storage": "StreamCompress",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2391442207,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a2/10189129045996453153_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2279712062,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a2/3983562942349196056_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1838080183,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a2/9251946479351703918_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3945404149,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a2/albedo.rrtex",
+      "size": 82597,
+      "storage": "Store",
+      "stored_size": 82597,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3152272802,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a2/model.rgm",
+      "size": 37022,
+      "storage": "StreamCompress",
+      "stored_size": 23690,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2503700196,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a2/model.rrgeom",
+      "size": 281402,
+      "storage": "StreamCompress",
+      "stored_size": 82553,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3947547907,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a2/model.rrmaterial",
+      "size": 694,
+      "storage": "StreamCompress",
+      "stored_size": 356,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2358095163,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a3/13004580945909535616_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1807755274,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a3/358833399374460862_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2258318064,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a3/9226864016455549227_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 610421361,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a3/albedo.rrtex",
+      "size": 82597,
+      "storage": "Store",
+      "stored_size": 82597,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3892538625,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a3/model.rgm",
+      "size": 39312,
+      "storage": "StreamCompress",
+      "stored_size": 25510,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3603113405,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a3/model.rrgeom",
+      "size": 305162,
+      "storage": "StreamCompress",
+      "stored_size": 90463,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 893661374,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a3/model.rrmaterial",
+      "size": 693,
+      "storage": "StreamCompress",
+      "stored_size": 355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2164184474,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a4/10172190529016458734_packed.rrtex",
+      "size": 3025,
+      "storage": "Store",
+      "stored_size": 3025,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2015908665,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a4/13398670205535566123_packed.rrtex",
+      "size": 350,
+      "storage": "Store",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2191026119,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a4/16738308887526903652_packed.rrtex",
+      "size": 1836,
+      "storage": "Store",
+      "stored_size": 1836,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 621336366,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a4/albedo.rrtex",
+      "size": 82597,
+      "storage": "Store",
+      "stored_size": 82597,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3242839962,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a4/model.rgm",
+      "size": 49252,
+      "storage": "StreamCompress",
+      "stored_size": 32388,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2885964100,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a4/model.rrgeom",
+      "size": 394082,
+      "storage": "StreamCompress",
+      "stored_size": 119443,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3170813145,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trade_cargo_a4/model.rrmaterial",
+      "size": 696,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1427346844,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a2/12679608755856829159_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1789669465,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a2/14874035068651948777_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 550860074,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a2/17356434852972706328_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2305416994,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a2/albedo.rrtex",
+      "size": 97618,
+      "storage": "Store",
+      "stored_size": 97618,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2611465926,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a2/model.rgm",
+      "size": 40695,
+      "storage": "StreamCompress",
+      "stored_size": 28665,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2964064218,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a2/model.rrgeom",
+      "size": 195792,
+      "storage": "StreamCompress",
+      "stored_size": 62059,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1150317346,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a2/model.rrmaterial",
+      "size": 676,
+      "storage": "StreamCompress",
+      "stored_size": 349,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1416168018,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a3/10346851052533104864_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1756044925,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a3/1312033734823892722_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 647740823,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a3/8967315945470144811_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3989053329,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a3/albedo.rrtex",
+      "size": 81251,
+      "storage": "Store",
+      "stored_size": 81251,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3330757240,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a3/model.rgm",
+      "size": 42439,
+      "storage": "StreamCompress",
+      "stored_size": 29913,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3632777490,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a3/model.rrgeom",
+      "size": 203434,
+      "storage": "StreamCompress",
+      "stored_size": 66017,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 75119119,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a3/model.rrmaterial",
+      "size": 674,
+      "storage": "StreamCompress",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 896779940,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a4/10068517949946307252_packed.rrtex",
+      "size": 345,
+      "storage": "Store",
+      "stored_size": 345,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1723782273,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a4/4953638872069587919_packed.rrtex",
+      "size": 1831,
+      "storage": "Store",
+      "stored_size": 1831,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1376576824,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a4/6106833256396719406_packed.rrtex",
+      "size": 3020,
+      "storage": "Store",
+      "stored_size": 3020,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4112452184,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a4/albedo.rrtex",
+      "size": 92412,
+      "storage": "Store",
+      "stored_size": 92412,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1345855439,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a4/model.rgm",
+      "size": 43665,
+      "storage": "StreamCompress",
+      "stored_size": 30834,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 887277247,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a4/model.rrgeom",
+      "size": 217540,
+      "storage": "StreamCompress",
+      "stored_size": 70239,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2355357437,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_a4/model.rrmaterial",
+      "size": 674,
+      "storage": "StreamCompress",
+      "stored_size": 350,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4158566869,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a2/14783156128389616728_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1734870431,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a2/15154561322258217694_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 645316536,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a2/16865170344067318592_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1772547394,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a2/albedo.rrtex",
+      "size": 97064,
+      "storage": "Store",
+      "stored_size": 97064,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2738387532,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a2/model.rgm",
+      "size": 42746,
+      "storage": "StreamCompress",
+      "stored_size": 30911,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1552817415,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a2/model.rrgeom",
+      "size": 207196,
+      "storage": "StreamCompress",
+      "stored_size": 67815,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 775809271,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a2/model.rrmaterial",
+      "size": 704,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1701784507,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a3/6040487492440511257_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 540571397,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a3/7889040269012498960_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4137952795,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a3/8571053557039701236_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2876838576,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a3/albedo.rrtex",
+      "size": 95123,
+      "storage": "Store",
+      "stored_size": 95123,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 929566490,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a3/model.rgm",
+      "size": 43125,
+      "storage": "StreamCompress",
+      "stored_size": 29731,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2560241636,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a3/model.rrgeom",
+      "size": 208016,
+      "storage": "StreamCompress",
+      "stored_size": 65351,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1290073749,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a3/model.rrmaterial",
+      "size": 701,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4039229809,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a4/12262012897827642336_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1803215175,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a4/15538490043218578240_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 869272630,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a4/18199069043739635114_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 843753225,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a4/albedo.rrtex",
+      "size": 95718,
+      "storage": "Store",
+      "stored_size": 95718,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3054580024,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a4/model.rgm",
+      "size": 44454,
+      "storage": "StreamCompress",
+      "stored_size": 30881,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3002971794,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a4/model.rrgeom",
+      "size": 220166,
+      "storage": "StreamCompress",
+      "stored_size": 69012,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3662612792,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_trader_female_a4/model.rrmaterial",
+      "size": 704,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2119059461,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a1/12320755479033643470_packed.rrtex",
+      "size": 3029,
+      "storage": "Store",
+      "stored_size": 3029,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 638365738,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a1/17797778040135547703_packed.rrtex",
+      "size": 1840,
+      "storage": "Store",
+      "stored_size": 1840,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3809589815,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a1/528750949974240158_packed.rrtex",
+      "size": 354,
+      "storage": "Store",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2333800460,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a1/albedo.rrtex",
+      "size": 95845,
+      "storage": "Store",
+      "stored_size": 95845,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2298660439,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a1/model.rgm",
+      "size": 38044,
+      "storage": "StreamCompress",
+      "stored_size": 26639,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a1/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3622216578,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a1/model.rrgeom",
+      "size": 176712,
+      "storage": "StreamCompress",
+      "stored_size": 57163,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2794952695,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a1/model.rrmaterial",
+      "size": 710,
+      "storage": "StreamCompress",
+      "stored_size": 355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 537248326,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a2/577060237968128001_packed.rrtex",
+      "size": 1840,
+      "storage": "Store",
+      "stored_size": 1840,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3921863664,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a2/9010113399458345228_packed.rrtex",
+      "size": 354,
+      "storage": "Store",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2109861975,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a2/9533659913192899233_packed.rrtex",
+      "size": 3029,
+      "storage": "Store",
+      "stored_size": 3029,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1101969557,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a2/albedo.rrtex",
+      "size": 96999,
+      "storage": "Store",
+      "stored_size": 96999,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2718165264,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a2/model.rgm",
+      "size": 38096,
+      "storage": "StreamCompress",
+      "stored_size": 26992,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1037757246,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a2/model.rrgeom",
+      "size": 176712,
+      "storage": "StreamCompress",
+      "stored_size": 57679,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3509618220,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a2/model.rrmaterial",
+      "size": 708,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2092656537,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a3/1010934130494718156_packed.rrtex",
+      "size": 3029,
+      "storage": "Store",
+      "stored_size": 3029,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4018940749,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a3/14746381868327565139_packed.rrtex",
+      "size": 354,
+      "storage": "Store",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 570616930,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a3/17811891066908172533_packed.rrtex",
+      "size": 1840,
+      "storage": "Store",
+      "stored_size": 1840,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1609478624,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a3/albedo.rrtex",
+      "size": 95085,
+      "storage": "Store",
+      "stored_size": 95085,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2768697846,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a3/model.rgm",
+      "size": 41099,
+      "storage": "StreamCompress",
+      "stored_size": 27946,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2296259898,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a3/model.rrgeom",
+      "size": 189020,
+      "storage": "StreamCompress",
+      "stored_size": 59908,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3490225350,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a3/model.rrmaterial",
+      "size": 711,
+      "storage": "StreamCompress",
+      "stored_size": 359,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4234432638,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a4/10087607178903328640_packed.rrtex",
+      "size": 354,
+      "storage": "Store",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2061402355,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a4/14877832244953528515_packed.rrtex",
+      "size": 3029,
+      "storage": "Store",
+      "stored_size": 3029,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 739714718,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a4/16812876492618255788_packed.rrtex",
+      "size": 1840,
+      "storage": "Store",
+      "stored_size": 1840,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1981439146,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a4/albedo.rrtex",
+      "size": 95672,
+      "storage": "Store",
+      "stored_size": 95672,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2663774722,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a4/model.rgm",
+      "size": 42506,
+      "storage": "StreamCompress",
+      "stored_size": 29151,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 810558557,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a4/model.rrgeom",
+      "size": 201822,
+      "storage": "StreamCompress",
+      "stored_size": 63884,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1124644151,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_female_a4/model.rrmaterial",
+      "size": 712,
+      "storage": "StreamCompress",
+      "stored_size": 358,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 482899795,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a1/5209446387422408379_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1422548835,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a1/8437141525144786028_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3420216736,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a1/9835663133990249298_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 194431948,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a1/albedo.rrtex",
+      "size": 96022,
+      "storage": "Store",
+      "stored_size": 96022,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 865363253,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a1/model.rgm",
+      "size": 40654,
+      "storage": "StreamCompress",
+      "stored_size": 28647,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a1/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 491601498,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a1/model.rrgeom",
+      "size": 195792,
+      "storage": "StreamCompress",
+      "stored_size": 62008,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4199185753,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a1/model.rrmaterial",
+      "size": 701,
+      "storage": "StreamCompress",
+      "stored_size": 355,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3238986855,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a2/13896862053004765253_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 448857407,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a2/16279922834368189180_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1464198961,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a2/3613953351049990807_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2398203387,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a2/albedo.rrtex",
+      "size": 97719,
+      "storage": "Store",
+      "stored_size": 97719,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3899759731,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a2/model.rgm",
+      "size": 40718,
+      "storage": "StreamCompress",
+      "stored_size": 28693,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a2/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1542171001,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a2/model.rrgeom",
+      "size": 195792,
+      "storage": "StreamCompress",
+      "stored_size": 62050,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 181319945,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a2/model.rrmaterial",
+      "size": 703,
+      "storage": "StreamCompress",
+      "stored_size": 359,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3342978266,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a3/13103177693584150945_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1446998271,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a3/8198196774898148143_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 415640347,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a3/9785441217066883716_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1486069046,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a3/albedo.rrtex",
+      "size": 81419,
+      "storage": "Store",
+      "stored_size": 81419,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2485858659,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a3/model.rgm",
+      "size": 42772,
+      "storage": "StreamCompress",
+      "stored_size": 30197,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a3/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3415585138,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a3/model.rrgeom",
+      "size": 206212,
+      "storage": "StreamCompress",
+      "stored_size": 66654,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1171280285,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a3/model.rrmaterial",
+      "size": 702,
+      "storage": "StreamCompress",
+      "stored_size": 353,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3567892457,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a4/10862083796766051452_packed.rrtex",
+      "size": 352,
+      "storage": "Store",
+      "stored_size": 352,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 382984679,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a4/3550813253933961269_packed.rrtex",
+      "size": 1838,
+      "storage": "Store",
+      "stored_size": 1838,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1348114325,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a4/7207538412692010622_packed.rrtex",
+      "size": 3027,
+      "storage": "Store",
+      "stored_size": 3027,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2296636634,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a4/albedo.rrtex",
+      "size": 92584,
+      "storage": "Store",
+      "stored_size": 92584,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1687824566,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a4/model.rgm",
+      "size": 44060,
+      "storage": "StreamCompress",
+      "stored_size": 31200,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a4/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1289683964,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a4/model.rrgeom",
+      "size": 219700,
+      "storage": "StreamCompress",
+      "stored_size": 70940,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 3909012973,
+      "encryption": "None",
+      "path": "art/kr013/units/kr_villager_male_a4/model.rrmaterial",
+      "size": 702,
+      "storage": "StreamCompress",
+      "stored_size": 354,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2579738435,
+      "encryption": "None",
+      "path": "art/kr013/vma1/16212577627507200274_packed.rrtex",
+      "size": 1817,
+      "storage": "Store",
+      "stored_size": 1817,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 761918771,
+      "encryption": "None",
+      "path": "art/kr013/vma1/16247761920597727312_packed.rrtex",
+      "size": 331,
+      "storage": "Store",
+      "stored_size": 331,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 3355956049,
+      "encryption": "None",
+      "path": "art/kr013/vma1/7049387493259568967_packed.rrtex",
+      "size": 3006,
+      "storage": "Store",
+      "stored_size": 3006,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2791801367,
+      "encryption": "None",
+      "path": "art/kr013/vma1/albedo.rrtex",
+      "size": 96001,
+      "storage": "Store",
+      "stored_size": 96001,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 1730161180,
+      "encryption": "None",
+      "path": "art/kr013/vma1/model.rgm",
+      "size": 40633,
+      "storage": "StreamCompress",
+      "stored_size": 28627,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/kr013/vma1/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 491601498,
+      "encryption": "None",
+      "path": "art/kr013/vma1/model.rrgeom",
+      "size": 195792,
+      "storage": "StreamCompress",
+      "stored_size": 62008,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2368327167,
+      "encryption": "None",
+      "path": "art/kr013/vma1/model.rrmaterial",
+      "size": 619,
+      "storage": "StreamCompress",
+      "stored_size": 340,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1299582947,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/11529601081711074169_packed.rrtex",
+      "size": 1849,
+      "storage": "Store",
+      "stored_size": 1849,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2583117947,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/1954253971730686476_packed.rrtex",
+      "size": 363,
+      "storage": "Store",
+      "stored_size": 363,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 4130762905,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/2855861459186197275_packed.rrtex",
+      "size": 3038,
+      "storage": "Store",
+      "stored_size": 3038,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 20457278,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/albedo.rrtex",
+      "size": 96033,
+      "storage": "Store",
+      "stored_size": 96033,
+      "toc": "data",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2268374520,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/model.rgm",
+      "size": 62106,
+      "storage": "StreamCompress",
+      "stored_size": 25705,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2865907164,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/model.rgo",
+      "size": 283,
+      "storage": "StreamCompress",
+      "stored_size": 152,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 2817996642,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/model.rrgeom",
+      "size": 355792,
+      "storage": "StreamCompress",
+      "stored_size": 111326,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 64079196,
+      "encryption": "None",
+      "path": "art/scenario/garrison/k013/units/template/body/model.rrmaterial",
+      "size": 746,
+      "storage": "StreamCompress",
+      "stored_size": 369,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1492495295,
+      "encryption": "None",
+      "path": "scar/k013/blueprints.scar",
+      "size": 1419,
+      "storage": "BufferCompress",
+      "stored_size": 415,
+      "toc": "data",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 4051897426,
+      "encryption": "None",
+      "path": "mod.bin",
+      "size": 1761,
+      "storage": "StreamCompress",
+      "stored_size": 503,
+      "toc": "info",
+      "verification": "SHA1Blocks"
+    },
+    {
+      "crc": 1510291221,
+      "encryption": "None",
+      "path": "mod.rrtex",
+      "size": 406,
+      "storage": "Store",
+      "stored_size": 406,
+      "toc": "info",
+      "verification": "CRC"
+    },
+    {
+      "crc": 2227802772,
+      "encryption": "None",
+      "path": "en/en.ucs",
+      "size": 74,
+      "storage": "StreamCompress",
+      "stored_size": 65,
+      "toc": "locale",
+      "verification": "SHA1Blocks"
+    }
+  ],
+  "schema": "sga-archiver.list/v1",
+  "tool": {
+    "name": "sga-archiver",
+    "version": "0.3.0"
+  }
+}

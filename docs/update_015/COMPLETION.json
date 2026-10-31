@@ -1,0 +1,28 @@
+{
+  "version": "0.1.5",
+  "tests": 39,
+  "actual_lua_barrage_regressions": 5,
+  "native_model_material_contracts": 108,
+  "unit_material_key_repairs": 72,
+  "rigid_model_selector_repairs": 36,
+  "native_archive_member_readbacks": 1734,
+  "changed_members": 109,
+  "baseline_members_preserved": 1625,
+  "added_members": [],
+  "removed_members": [],
+  "zip_name": "Koreans-Garrison-0.1.5.zip",
+  "zip_bytes": 106753957,
+  "zip_sha256": "d97df7034df3f73ad98cd4acedfdf6cb06528553b61976fe3f4c6d638f7c78e2",
+  "rollback_014_verified": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\art015-baseline\\761736f2e6d4\\Koreans-Garrison-0.1.4.zip",
+  "rollback_013_verified": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\art013-baseline\\1e2d7976d5a3\\Koreans-Garrison-0.1.3.zip",
+  "native_burn": "No new geometry/texture Content Editor cook; existing resource bytes corrected and fresh supported civilization assembly verified",
+  "MCP_check_code": {
+    "unknown_calls": 0,
+    "missing_locdb_ids": 0,
+    "unchanged_low_confidence_api": "Player_GetAbilityBPCost; official ScarDoc entry, not edited"
+  },
+  "native_game_appearance_animation_barrage_lifecycle": "pending owner fresh-match test",
+  "save_load_multiplayer_ai_performance": "not qualified",
+  "push_tag_publication_installation": "not performed",
+  "cleanup": "complete; see CLEANUP.json"
+}

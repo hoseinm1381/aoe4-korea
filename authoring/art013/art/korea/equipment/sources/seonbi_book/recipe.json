@@ -1,0 +1,23 @@
+{
+  "id": "seonbi_book",
+  "donor": "art/civilizations/common/weapons/melee/book_closed/book_closed.rgm",
+  "kind": "book",
+  "design": "Bound scholar volume with Korean paper/cloth-cover vocabulary; no fabricated readable inscription",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\seonbi_book\\d77a171315f257600b27\\decoded-static.json",
+  "manifest_sha256": "bb6bef6df6c111ca9c384f6edd7b95b31b51e89d1b9d919327fe4e60c9a2e6c2",
+  "bounds": {
+    "min": [
+      -0.220947265625,
+      -0.155517578125,
+      -0.037689208984375
+    ],
+    "max": [
+      0.0256500244140625,
+      0.158935546875,
+      0.042327880859375
+    ]
+  },
+  "native_triangles": 28,
+  "bones": 1
+}

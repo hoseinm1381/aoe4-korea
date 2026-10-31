@@ -1,0 +1,23 @@
+{
+  "id": "jangchang_tassel",
+  "donor": "art/civilizations/common/weapons/melee/spear_tassle/spear_tassle.rgm",
+  "kind": "spear",
+  "design": "Korean spear with restrained tied tassel; common spear/brace forms share geometry",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\jangchang_tassel\\c2fb2c30ed0ed54dc6ad\\decoded-static.json",
+  "manifest_sha256": "43a04aeefa0ecc0f1d2a974c30585669e55ee5fc8e3949fbc051445c67878398",
+  "bounds": {
+    "min": [
+      -0.15576171875,
+      -0.1304931640625,
+      -0.8115234375
+    ],
+    "max": [
+      0.151123046875,
+      0.1259765625,
+      2.861328125
+    ]
+  },
+  "native_triangles": 340,
+  "bones": 0
+}

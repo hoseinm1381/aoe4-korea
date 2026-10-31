@@ -1,0 +1,5 @@
+{
+  "ProcessId": 13988,
+  "ExecutablePath": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor\\EssenceEditor.exe",
+  "CommandLine": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor\\EssenceEditor.exe -rtm --safe_settings --do_not_restore --quiet_crash_report --no_source_control --log_path C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\native-pilot\\logs --build_mod C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\k013.aoe4mod --no_burn_window --burn_verbose_log_level --burn_cache_type Local --burn_max_threads 1 --burn_log_path C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\native-pilot\\logs\\burn.log --build_path C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\native-pilot\\output --intermediate_path C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\native-pilot\\intermediate"
+}

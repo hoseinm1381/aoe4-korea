@@ -1,0 +1,48 @@
+{
+  "family": "blacksmith",
+  "age": 3,
+  "variant": "",
+  "recipe": {
+    "roof_rise_scale": 0.76,
+    "eave_spread": 0.06,
+    "tip_calm": 0.13,
+    "direction": "Low broad tile smithy, substantial timber framing and earth/stone hearth; original visible forge/workflow retained.",
+    "protected_cylinders": [
+      [
+        0.35,
+        3.1,
+        1.1,
+        1.6
+      ],
+      [
+        -1.35,
+        -3.55,
+        0.7,
+        1.1
+      ]
+    ]
+  },
+  "anchors": {
+    "has_roof": true,
+    "eave_z": 2.388671875,
+    "center": [
+      -0.21875,
+      -0.244140625,
+      2.388671875
+    ],
+    "half_xy": [
+      3.662109375,
+      4.326171875
+    ],
+    "rise": 2.962890625
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\blacksmith03\\fe18b7e2eb79ec55340b\\decoded-static.json"
+}

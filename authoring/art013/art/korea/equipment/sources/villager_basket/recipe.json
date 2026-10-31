@@ -1,0 +1,23 @@
+{
+  "id": "villager_basket",
+  "donor": "art/civilizations/common/weapons/tools/basket_berries/basket_berries.rgm",
+  "kind": "basket",
+  "design": "Woven carrying basket, muted straw and dark binding; native carrying anchor preserved",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\villager_basket\\b2e026d7dd44f0d72fc3\\decoded-static.json",
+  "manifest_sha256": "ad72401e748d04f84dd16dffe6862f587be2baa41414e09944f33600b09bc364",
+  "bounds": {
+    "min": [
+      -0.33642578125,
+      -0.7119140625,
+      1.1591796875
+    ],
+    "max": [
+      0.35009765625,
+      -0.07501220703125,
+      1.5615234375
+    ]
+  },
+  "native_triangles": 822,
+  "bones": 1
+}

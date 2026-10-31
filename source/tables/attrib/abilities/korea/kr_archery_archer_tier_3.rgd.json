@@ -916,7 +916,7 @@
               "key": "validate_actions",
               "hash": 1861123722469083899,
               "kind": "Boolean",
-              "value": true
+              "value": false
             },
             {
               "key": "target",
@@ -1757,7 +1757,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": "BuildingUpgradeDataTemplate"
+                  "value": "KoreaLiterature350DataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -3209,7 +3209,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": ""
+                  "value": "KoreaLiterature350DataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -3544,7 +3544,7 @@
                   "key": "merc_byz",
                   "hash": 15228413151750088298,
                   "kind": "Float",
-                  "value": 0.0
+                  "value": 350.0
                 },
                 {
                   "key": "command",

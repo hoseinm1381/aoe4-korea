@@ -1,0 +1,23 @@
+{
+  "id": "lancer_lance",
+  "donor": "art/civilizations/common/weapons/melee/lance_tassle/lance_tassle.rgm",
+  "kind": "lance",
+  "design": "Long riding lance with lacquered haft and restrained cloth binding",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\lancer_lance\\e5e4995947f3bc4c3425\\decoded-static.json",
+  "manifest_sha256": "e2c68615b5aec90f2711dcb05e320904e6d69554a7ae7756bc109dcd480ee2b5",
+  "bounds": {
+    "min": [
+      -0.163818359375,
+      -0.1766357421875,
+      -0.822265625
+    ],
+    "max": [
+      0.1424560546875,
+      0.161865234375,
+      2.9921875
+    ]
+  },
+  "native_triangles": 394,
+  "bones": 0
+}

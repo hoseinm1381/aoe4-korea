@@ -1,0 +1,364 @@
+00:00.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a2\kr_archer_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_archer_a2\\model.fbx'
+export finished in 0.0628 sec.
+KOREAN_UNIT_EXPORTED 1 72 kr_archer_a2 bones 48 lod_triangles [1444, 708, 271]
+00:00.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a3\kr_archer_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_archer_a3\\model.fbx'
+export finished in 0.0687 sec.
+KOREAN_UNIT_EXPORTED 2 72 kr_archer_a3 bones 48 lod_triangles [1400, 711, 273]
+00:01.219  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a4\kr_archer_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_archer_a4\\model.fbx'
+export finished in 0.0620 sec.
+KOREAN_UNIT_EXPORTED 3 72 kr_archer_a4 bones 48 lod_triangles [1354, 700, 281]
+00:01.500  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_crossbowman_a3\kr_crossbowman_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_crossbowman_a3\\model.fbx'
+export finished in 0.0687 sec.
+KOREAN_UNIT_EXPORTED 4 72 kr_crossbowman_a3 bones 48 lod_triangles [1512, 710, 313]
+00:01.782  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_crossbowman_a4\kr_crossbowman_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_crossbowman_a4\\model.fbx'
+export finished in 0.0717 sec.
+KOREAN_UNIT_EXPORTED 5 72 kr_crossbowman_a4 bones 48 lod_triangles [1609, 729, 351]
+00:02.094  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_gapsa_a3\kr_gapsa_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_gapsa_a3\\model.fbx'
+export finished in 0.0690 sec.
+KOREAN_UNIT_EXPORTED 6 72 kr_gapsa_a3 bones 48 lod_triangles [1454, 630, 294]
+00:02.360  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_gapsa_a4\kr_gapsa_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_gapsa_a4\\model.fbx'
+export finished in 0.0689 sec.
+KOREAN_UNIT_EXPORTED 7 72 kr_gapsa_a4 bones 48 lod_triangles [1584, 669, 339]
+00:02.703  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_handcannoneer_a4\kr_handcannoneer_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_handcannoneer_a4\\model.fbx'
+export finished in 0.2365 sec.
+KOREAN_UNIT_EXPORTED 8 72 kr_handcannoneer_a4 bones 48 lod_triangles [1408, 675, 292]
+00:03.375  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a2\kr_horseman_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_horseman_a2\\model.fbx'
+export finished in 0.1194 sec.
+KOREAN_UNIT_EXPORTED 9 72 kr_horseman_a2 bones 73 lod_triangles [1443, 674, 284]
+00:03.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a3\kr_horseman_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_horseman_a3\\model.fbx'
+export finished in 0.1126 sec.
+KOREAN_UNIT_EXPORTED 10 72 kr_horseman_a3 bones 73 lod_triangles [1477, 696, 282]
+00:04.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a4\kr_horseman_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_horseman_a4\\model.fbx'
+export finished in 0.1213 sec.
+KOREAN_UNIT_EXPORTED 11 72 kr_horseman_a4 bones 73 lod_triangles [1645, 657, 306]
+00:05.047  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a2\kr_hwarang_dismounted_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_hwarang_dismounted_a2\\model.fbx'
+export finished in 0.2556 sec.
+KOREAN_UNIT_EXPORTED 12 72 kr_hwarang_dismounted_a2 bones 48 lod_triangles [1528, 656, 294]
+00:05.641  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a3\kr_hwarang_dismounted_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_hwarang_dismounted_a3\\model.fbx'
+export finished in 0.0904 sec.
+KOREAN_UNIT_EXPORTED 13 72 kr_hwarang_dismounted_a3 bones 48 lod_triangles [1558, 680, 306]
+00:06.110  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a4\kr_hwarang_dismounted_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_hwarang_dismounted_a4\\model.fbx'
+export finished in 0.0808 sec.
+KOREAN_UNIT_EXPORTED 14 72 kr_hwarang_dismounted_a4 bones 48 lod_triangles [1608, 631, 325]
+00:06.485  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a2\kr_hwarang_mounted_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_hwarang_mounted_a2\\model.fbx'
+export finished in 0.1003 sec.
+KOREAN_UNIT_EXPORTED 15 72 kr_hwarang_mounted_a2 bones 73 lod_triangles [1371, 648, 302]
+00:06.813  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a3\kr_hwarang_mounted_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_hwarang_mounted_a3\\model.fbx'
+export finished in 0.1111 sec.
+KOREAN_UNIT_EXPORTED 16 72 kr_hwarang_mounted_a3 bones 73 lod_triangles [1433, 693, 312]
+00:07.422  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a4\kr_hwarang_mounted_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_hwarang_mounted_a4\\model.fbx'
+export finished in 0.1896 sec.
+KOREAN_UNIT_EXPORTED 17 72 kr_hwarang_mounted_a4 bones 73 lod_triangles [1649, 661, 320]
+00:08.000  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_lancer_a3\kr_lancer_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_lancer_a3\\model.fbx'
+export finished in 0.1250 sec.
+KOREAN_UNIT_EXPORTED 18 72 kr_lancer_a3 bones 73 lod_triangles [1663, 683, 358]
+00:08.407  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_lancer_a4\kr_lancer_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_lancer_a4\\model.fbx'
+export finished in 0.1614 sec.
+KOREAN_UNIT_EXPORTED 19 72 kr_lancer_a4 bones 73 lod_triangles [1653, 588, 294]
+00:08.828  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_monk_a3\kr_monk_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_monk_a3\\model.fbx'
+export finished in 0.1102 sec.
+KOREAN_UNIT_EXPORTED 20 72 kr_monk_a3 bones 73 lod_triangles [1324, 628, 363]
+00:09.188  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_monk_a4\kr_monk_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_monk_a4\\model.fbx'
+export finished in 0.0980 sec.
+KOREAN_UNIT_EXPORTED 21 72 kr_monk_a4 bones 73 lod_triangles [1292, 644, 340]
+00:09.563  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a2\kr_mount_horseman_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_horseman_a2\\model.fbx'
+export finished in 0.1064 sec.
+KOREAN_UNIT_EXPORTED 22 72 kr_mount_horseman_a2 bones 86 lod_triangles [1848, 656, 224]
+00:09.969  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a3\kr_mount_horseman_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_horseman_a3\\model.fbx'
+export finished in 0.1014 sec.
+KOREAN_UNIT_EXPORTED 23 72 kr_mount_horseman_a3 bones 86 lod_triangles [2136, 741, 248]
+00:10.282  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a4\kr_mount_horseman_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_horseman_a4\\model.fbx'
+export finished in 0.0990 sec.
+KOREAN_UNIT_EXPORTED 24 72 kr_mount_horseman_a4 bones 86 lod_triangles [2314, 706, 262]
+00:10.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a2\kr_mount_hwarang_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_hwarang_a2\\model.fbx'
+export finished in 0.0890 sec.
+KOREAN_UNIT_EXPORTED 25 72 kr_mount_hwarang_a2 bones 86 lod_triangles [1848, 656, 224]
+00:10.875  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a3\kr_mount_hwarang_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_hwarang_a3\\model.fbx'
+export finished in 0.1026 sec.
+KOREAN_UNIT_EXPORTED 26 72 kr_mount_hwarang_a3 bones 86 lod_triangles [2136, 741, 248]
+00:11.203  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a4\kr_mount_hwarang_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_hwarang_a4\\model.fbx'
+export finished in 0.0980 sec.
+KOREAN_UNIT_EXPORTED 27 72 kr_mount_hwarang_a4 bones 86 lod_triangles [2314, 706, 262]
+00:11.532  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_lancer_a3\kr_mount_lancer_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_lancer_a3\\model.fbx'
+export finished in 0.1288 sec.
+KOREAN_UNIT_EXPORTED 28 72 kr_mount_lancer_a3 bones 86 lod_triangles [2223, 744, 308]
+00:11.875  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_lancer_a4\kr_mount_lancer_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_lancer_a4\\model.fbx'
+export finished in 0.1292 sec.
+KOREAN_UNIT_EXPORTED 29 72 kr_mount_lancer_a4 bones 86 lod_triangles [3000, 704, 338]
+00:12.219  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a1\kr_mount_scout_a1.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_scout_a1\\model.fbx'
+export finished in 0.0843 sec.
+KOREAN_UNIT_EXPORTED 30 72 kr_mount_scout_a1 bones 86 lod_triangles [1920, 672, 232]
+00:12.500  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a2\kr_mount_scout_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_scout_a2\\model.fbx'
+export finished in 0.0874 sec.
+KOREAN_UNIT_EXPORTED 31 72 kr_mount_scout_a2 bones 86 lod_triangles [1920, 672, 232]
+00:12.782  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a3\kr_mount_scout_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_scout_a3\\model.fbx'
+export finished in 0.0925 sec.
+KOREAN_UNIT_EXPORTED 32 72 kr_mount_scout_a3 bones 86 lod_triangles [1920, 672, 232]
+00:13.078  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a4\kr_mount_scout_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_scout_a4\\model.fbx'
+export finished in 0.0874 sec.
+KOREAN_UNIT_EXPORTED 33 72 kr_mount_scout_a4 bones 86 lod_triangles [1920, 672, 232]
+00:13.375  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a2\kr_mount_trader_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_trader_a2\\model.fbx'
+export finished in 0.0917 sec.
+KOREAN_UNIT_EXPORTED 34 72 kr_mount_trader_a2 bones 86 lod_triangles [2226, 761, 294]
+00:13.672  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a3\kr_mount_trader_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_trader_a3\\model.fbx'
+export finished in 0.0895 sec.
+KOREAN_UNIT_EXPORTED 35 72 kr_mount_trader_a3 bones 86 lod_triangles [2256, 769, 298]
+00:13.953  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a4\kr_mount_trader_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_mount_trader_a4\\model.fbx'
+export finished in 0.0893 sec.
+KOREAN_UNIT_EXPORTED 36 72 kr_mount_trader_a4 bones 86 lod_triangles [2310, 809, 468]
+00:14.235  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_righteous_army_monk_a3\kr_righteous_army_monk_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_righteous_army_monk_a3\\model.fbx'
+export finished in 0.0744 sec.
+KOREAN_UNIT_EXPORTED 37 72 kr_righteous_army_monk_a3 bones 73 lod_triangles [1380, 642, 363]
+00:14.485  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_righteous_army_monk_a4\kr_righteous_army_monk_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_righteous_army_monk_a4\\model.fbx'
+export finished in 0.0742 sec.
+KOREAN_UNIT_EXPORTED 38 72 kr_righteous_army_monk_a4 bones 73 lod_triangles [1324, 654, 346]
+00:14.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a1\kr_scout_a1.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_scout_a1\\model.fbx'
+export finished in 0.1579 sec.
+KOREAN_UNIT_EXPORTED 39 72 kr_scout_a1 bones 73 lod_triangles [1430, 605, 260]
+00:15.188  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a2\kr_scout_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_scout_a2\\model.fbx'
+export finished in 0.1192 sec.
+KOREAN_UNIT_EXPORTED 40 72 kr_scout_a2 bones 73 lod_triangles [1501, 662, 274]
+00:15.563  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a3\kr_scout_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_scout_a3\\model.fbx'
+export finished in 0.0932 sec.
+KOREAN_UNIT_EXPORTED 41 72 kr_scout_a3 bones 73 lod_triangles [1603, 660, 312]
+00:15.891  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a4\kr_scout_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_scout_a4\\model.fbx'
+export finished in 0.0945 sec.
+KOREAN_UNIT_EXPORTED 42 72 kr_scout_a4 bones 73 lod_triangles [1642, 676, 312]
+00:16.219  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a1\kr_scout_female_a1.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_scout_female_a1\\model.fbx'
+export finished in 0.1020 sec.
+KOREAN_UNIT_EXPORTED 43 72 kr_scout_female_a1 bones 71 lod_triangles [1429, 595, 278]
+00:16.610  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a2\kr_scout_female_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_scout_female_a2\\model.fbx'
+export finished in 0.0898 sec.
+KOREAN_UNIT_EXPORTED 44 72 kr_scout_female_a2 bones 71 lod_triangles [1545, 678, 289]
+00:16.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a3\kr_scout_female_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_scout_female_a3\\model.fbx'
+export finished in 0.0797 sec.
+KOREAN_UNIT_EXPORTED 45 72 kr_scout_female_a3 bones 71 lod_triangles [1651, 688, 329]
+00:17.266  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a4\kr_scout_female_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_scout_female_a4\\model.fbx'
+export finished in 0.0865 sec.
+KOREAN_UNIT_EXPORTED 46 72 kr_scout_female_a4 bones 71 lod_triangles [1651, 688, 329]
+00:17.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_seonbi_a1\kr_seonbi_a1.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_seonbi_a1\\model.fbx'
+export finished in 0.0793 sec.
+KOREAN_UNIT_EXPORTED 47 72 kr_seonbi_a1 bones 73 lod_triangles [1372, 626, 300]
+00:17.922  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_seonbi_a3\kr_seonbi_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_seonbi_a3\\model.fbx'
+export finished in 0.0811 sec.
+KOREAN_UNIT_EXPORTED 48 72 kr_seonbi_a3 bones 73 lod_triangles [1388, 635, 299]
+00:18.219  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a1\kr_spearman_a1.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_spearman_a1\\model.fbx'
+export finished in 0.0641 sec.
+KOREAN_UNIT_EXPORTED 49 72 kr_spearman_a1 bones 48 lod_triangles [1358, 676, 260]
+00:18.485  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a2\kr_spearman_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_spearman_a2\\model.fbx'
+export finished in 0.0605 sec.
+KOREAN_UNIT_EXPORTED 50 72 kr_spearman_a2 bones 48 lod_triangles [1386, 646, 264]
+00:18.735  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a3\kr_spearman_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_spearman_a3\\model.fbx'
+export finished in 0.0639 sec.
+KOREAN_UNIT_EXPORTED 51 72 kr_spearman_a3 bones 48 lod_triangles [1344, 588, 289]
+00:18.985  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a4\kr_spearman_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_spearman_a4\\model.fbx'
+export finished in 0.0970 sec.
+KOREAN_UNIT_EXPORTED 52 72 kr_spearman_a4 bones 48 lod_triangles [1385, 628, 286]
+00:19.297  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a2\kr_tiger_hunter_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_tiger_hunter_a2\\model.fbx'
+export finished in 0.0625 sec.
+KOREAN_UNIT_EXPORTED 53 72 kr_tiger_hunter_a2 bones 48 lod_triangles [1474, 646, 308]
+00:19.532  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a3\kr_tiger_hunter_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_tiger_hunter_a3\\model.fbx'
+export finished in 0.0582 sec.
+KOREAN_UNIT_EXPORTED 54 72 kr_tiger_hunter_a3 bones 48 lod_triangles [1474, 646, 308]
+00:19.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a4\kr_tiger_hunter_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_tiger_hunter_a4\\model.fbx'
+export finished in 0.0697 sec.
+KOREAN_UNIT_EXPORTED 55 72 kr_tiger_hunter_a4 bones 48 lod_triangles [1608, 685, 353]
+00:20.047  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a2\kr_trade_cargo_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trade_cargo_a2\\model.fbx'
+export finished in 0.0915 sec.
+KOREAN_UNIT_EXPORTED 56 72 kr_trade_cargo_a2 bones 120 lod_triangles [1925, 790, 308]
+00:20.375  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a3\kr_trade_cargo_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trade_cargo_a3\\model.fbx'
+export finished in 0.0929 sec.
+KOREAN_UNIT_EXPORTED 57 72 kr_trade_cargo_a3 bones 120 lod_triangles [2095, 850, 342]
+00:20.672  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a4\kr_trade_cargo_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trade_cargo_a4\\model.fbx'
+export finished in 0.0967 sec.
+KOREAN_UNIT_EXPORTED 58 72 kr_trade_cargo_a4 bones 120 lod_triangles [2697, 1078, 500]
+00:20.969  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a2\kr_trader_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trader_a2\\model.fbx'
+export finished in 0.0783 sec.
+KOREAN_UNIT_EXPORTED 59 72 kr_trader_a2 bones 73 lod_triangles [1362, 606, 250]
+00:21.235  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a3\kr_trader_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trader_a3\\model.fbx'
+export finished in 0.0805 sec.
+KOREAN_UNIT_EXPORTED 60 72 kr_trader_a3 bones 73 lod_triangles [1409, 638, 278]
+00:21.500  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a4\kr_trader_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trader_a4\\model.fbx'
+export finished in 0.0781 sec.
+KOREAN_UNIT_EXPORTED 61 72 kr_trader_a4 bones 73 lod_triangles [1482, 696, 300]
+00:21.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a2\kr_trader_female_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trader_female_a2\\model.fbx'
+export finished in 0.0767 sec.
+KOREAN_UNIT_EXPORTED 62 72 kr_trader_female_a2 bones 73 lod_triangles [1504, 572, 288]
+00:22.078  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a3\kr_trader_female_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trader_female_a3\\model.fbx'
+export finished in 0.0829 sec.
+KOREAN_UNIT_EXPORTED 63 72 kr_trader_female_a3 bones 73 lod_triangles [1435, 616, 263]
+00:22.407  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a4\kr_trader_female_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_trader_female_a4\\model.fbx'
+export finished in 0.0764 sec.
+KOREAN_UNIT_EXPORTED 64 72 kr_trader_female_a4 bones 73 lod_triangles [1509, 656, 284]
+00:22.672  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a1\kr_villager_female_a1.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_villager_female_a1\\model.fbx'
+export finished in 0.0732 sec.
+KOREAN_UNIT_EXPORTED 65 72 kr_villager_female_a1 bones 73 lod_triangles [1226, 522, 258]
+00:22.953  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a2\kr_villager_female_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_villager_female_a2\\model.fbx'
+export finished in 0.0837 sec.
+KOREAN_UNIT_EXPORTED 66 72 kr_villager_female_a2 bones 73 lod_triangles [1226, 522, 258]
+00:23.219  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a3\kr_villager_female_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_villager_female_a3\\model.fbx'
+export finished in 0.0744 sec.
+KOREAN_UNIT_EXPORTED 67 72 kr_villager_female_a3 bones 73 lod_triangles [1313, 592, 239]
+00:23.485  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a4\kr_villager_female_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_villager_female_a4\\model.fbx'
+export finished in 0.0777 sec.
+KOREAN_UNIT_EXPORTED 68 72 kr_villager_female_a4 bones 73 lod_triangles [1395, 632, 260]
+00:23.735  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a1\kr_villager_male_a1.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_villager_male_a1\\model.fbx'
+export finished in 0.0839 sec.
+KOREAN_UNIT_EXPORTED 69 72 kr_villager_male_a1 bones 73 lod_triangles [1362, 606, 250]
+00:24.016  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a2\kr_villager_male_a2.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_villager_male_a2\\model.fbx'
+export finished in 0.0810 sec.
+KOREAN_UNIT_EXPORTED 70 72 kr_villager_male_a2 bones 73 lod_triangles [1362, 606, 250]
+00:24.297  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a3\kr_villager_male_a3.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_villager_male_a3\\model.fbx'
+export finished in 0.0782 sec.
+KOREAN_UNIT_EXPORTED 71 72 kr_villager_male_a3 bones 73 lod_triangles [1438, 638, 278]
+00:24.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a4\kr_villager_male_a4.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\unit-exports\\kr_villager_male_a4\\model.fbx'
+export finished in 0.1020 sec.
+KOREAN_UNIT_EXPORTED 72 72 kr_villager_male_a4 bones 73 lod_triangles [1482, 712, 308]
+UNIT_EXPORT_BATCH_COMPLETE 72
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

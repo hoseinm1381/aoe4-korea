@@ -1,0 +1,34 @@
+{
+  "family": "lumber_camp",
+  "age": 1,
+  "variant": "",
+  "recipe": {
+    "roof_rise_scale": 0.85,
+    "eave_spread": 0.03,
+    "tip_calm": 0.08,
+    "direction": "Native crane plus ground-seated Korean timber and reed-roof shelter module; native resource stamp is integration owner."
+  },
+  "anchors": {
+    "has_roof": false,
+    "eave_z": 5.7265625,
+    "center": [
+      0.0,
+      1.4580078125,
+      1.64453125
+    ],
+    "half_xy": [
+      2.28125,
+      2.8232421875
+    ],
+    "rise": 1.0
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\lumber_camp01\\26dde30bd7927e8c6c86\\decoded-static.json"
+}

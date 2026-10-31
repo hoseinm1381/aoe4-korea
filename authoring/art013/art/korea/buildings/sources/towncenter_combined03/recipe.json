@@ -1,0 +1,34 @@
+{
+  "family": "towncenter",
+  "age": 3,
+  "variant": "combined",
+  "recipe": {
+    "roof_rise_scale": 0.83,
+    "eave_spread": 0.04,
+    "tip_calm": 0.11,
+    "direction": "Broad timber administrative hall; low dignified roofs, stone footings and recognisable TC assembly."
+  },
+  "anchors": {
+    "has_roof": true,
+    "eave_z": 3.779296875,
+    "center": [
+      -2.55078125,
+      -5.2080078125,
+      3.779296875
+    ],
+    "half_xy": [
+      7.62890625,
+      7.3466796875
+    ],
+    "rise": 5.064453125
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\towncenter_combined03\\7639aca4e6d6a33e7166\\decoded-static.json"
+}

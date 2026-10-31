@@ -1,0 +1,1288 @@
+{
+  "native_changes": [
+    {
+      "member": "art/kr013/units/kr_archer_a2/model.rrmaterial",
+      "before": "f6b0d7af2542a48a32d770ed0555881a0b190c957b77dd03c6825d5f9b76bc42",
+      "after": "6b78d1c563c5daa3154f89a23be0fbbaf6991bbbb53b49e2f02a676c9394416b",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_archer_a3/model.rrmaterial",
+      "before": "00cc473fb1a742f80af88c6fb6a5f7c46b486e53c31ac2b497921a71b1966f7b",
+      "after": "d0161e280bbab5a89b537f481bac07162c86ce7037d9d1a880daef3ce294d20b",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_archer_a4/model.rrmaterial",
+      "before": "1dcc6f5570a6533b3bcdc789433bdd922351fd467e093ef28573a88e2f553aba",
+      "after": "cd3b28516d8ce856a80f0ecdea61bdb91e9db3d2807868295c5b2e0102186b45",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_crossbowman_a3/model.rrmaterial",
+      "before": "7f03b69cd2744cf95d963aa741c71336e687c4cdd7246b763b15160f6b0c6093",
+      "after": "4e96ec2e7ef4492b163dc7ec4a266f9effcaf157b1f97eea997c5b7bd5ae62c7",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_crossbowman_a4/model.rrmaterial",
+      "before": "4981ea8db743bf8f85b78770b00c11c685c67472558b0e9e2837a71f0cd7963a",
+      "after": "bbee7c3bd9524bd357e0a66e0fc24f905c0776c55aa9165c867ffaed18da48dd",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_gapsa_a3/model.rrmaterial",
+      "before": "23dd8e2493cb29be7cf3cc3eb9538c9e15b63db0f07d4e0bf9bc591533a6e224",
+      "after": "41dd703bc1f0c9725d7ebd344affe41c0eac0ead3473027ea236bc930a3082eb",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_gapsa_a4/model.rrmaterial",
+      "before": "d453a2be81f7208f6a0b45c50feaf2aa7d4c67385c97e96cb75f477baac2a4b8",
+      "after": "ab45b6134b61d5369a8501e5f32a13f27f0be0b836a2e63771a53a2d7e4d8246",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_handcannoneer_a4/model.rrmaterial",
+      "before": "3dd6f7444f4106e275cc35ae91772721060d7c75c1029fd3a3117e4fcb907ea8",
+      "after": "79febd1de49c2aaadc3d70c5eaacbe2d1f750751144e66c5b14799f8ddc10eb5",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_horseman_a2/model.rrmaterial",
+      "before": "6a499b58764cf46a6469ebe1ec11b1319ffc6d660df261fcac35a4a16690f607",
+      "after": "ee37451b7be1452c7c63ffd9967304e4765c60a350e21d55d7bca59b76c315a0",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_horseman_a3/model.rrmaterial",
+      "before": "baabe2880afa17f2e387bbecfda4ba24d73f0a3f58a58b613dfdbd1e3faa1088",
+      "after": "0b78f29ed4f00f4f61c1f67ab126d22f0f2391b8c30ab049873cb34f4cc89f8c",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_horseman_a4/model.rrmaterial",
+      "before": "776c76dd96ae9db3d432c9a8e50e78ba17089273c68a746447aea8b74fd217af",
+      "after": "c3f837c6e036a425d65dc996f67b85e184cf69b1b320605de7711cc55eb86a12",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_hwarang_dismounted_a2/model.rrmaterial",
+      "before": "e47c1008b2f96efd86d309dd7447139c227e0816a39625151f94e57b667f5499",
+      "after": "eecf75817d2b692a9461ae99c4f6eb1f2b9c323d8cbe933956449b1fa994005e",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_hwarang_dismounted_a3/model.rrmaterial",
+      "before": "e47c1008b2f96efd86d309dd7447139c227e0816a39625151f94e57b667f5499",
+      "after": "eecf75817d2b692a9461ae99c4f6eb1f2b9c323d8cbe933956449b1fa994005e",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_hwarang_dismounted_a4/model.rrmaterial",
+      "before": "abe82889df4429b2162241f4d9c3ff10ed4d022776d802105e5936bc58432092",
+      "after": "f0240d0b39ffa7d63dc11ba426d94c901f48782f59a14690a6b9b15b1c6ba547",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_hwarang_mounted_a2/model.rrmaterial",
+      "before": "154db167023b102bee8374e70459e73ee7611f008da801a55f43aa9467400ee6",
+      "after": "a9a8c1dbc28fef58cb9f71da159bf812b8aae21c8c0adf14b41a2edfa91a9655",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_hwarang_mounted_a3/model.rrmaterial",
+      "before": "a2c9cddbeabaa12555ecb8edcfc812e7e96b44fd0d75ed13f43839c421329506",
+      "after": "dc0f8f99f9c65a127f9f858657e64a276f1e80e96d3a5e9473b302c4329f89f1",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_hwarang_mounted_a4/model.rrmaterial",
+      "before": "047471139786b22483c3d03f8a48d020eeac02b4d38619f11825ccf0cbcf1a3c",
+      "after": "d327bad61043bb1d4f9ef887fc333b05a5cfbd18f6ba6a8159096058d87c5852",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_lancer_a3/model.rrmaterial",
+      "before": "762d3f59bd28fffa3a2545b4fcbed2c141edbe7a7e1511bb28342cb337b8f3b6",
+      "after": "c1ab1ee27858ffc8a3055196ee8ffeaf65a79c34a58c58e8a18d22d336bfefae",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_lancer_a4/model.rrmaterial",
+      "before": "87160919112f4859b81d51f83c2c3134f4e4218d8592effeca4f110cdbefcc68",
+      "after": "e754a93a03273c263cd070c7f9b062a8ae7fa152111ebb58b7915fc3c64c4c91",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_monk_a3/model.rrmaterial",
+      "before": "e78ad8db6520f7f2eaadb77204bfae7e2c0ecc1d24b02726c10da2ab8e86eabd",
+      "after": "d1057695e8bb3c3b49900ffdea435ce9f7a9e89e1a2ee994c1cfa146656e4c32",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_monk_a4/model.rrmaterial",
+      "before": "46dc7c4bf5d69abe4e75e61150dab3a9c412c503b10c2e5033abb8b8cbde7253",
+      "after": "c7e4624f8ba7823cb76abb95af36f6c7e1c65df2bc286221e753986120cc27f7",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_horseman_a2/model.rrmaterial",
+      "before": "65848dc8bd4b46227919d6356318a7e8bc7c34c01033bc78d306cd998a889f4b",
+      "after": "6a47b6061184ed774feb9fdb460f44bdc048cc226913c36b07dea44803876318",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_horseman_a3/model.rrmaterial",
+      "before": "61002101b7f58c60cfdb6a62323bf08b80e9b98ff49154b987b54447ffacd1c3",
+      "after": "b034117ead510f94c53fe413fafe4aa67ae84af3e6f429c84e8053a4e502f01c",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_horseman_a4/model.rrmaterial",
+      "before": "a14ef534b4dcdb78aee09605df3e196bb5f5e1014a0fe6cc795e6d1d06f39485",
+      "after": "317711d55bcb9e312b5530d12af1575635e5de615851366c3837880f2c51b960",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_hwarang_a2/model.rrmaterial",
+      "before": "775c4e9eb515851868f7e10e252358a818ab9503eb3d80a1f7302a836d607b13",
+      "after": "52b99b1286f272576d5dc1e185cf7be026d9abe621eb1ad3fedbb4655abf4503",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_hwarang_a3/model.rrmaterial",
+      "before": "09a4d7897c1d7aa57fa979e56d0916305c2f1570f43fcd60d3b3d47bd0c3bc4d",
+      "after": "cfdf36ba1ceea43bbcf8bb8b255194f9dfecac2ae61663795416a159a0f78cf0",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_hwarang_a4/model.rrmaterial",
+      "before": "f35e566cdf0769bae625b5e6ef6fd3e92a0104acd5bb5bcd3c2d74a2e3d843d4",
+      "after": "1d4eea9eb90a1c5c451b3349383edb2a2bd72adb0a5efa08845eda6ab32b1a85",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_lancer_a3/model.rrmaterial",
+      "before": "7a85dd64ad6d84590f806fe5d243027f40a2c59542920977a57e0be8d585bd11",
+      "after": "0acdbe04b9aabc3deaded03ec437570ec114dea15c73c5054d05154f00879312",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_lancer_a4/model.rrmaterial",
+      "before": "de60900d0ae9f52696b1fc4f81fd2752b92d27d3c2e6ad0c5b4d3a52b99e6f05",
+      "after": "f255cadb8012cc862045c314113e5640f5f3ff26873e24ca2bcfbb4374422163",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_scout_a1/model.rrmaterial",
+      "before": "86bca05ac341df5839f7908d71edf8c3f5970aaf3f855614a4ba9460b31f5507",
+      "after": "a2bb27a1a6ad99144fc10bbe97e354306f151e9ce017e9c2e60782e9b276856a",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_scout_a2/model.rrmaterial",
+      "before": "c7a77c7d0c559a6ec92d8d3cf48adc2c5197496c142912a9cd1893c6681c0016",
+      "after": "11501e5b5f4045bf3985a07fd3165638776cb06040d0114d92c27710bb7470de",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_scout_a3/model.rrmaterial",
+      "before": "86bca05ac341df5839f7908d71edf8c3f5970aaf3f855614a4ba9460b31f5507",
+      "after": "a2bb27a1a6ad99144fc10bbe97e354306f151e9ce017e9c2e60782e9b276856a",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_scout_a4/model.rrmaterial",
+      "before": "86bca05ac341df5839f7908d71edf8c3f5970aaf3f855614a4ba9460b31f5507",
+      "after": "a2bb27a1a6ad99144fc10bbe97e354306f151e9ce017e9c2e60782e9b276856a",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_trader_a2/model.rrmaterial",
+      "before": "7117b6c92b31541446aee0cd5d552d76c333f5caa4c64d2ac5c1993b676458fa",
+      "after": "ca3131656f33cf6d1ddc37e3d57502a401624dddcc5111c174b25a8907259e50",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_trader_a3/model.rrmaterial",
+      "before": "e8c26962e17473e991217b42d145f3cb6dde2813b715d8c00a894919d6eb5116",
+      "after": "c1c2af6f982e680281d5950dc5a93cddf5826fc46f4dd78a0a47e30025c99f7d",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_mount_trader_a4/model.rrmaterial",
+      "before": "3f16aa4c4d086e43e037871c04fb0b616f9e9b7208ef31b60412da321996d1b1",
+      "after": "1b7277aa6e828a6bbdba8ea9e3d83b0a4b242b14214500061c35b4c4a6bae849",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_righteous_army_monk_a3/model.rrmaterial",
+      "before": "97eeb2475001fa74df9ab6d7e0921e9561e7fffa7369c7e5ca7dcd377292f9a1",
+      "after": "49f645a7a8cd4e77180f51d876aed1fcfb93d2c1dab76a9f4e5ed2b4997ef86b",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_righteous_army_monk_a4/model.rrmaterial",
+      "before": "b619deeea720191726c70303631827a4702bb9f0334b350555e4288935841efc",
+      "after": "735b9d8bbe56744947faaacff9225ec85f26226d20fb5e6add559592dbf2ca2a",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_scout_a1/model.rrmaterial",
+      "before": "4ac907970dc873476192efab75eb2b23f02dfa10fdfb3d3f2e4bdbdc87a78ffb",
+      "after": "2f2d5641cb0df82b907fbde2de40c47b6b0ae7f9a15c24e000667236fcb120a4",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_scout_a2/model.rrmaterial",
+      "before": "f4f024c95f9f93f479a0194e50c49d17211ed4b7388cf7ac85ad23a673df3220",
+      "after": "2f7f4c5113d1d7dd945e048cc01b3163707fa9c40db70e1c3e8380ed4223b479",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_scout_a3/model.rrmaterial",
+      "before": "f8625b2557d0ad2f2d33e02e8ee6216c08ad87d2791834d396618624086263bf",
+      "after": "1ee627ce209902007abeb0191ac0cf1bc215bbe2a880969f2571e007dd71faf4",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_scout_a4/model.rrmaterial",
+      "before": "80170be6632a445a3aed0e2bace214feaac24ee671b081f0af4dad6557e773f2",
+      "after": "5c337366b03e544c2ee4d2b57ced41282238618d58cd7c1e903c740b45b361a4",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_scout_female_a1/model.rrmaterial",
+      "before": "dc8f547ff47c4883192f94ee737908986faceb5a67c4671b4c8a52129096a0b5",
+      "after": "7a38735ed624fcef0d54690024e92ef3de6ea771ce20ba20426716ee5cae5596",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_scout_female_a2/model.rrmaterial",
+      "before": "423d8cfa420ff3da8f213d386bc94e54e9605df06f727c2fd693ccb993b26a4f",
+      "after": "baf76a969d7a1591300977e58257d31bbf294ca3c108418905ffb05cce271702",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_scout_female_a3/model.rrmaterial",
+      "before": "cf3f0d2a91edca2f20938e77ae59bdadf301000733723fb4025d4ae8e1fe385b",
+      "after": "c48b1d17981eab4472f1650b0081a300ac6ae9ca469b5125b4594378253af5bb",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_scout_female_a4/model.rrmaterial",
+      "before": "73a84cf1884b5f6dd693fd8bf76f8c5dc33f691212de5c5302306757a17d771c",
+      "after": "a9de71fb00d4d186ca91fc3d499fb7f801ecd0be7999bf2938418af3aa1e5241",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_seonbi_a1/model.rrmaterial",
+      "before": "cde9f6a0fa953ebce5e75e68bfeebbe0729776c0d844485a62904ea4d1283a19",
+      "after": "f97373faac5f7cf04cd17ece2c817cc77fd84fe65dad556ea4dbdffda2f9b20c",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_seonbi_a3/model.rrmaterial",
+      "before": "e3430192130418ded0e2f2dc4dc75600f25e198544b8fc153623b4ddd5a27de6",
+      "after": "f502df54091680e935ed20b77a363f77abe7f00af86000324b1d0bb8fb51b1a5",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_spearman_a1/model.rrmaterial",
+      "before": "683cb3f90c6cf3836f1cb7ebf4516be4201f4bbe6094d8a7c41101ebadb0564b",
+      "after": "69080a9e0d01daf7a34848efe4a18f6f7cfc922e0c644d2c566aa4c5ca0331fa",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_spearman_a2/model.rrmaterial",
+      "before": "d86973b8504e1f0b933132f45f3c9b9f90828e78c617a3a0eec8dfc48756baa0",
+      "after": "d1b762699bf0da20f30473e4a9f65d91cc1d405774b675f345f20c4be7493f06",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_spearman_a3/model.rrmaterial",
+      "before": "7a0f11997f24bf0b999cd32bd1c3f4568f1a3744a9d814dbe79302c3729ba571",
+      "after": "f2aa9fecc42ca82bee6d32f29717d12fbf304ec9af7f40f39af418382d6a253e",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_spearman_a4/model.rrmaterial",
+      "before": "aa19579359f75594916af8ca021913fb86b0a9f4dbe1536450ee9464459e07c7",
+      "after": "f4086a29ad67623badab1a78ca5397e2b12c949d308e88f1c9646d7a30a00252",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_tiger_hunter_a2/model.rrmaterial",
+      "before": "2a607a9821e1b1983c56b2320ed7f39d5ee973efa14d24b44ae00e5e65492536",
+      "after": "f35412320a5af2ae4e5d9de0085b9eeebe3e620ab92fe40082678573eb39fc93",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_tiger_hunter_a3/model.rrmaterial",
+      "before": "2a607a9821e1b1983c56b2320ed7f39d5ee973efa14d24b44ae00e5e65492536",
+      "after": "f35412320a5af2ae4e5d9de0085b9eeebe3e620ab92fe40082678573eb39fc93",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_tiger_hunter_a4/model.rrmaterial",
+      "before": "9bfbad63550e1d9db92797407e9000d433138702fdc8a4974edb0e7477ea29fe",
+      "after": "0c7987d163bbeb286cc9fb95fdaf513ee874a843cf3cac5e2d7842a092c1a0b3",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trade_cargo_a2/model.rrmaterial",
+      "before": "7c1ebabfb50b443ce13b3cb652af78890fc79534b9e69c3a1c8c166b56a6aa22",
+      "after": "027d0ffe538e553656dcd153523205c8fb1b05e888dac1ba5d234357442b9163",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3",
+        "obj"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trade_cargo_a3/model.rrmaterial",
+      "before": "7c1ebabfb50b443ce13b3cb652af78890fc79534b9e69c3a1c8c166b56a6aa22",
+      "after": "027d0ffe538e553656dcd153523205c8fb1b05e888dac1ba5d234357442b9163",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3",
+        "obj"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trade_cargo_a4/model.rrmaterial",
+      "before": "7c1ebabfb50b443ce13b3cb652af78890fc79534b9e69c3a1c8c166b56a6aa22",
+      "after": "027d0ffe538e553656dcd153523205c8fb1b05e888dac1ba5d234357442b9163",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3",
+        "obj"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trader_a2/model.rrmaterial",
+      "before": "b52b7f892e59db57f0f76e93a9ebe725c88b2e0b76aafeb210b65bc88c83b830",
+      "after": "a0042cc2f5e4c3d403c6e3330b6719ac4afaadf01f25d487e129b087194db2ad",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trader_a3/model.rrmaterial",
+      "before": "03af6554831f349fb6d053488a2c5050c8200ffa8d813fc71d7ff3c0ac1f5a6d",
+      "after": "8c82a2751031bd1d96fe983191b138f9844495fe4064ca719420b984b8a0eae7",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trader_a4/model.rrmaterial",
+      "before": "52fbf973b8a4b37979b2d4451565b132668f1cb8271f72e680929f94bdbd6d42",
+      "after": "845dd0f168a5d8872d3cc262df76f77f1d6f22d9e9b7b633e1cbe0be791549a9",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trader_female_a2/model.rrmaterial",
+      "before": "a5cedfb98ba9c824d3960093dd8894b52a44efa2962c898a7d1efe3aaa9e7bfd",
+      "after": "dd47bbc81f1e354c042298e2f8fb59e60f1e4c8fa795a9bc3ad4eff421232322",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trader_female_a3/model.rrmaterial",
+      "before": "57a2627823d5d20001d4424b6877c17141415412a715c95a9597fc6886daf82f",
+      "after": "373b5c34314983c9330583a1417eb0ebb6ee95e0782243af51ced9ba75d6bd65",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_trader_female_a4/model.rrmaterial",
+      "before": "bba5bf92f429581c90def0498d35d586d06b3833dfb2a8d319d22ed65ff13c69",
+      "after": "0723b1c8aa05494eade260d28966e043f8b2fec003660d5c9cfd602d1fd79443",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_villager_female_a1/model.rrmaterial",
+      "before": "2c446befbc3a8932bc3740d15bfa3d64cac1b716d1a5828b7eb947b81e8e2f98",
+      "after": "4a1e90d87342e09981e43ddabf7640435cc0ec191a1f2ff67d6028efeea2bc6b",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_villager_female_a2/model.rrmaterial",
+      "before": "528daae759d30f4e2b752dca7132d38e345137f75b3f0efd48ba681a7ba07adb",
+      "after": "6a7c5bc9a914e1cab12ec0955a9d99d5b74b131ff99322af02b6e262fe76e014",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_villager_female_a3/model.rrmaterial",
+      "before": "87b1979732f4eacf353c6e30c3f85690322dbe0eb1423cd8d49f5bf43a62fce9",
+      "after": "273f66269c6016744ed07a154ce3997a8b4a9a233efd61ee901b39d85ad7352b",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_villager_female_a4/model.rrmaterial",
+      "before": "b1cea854b33ed3f3a72e921fa8fca273c140312eae23d1061a704f4b876b60b3",
+      "after": "6fb7599d45db50d86837a197b1ce593cd44f989e9250db126f2b6bc5caab4111",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_villager_male_a1/model.rrmaterial",
+      "before": "57ffccbe34715596826786339b7d989904593da789057613bb6150d20a40185d",
+      "after": "5e412e060902be6f8f4d95ef1e5fa6c718ce253a433c61ae0ef388aa103b9ccc",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_villager_male_a2/model.rrmaterial",
+      "before": "1553c88c2114e3f2f6bf9229fa12b74cef9f7c3dc48d7dee6a454cb4c9eb2975",
+      "after": "d1c70bca5a93580c083782c6f6e8cce01ba34e58bbbf2dda7a65081ee501ea06",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_villager_male_a3/model.rrmaterial",
+      "before": "c3e83619db6c297aee67488c1727335ceba40e73845febd17b2ef8e03aead1ab",
+      "after": "672293262fbe3b4ae5744519979f5b3aaa59314e008bf52ed0ff7feece2f1fc3",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/units/kr_villager_male_a4/model.rrmaterial",
+      "before": "7723621d5ec6d4f045c0316dfacf5c0a6cd1f64c6ef326383db89919947e691e",
+      "after": "b48bacd84fa580e03c3dc7b28477dc42c68c1f9125a6d8c564ba72db8b7bbd6d",
+      "reason": "Match actual geometry material key; preserve official shader/tint LUT/texture payload",
+      "before_keys": [
+        "lod1",
+        "lod2",
+        "lod3"
+      ],
+      "after_keys": [
+        "korean unified atlas"
+      ]
+    },
+    {
+      "member": "art/kr013/static/bulguksa_temple/model.rgm",
+      "before": "f0a7a0a35f816c9e7b1ca288a51639cb75e156252455b28d2579f9891c4266ed",
+      "after": "3be57f8ecc998ac59d739d9654b41422b15992c7efab2fc3079fea664de1a01c",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/gate_of_reverence/model.rgm",
+      "before": "fba9c52bdd397788f8ee02c2c3a2767084a45009b4459d7fc899b1ceaa6834ad",
+      "after": "ab6e4eb21d1cbe67cefcc0ad513c64e11ad9097bc6859323ab8e649e0b249712",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/gyeongbok_palace/model.rgm",
+      "before": "48882ddef58e1a61759d4c9bbc2caf523bce38df28c87b27351a4372c5a58964",
+      "after": "25fe4cb94cdcf9a257baba4c7cf2bc0f3952aad523b871d835b1eeb069be3e0b",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/hall_of_worthies/model.rgm",
+      "before": "5a79db95c1e3b52ad4ee5a4f56c4b32d8df2d4ceabe6db95725e4642b7f3d8a9",
+      "after": "f51526254d687d196068443934c917f185c997b2958546fbbcb870d38ef335fe",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/hwangnyongsa/model.rgm",
+      "before": "5165a0d733eb740c18f5df86911d22ed8382e7f9e2ba15ce0edd1231a8a091c4",
+      "after": "4a58a5ddccca31b63ddd8f53124295900313126647ea61afed674c83f3f520d0",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_cavalry_spear/model.rgm",
+      "before": "60b6883c097c8f24c3eb12ec9a28ec87507aa88281c833c61e072ad801d7bbde",
+      "after": "1164ae99212d3e7d979e90e1d0263451ac2bad7bb5b1fed0453ae74e7bca0624",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_crossbow/model.rgm",
+      "before": "f1602f0d2e00c1dd4b6c03a1d853e0f25f7d77d4d10cc897e0dcf682e4d27ee1",
+      "after": "ee3dc17770d1efe3e801f13a57c8b18307065f356fb3a9da047b11c33702179d",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_gakgung_archer/model.rgm",
+      "before": "db4e553dfc573187f96735b6a16e1384b1540b85f4b717c1156991373ac7a8c8",
+      "after": "38e31265609a8ccd92aa3732eb57ddc69d46919fbb6222a0fb20f34c820f3bef",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_gakgung_hwarang/model.rgm",
+      "before": "04a811caaeb8c762e4c8eadbe7b7ae11f0d660b84aba696b23e65ca9a49f4e2a",
+      "after": "3e57ed4272d61317f8c3a4ed6ccac346795ae73a0912cdd55879b086e4c4b4a1",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_gakgung_tiger_hunter/model.rgm",
+      "before": "7a1549caaee37ad0cdd0912e81eaa1ea77df1e6c5167bf1bc17eef491ff478c8",
+      "after": "f2794fc49e8e232e9c3aff1a1f524a2934183b2a17bd42c4d231926fe38e8508",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_gapsa_heavy_spear/model.rgm",
+      "before": "1f4152573a77c89c89587f4779d2ee30192c94d865ef6307bb9631f227e1afa8",
+      "after": "44b07955addb638d6a48a897498fc3423151e276a272d3f4b1dd0ef9a12bbcb0",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_gapsa_long_spear/model.rgm",
+      "before": "b5e7aed4c269cf1497bdfcba72b0a12b75cea5d67025b89c13afe5325988f689",
+      "after": "9c4393103d385d59872db13c3f2df9e381d5c1bab58cf689b1192ac28f542809",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_hand_chongtong/model.rgm",
+      "before": "691b8a69f0ebb6ffd70fe976747df0f0d1a3274285dd0b6c1036655de9aea53d",
+      "after": "defb26a6505be3d9ed8a6b97c44a23ea10812c285f2cdbf316776c7c0182dbb5",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_hwarang_sword/model.rgm",
+      "before": "114c1328c9635f74e9f023e7d800372258924cc7219176f1be8343d775516b99",
+      "after": "c2f7a34d7d870c0d499984fa1faf2aeb44fbb35c2f3292edc22366ed1253c4cb",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_jangchang_plain/model.rgm",
+      "before": "fb11b14582dce14ad0427bb189f9ba7d1ea03f7f95caf7b74d1d0d1ffd8670d2",
+      "after": "b479923e205af9b3848a52282c42f95c41f78a2f0950db195acebedd9c255f13",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_jangchang_tassel/model.rgm",
+      "before": "879dbc2bb6eb3203f2593d65a976a51ee3ecb829612657368a7f52ad3ae76753",
+      "after": "806b71227ca7f83c3bca2d31f54274c92b5de70a53cfe23ddbe7765894fe13fa",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_lancer_lance/model.rgm",
+      "before": "ea2d82d87ce42c26026ed6c8f10e1908eff02dbff862cd26a844b2110f7a3f64",
+      "after": "9fdb6f267d52f13c788da283a82179db167ca7c66ec8668f4c0fea86413be0da",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_lancer_polearm_upgrade/model.rgm",
+      "before": "ebe038226e9d8122e5e64d713f22fa09a5c6ba78e81304242d78472a3003b000",
+      "after": "4f5208f89ba2c278db3ebf5df48a28b0a4fcc3c7a0728a53c650be9b5191896a",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_lumber_camp01/model.rgm",
+      "before": "b367f211b3e70817f39c462b9c4700e828309f00eec3158ad423cde8de924af2",
+      "after": "323f426c4af12d112b84a750a6dc30eefb4abf507e4b426cda342aaee8e0cdf5",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_mining_camp01/model.rgm",
+      "before": "d0a8582b3d483d3ae7bf8a0606da4c645fae3740da9d6feeaa265ceedfa8f303",
+      "after": "b27357a853ca9582395fa7ed3d6407fb86986ad79f06d7e73b61189df3d01dd8",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_monk_staff/model.rgm",
+      "before": "c8c8d90b9ca8754b5f8548b8f5f8b8cf1809ccdd73d04c8601faa7bc25c3dfc9",
+      "after": "250446620f848b9c288f56218b5171596e7e01f6731658a6c7ad151ae7148f84",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_righteous_monk_sword/model.rgm",
+      "before": "446a617fac2baf3e954cbc709572241425477d9bd89d39da873fc4e28de45040",
+      "after": "b954647109a5946acb53fb1d72285ff43690945a6072b3ac46e5fa494233fcb0",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_seonbi_book/model.rgm",
+      "before": "4428648f0809f3390d2d533a32e4c397c8ebe15263c8235302c247b0beec0b7b",
+      "after": "4fa323a10a7dda79fefe9bb1cb08be488a5254926b93015b8167c8ebe9a0f383",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_shared_torch/model.rgm",
+      "before": "480f189157de5bd2ed665ade94ee68af68c3555af042f9a8f95ac3a175383345",
+      "after": "9523d169473d7607f3f276c200d8d740e0b67a41000d194483dd02049dfefac6",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_villager_axe/model.rgm",
+      "before": "7cfd3ce995c2eda1cf4c2805cdba0ee26956f66b4ca224ee2bf90e39b7389be5",
+      "after": "197748e7d725e908af382343d2e8590c9b7a2979adc4256fcb65152830bfa244",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_villager_basket/model.rgm",
+      "before": "966030f25a8296b0597125e34c414aa1852391e35cc536a89b08620afca81e47",
+      "after": "e53e582483c8a27e1f8ec55d5eebb77df5b711b147e01246b30f39fe4f86a92f",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_villager_crook/model.rgm",
+      "before": "c23570c29e98a066159f5798af51fffc92d4202c011406e159faedb3f3b081ae",
+      "after": "8cb31e11cd1b43ad574c14e80651edd2496c81637789cb8eab64c762d327ea37",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_villager_hammer/model.rgm",
+      "before": "5d370141521cab6e44d75c758343b786b68db7b36d64c1bcbd1c67c19bdbaa45",
+      "after": "d7edf62ebbc38edd7d14818ac551f9913647be4d5e7e4cf86194b014d44b1ed2",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_villager_hunting_bow/model.rgm",
+      "before": "e4ace9d3fb29fc8f011376e67d1d6206d0a5256511db3ffabf1efeaf9b17183b",
+      "after": "5ba47440d6128fc6f41033536ee083dc599f4bfe3b40926d385ae3e866f60831",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_villager_hunting_spear/model.rgm",
+      "before": "edbc36f7a764362dbfbc0079e8c8d2bd494e36397e16599f46f0caf9f567332f",
+      "after": "53342502a93aa25d4d463ec27dcaf37025db92b68ef1bf700d46c30249f12f3d",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_villager_pick/model.rgm",
+      "before": "275593134cd4314771069f02bf2d8257e118f016fe4526c5937e2f7338706e50",
+      "after": "44f88d2ce377fea408e6c3fb3da8906ad5f9589bd61987a3040adfa6b5d283f9",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/korea_villager_sickle/model.rgm",
+      "before": "e1e99ea298c5f90a94b9ef7def1f4c490a5cebeb6d9b999b8f15f30f53066308",
+      "after": "dbc9f12f779b33d5da8a87d131b7f4f303f9647ec909bc293b69bfcd02337ceb",
+      "condition_count": 1,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/mountain_fortress/model.rgm",
+      "before": "5eb3f801f57e261ff368f93afb639b36ea6b620fc52db5564d354bc278c45d89",
+      "after": "eb76f4666dabd5105fcc4d21fb4741fed34c5cd8faa77021831e78279ace2707",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/seon_deok_observatory/model.rgm",
+      "before": "249050cd1f6a1201d6136a2f8a2b2a616908d9ac92bbe9103464934bc1133bfc",
+      "after": "c5d27886dfb4310fa2e4101e49396773cf5e4da7609d1a459ee1e0a81d6676bc",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/seowon_academy/model.rgm",
+      "before": "a3b2a4e4deafa54ca67e5ac4a5e3183f6a33b98ea7c55fe3179532f3e78b5452",
+      "after": "b325ce0a7de8e1a483a783cffac5f0278bcf8a06677bac9e6dd363cb346ac0df",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    },
+    {
+      "member": "art/kr013/static/stone_pagoda/model.rgm",
+      "before": "e2956f548950404c8f7ef46f3f8cc8b2bab9e79709746685a48fa1d0b9681040",
+      "after": "237503bf94519bb6148f85f6d605f91e22113403b6387342b808cacb41dc3e2e",
+      "condition_count": 7,
+      "reason": "Native all-OR lifecycle alternatives match two official current building donors"
+    }
+  ],
+  "official_conditions": [
+    {
+      "model": "art/civilizations/chinese/structures/archery_range/chi_archery_range_control_age02/chi_archery_range_control_age02",
+      "rgm_sha256": "248d45c44c2689a51fc231bff5be3e1e84d50fdcb8f2c703dce770048d103b65",
+      "condition": "Korea_archery_range02-official-condition.bin",
+      "condition_sha256": "e087c26426e38e46055325f216b78db261f67cb6e4545ec8c557c97e5450114a",
+      "condition_count": 2
+    },
+    {
+      "model": "art/civilizations/chinese/structures/stable/chi_stable_control_age02/chi_stable_control_age02",
+      "rgm_sha256": "2f19f09605576f8b8e3598fd72a9c354c7c85430cd8ba03633b7eb221025f167",
+      "condition": "Korea_stable02-official-condition.bin",
+      "condition_sha256": "e087c26426e38e46055325f216b78db261f67cb6e4545ec8c557c97e5450114a",
+      "condition_count": 2
+    }
+  ],
+  "scar_before": "1971bc54cfaade3d8c9665ebd914d4c6cd3509343575151c251f33bbedba89d7",
+  "scar_after": "2f4914822ffc62d15dff2742fbd12cd89471e91346f148c07283aec7dc49aeb8",
+  "geometry_rigs_textures_tables_unchanged": true,
+  "native_game_acceptance": "pending",
+  "squad_interruption_limit": "A new stationary ground attack cannot be distinguished by the documented APIs; moving/queued/interrupted orders are guarded."
+}

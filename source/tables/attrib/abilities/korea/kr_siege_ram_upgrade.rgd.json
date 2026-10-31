@@ -948,7 +948,7 @@
               "key": "validate_actions",
               "hash": 1861123722469083899,
               "kind": "Boolean",
-              "value": true
+              "value": false
             },
             {
               "key": "target",
@@ -2038,7 +2038,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": "BuildingUpgradeDataTemplate"
+                  "value": "UniqueAbilityDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -3515,7 +3515,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": ""
+                  "value": "UniqueAbilityDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -3826,7 +3826,7 @@
                   "key": "gold",
                   "hash": 7631488968183620829,
                   "kind": "Float",
-                  "value": 0.0
+                  "value": 700.0
                 },
                 {
                   "key": "militia_hre",

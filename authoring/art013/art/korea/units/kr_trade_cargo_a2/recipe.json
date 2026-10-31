@@ -1,0 +1,8 @@
+{
+  "id": "kr_trade_cargo_a2",
+  "family": "trade_cargo",
+  "kind": "cargo",
+  "age": 2,
+  "donor": "art/civilizations/chinese/weapons/chi_trade_horse_age02/chi_trade_horse_age02.rgm",
+  "design": "Korean woven and ramie cargo wrappers over original native trade gear; retain exact attachment root and structure"
+}

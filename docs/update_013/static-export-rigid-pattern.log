@@ -1,0 +1,187 @@
+00:00.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\lumber_camp01\Korea_lumber_camp01.blend"
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\export_static.py:120: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  cm=bpy.data.materials.new(name);cm.use_nodes=False;clean[name]=cm
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_lumber_camp01\\model.fbx'
+export finished in 0.0404 sec.
+STATIC_EXPORTED 1 36 Korea_lumber_camp01 {'healthy_lod0': 1010}
+00:01.204  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\mining_camp01\Korea_mining_camp01.blend"
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\export_static.py:120: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  cm=bpy.data.materials.new(name);cm.use_nodes=False;clean[name]=cm
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_mining_camp01\\model.fbx'
+export finished in 0.0394 sec.
+STATIC_EXPORTED 2 36 Korea_mining_camp01 {'healthy_lod0': 1010}
+00:01.438  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\cavalry_spear\Korea_cavalry_spear.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_cavalry_spear\\model.fbx'
+export finished in 0.0268 sec.
+STATIC_EXPORTED 3 36 Korea_cavalry_spear {'healthy_lod0': 30, 'healthy_lod1': 30, 'healthy_lod2': 30}
+00:01.579  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\crossbow\Korea_crossbow.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_crossbow\\model.fbx'
+export finished in 0.0310 sec.
+STATIC_EXPORTED 4 36 Korea_crossbow {'healthy_lod0': 440, 'healthy_lod1': 240, 'healthy_lod2': 138}
+00:01.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_archer\Korea_gakgung_archer.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_gakgung_archer\\model.fbx'
+export finished in 0.0278 sec.
+STATIC_EXPORTED 5 36 Korea_gakgung_archer {'healthy_lod0': 148, 'healthy_lod1': 108, 'healthy_lod2': 80}
+00:01.907  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_hwarang\Korea_gakgung_hwarang.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_gakgung_hwarang\\model.fbx'
+export finished in 0.0272 sec.
+STATIC_EXPORTED 6 36 Korea_gakgung_hwarang {'healthy_lod0': 148, 'healthy_lod1': 108, 'healthy_lod2': 80}
+00:02.079  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_tiger_hunter\Korea_gakgung_tiger_hunter.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_gakgung_tiger_hunter\\model.fbx'
+export finished in 0.0359 sec.
+STATIC_EXPORTED 7 36 Korea_gakgung_tiger_hunter {'healthy_lod0': 148, 'healthy_lod1': 108, 'healthy_lod2': 80}
+00:02.250  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gapsa_heavy_spear\Korea_gapsa_heavy_spear.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_gapsa_heavy_spear\\model.fbx'
+export finished in 0.0253 sec.
+STATIC_EXPORTED 8 36 Korea_gapsa_heavy_spear {'healthy_lod0': 30, 'healthy_lod1': 30, 'healthy_lod2': 30}
+00:02.391  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gapsa_long_spear\Korea_gapsa_long_spear.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_gapsa_long_spear\\model.fbx'
+export finished in 0.0261 sec.
+STATIC_EXPORTED 9 36 Korea_gapsa_long_spear {'healthy_lod0': 232, 'healthy_lod1': 232, 'healthy_lod2': 232}
+00:02.532  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\hand_chongtong\Korea_hand_chongtong.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_hand_chongtong\\model.fbx'
+export finished in 0.0253 sec.
+STATIC_EXPORTED 10 36 Korea_hand_chongtong {'healthy_lod0': 96, 'healthy_lod1': 96, 'healthy_lod2': 52}
+00:02.688  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\hwarang_sword\Korea_hwarang_sword.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_hwarang_sword\\model.fbx'
+export finished in 0.0277 sec.
+STATIC_EXPORTED 11 36 Korea_hwarang_sword {'healthy_lod0': 274, 'healthy_lod1': 163, 'healthy_lod2': 84}
+00:02.829  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\jangchang_plain\Korea_jangchang_plain.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_jangchang_plain\\model.fbx'
+export finished in 0.0243 sec.
+STATIC_EXPORTED 12 36 Korea_jangchang_plain {'healthy_lod0': 30, 'healthy_lod1': 30, 'healthy_lod2': 30}
+00:02.954  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\jangchang_tassel\Korea_jangchang_tassel.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_jangchang_tassel\\model.fbx'
+export finished in 0.0240 sec.
+STATIC_EXPORTED 13 36 Korea_jangchang_tassel {'healthy_lod0': 184, 'healthy_lod1': 90, 'healthy_lod2': 66}
+00:03.094  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\lancer_lance\Korea_lancer_lance.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_lancer_lance\\model.fbx'
+export finished in 0.0281 sec.
+STATIC_EXPORTED 14 36 Korea_lancer_lance {'healthy_lod0': 186, 'healthy_lod1': 128, 'healthy_lod2': 80}
+00:03.235  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\lancer_polearm_upgrade\Korea_lancer_polearm_upgrade.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_lancer_polearm_upgrade\\model.fbx'
+export finished in 0.0263 sec.
+STATIC_EXPORTED 15 36 Korea_lancer_polearm_upgrade {'healthy_lod0': 190, 'healthy_lod1': 102, 'healthy_lod2': 58}
+00:03.375  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\monk_staff\Korea_monk_staff.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_monk_staff\\model.fbx'
+export finished in 0.0318 sec.
+STATIC_EXPORTED 16 36 Korea_monk_staff {'healthy_lod0': 542, 'healthy_lod1': 462, 'healthy_lod2': 146}
+00:03.547  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\righteous_monk_sword\Korea_righteous_monk_sword.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_righteous_monk_sword\\model.fbx'
+export finished in 0.0287 sec.
+STATIC_EXPORTED 17 36 Korea_righteous_monk_sword {'healthy_lod0': 97, 'healthy_lod1': 97, 'healthy_lod2': 97}
+00:03.688  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\seonbi_book\Korea_seonbi_book.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_seonbi_book\\model.fbx'
+export finished in 0.0273 sec.
+STATIC_EXPORTED 18 36 Korea_seonbi_book {'healthy_lod0': 28, 'healthy_lod1': 28, 'healthy_lod2': 28}
+00:03.829  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\shared_torch\Korea_shared_torch.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_shared_torch\\model.fbx'
+export finished in 0.0267 sec.
+STATIC_EXPORTED 19 36 Korea_shared_torch {'healthy_lod0': 28, 'healthy_lod1': 18, 'healthy_lod2': 8}
+00:03.969  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_axe\Korea_villager_axe.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_villager_axe\\model.fbx'
+export finished in 0.0264 sec.
+STATIC_EXPORTED 20 36 Korea_villager_axe {'healthy_lod0': 64, 'healthy_lod1': 54, 'healthy_lod2': 32}
+00:04.110  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_basket\Korea_villager_basket.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_villager_basket\\model.fbx'
+export finished in 0.0290 sec.
+STATIC_EXPORTED 21 36 Korea_villager_basket {'healthy_lod0': 804, 'healthy_lod1': 480, 'healthy_lod2': 256}
+00:04.266  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_crook\Korea_villager_crook.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_villager_crook\\model.fbx'
+export finished in 0.0200 sec.
+STATIC_EXPORTED 22 36 Korea_villager_crook {'healthy_lod0': 88, 'healthy_lod1': 76, 'healthy_lod2': 56}
+00:04.407  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hammer\Korea_villager_hammer.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_villager_hammer\\model.fbx'
+export finished in 0.0236 sec.
+STATIC_EXPORTED 23 36 Korea_villager_hammer {'healthy_lod0': 32, 'healthy_lod1': 32, 'healthy_lod2': 24}
+00:04.563  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hunting_bow\Korea_villager_hunting_bow.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_villager_hunting_bow\\model.fbx'
+export finished in 0.0319 sec.
+STATIC_EXPORTED 24 36 Korea_villager_hunting_bow {'healthy_lod0': 84, 'healthy_lod1': 76, 'healthy_lod2': 50}
+00:04.735  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hunting_spear\Korea_villager_hunting_spear.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_villager_hunting_spear\\model.fbx'
+export finished in 0.0314 sec.
+STATIC_EXPORTED 25 36 Korea_villager_hunting_spear {'healthy_lod0': 50, 'healthy_lod1': 50, 'healthy_lod2': 50}
+00:04.907  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_pick\Korea_villager_pick.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_villager_pick\\model.fbx'
+export finished in 0.0256 sec.
+STATIC_EXPORTED 26 36 Korea_villager_pick {'healthy_lod0': 92, 'healthy_lod1': 56, 'healthy_lod2': 20}
+00:05.063  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_sickle\Korea_villager_sickle.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\Korea_villager_sickle\\model.fbx'
+export finished in 0.0233 sec.
+STATIC_EXPORTED 27 36 Korea_villager_sickle {'healthy_lod0': 80, 'healthy_lod1': 60, 'healthy_lod2': 38}
+00:05.219  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\bulguksa_temple\bulguksa_temple.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\bulguksa_temple\\model.fbx'
+export finished in 0.3878 sec.
+STATIC_EXPORTED 28 36 bulguksa_temple {'construction_0_lod0': 36, 'construction_25_lod0': 7504, 'construction_50_lod0': 16812, 'construction_75_lod0': 22052, 'damage_25_lod0': 21944, 'damage_50_lod0': 19580, 'damage_75_lod0': 19520, 'healthy_lod0': 22052, 'healthy_lod1': 13176, 'healthy_lod2': 6276, 'ruins_lod0': 5260}
+00:08.485  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\gate_of_reverence\gate_of_reverence.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\gate_of_reverence\\model.fbx'
+export finished in 0.2930 sec.
+STATIC_EXPORTED 29 36 gate_of_reverence {'construction_0_lod0': 12, 'construction_25_lod0': 5644, 'construction_50_lod0': 11484, 'construction_75_lod0': 15852, 'damage_25_lod0': 14640, 'damage_50_lod0': 13428, 'damage_75_lod0': 12204, 'healthy_lod0': 15852, 'healthy_lod1': 7980, 'healthy_lod2': 3724, 'ruins_lod0': 4076}
+00:10.829  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\gyeongbok_palace\gyeongbok_palace.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\gyeongbok_palace\\model.fbx'
+export finished in 0.2948 sec.
+STATIC_EXPORTED 30 36 gyeongbok_palace {'construction_0_lod0': 12, 'construction_25_lod0': 1236, 'construction_50_lod0': 9784, 'construction_75_lod0': 17108, 'damage_25_lod0': 15608, 'damage_50_lod0': 13100, 'damage_75_lod0': 11588, 'healthy_lod0': 17108, 'healthy_lod1': 11404, 'healthy_lod2': 4928, 'ruins_lod0': 1684}
+00:13.032  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\hall_of_worthies\hall_of_worthies.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\hall_of_worthies\\model.fbx'
+export finished in 0.2456 sec.
+STATIC_EXPORTED 31 36 hall_of_worthies {'construction_0_lod0': 12, 'construction_25_lod0': 1116, 'construction_50_lod0': 8388, 'construction_75_lod0': 13832, 'damage_25_lod0': 13192, 'damage_50_lod0': 11056, 'damage_75_lod0': 10416, 'healthy_lod0': 13832, 'healthy_lod1': 9888, 'healthy_lod2': 4236, 'ruins_lod0': 1564}
+00:14.954  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\hwangnyongsa\hwangnyongsa.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\hwangnyongsa\\model.fbx'
+export finished in 0.7545 sec.
+STATIC_EXPORTED 32 36 hwangnyongsa {'construction_0_lod0': 36, 'construction_25_lod0': 1796, 'construction_50_lod0': 19536, 'construction_75_lod0': 38988, 'damage_25_lod0': 35628, 'damage_50_lod0': 27932, 'damage_75_lod0': 24572, 'healthy_lod0': 38988, 'healthy_lod1': 24508, 'healthy_lod2': 11812, 'ruins_lod0': 2208}
+00:21.844  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\mountain_fortress\mountain_fortress.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\mountain_fortress\\model.fbx'
+export finished in 0.2665 sec.
+STATIC_EXPORTED 33 36 mountain_fortress {'construction_0_lod0': 28, 'construction_25_lod0': 8016, 'construction_50_lod0': 12896, 'construction_75_lod0': 15448, 'damage_25_lod0': 15228, 'damage_50_lod0': 13972, 'damage_75_lod0': 13740, 'healthy_lod0': 15448, 'healthy_lod1': 6464, 'healthy_lod2': 3312, 'ruins_lod0': 2000}
+00:24.094  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\seon_deok_observatory\seon_deok_observatory.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\seon_deok_observatory\\model.fbx'
+export finished in 0.1469 sec.
+STATIC_EXPORTED 34 36 seon_deok_observatory {'construction_0_lod0': 24, 'construction_25_lod0': 2592, 'construction_50_lod0': 5308, 'construction_75_lod0': 5368, 'damage_25_lod0': 5368, 'damage_50_lod0': 3796, 'damage_75_lod0': 3160, 'healthy_lod0': 5368, 'healthy_lod1': 4700, 'healthy_lod2': 4016, 'ruins_lod0': 1432}
+00:25.204  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\seowon_academy\seowon_academy.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\seowon_academy\\model.fbx'
+export finished in 0.2402 sec.
+STATIC_EXPORTED 35 36 seowon_academy {'construction_0_lod0': 12, 'construction_25_lod0': 1224, 'construction_50_lod0': 8700, 'construction_75_lod0': 14536, 'damage_25_lod0': 13656, 'damage_50_lod0': 11408, 'damage_75_lod0': 10528, 'healthy_lod0': 14536, 'healthy_lod1': 10416, 'healthy_lod2': 4576, 'ruins_lod0': 1672}
+00:27.219  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\stone_pagoda\stone_pagoda.blend"
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\stone_pagoda\\model.fbx'
+export finished in 0.0703 sec.
+STATIC_EXPORTED 36 36 stone_pagoda {'construction_0_lod0': 60, 'construction_25_lod0': 432, 'construction_50_lod0': 1612, 'construction_75_lod0': 1840, 'damage_25_lod0': 1840, 'damage_50_lod0': 1392, 'damage_75_lod0': 872, 'healthy_lod0': 1840, 'healthy_lod1': 1144, 'healthy_lod2': 924, 'ruins_lod0': 780}
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

@@ -1,0 +1,59 @@
+{
+  "schema": "korea.art013-native-conversion-comparison/v1",
+  "asset": "kr_villager_male_a1",
+  "source_blend_sha256": "af04fafef851e14d7dca3ed27a901a4e522a8507d71974c792b3770628468543",
+  "manifest_sha256": "203a009d318646fa1e9d5f0afef992669e795cfadaf69cded581710e88395fb6",
+  "status": "three_lods_positions_uv_weights_rig_hierarchy_qualified",
+  "skeleton_bones": 73,
+  "native_blockers": [],
+  "native_warnings": [],
+  "lods": [
+    {
+      "lod": 1,
+      "source_mesh": "kr_villager_male_a1_LOD0",
+      "source_vertices": 1013,
+      "native_vertices": 3782,
+      "triangles": 1362,
+      "matched_native_vertices": 3782,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009452581871300936,
+      "max_uv_error": 0.0006103038798319994,
+      "max_normalized_weight_error": 0.007947612979052165,
+      "lod_palette": "unit_mesh_lod1",
+      "rig_projection": "decoded"
+    },
+    {
+      "lod": 2,
+      "source_mesh": "kr_villager_male_a1_LOD1",
+      "source_vertices": 538,
+      "native_vertices": 1616,
+      "triangles": 606,
+      "matched_native_vertices": 1616,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009384476579725742,
+      "max_uv_error": 0.0005723237153317216,
+      "max_normalized_weight_error": 0.006051125639120858,
+      "lod_palette": "unit_mesh_lod2",
+      "rig_projection": "decoded"
+    },
+    {
+      "lod": 3,
+      "source_mesh": "kr_villager_male_a1_LOD2",
+      "source_vertices": 269,
+      "native_vertices": 634,
+      "triangles": 250,
+      "matched_native_vertices": 634,
+      "unmatched_native_vertices": 0,
+      "max_position_error_m": 0.0009452506201341748,
+      "max_uv_error": 0.0006209836078325561,
+      "max_normalized_weight_error": 0.006483912371338718,
+      "lod_palette": "unit_mesh_lod3",
+      "rig_projection": "decoded"
+    }
+  ],
+  "native_gameplay_or_animation_acceptance": false,
+  "uv_convention": "Source V flipped exactly as Garrison unit_export._prepare_mesh_copy specifies",
+  "position_limit_m": 0.0011,
+  "uv_limit": 0.00075,
+  "weight_quantization_rule": "8-bit smaller channels within 1/255; dominant remainder within (influence_count-1)/255; no new bone influences"
+}

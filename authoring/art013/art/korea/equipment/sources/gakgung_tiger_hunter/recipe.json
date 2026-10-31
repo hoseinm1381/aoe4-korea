@@ -1,0 +1,23 @@
+{
+  "id": "gakgung_tiger_hunter",
+  "donor": "art/civilizations/common/weapons/ranged/bow_recurve/bow_recurve.rgm",
+  "kind": "bow",
+  "design": "Robust hunting bow with narrow hide grip; Tiger Hunter remains a bow unit",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\gakgung_tiger_hunter\\5999fe7551561d7f508b\\decoded-static.json",
+  "manifest_sha256": "afc5151fa31714a29ac228d5a9a2d6216edfaf7a979b200d5c72c40818a25085",
+  "bounds": {
+    "min": [
+      -0.2496337890625,
+      -0.061492919921875,
+      -0.90234375
+    ],
+    "max": [
+      0.134521484375,
+      0.061676025390625,
+      0.89794921875
+    ]
+  },
+  "native_triangles": 336,
+  "bones": 4
+}

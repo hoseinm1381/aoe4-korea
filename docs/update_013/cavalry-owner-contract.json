@@ -1,0 +1,572 @@
+{
+  "source": "art/civilizations/common/animals/archetypes/base_horse_combined/base_horse_combined.rgm",
+  "sha256": "063e5d1e2c6f8a0fb95fc7cb800558288d30b7b28f416d22352f783e7d41fcba",
+  "contract": {
+    "bones": [
+      {
+        "name": "gaia_root",
+        "parent": -1
+      },
+      {
+        "name": "gaia_c_pelvis",
+        "parent": 0
+      },
+      {
+        "name": "gaia_c_spine1",
+        "parent": 1
+      },
+      {
+        "name": "gaia_c_spine2",
+        "parent": 2
+      },
+      {
+        "name": "gaia_c_spine3",
+        "parent": 3
+      },
+      {
+        "name": "gaia_c_spine4",
+        "parent": 4
+      },
+      {
+        "name": "gaia_c_neck1",
+        "parent": 5
+      },
+      {
+        "name": "gaia_c_neck2",
+        "parent": 6
+      },
+      {
+        "name": "gaia_c_neck3",
+        "parent": 7
+      },
+      {
+        "name": "gaia_c_neck4",
+        "parent": 8
+      },
+      {
+        "name": "gaia_c_head",
+        "parent": 9
+      },
+      {
+        "name": "gaia_c_tail0",
+        "parent": 1
+      },
+      {
+        "name": "gaia_c_tail1",
+        "parent": 11
+      },
+      {
+        "name": "gaia_c_tail2",
+        "parent": 12
+      },
+      {
+        "name": "gaia_c_tail3",
+        "parent": 13
+      },
+      {
+        "name": "gaia_c_tail4",
+        "parent": 14
+      },
+      {
+        "name": "gaia_c_tail5",
+        "parent": 15
+      },
+      {
+        "name": "gaia_l_arm_shoulder",
+        "parent": 5
+      },
+      {
+        "name": "gaia_l_arm_upper",
+        "parent": 17
+      },
+      {
+        "name": "gaia_l_arm_lower",
+        "parent": 18
+      },
+      {
+        "name": "gaia_l_arm_wrist",
+        "parent": 19
+      },
+      {
+        "name": "gaia_r_arm_shoulder",
+        "parent": 5
+      },
+      {
+        "name": "gaia_r_arm_upper",
+        "parent": 21
+      },
+      {
+        "name": "gaia_r_arm_lower",
+        "parent": 22
+      },
+      {
+        "name": "gaia_r_arm_wrist",
+        "parent": 23
+      },
+      {
+        "name": "gaia_l_leg_upper",
+        "parent": 1
+      },
+      {
+        "name": "gaia_l_leg_lower",
+        "parent": 25
+      },
+      {
+        "name": "gaia_l_leg_ankle",
+        "parent": 26
+      },
+      {
+        "name": "gaia_r_leg_upper",
+        "parent": 1
+      },
+      {
+        "name": "gaia_r_leg_lower",
+        "parent": 28
+      },
+      {
+        "name": "gaia_r_leg_ankle",
+        "parent": 29
+      },
+      {
+        "name": "metarig_pelvis",
+        "parent": 0
+      },
+      {
+        "name": "metarig_lleg1",
+        "parent": 31
+      },
+      {
+        "name": "metarig_lleg2",
+        "parent": 32
+      },
+      {
+        "name": "metarig_rleg1",
+        "parent": 31
+      },
+      {
+        "name": "metarig_rleg2",
+        "parent": 34
+      },
+      {
+        "name": "metarig_spine1",
+        "parent": 31
+      },
+      {
+        "name": "metarig_spine2",
+        "parent": 36
+      },
+      {
+        "name": "metarig_ribcage",
+        "parent": 37
+      },
+      {
+        "name": "metarig_neck1",
+        "parent": 38
+      },
+      {
+        "name": "metarig_neck2",
+        "parent": 39
+      },
+      {
+        "name": "metarig_head",
+        "parent": 40
+      },
+      {
+        "name": "metarig_larmcollarbone",
+        "parent": 38
+      },
+      {
+        "name": "metarig_larmupper1",
+        "parent": 42
+      },
+      {
+        "name": "metarig_larmupper2",
+        "parent": 43
+      },
+      {
+        "name": "metarig_larmlower1",
+        "parent": 44
+      },
+      {
+        "name": "metarig_larmlower2",
+        "parent": 45
+      },
+      {
+        "name": "metarig_larmpalm",
+        "parent": 46
+      },
+      {
+        "name": "metarig_larmpalmsocket",
+        "parent": 47
+      },
+      {
+        "name": "metarig_rarmcollarbone",
+        "parent": 38
+      },
+      {
+        "name": "metarig_rarmupper1",
+        "parent": 49
+      },
+      {
+        "name": "metarig_rarmupper2",
+        "parent": 50
+      },
+      {
+        "name": "metarig_rarmlower1",
+        "parent": 51
+      },
+      {
+        "name": "metarig_rarmlower2",
+        "parent": 52
+      },
+      {
+        "name": "metarig_rarmpalm",
+        "parent": 53
+      },
+      {
+        "name": "metarig_rarmpalmsocket",
+        "parent": 54
+      },
+      {
+        "name": "metarig_cape_root",
+        "parent": 38
+      },
+      {
+        "name": "metarig_cape_r_back_01",
+        "parent": 56
+      },
+      {
+        "name": "metarig_cape_c_back_01",
+        "parent": 56
+      },
+      {
+        "name": "metarig_cape_l_back_01",
+        "parent": 56
+      },
+      {
+        "name": "gaia_l_arm_fingerbase",
+        "parent": 20
+      },
+      {
+        "name": "gaia_r_arm_fingerbase",
+        "parent": 24
+      },
+      {
+        "name": "gaia_l_leg_toebase",
+        "parent": 27
+      },
+      {
+        "name": "gaia_r_leg_toebase",
+        "parent": 30
+      },
+      {
+        "name": "gaia_l_stirrup1",
+        "parent": 4
+      },
+      {
+        "name": "gaia_l_stirrup2",
+        "parent": 64
+      },
+      {
+        "name": "gaia_r_stirrup1",
+        "parent": 4
+      },
+      {
+        "name": "gaia_r_stirrup2",
+        "parent": 66
+      },
+      {
+        "name": "gaia_props",
+        "parent": 0
+      },
+      {
+        "name": "phys_cloth_root",
+        "parent": 68
+      },
+      {
+        "name": "gaia_l_cloth_jointa1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_l_cloth_jointb1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_l_cloth_jointc1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_l_cloth_jointd1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_l_cloth_jointe1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_l_cloth_jointf1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_r_cloth_jointa1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_r_cloth_jointb1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_r_cloth_jointc1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_r_cloth_jointd1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_r_cloth_jointe1",
+        "parent": 69
+      },
+      {
+        "name": "gaia_r_cloth_jointf1",
+        "parent": 69
+      },
+      {
+        "name": "metarig_llegankle",
+        "parent": 33
+      },
+      {
+        "name": "metarig_rlegankle",
+        "parent": 35
+      },
+      {
+        "name": "metarig_larmmiddle1",
+        "parent": 47
+      },
+      {
+        "name": "metarig_larmthumb1",
+        "parent": 47
+      },
+      {
+        "name": "metarig_rarmmiddle1",
+        "parent": 54
+      },
+      {
+        "name": "metarig_rarmthumb1",
+        "parent": 54
+      },
+      {
+        "name": "metarig_cape_r_back_02",
+        "parent": 57
+      },
+      {
+        "name": "metarig_cape_c_back_02",
+        "parent": 58
+      },
+      {
+        "name": "metarig_cape_l_back_02",
+        "parent": 59
+      },
+      {
+        "name": "gaia_l_arm_finger",
+        "parent": 60
+      },
+      {
+        "name": "gaia_r_arm_finger",
+        "parent": 61
+      },
+      {
+        "name": "gaia_c_tail6",
+        "parent": 16
+      },
+      {
+        "name": "gaia_l_leg_toe",
+        "parent": 62
+      },
+      {
+        "name": "gaia_r_leg_toe",
+        "parent": 63
+      },
+      {
+        "name": "gaia_l_cloth_jointa2",
+        "parent": 70
+      },
+      {
+        "name": "gaia_l_cloth_jointb2",
+        "parent": 71
+      },
+      {
+        "name": "gaia_l_cloth_jointc2",
+        "parent": 72
+      },
+      {
+        "name": "gaia_l_cloth_jointd2",
+        "parent": 73
+      },
+      {
+        "name": "gaia_l_cloth_jointe2",
+        "parent": 74
+      },
+      {
+        "name": "gaia_l_cloth_jointf2",
+        "parent": 75
+      },
+      {
+        "name": "gaia_r_cloth_jointa2",
+        "parent": 76
+      },
+      {
+        "name": "gaia_r_cloth_jointb2",
+        "parent": 77
+      },
+      {
+        "name": "gaia_r_cloth_jointc2",
+        "parent": 78
+      },
+      {
+        "name": "gaia_r_cloth_jointd2",
+        "parent": 79
+      },
+      {
+        "name": "gaia_r_cloth_jointe2",
+        "parent": 80
+      },
+      {
+        "name": "gaia_r_cloth_jointf2",
+        "parent": 81
+      },
+      {
+        "name": "metarig_llegtoe1",
+        "parent": 82
+      },
+      {
+        "name": "metarig_rlegtoe1",
+        "parent": 83
+      },
+      {
+        "name": "metarig_larmmiddle2",
+        "parent": 84
+      },
+      {
+        "name": "metarig_larmmiddle3",
+        "parent": 110
+      },
+      {
+        "name": "metarig_larmthumb2",
+        "parent": 85
+      },
+      {
+        "name": "metarig_larmthumb3",
+        "parent": 112
+      },
+      {
+        "name": "metarig_larmindex1",
+        "parent": 47
+      },
+      {
+        "name": "metarig_larmindex2",
+        "parent": 114
+      },
+      {
+        "name": "metarig_larmindex3",
+        "parent": 115
+      },
+      {
+        "name": "metarig_rarmmiddle2",
+        "parent": 86
+      },
+      {
+        "name": "metarig_rarmmiddle3",
+        "parent": 117
+      },
+      {
+        "name": "metarig_rarmthumb2",
+        "parent": 87
+      },
+      {
+        "name": "metarig_rarmthumb3",
+        "parent": 119
+      },
+      {
+        "name": "metarig_rarmindex1",
+        "parent": 54
+      },
+      {
+        "name": "metarig_rarmindex2",
+        "parent": 121
+      },
+      {
+        "name": "metarig_rarmindex3",
+        "parent": 122
+      },
+      {
+        "name": "metarig_cape_r_back_03",
+        "parent": 88
+      },
+      {
+        "name": "metarig_cape_c_back_03",
+        "parent": 89
+      },
+      {
+        "name": "metarig_cape_l_back_03",
+        "parent": 90
+      }
+    ],
+    "partitions": [
+      {
+        "name": "default_lod3",
+        "start": 0,
+        "count": 36
+      },
+      {
+        "name": "upperbody_lod3",
+        "start": 36,
+        "count": 24
+      },
+      {
+        "name": "default_lod2",
+        "start": 60,
+        "count": 24
+      },
+      {
+        "name": "upperbody_lod2",
+        "start": 84,
+        "count": 7
+      },
+      {
+        "name": "default_lod1",
+        "start": 91,
+        "count": 19
+      },
+      {
+        "name": "upperbody_lod1",
+        "start": 110,
+        "count": 17
+      }
+    ],
+    "groups": [
+      {
+        "name": "default",
+        "slots": [
+          4,
+          2,
+          0
+        ]
+      },
+      {
+        "name": "upperbody",
+        "slots": [
+          5,
+          3,
+          1
+        ]
+      }
+    ],
+    "lod_counts": [
+      127,
+      91,
+      60
+    ],
+    "bind_offset": 3178
+  }
+}

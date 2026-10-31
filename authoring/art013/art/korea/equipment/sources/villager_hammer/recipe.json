@@ -1,0 +1,23 @@
+{
+  "id": "villager_hammer",
+  "donor": "art/civilizations/common/weapons/tools/hammer_construction/hammer_construction.rgm",
+  "kind": "tool",
+  "design": "Wooden construction mallet with bound handle",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\villager_hammer\\4548662ea7b003988781\\decoded-static.json",
+  "manifest_sha256": "2d1b80b813366d1a9c68837fa6c559a98e3c296105661ae0c83ac1001e12adb0",
+  "bounds": {
+    "min": [
+      -0.1376953125,
+      -0.06494140625,
+      -0.2357177734375
+    ],
+    "max": [
+      0.139404296875,
+      0.06524658203125,
+      0.53125
+    ]
+  },
+  "native_triangles": 88,
+  "bones": 0
+}

@@ -1,0 +1,962 @@
+{
+  "archive_sha256": "501f1e1049f9cacc0569b21a9f131c25537839b0413921537185b030451b2101",
+  "fixtures": [
+    {
+      "asset": "kr_archer_a2",
+      "file": "tests/fixtures/art014-before/kr_archer_a2.rgm",
+      "sha256": "c40c0a4fe3f69657410a735ca7e84f3305d79a85f1f0c62e025c12b086f820d4",
+      "contract": {
+        "bones": [
+          {
+            "name": "metarig_root",
+            "parent": -1
+          },
+          {
+            "name": "metarig_pelvis",
+            "parent": 0
+          },
+          {
+            "name": "metarig_lleg1",
+            "parent": 1
+          },
+          {
+            "name": "metarig_lleg2",
+            "parent": 2
+          },
+          {
+            "name": "metarig_rleg1",
+            "parent": 1
+          },
+          {
+            "name": "metarig_rleg2",
+            "parent": 4
+          },
+          {
+            "name": "metarig_spine1",
+            "parent": 1
+          },
+          {
+            "name": "metarig_spine2",
+            "parent": 6
+          },
+          {
+            "name": "metarig_ribcage",
+            "parent": 7
+          },
+          {
+            "name": "metarig_neck1",
+            "parent": 8
+          },
+          {
+            "name": "metarig_neck2",
+            "parent": 9
+          },
+          {
+            "name": "metarig_head",
+            "parent": 10
+          },
+          {
+            "name": "metarig_larmcollarbone",
+            "parent": 8
+          },
+          {
+            "name": "metarig_larmupper1",
+            "parent": 12
+          },
+          {
+            "name": "metarig_larmupper2",
+            "parent": 13
+          },
+          {
+            "name": "metarig_larmlower1",
+            "parent": 14
+          },
+          {
+            "name": "metarig_larmlower2",
+            "parent": 15
+          },
+          {
+            "name": "metarig_larmpalm",
+            "parent": 16
+          },
+          {
+            "name": "metarig_larmpalmsocket",
+            "parent": 17
+          },
+          {
+            "name": "metarig_rarmcollarbone",
+            "parent": 8
+          },
+          {
+            "name": "metarig_rarmupper1",
+            "parent": 19
+          },
+          {
+            "name": "metarig_rarmupper2",
+            "parent": 20
+          },
+          {
+            "name": "metarig_rarmlower1",
+            "parent": 21
+          },
+          {
+            "name": "metarig_rarmlower2",
+            "parent": 22
+          },
+          {
+            "name": "metarig_rarmpalm",
+            "parent": 23
+          },
+          {
+            "name": "metarig_rarmpalmsocket",
+            "parent": 24
+          },
+          {
+            "name": "metarig_llegankle",
+            "parent": 3
+          },
+          {
+            "name": "metarig_rlegankle",
+            "parent": 5
+          },
+          {
+            "name": "metarig_larmmiddle1",
+            "parent": 17
+          },
+          {
+            "name": "metarig_larmthumb1",
+            "parent": 17
+          },
+          {
+            "name": "metarig_rarmmiddle1",
+            "parent": 24
+          },
+          {
+            "name": "metarig_rarmthumb1",
+            "parent": 24
+          },
+          {
+            "name": "metarig_llegtoe1",
+            "parent": 26
+          },
+          {
+            "name": "metarig_rlegtoe1",
+            "parent": 27
+          },
+          {
+            "name": "metarig_larmmiddle2",
+            "parent": 28
+          },
+          {
+            "name": "metarig_larmmiddle3",
+            "parent": 34
+          },
+          {
+            "name": "metarig_larmthumb2",
+            "parent": 29
+          },
+          {
+            "name": "metarig_larmthumb3",
+            "parent": 36
+          },
+          {
+            "name": "metarig_larmindex1",
+            "parent": 17
+          },
+          {
+            "name": "metarig_larmindex2",
+            "parent": 38
+          },
+          {
+            "name": "metarig_larmindex3",
+            "parent": 39
+          },
+          {
+            "name": "metarig_rarmmiddle2",
+            "parent": 30
+          },
+          {
+            "name": "metarig_rarmmiddle3",
+            "parent": 41
+          },
+          {
+            "name": "metarig_rarmthumb2",
+            "parent": 31
+          },
+          {
+            "name": "metarig_rarmthumb3",
+            "parent": 43
+          },
+          {
+            "name": "metarig_rarmindex1",
+            "parent": 24
+          },
+          {
+            "name": "metarig_rarmindex2",
+            "parent": 45
+          },
+          {
+            "name": "metarig_rarmindex3",
+            "parent": 46
+          }
+        ],
+        "partitions": [
+          {
+            "name": "fullbody_lod3",
+            "start": 0,
+            "count": 48
+          }
+        ],
+        "groups": [
+          {
+            "name": "fullbody",
+            "slots": [
+              -1,
+              -1,
+              0
+            ]
+          }
+        ],
+        "lod_counts": [
+          45065,
+          45065,
+          48
+        ],
+        "bind_offset": 1196
+      }
+    },
+    {
+      "asset": "kr_lancer_a3",
+      "file": "tests/fixtures/art014-before/kr_lancer_a3.rgm",
+      "sha256": "97c96054bb9366211f68ef3883e01e39e46836c9b232f7910358426d48b77833",
+      "contract": {
+        "bones": [
+          {
+            "name": "metarig_root",
+            "parent": -1
+          },
+          {
+            "name": "metarig_pelvis",
+            "parent": 0
+          },
+          {
+            "name": "metarig_pelvissocket",
+            "parent": 1
+          },
+          {
+            "name": "metarig_lleg1",
+            "parent": 1
+          },
+          {
+            "name": "metarig_lleg2",
+            "parent": 3
+          },
+          {
+            "name": "metarig_rleg1",
+            "parent": 1
+          },
+          {
+            "name": "metarig_rleg2",
+            "parent": 5
+          },
+          {
+            "name": "metarig_spine1",
+            "parent": 1
+          },
+          {
+            "name": "metarig_spine2",
+            "parent": 7
+          },
+          {
+            "name": "metarig_ribcage",
+            "parent": 8
+          },
+          {
+            "name": "metarig_ribcagesocket",
+            "parent": 9
+          },
+          {
+            "name": "metarig_neck1",
+            "parent": 9
+          },
+          {
+            "name": "metarig_neck2",
+            "parent": 11
+          },
+          {
+            "name": "metarig_head",
+            "parent": 12
+          },
+          {
+            "name": "metarig_larmcollarbone",
+            "parent": 9
+          },
+          {
+            "name": "metarig_larmupper1",
+            "parent": 14
+          },
+          {
+            "name": "metarig_larmupper2",
+            "parent": 15
+          },
+          {
+            "name": "metarig_larmlower1",
+            "parent": 16
+          },
+          {
+            "name": "metarig_larmlower2",
+            "parent": 17
+          },
+          {
+            "name": "metarig_larmpalm",
+            "parent": 18
+          },
+          {
+            "name": "metarig_larmpalmsocket",
+            "parent": 19
+          },
+          {
+            "name": "metarig_rarmcollarbone",
+            "parent": 9
+          },
+          {
+            "name": "metarig_rarmupper1",
+            "parent": 21
+          },
+          {
+            "name": "metarig_rarmupper2",
+            "parent": 22
+          },
+          {
+            "name": "metarig_rarmlower1",
+            "parent": 23
+          },
+          {
+            "name": "metarig_rarmlower2",
+            "parent": 24
+          },
+          {
+            "name": "metarig_rarmpalm",
+            "parent": 25
+          },
+          {
+            "name": "metarig_rarmpalmsocket",
+            "parent": 26
+          },
+          {
+            "name": "metarig_cape_root",
+            "parent": 9
+          },
+          {
+            "name": "metarig_cape_r_back_01",
+            "parent": 28
+          },
+          {
+            "name": "metarig_cape_c_back_01",
+            "parent": 28
+          },
+          {
+            "name": "metarig_cape_l_back_01",
+            "parent": 28
+          },
+          {
+            "name": "metarig_llegankle",
+            "parent": 4
+          },
+          {
+            "name": "metarig_rlegankle",
+            "parent": 6
+          },
+          {
+            "name": "metarig_cloth_root",
+            "parent": 1
+          },
+          {
+            "name": "metarig_cloth_l_b_01",
+            "parent": 34
+          },
+          {
+            "name": "metarig_cloth_l_b_02",
+            "parent": 35
+          },
+          {
+            "name": "metarig_cloth_r_b_01",
+            "parent": 34
+          },
+          {
+            "name": "metarig_cloth_r_b_02",
+            "parent": 37
+          },
+          {
+            "name": "metarig_cloth_l_f_01",
+            "parent": 34
+          },
+          {
+            "name": "metarig_cloth_l_f_02",
+            "parent": 39
+          },
+          {
+            "name": "metarig_cloth_r_f_01",
+            "parent": 34
+          },
+          {
+            "name": "metarig_cloth_r_f_02",
+            "parent": 41
+          },
+          {
+            "name": "metarig_larmmiddle1",
+            "parent": 19
+          },
+          {
+            "name": "metarig_larmthumb1",
+            "parent": 19
+          },
+          {
+            "name": "metarig_rarmmiddle1",
+            "parent": 26
+          },
+          {
+            "name": "metarig_rarmthumb1",
+            "parent": 26
+          },
+          {
+            "name": "metarig_cape_r_back_02",
+            "parent": 29
+          },
+          {
+            "name": "metarig_cape_c_back_02",
+            "parent": 30
+          },
+          {
+            "name": "metarig_cape_l_back_02",
+            "parent": 31
+          },
+          {
+            "name": "metarig_llegtoe1",
+            "parent": 32
+          },
+          {
+            "name": "metarig_rlegtoe1",
+            "parent": 33
+          },
+          {
+            "name": "metarig_cloth_l_b_03",
+            "parent": 36
+          },
+          {
+            "name": "metarig_cloth_r_b_03",
+            "parent": 38
+          },
+          {
+            "name": "metarig_cloth_l_f_03",
+            "parent": 40
+          },
+          {
+            "name": "metarig_cloth_r_f_03",
+            "parent": 42
+          },
+          {
+            "name": "metarig_larmmiddle2",
+            "parent": 43
+          },
+          {
+            "name": "metarig_larmmiddle3",
+            "parent": 56
+          },
+          {
+            "name": "metarig_larmthumb2",
+            "parent": 44
+          },
+          {
+            "name": "metarig_larmthumb3",
+            "parent": 58
+          },
+          {
+            "name": "metarig_larmindex1",
+            "parent": 19
+          },
+          {
+            "name": "metarig_larmindex2",
+            "parent": 60
+          },
+          {
+            "name": "metarig_larmindex3",
+            "parent": 61
+          },
+          {
+            "name": "metarig_rarmmiddle2",
+            "parent": 45
+          },
+          {
+            "name": "metarig_rarmmiddle3",
+            "parent": 63
+          },
+          {
+            "name": "metarig_rarmthumb2",
+            "parent": 46
+          },
+          {
+            "name": "metarig_rarmthumb3",
+            "parent": 65
+          },
+          {
+            "name": "metarig_rarmindex1",
+            "parent": 26
+          },
+          {
+            "name": "metarig_rarmindex2",
+            "parent": 67
+          },
+          {
+            "name": "metarig_rarmindex3",
+            "parent": 68
+          },
+          {
+            "name": "metarig_cape_r_back_03",
+            "parent": 47
+          },
+          {
+            "name": "metarig_cape_c_back_03",
+            "parent": 48
+          },
+          {
+            "name": "metarig_cape_l_back_03",
+            "parent": 49
+          }
+        ],
+        "partitions": [
+          {
+            "name": "lowerbody_lod3",
+            "start": 0,
+            "count": 7
+          },
+          {
+            "name": "upperbody_lod3",
+            "start": 7,
+            "count": 25
+          },
+          {
+            "name": "lowerbody_lod2",
+            "start": 32,
+            "count": 11
+          },
+          {
+            "name": "upperbody_lod2",
+            "start": 43,
+            "count": 7
+          },
+          {
+            "name": "lowerbody_lod1",
+            "start": 50,
+            "count": 6
+          },
+          {
+            "name": "upperbody_lod1",
+            "start": 56,
+            "count": 17
+          }
+        ],
+        "groups": [
+          {
+            "name": "lowerbody",
+            "slots": [
+              4,
+              2,
+              0
+            ]
+          },
+          {
+            "name": "upperbody",
+            "slots": [
+              5,
+              3,
+              1
+            ]
+          }
+        ],
+        "lod_counts": [
+          73,
+          50,
+          32
+        ],
+        "bind_offset": 2021
+      }
+    },
+    {
+      "asset": "kr_mount_lancer_a3",
+      "file": "tests/fixtures/art014-before/kr_mount_lancer_a3.rgm",
+      "sha256": "a37ed9b793761d7099fe15d3a729e0cc73eae5baa87e7330fb7743aaec361b13",
+      "contract": {
+        "bones": [
+          {
+            "name": "gaia_root",
+            "parent": -1
+          },
+          {
+            "name": "gaia_c_pelvis",
+            "parent": 0
+          },
+          {
+            "name": "gaia_c_spine1",
+            "parent": 1
+          },
+          {
+            "name": "gaia_c_spine2",
+            "parent": 2
+          },
+          {
+            "name": "base_rider_bone",
+            "parent": 3
+          },
+          {
+            "name": "gaia_c_spine3",
+            "parent": 3
+          },
+          {
+            "name": "gaia_c_spine4",
+            "parent": 5
+          },
+          {
+            "name": "gaia_c_neck1",
+            "parent": 6
+          },
+          {
+            "name": "gaia_c_neck2",
+            "parent": 7
+          },
+          {
+            "name": "gaia_c_neck3",
+            "parent": 8
+          },
+          {
+            "name": "gaia_c_neck4",
+            "parent": 9
+          },
+          {
+            "name": "gaia_c_head",
+            "parent": 10
+          },
+          {
+            "name": "gaia_c_tail0",
+            "parent": 1
+          },
+          {
+            "name": "gaia_c_tail1",
+            "parent": 12
+          },
+          {
+            "name": "gaia_c_tail2",
+            "parent": 13
+          },
+          {
+            "name": "gaia_c_tail3",
+            "parent": 14
+          },
+          {
+            "name": "gaia_c_tail4",
+            "parent": 15
+          },
+          {
+            "name": "gaia_c_tail5",
+            "parent": 16
+          },
+          {
+            "name": "gaia_l_arm_shoulder",
+            "parent": 6
+          },
+          {
+            "name": "gaia_l_arm_upper",
+            "parent": 18
+          },
+          {
+            "name": "gaia_l_arm_lower",
+            "parent": 19
+          },
+          {
+            "name": "gaia_l_arm_wrist",
+            "parent": 20
+          },
+          {
+            "name": "gaia_r_arm_shoulder",
+            "parent": 6
+          },
+          {
+            "name": "gaia_r_arm_upper",
+            "parent": 22
+          },
+          {
+            "name": "gaia_r_arm_lower",
+            "parent": 23
+          },
+          {
+            "name": "gaia_r_arm_wrist",
+            "parent": 24
+          },
+          {
+            "name": "gaia_l_leg_upper",
+            "parent": 1
+          },
+          {
+            "name": "gaia_l_leg_lower",
+            "parent": 26
+          },
+          {
+            "name": "gaia_l_leg_ankle",
+            "parent": 27
+          },
+          {
+            "name": "gaia_r_leg_upper",
+            "parent": 1
+          },
+          {
+            "name": "gaia_r_leg_lower",
+            "parent": 29
+          },
+          {
+            "name": "gaia_r_leg_ankle",
+            "parent": 30
+          },
+          {
+            "name": "gaia_l_arm_fingerbase",
+            "parent": 21
+          },
+          {
+            "name": "gaia_r_arm_fingerbase",
+            "parent": 25
+          },
+          {
+            "name": "gaia_l_leg_toebase",
+            "parent": 28
+          },
+          {
+            "name": "gaia_r_leg_toebase",
+            "parent": 31
+          },
+          {
+            "name": "gaia_props",
+            "parent": 0
+          },
+          {
+            "name": "gaia_c_rein",
+            "parent": 36
+          },
+          {
+            "name": "gaia_r_rein1",
+            "parent": 37
+          },
+          {
+            "name": "gaia_l_rein1",
+            "parent": 37
+          },
+          {
+            "name": "gaia_l_stirrup1",
+            "parent": 5
+          },
+          {
+            "name": "gaia_l_stirrup2",
+            "parent": 40
+          },
+          {
+            "name": "gaia_r_stirrup1",
+            "parent": 5
+          },
+          {
+            "name": "gaia_r_stirrup2",
+            "parent": 42
+          },
+          {
+            "name": "phys_cloth_root",
+            "parent": 36
+          },
+          {
+            "name": "gaia_l_cloth_jointa1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_l_cloth_jointb1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_l_cloth_jointc1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_l_cloth_jointd1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_l_cloth_jointe1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_l_cloth_jointf1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_r_cloth_jointa1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_r_cloth_jointb1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_r_cloth_jointc1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_r_cloth_jointd1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_r_cloth_jointe1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_r_cloth_jointf1",
+            "parent": 44
+          },
+          {
+            "name": "gaia_l_arm_finger",
+            "parent": 32
+          },
+          {
+            "name": "gaia_r_arm_finger",
+            "parent": 33
+          },
+          {
+            "name": "gaia_c_tail6",
+            "parent": 17
+          },
+          {
+            "name": "gaia_l_leg_toe",
+            "parent": 34
+          },
+          {
+            "name": "gaia_r_leg_toe",
+            "parent": 35
+          },
+          {
+            "name": "gaia_r_rein2",
+            "parent": 38
+          },
+          {
+            "name": "gaia_r_rein3",
+            "parent": 62
+          },
+          {
+            "name": "gaia_r_rein4",
+            "parent": 63
+          },
+          {
+            "name": "gaia_r_rein5",
+            "parent": 64
+          },
+          {
+            "name": "gaia_r_rein6",
+            "parent": 65
+          },
+          {
+            "name": "gaia_r_rein7",
+            "parent": 66
+          },
+          {
+            "name": "gaia_l_rein2",
+            "parent": 39
+          },
+          {
+            "name": "gaia_l_rein3",
+            "parent": 68
+          },
+          {
+            "name": "gaia_l_rein4",
+            "parent": 69
+          },
+          {
+            "name": "gaia_l_rein5",
+            "parent": 70
+          },
+          {
+            "name": "gaia_l_rein6",
+            "parent": 71
+          },
+          {
+            "name": "gaia_l_rein7",
+            "parent": 72
+          },
+          {
+            "name": "gaia_l_cloth_jointa2",
+            "parent": 45
+          },
+          {
+            "name": "gaia_l_cloth_jointb2",
+            "parent": 46
+          },
+          {
+            "name": "gaia_l_cloth_jointc2",
+            "parent": 47
+          },
+          {
+            "name": "gaia_l_cloth_jointd2",
+            "parent": 48
+          },
+          {
+            "name": "gaia_l_cloth_jointe2",
+            "parent": 49
+          },
+          {
+            "name": "gaia_l_cloth_jointf2",
+            "parent": 50
+          },
+          {
+            "name": "gaia_r_cloth_jointa2",
+            "parent": 51
+          },
+          {
+            "name": "gaia_r_cloth_jointb2",
+            "parent": 52
+          },
+          {
+            "name": "gaia_r_cloth_jointc2",
+            "parent": 53
+          },
+          {
+            "name": "gaia_r_cloth_jointd2",
+            "parent": 54
+          },
+          {
+            "name": "gaia_r_cloth_jointe2",
+            "parent": 55
+          },
+          {
+            "name": "gaia_r_cloth_jointf2",
+            "parent": 56
+          }
+        ],
+        "partitions": [
+          {
+            "name": "fullbody_lod3",
+            "start": 0,
+            "count": 86
+          }
+        ],
+        "groups": [
+          {
+            "name": "fullbody",
+            "slots": [
+              -1,
+              -1,
+              0
+            ]
+          }
+        ],
+        "lod_counts": [
+          31412,
+          31412,
+          86
+        ],
+        "bind_offset": 1951
+      }
+    }
+  ]
+}

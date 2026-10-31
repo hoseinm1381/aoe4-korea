@@ -1,0 +1,21 @@
+{
+  "archive_sha256": "f6a72f1743c7f93ca6d4dd8d11aa95da118c75868ba8b1e0121149e4d14ffc41",
+  "all_passed": false,
+  "assets": [
+    {
+      "asset": "kr_archer_a2",
+      "passed": false,
+      "error": "Command '['C:\\\\Users\\\\RS\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\5.2\\\\extensions\\\\raw_githubusercontent_com\\\\garrison\\\\bin\\\\core\\\\garrison-core.exe', 'convert', 'decode-static', '--logical-path', 'art/kr013/units/kr_archer_a2/model.rgm', '--config', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\config.json', '--index', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\index.sqlite3', '--output-root', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\kr_archer_a2\\\\decoded']' timed out after 300 seconds"
+    },
+    {
+      "asset": "kr_archer_a3",
+      "passed": false,
+      "error": "Command '['C:\\\\Users\\\\RS\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\5.2\\\\extensions\\\\raw_githubusercontent_com\\\\garrison\\\\bin\\\\core\\\\garrison-core.exe', 'convert', 'decode-static', '--logical-path', 'art/kr013/units/kr_archer_a3/model.rgm', '--config', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\config.json', '--index', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\index.sqlite3', '--output-root', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\kr_archer_a3\\\\decoded']' timed out after 300 seconds"
+    },
+    {
+      "asset": "kr_archer_a4",
+      "passed": false,
+      "error": "Command '['C:\\\\Users\\\\RS\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\5.2\\\\extensions\\\\raw_githubusercontent_com\\\\garrison\\\\bin\\\\core\\\\garrison-core.exe', 'convert', 'decode-static', '--logical-path', 'art/kr013/units/kr_archer_a4/model.rgm', '--config', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\config.json', '--index', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\index.sqlite3', '--output-root', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\readbacks014\\\\kr_archer_a4\\\\decoded']' timed out after 300 seconds"
+    }
+  ]
+}

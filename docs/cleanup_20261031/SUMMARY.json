@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-31",
+  "status": "completed",
+  "files_removed_from_inventoried_temp": 52586,
+  "logical_bytes_removed_by_drive": {
+    "C": 10621463321,
+    "F": 45863990520
+  },
+  "free_before": {
+    "C": 1517191168,
+    "D": 33859280896,
+    "E": 7821729792,
+    "F": 31835291648
+  },
+  "free_after": {
+    "C": 12076064768,
+    "D": 33823580160,
+    "E": 7532265472,
+    "F": 90046726144
+  },
+  "observed_free_increase": {
+    "C": 10558873600,
+    "F": 58211434496
+  },
+  "observed_space_note": "Volume observations include concurrent system activity and exFAT allocation; logical bytes are separate. Source consolidation was a move, not counted as reclaimed storage.",
+  "repositories": [
+    {
+      "repo": "aoe4-berbers",
+      "native_files_present": 2491,
+      "editable_files_present": 13236,
+      "zip_sha256": "8989be629c15a281b0b2523f1195f6734ead3763d4f47502feb8371a0cd140a7",
+      "zip_unchanged": true,
+      "rollback_zips": [
+        "archives\\accepted_0.1.0\\Berbers-Garrison-0.1.0.zip",
+        "archives\\tested_0.1.1\\Berbers-Garrison-0.1.1.zip"
+      ],
+      "master_index_sha256": "5a5e7fd1818100a395f846ea812ac854b44ff53b1bb8f2f2a89fa049582b0181"
+    },
+    {
+      "repo": "aoe4-persia",
+      "native_files_present": 1379,
+      "editable_files_present": 4189,
+      "zip_sha256": "28c5c65cf0463ca8065789054164907fbd019690c2140e2f318d47402ed1919f",
+      "zip_unchanged": true,
+      "rollback_zips": [
+        "archives\\accepted_0.1.0-trial.1\\Persia-Garrison-0.1.0-trial.1.zip",
+        "archives\\tested_0.1.1\\Persia-Garrison-0.1.1.zip"
+      ],
+      "master_index_sha256": "ff431119487bc39eaa65cbff4c0db120b2b68de6b0c0e9be7a3c4c79306102f3"
+    },
+    {
+      "repo": "aoe4-korea",
+      "native_files_present": 1063,
+      "editable_files_present": 1844,
+      "zip_sha256": "1e2d7976d5a3e1274c333a31738e963796d9fc56186f9040eef13bc62d8924cb",
+      "zip_unchanged": true,
+      "rollback_zips": [
+        "archives\\accepted_0.1.0-trial.1\\Korea-Garrison-0.1.0-trial.1.zip",
+        "archives\\tested_0.1.1\\Korea-Garrison-0.1.1.zip",
+        "archives\\art013-baseline\\a1361fec9636\\Koreans-Garrison-0.1.2.zip"
+      ],
+      "master_index_sha256": "eed05ac1698c7694a2a378093fc3f318b327529dbbc908c1fc2b6790f1d9a1ef"
+    },
+    {
+      "repo": "aoe4-vietnam",
+      "native_files_present": 11355,
+      "editable_files_present": 2741,
+      "zip_sha256": "24de2335c0d6e9b25846e992c42488ed3e9b816a43f81a6d6755e1db4d00ebcd",
+      "zip_unchanged": true,
+      "rollback_zips": [
+        "archives\\accepted_0.1.0-trial.1\\Vietnam-Garrison-0.1.0-trial.1.zip",
+        "archives\\tested_0.1.1\\Vietnam-Garrison-0.1.1.zip"
+      ],
+      "master_index_sha256": "8dbc897a75936e25e7efcb82081a7bcde9fecc9df50a16f2780c26ddf99ad514"
+    }
+  ],
+  "highlighted_folders_fully_removed": [
+    "b031siege",
+    "berber_040_university_donors",
+    "berber_040_wonder_envelope",
+    "Berber_future_kingdom_ai_20261014",
+    "ccp_publish_work_20261025"
+  ],
+  "also_removed": "Temp_before_github_push and all four standalone output folders",
+  "retained_highlighted_folder": {
+    "path": "F:\\aoe_4_temp\\community_civilization_pack_garrison_aoe4",
+    "reason": "Required shared Git object database for legacy E: checkout; verified history retained, working pack copies sparse-retired and old outputs/archives removed.",
+    "restoration": "git sparse-checkout disable restores committed pack working files when needed."
+  },
+  "unique_legacy_editable_art": {
+    "repo": "aoe4-berbers",
+    "folder": "authoring/retained-legacy-art",
+    "original_blends_byte_exact": 165,
+    "indexed_inputs": 1372
+  },
+  "korea_native_acceptance": "Owner reported missing models, white materials and broken animation; docs/KOREA_KNOWN_ISSUES.md contains 11 items. No fixes applied.",
+  "push_install_publish": "not performed",
+  "unrelated_app_chat_history_credentials_and_game_install": "untouched",
+  "other_drives": "Only task-owned E: audit scratch was created and retired; no unrelated D: files were removed."
+}

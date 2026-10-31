@@ -1,0 +1,9 @@
+{
+  "overlay_root": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor",
+  "editor": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor\\EssenceEditor.exe",
+  "game_root": "E:\\Games\\steamapps\\common\\Age of Empires IV",
+  "status": "unsupported",
+  "reasons": [
+    "this Essence Editor build is not supported yet (editor df563dcdab31, core e2149a216e28)"
+  ]
+}

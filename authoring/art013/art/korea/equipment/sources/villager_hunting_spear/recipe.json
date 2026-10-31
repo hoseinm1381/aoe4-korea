@@ -1,0 +1,23 @@
+{
+  "id": "villager_hunting_spear",
+  "donor": "art/civilizations/common/weapons/melee/spear_villager/spear_villager.rgm",
+  "kind": "spear",
+  "design": "Short practical hunting spear, retaining villager attack grip",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\villager_hunting_spear\\e4dcc6710008f7c332eb\\decoded-static.json",
+  "manifest_sha256": "135b8a9e4717db7f4c9bfb758e4f923d149a8e548f91bc4ddef908a70cab526a",
+  "bounds": {
+    "min": [
+      -0.078857421875,
+      -0.047027587890625,
+      -1.1005859375
+    ],
+    "max": [
+      0.07891845703125,
+      0.047027587890625,
+      1.8681640625
+    ]
+  },
+  "native_triangles": 150,
+  "bones": 0
+}

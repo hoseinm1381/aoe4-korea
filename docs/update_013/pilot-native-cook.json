@@ -1,0 +1,13 @@
+{
+  "exit_code": 0,
+  "archives": [],
+  "project": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013",
+  "run": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\native-pilot",
+  "template_generated_actor_not_for_integration": true,
+  "source_geometry_export": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\export\\villager_pilot",
+  "status": "failed_no_archive",
+  "interrupted_stalled_process": true,
+  "burn_log_created": false,
+  "qualified": false,
+  "reason": "No burn log or SGA after silent startup; Garrison model-tools readiness reports unsupported installed Content Editor. Task-owned editor was terminated."
+}

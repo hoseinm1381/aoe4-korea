@@ -1,0 +1,1912 @@
+{
+  "donor": {
+    "family": "mining_camp",
+    "age": 1,
+    "variant": "",
+    "key": "mining_camp01",
+    "logical_path": "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rgm",
+    "status": "decoded",
+    "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\mining_camp01\\1885bb321776a76cd0c4\\decoded-static.json",
+    "manifest_sha256": "dbe5cd95958dfdfd93ad826248f553156c8c072d3e63000e71bbe5dcfd5fb9a3",
+    "blockers": [],
+    "warnings": [],
+    "materials": [
+      "mining_furnace",
+      "mining_crane"
+    ],
+    "all_state_triangles": 6998,
+    "native_state_names": [
+      "construct_00",
+      "construct_05",
+      "construct_10",
+      "construct_15",
+      "construct_20",
+      "construct_25",
+      "construct_30",
+      "construct_35",
+      "construct_40",
+      "construct_45",
+      "construct_50",
+      "construct_55",
+      "construct_60",
+      "construct_65",
+      "construct_70",
+      "construct_75",
+      "construct_80",
+      "construct_85",
+      "construct_90",
+      "construct_95",
+      "damage_1",
+      "damage_2",
+      "damage_3",
+      "damage_4",
+      "damage_5",
+      "healthy",
+      "preview",
+      "ruins",
+      "targeting"
+    ],
+    "source_mapping_verified": true
+  },
+  "native_selectors": [
+    {
+      "name": "sel_construct_20",
+      "members": [
+        "geo_frag_16",
+        "geo_wreck_02",
+        "geo_frag_01",
+        "geo_frag_02",
+        "geo_frag_03",
+        "geo_frag_04",
+        "geo_frag_17",
+        "geo_wreck_08",
+        "geo_frag_18",
+        "geo_frag_21",
+        "geo_wreck_03",
+        "geo_frag_22",
+        "geo_wreck_00",
+        "geo_frag_14",
+        "geo_prop_05",
+        "geo_prop_06",
+        "geo_prop_07",
+        "geo_prop_08",
+        "geo_prop_09",
+        "geo_wreck_04"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_20"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_25"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_30"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_35"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_40"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_45"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_50"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_55"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_60"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_65"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_70"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_75"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_80"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_85"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_90"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_95"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "preview"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        }
+      ]
+    },
+    {
+      "name": "sel_construct_40",
+      "members": [
+        "geo_frag_19",
+        "geo_wreck_01",
+        "geo_wreck_09",
+        "geo_frag_08",
+        "geo_frag_11",
+        "geo_frag_12",
+        "geo_frag_13",
+        "geo_frag_20",
+        "geo_frag_05",
+        "geo_wreck_07",
+        "geo_frag_06"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_40"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_45"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_50"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_55"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_60"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_65"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_70"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_75"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_80"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_85"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_90"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_95"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "preview"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        }
+      ]
+    },
+    {
+      "name": "sel_construct_80",
+      "members": [
+        "geo_frag_15",
+        "geo_prop_02",
+        "geo_prop_13",
+        "geo_prop_12",
+        "geo_prop_11",
+        "geo_frag_07",
+        "geo_wreck_05"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_80"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_85"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_90"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_95"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "preview"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        }
+      ]
+    },
+    {
+      "name": "sel_construct_60",
+      "members": [
+        "geo_prop_00",
+        "geo_wreck_06",
+        "geo_frag_24",
+        "geo_frag_00",
+        "geo_prop_01",
+        "geo_frag_09",
+        "geo_frag_23",
+        "geo_frag_10"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_60"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_65"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_70"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_75"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_80"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_85"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_90"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_95"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "preview"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        }
+      ]
+    },
+    {
+      "name": "sel_damage_1_debris",
+      "members": [
+        "geo_frag_15",
+        "geo_frag_16"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        }
+      ]
+    },
+    {
+      "name": "sel_damage_2_debris",
+      "members": [
+        "geo_frag_19",
+        "geo_frag_24",
+        "geo_frag_23",
+        "geo_frag_10",
+        "geo_frag_20",
+        "geo_frag_17",
+        "geo_frag_18",
+        "geo_frag_21",
+        "geo_frag_22",
+        "geo_frag_14",
+        "geo_frag_06",
+        "geo_frag_07"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_1"
+        }
+      ]
+    },
+    {
+      "name": "sel_damage_2_disappear",
+      "members": [
+        "geo_prop_00",
+        "geo_prop_03",
+        "geo_frag_00",
+        "geo_prop_01",
+        "geo_prop_04",
+        "geo_prop_02",
+        "geo_prop_12"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_1"
+        }
+      ]
+    },
+    {
+      "name": "sel_construct_00",
+      "members": [
+        "geo_wreck_10"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_10"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_15"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_20"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_25"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_30"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_35"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_40"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_45"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_50"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_55"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_60"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_65"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_70"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_75"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_80"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_85"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_90"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_95"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_00"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "construct_05"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "preview"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        }
+      ]
+    },
+    {
+      "name": "sel_base",
+      "members": [
+        "geo_base_00"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 1,
+          "one": 0,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        }
+      ]
+    },
+    {
+      "name": "sel_healthy",
+      "members": [
+        "geo_prop_10",
+        "geo_prop_03",
+        "geo_prop_04"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "preview"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        }
+      ]
+    },
+    {
+      "name": "sel_ruins",
+      "members": [
+        "geo_wreck_06",
+        "geo_wreck_01",
+        "geo_wreck_09",
+        "geo_wreck_02",
+        "geo_wreck_08",
+        "geo_wreck_07",
+        "geo_wreck_03",
+        "geo_wreck_00",
+        "geo_wreck_10",
+        "geo_wreck_05",
+        "geo_wreck_04"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_1"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_2"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_3"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_4"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_5"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "ruins"
+        }
+      ]
+    },
+    {
+      "name": "sel_ruins_debris",
+      "members": [
+        "geo_frag_09",
+        "geo_frag_08",
+        "geo_frag_11",
+        "geo_frag_12",
+        "geo_frag_13",
+        "geo_frag_01",
+        "geo_frag_02",
+        "geo_frag_03",
+        "geo_frag_04",
+        "geo_frag_05"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_1"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_2"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_3"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_4"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_5"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "ruins"
+        }
+      ]
+    },
+    {
+      "name": "sel_ruins_disappear",
+      "members": [
+        "geo_prop_05",
+        "geo_prop_06",
+        "geo_prop_07",
+        "geo_prop_08",
+        "geo_prop_09"
+      ],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_1"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_2"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_3"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_4"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_5"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 0,
+          "property": "has_collapsed_ruins",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "name": "sel_gen7_healthy",
+      "members": [],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "preview"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "healthy"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_1"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_2"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_3"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_4"
+        },
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 1,
+          "property": "life_cycle_state",
+          "value": "damage_5"
+        }
+      ]
+    },
+    {
+      "name": "sel_gen7_ruins",
+      "members": [],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 0,
+          "one": 0,
+          "property": "life_cycle_state",
+          "value": "ruins"
+        }
+      ]
+    },
+    {
+      "name": "sel_gen7_base",
+      "members": [],
+      "conditions": [
+        {
+          "op": 2,
+          "flag": 1,
+          "one": 0,
+          "property": "life_cycle_state",
+          "value": "targeting"
+        }
+      ]
+    }
+  ],
+  "collection_contract": {
+    "schema": "garrison.rgm-structure-collection/v1",
+    "table_offset": 50229,
+    "partition_version": 1,
+    "effect": "structure_collection",
+    "effects": [
+      "structure_collection"
+    ],
+    "collections": [
+      "mining_furnace_collection",
+      "mining_crane_collection"
+    ],
+    "geometry_group_spans": [
+      1,
+      1
+    ],
+    "indices": [
+      0,
+      1
+    ],
+    "effect_indices": [
+      0,
+      0
+    ],
+    "maps": [
+      {
+        "collection": "mining_furnace_collection",
+        "slot": "mining_furnace",
+        "source_object_count": 51,
+        "active_object_count": 15,
+        "geometry_group_span": 1,
+        "material_index": 0,
+        "effect_index": 0,
+        "effect": "structure_collection",
+        "source_to_local_bone": [
+          0,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          2,
+          3,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          4,
+          -1,
+          5,
+          6,
+          -1,
+          7,
+          -1,
+          -1,
+          8,
+          -1,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ]
+      },
+      {
+        "collection": "mining_crane_collection",
+        "slot": "mining_crane",
+        "source_object_count": 51,
+        "active_object_count": 36,
+        "geometry_group_span": 1,
+        "material_index": 1,
+        "effect_index": 0,
+        "effect": "structure_collection",
+        "source_to_local_bone": [
+          -1,
+          0,
+          1,
+          2,
+          -1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          -1,
+          -1,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          -1,
+          25,
+          -1,
+          -1,
+          26,
+          -1,
+          27,
+          28,
+          -1,
+          29,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      }
+    ],
+    "source": {
+      "path": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\mining_camp01\\1885bb321776a76cd0c4\\source\\art\\civilizations\\common\\structures\\mining_camp\\com_mining_camp_combined\\com_mining_camp_combined.rgm",
+      "size": 63887,
+      "sha256": "2fe9121f3dc2673c266b4c47d00a63767300d7dfb9b811274f8f616e69c36a72"
+    }
+  },
+  "boundary": {
+    "status": "not_available_from_render_model",
+    "reason": "Placement footprint, simboxes and boundary-cell policy belong to the gameplay EBP/attachment graph, not to RGO/RGM/RRGeometry.",
+    "required_source": "qualified gameplay EBP plus inheritance, attachment, stamp and simbox references",
+    "render_mesh_bounds_are_authoritative": false
+  },
+  "native_resources": {
+    "reference": {
+      "id": 5546,
+      "logical_path": "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rgm",
+      "folder": "art/civilizations/common/structures/mining_camp/com_mining_camp_combined",
+      "name": "com_mining_camp_combined.rgm",
+      "extension": ".rgm",
+      "asset_kind": "model",
+      "curated_category": "Structures",
+      "civilization": "Common",
+      "object_class": "Building",
+      "object_type": "Mining Camp",
+      "size": 63887,
+      "raw_name": "data:art\\civilizations\\common\\structures\\mining_camp\\com_mining_camp_combined\\com_mining_camp_combined.rgm",
+      "preview_status": "not_generated",
+      "preview_path": null,
+      "product": "cardinal",
+      "archive": "ArtHigh.sga",
+      "archive_path": "E:\\Games\\steamapps\\common\\Age of Empires IV\\cardinal\\archives\\ArtHigh.sga",
+      "provider_archive_id": "CardinalArtHigh",
+      "archive_version": "10",
+      "product_version": "0",
+      "verified": 0,
+      "provider_count": 2
+    },
+    "geometry": {
+      "logical_path": "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rrgeom",
+      "archive": "DX12Assets.sga",
+      "archive_path": "E:\\Games\\steamapps\\common\\Age of Empires IV\\cardinal\\archives\\DX12Assets.sga",
+      "archive_id": "GameDX12Assets",
+      "archive_version": "10",
+      "product_version": "0",
+      "verified_archive": false,
+      "size": 318148,
+      "sha256": "416191c558fa02bca7c26a27e1eed2d7aa5b950962bb53570e6f6336cc2debef",
+      "cache_path": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\mining_camp01\\1885bb321776a76cd0c4\\source\\art\\civilizations\\common\\structures\\mining_camp\\com_mining_camp_combined\\com_mining_camp_combined.rrgeom"
+    },
+    "material": {
+      "logical_path": "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rrmaterial",
+      "archive": "DX12Assets.sga",
+      "archive_path": "E:\\Games\\steamapps\\common\\Age of Empires IV\\cardinal\\archives\\DX12Assets.sga",
+      "archive_id": "GameDX12Assets",
+      "archive_version": "10",
+      "product_version": "0",
+      "verified_archive": false,
+      "size": 33604,
+      "sha256": "9e416cd34f4ea7fd757e072138a7b7880f7975fd41047d2341f037f0aceb3542",
+      "cache_path": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\mining_camp01\\1885bb321776a76cd0c4\\source\\art\\civilizations\\common\\structures\\mining_camp\\com_mining_camp_combined\\com_mining_camp_combined.rrmaterial"
+    },
+    "model": {
+      "logical_path": "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rgm",
+      "archive": "ArtHigh.sga",
+      "archive_path": "E:\\Games\\steamapps\\common\\Age of Empires IV\\cardinal\\archives\\ArtHigh.sga",
+      "archive_id": "CardinalArtHigh",
+      "archive_version": "10",
+      "product_version": "0",
+      "verified_archive": false,
+      "size": 63887,
+      "sha256": "2fe9121f3dc2673c266b4c47d00a63767300d7dfb9b811274f8f616e69c36a72",
+      "cache_path": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\mining_camp01\\1885bb321776a76cd0c4\\source\\art\\civilizations\\common\\structures\\mining_camp\\com_mining_camp_combined\\com_mining_camp_combined.rgm"
+    }
+  },
+  "native_skeleton": {
+    "schema": "garrison.decoded-rgm-skeleton/v1",
+    "status": "hierarchy_decoded",
+    "source": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\mining_camp01\\1885bb321776a76cd0c4\\source\\art\\civilizations\\common\\structures\\mining_camp\\com_mining_camp_combined\\com_mining_camp_combined.rgm",
+    "source_size_bytes": 63887,
+    "source_sha256": "2fe9121f3dc2673c266b4c47d00a63767300d7dfb9b811274f8f616e69c36a72",
+    "chunk_version": 6,
+    "chunk_sha256": "1cc58b9cbd76369d056ed6f2eaa1bb0719bdaa6321109a12759c3a0cd4dca03e",
+    "format_version": 0,
+    "bone_count": 7,
+    "root_indices": [
+      0
+    ],
+    "duplicate_names": [],
+    "bones": [
+      {
+        "index": 0,
+        "name": "bone_root",
+        "parent_index": -1,
+        "parent_name": null,
+        "local_reference_transform": {
+          "quaternion_xyzw": [
+            -0.7071067690849304,
+            -0.0,
+            0.0,
+            0.7071067690849304
+          ],
+          "translation_xyz": [
+            0.002628921065479517,
+            -1.8058409690856934,
+            3.479325823718682e-05
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "global_reference_transform": {
+          "quaternion_xyzw": [
+            -0.7071067690849304,
+            -0.0,
+            0.0,
+            0.7071067690849304
+          ],
+          "translation_xyz": [
+            0.002628921065479517,
+            -1.8058409690856934,
+            3.479325823718682e-05
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "index": 1,
+        "name": "bone_crane_turn",
+        "parent_index": 0,
+        "parent_name": "bone_root",
+        "local_reference_transform": {
+          "quaternion_xyzw": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "translation_xyz": [
+            -0.0025663694832473993,
+            0.0,
+            2.464836359024048
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "global_reference_transform": {
+          "quaternion_xyzw": [
+            -0.7071067690849304,
+            0.0,
+            0.0,
+            0.7071067690849304
+          ],
+          "translation_xyz": [
+            6.255167007520289e-05,
+            0.6589953055706004,
+            3.479325823718682e-05
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "name": "bone_crane_tilt",
+        "parent_index": 1,
+        "parent_name": "bone_crane_turn",
+        "local_reference_transform": {
+          "quaternion_xyzw": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "translation_xyz": [
+            5.000305100111291e-05,
+            0.0,
+            3.3959131240844727
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "global_reference_transform": {
+          "quaternion_xyzw": [
+            -0.7071067690849304,
+            0.0,
+            0.0,
+            0.7071067690849304
+          ],
+          "translation_xyz": [
+            0.00011255471936478427,
+            4.0549083134179185,
+            3.479325823718682e-05
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "name": "bone_stones",
+        "parent_index": 2,
+        "parent_name": "bone_crane_tilt",
+        "local_reference_transform": {
+          "quaternion_xyzw": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "translation_xyz": [
+            0.0025162668898701668,
+            2.2737133502960205,
+            -0.5428906083106995
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "global_reference_transform": {
+          "quaternion_xyzw": [
+            -0.7071067690849304,
+            0.0,
+            0.0,
+            0.7071067690849304
+          ],
+          "translation_xyz": [
+            0.0026288215231068048,
+            3.512017723689573,
+            -2.273678479211891
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "name": "bone_stones_orientation",
+        "parent_index": 3,
+        "parent_name": "bone_stones",
+        "local_reference_transform": {
+          "quaternion_xyzw": [
+            -0.02974260039627552,
+            -0.0,
+            0.0,
+            0.9995575547218323
+          ],
+          "translation_xyz": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "global_reference_transform": {
+          "quaternion_xyzw": [
+            -0.7278251071041829,
+            0.0,
+            0.0,
+            0.6857627189633938
+          ],
+          "translation_xyz": [
+            0.0026288215231068048,
+            3.512017723689573,
+            -2.273678479211891
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "index": 5,
+        "name": "bone_crate",
+        "parent_index": 2,
+        "parent_name": "bone_crane_tilt",
+        "local_reference_transform": {
+          "quaternion_xyzw": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "translation_xyz": [
+            0.00251655001193285,
+            -4.197896480560303,
+            1.040877103805542
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "global_reference_transform": {
+          "quaternion_xyzw": [
+            -0.7071067690849304,
+            0.0,
+            0.0,
+            0.7071067690849304
+          ],
+          "translation_xyz": [
+            0.002629104645159797,
+            5.095785381595755,
+            4.197931130130665
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      },
+      {
+        "index": 6,
+        "name": "bone_crate_orientation",
+        "parent_index": 5,
+        "parent_name": "bone_crate",
+        "local_reference_transform": {
+          "quaternion_xyzw": [
+            -0.0006011743098497391,
+            -0.0,
+            0.0,
+            0.9999998211860657
+          ],
+          "translation_xyz": [
+            0.0,
+            0.0,
+            -9.155273232863692e-07
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "global_reference_transform": {
+          "quaternion_xyzw": [
+            -0.7075317370682818,
+            0.0,
+            0.0,
+            0.7066815482204923
+          ],
+          "translation_xyz": [
+            0.002629104645159797,
+            5.095784466068463,
+            4.197931130130665
+          ],
+          "scale_xyz": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      }
+    ],
+    "hierarchy_bytes": 155,
+    "trailing_bytes": 338,
+    "trailing_sha256": "ffecbb13cae75a636e90476774f2468ae7ecda9505fa3e9a31bdb8f5133b17fd",
+    "rest_pose": {
+      "status": "local_reference_transforms_decoded",
+      "transform_count": 7,
+      "space": "parent_local",
+      "semantic": "rest_or_bind_reference_unqualified",
+      "semantic_confidence": "inferred",
+      "record_layout": {
+        "encoding": "float32le",
+        "bytes": 40,
+        "components": [
+          "quaternion_xyzw",
+          "translation_xyz",
+          "scale_xyz"
+        ]
+      },
+      "block_offset_in_skln": 213,
+      "block_bytes": 280,
+      "block_sha256": "0b25ed96a04ebc5816b18d9235398bf83d5608cf56ef4fb757afaedf1459b7c5",
+      "opaque_prefix_bytes": 58,
+      "opaque_prefix_sha256": "d7894503ce5b9f8091b14bf008c4ca623a9e14983e7eb7f9c533fce03fa62159",
+      "validation": {
+        "quaternion_norm_min": 0.99999996373991,
+        "quaternion_norm_max": 1.000000001891357,
+        "quaternion_norm_max_error": 3.626009004165098e-08,
+        "translation_min": -4.197896480560303,
+        "translation_max": 3.3959131240844727,
+        "scale_min": 1.0,
+        "scale_max": 1.0
+      }
+    },
+    "skin_palettes": [],
+    "rigid_mesh_bindings": [],
+    "static_mesh_names": [],
+    "skin_palette_count": 0,
+    "qualified_skin_palette_count": 0
+  },
+  "native_animation_plan": {
+    "status": "binding_plan_not_attached",
+    "resolution": {
+      "status": "not_configured"
+    },
+    "template": {
+      "status": "not_resolved",
+      "template_id": null,
+      "role": "unresolved",
+      "source_logical_path": null,
+      "clip_inventory_status": "unavailable",
+      "gameplay_action_mapping_status": "not_decoded",
+      "family_count": 0,
+      "families": []
+    },
+    "clip_count": 0,
+    "clips": [],
+    "action_import_status": "blocked",
+    "blockers": [
+      "animation_binding_plan"
+    ],
+    "discovery": {
+      "status": "no_linked_library",
+      "rgm_sha256": "2fe9121f3dc2673c266b4c47d00a63767300d7dfb9b811274f8f616e69c36a72",
+      "requested_logical_path": "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rgo",
+      "candidates": [],
+      "warnings": [
+        "No direct stock attachment route found"
+      ],
+      "available_owners": [],
+      "selected_owner": null
+    }
+  },
+  "native_owning_stamps": [
+    {
+      "stamp": "art/stamps/civ_common/com_mining_camp.bin",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\stamps\\1c5a1959370e3c9187a9.bin",
+      "sha256": "c7aebba0772f4d8ad7e30bfe4d3aeec0df790a0e1198ab0eb2a5199fb014c6c2",
+      "stock_model_references": [
+        "art/civilizations/common/props/buildpile_wood_lumber/buildpile_wood_lumber.rgm",
+        "art/civilizations/common/props/water_bucket/water_bucket.rgm",
+        "art/civilizations/common/props/wheelbarrow/wheelbarrow.rgm",
+        "art/civilizations/common/props/wood_firewood/wood_firewood.rgm",
+        "art/civilizations/common/structures/debris/debris_med_a_01/debris_med_a_01.rgm",
+        "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rgm",
+        "art/civilizations/japanese/props/sacred_object/sacred_object.rgm",
+        "art/environment/civilization/splats/construction_small/construction_small.rgm"
+      ],
+      "structure_models": [
+        "art/civilizations/common/structures/debris/debris_med_a_01/debris_med_a_01.rgm",
+        "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rgm"
+      ],
+      "structure_instance_occurrences": {
+        "art/civilizations/common/structures/debris/debris_med_a_01/debris_med_a_01.rgm": 4,
+        "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rgm": 1
+      },
+      "status": "source_stamp_preserved"
+    }
+  ],
+  "all_state_native_geometry_in_blend": true,
+  "new_module": {
+    "module": "Korean timber and reed work shelter",
+    "origin": [
+      -3.8,
+      -5.4,
+      0
+    ],
+    "proportions": {
+      "length_m": 2.05,
+      "depth_m": 1.45,
+      "eave_height_m": 1.7399999999999998,
+      "roof_rise_m": 0.48
+    },
+    "contacts": [
+      {
+        "interface": "post bottom / stone footing top",
+        "gap_m": 0.0,
+        "anchor": [
+          -4.824999999999999,
+          -6.125,
+          0.18
+        ]
+      },
+      {
+        "interface": "post bottom / stone footing top",
+        "gap_m": 0.0,
+        "anchor": [
+          -4.824999999999999,
+          -4.675000000000001,
+          0.18
+        ]
+      },
+      {
+        "interface": "post bottom / stone footing top",
+        "gap_m": 0.0,
+        "anchor": [
+          -2.775,
+          -6.125,
+          0.18
+        ]
+      },
+      {
+        "interface": "post bottom / stone footing top",
+        "gap_m": 0.0,
+        "anchor": [
+          -2.775,
+          -4.675000000000001,
+          0.18
+        ]
+      },
+      {
+        "interface": "bearing beam bottom / post top",
+        "gap_m": 0.0,
+        "plane_z": 1.5999999999999999
+      },
+      {
+        "interface": "bearing beam bottom / post top",
+        "gap_m": 0.0,
+        "plane_z": 1.5999999999999999
+      },
+      {
+        "interface": "rafter underside / bearing beam top",
+        "signed_gap_m": -0.03519871794871787,
+        "intentional": "small timber seating overlap, never daylight"
+      },
+      {
+        "interface": "rafter upper face / roof undersurface",
+        "signed_gap_m": -0.008,
+        "intentional": "8mm overlap to avoid daylight at roof contact"
+      }
+    ],
+    "objects": [
+      "Korean_work_shelter_footing_0_0",
+      "Korean_work_shelter_post_0_0",
+      "Korean_work_shelter_footing_0_1",
+      "Korean_work_shelter_post_0_1",
+      "Korean_work_shelter_footing_1_0",
+      "Korean_work_shelter_post_1_0",
+      "Korean_work_shelter_footing_1_1",
+      "Korean_work_shelter_post_1_1",
+      "Korean_work_shelter_bearing_beam",
+      "Korean_work_shelter_bearing_beam.001",
+      "Korean_work_shelter_continuous_reed_roof",
+      "Korean_work_shelter_continuous_rafter",
+      "Korean_work_shelter_continuous_rafter.001",
+      "Korean_work_shelter_continuous_rafter.002",
+      "Korean_work_shelter_continuous_rafter.003",
+      "Korean_work_shelter_continuous_rafter.004",
+      "Korean_work_shelter_continuous_rafter.005",
+      "Korean_work_shelter_continuous_rafter.006",
+      "Korean_work_shelter_continuous_rafter.007"
+    ],
+    "topology": [
+      {
+        "object": "Korean_work_shelter_footing_0_0",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.014111856619517006,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_post_0_0",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.027833508948485075,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_footing_0_1",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.014111911257108048,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_post_0_1",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.02783151715993884,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_footing_1_0",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.014111841718355795,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_post_1_0",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.02783266827464101,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_footing_1_1",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.014111950993537906,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_post_1_1",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.02783144637942314,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_bearing_beam",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.054506033658981226,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_bearing_beam.001",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.05450167258580537,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_reed_roof",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.5469762434562051,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_rafter",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.00823715329170227,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_rafter.001",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.008236413200696319,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_rafter.002",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.008233939607938138,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_rafter.003",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.008237188061078374,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_rafter.004",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.008236154913902276,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_rafter.005",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.008236855268478402,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_rafter.006",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.008240426580111189,
+        "positive_winding": true
+      },
+      {
+        "object": "Korean_work_shelter_continuous_rafter.007",
+        "closed_manifold": true,
+        "signed_volume_m3": 0.00823849439620972,
+        "positive_winding": true
+      }
+    ],
+    "triangles": 588,
+    "integration": "Editable source; native first-visible/lifecycle bindings required later"
+  },
+  "rigid_machinery_reference": null
+}

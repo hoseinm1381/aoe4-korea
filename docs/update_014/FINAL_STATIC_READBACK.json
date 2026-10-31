@@ -1,0 +1,21 @@
+{
+  "archive_sha256": "263ffc7cb1b846079d0e2ae85a4491a9d2f62812a73603a0325f3d3789bddb15",
+  "all_passed": false,
+  "assets": [
+    {
+      "asset": "bulguksa_temple",
+      "passed": false,
+      "error": "Command '['C:\\\\Users\\\\RS\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\5.2\\\\extensions\\\\raw_githubusercontent_com\\\\garrison\\\\bin\\\\core\\\\garrison-core.exe', 'convert', 'decode-static', '--logical-path', 'art/kr013/static/bulguksa_temple/model.rgm', '--config', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\config.json', '--index', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\index.sqlite3', '--output-root', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\bulguksa_temple\\\\decoded']' timed out after 90 seconds"
+    },
+    {
+      "asset": "gate_of_reverence",
+      "passed": false,
+      "error": "Command '['C:\\\\Users\\\\RS\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\5.2\\\\extensions\\\\raw_githubusercontent_com\\\\garrison\\\\bin\\\\core\\\\garrison-core.exe', 'convert', 'decode-static', '--logical-path', 'art/kr013/static/gate_of_reverence/model.rgm', '--config', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\config.json', '--index', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\index.sqlite3', '--output-root', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\gate_of_reverence\\\\decoded']' timed out after 90 seconds"
+    },
+    {
+      "asset": "gyeongbok_palace",
+      "passed": false,
+      "error": "Command '['C:\\\\Users\\\\RS\\\\AppData\\\\Roaming\\\\Blender Foundation\\\\Blender\\\\5.2\\\\extensions\\\\raw_githubusercontent_com\\\\garrison\\\\bin\\\\core\\\\garrison-core.exe', 'convert', 'decode-static', '--logical-path', 'art/kr013/static/gyeongbok_palace/model.rgm', '--config', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\config.json', '--index', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\index.sqlite3', '--output-root', 'F:\\\\aoe_4_temp\\\\Temp_aoe4\\\\final-static-readback\\\\gyeongbok_palace\\\\decoded']' timed out after 90 seconds"
+    }
+  ]
+}

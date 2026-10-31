@@ -1,0 +1,39 @@
+{
+  "removed": [
+    {
+      "path": "F:\\aoe_4_temp\\Temp_aoe4\\k15",
+      "files": 5335,
+      "logical_bytes": 1734035997
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current",
+      "files": 507,
+      "logical_bytes": 368156661
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\tools\\__pycache__",
+      "files": 1,
+      "logical_bytes": 7376
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\tools\\art013\\__pycache__",
+      "files": 3,
+      "logical_bytes": 18319
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\tools\\art014\\__pycache__",
+      "files": 2,
+      "logical_bytes": 6369
+    }
+  ],
+  "logical_bytes_removed": 2102224722,
+  "files_removed": 5848,
+  "observed_F_free_space_increase": 3604480000,
+  "E_task_model_tools_absent": "E:\\aoe4_korea_014_model_tools",
+  "E_deleted_bytes_this_run": 0,
+  "F_task_temp_root_empty": true,
+  "protected_input_hashes_reverified": true,
+  "release_and_rollback_hashes_reverified": true,
+  "generated_diagnostics_zip_sha256": "031081143b38b5d808f7b3c3655f6beb8d36e299609984026ab27d48fda763f8",
+  "python_generated_caches_removed": true
+}

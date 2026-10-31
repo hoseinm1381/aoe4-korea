@@ -1,0 +1,10 @@
+{
+  "id": "kr_spearman_a1",
+  "family": "spearman",
+  "age": 1,
+  "donor": "art/civilizations/chinese/humans/chi_infantry_light_age01/chi_infantry_light_age01.rgm",
+  "design": "padded cotton coat, lamellar corslet and restrained iron helmet progression",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces"
+  }
+}

@@ -1,0 +1,1173 @@
+{
+  "assets": [
+    {
+      "asset": "kr_archer_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_ranged_bow_age02/chi_ranged_bow_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/d0c131f1e45aa3d59db176207e8fc19a33c7de0b4df9589f0d301ebb06b56a5b.rrtex"
+    },
+    {
+      "asset": "kr_archer_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_ranged_bow_age03/chi_ranged_bow_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/6321b15c90970b52e18647b01f3513b53bbb58b8c5181ca947a9cb56693afc08.rrtex"
+    },
+    {
+      "asset": "kr_archer_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_ranged_bow_age04/chi_ranged_bow_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/bd385d544089530333299a37175206314782de3e8235610e0842b079bcbed5e9.rrtex"
+    },
+    {
+      "asset": "kr_crossbowman_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_ranged_crossbow_age03/chi_ranged_crossbow_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/b9bd87464ed9426af1fd48be6fbd6651f2253ca4896019d029d8c3e7b96fad1d.rrtex"
+    },
+    {
+      "asset": "kr_crossbowman_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_ranged_crossbow_age04/chi_ranged_crossbow_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/66797d5af26c15d11aecb854ed695a09157f0e8aabeaf027bed8754034174137.rrtex"
+    },
+    {
+      "asset": "kr_gapsa_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    },
+    {
+      "asset": "kr_gapsa_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_armor_age04/chi_infantry_armor_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.rrtex"
+    },
+    {
+      "asset": "kr_handcannoneer_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_ranged_cannoneer_age04/chi_ranged_cannoneer_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/dc9cbb81d52828000c6e59f39ceb44f3712d3f81f4bf09f0b52a09d839e0fe87.rrtex"
+    },
+    {
+      "asset": "kr_horseman_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_light_age02/chi_cavalry_light_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8.rrtex"
+    },
+    {
+      "asset": "kr_horseman_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_light_age03/chi_cavalry_light_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947.rrtex"
+    },
+    {
+      "asset": "kr_horseman_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_light_age04/chi_cavalry_light_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57.rrtex"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_armor_age04/chi_infantry_armor_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.rrtex"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_light_age02/chi_cavalry_light_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8.rrtex"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_light_age03/chi_cavalry_light_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947.rrtex"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_light_age04/chi_cavalry_light_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57.rrtex"
+    },
+    {
+      "asset": "kr_lancer_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_armor_age03/chi_cavalry_armor_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/35ab20ef7863deb25d3eda7e0db1b230bd429b7c1eb5c8ad086913371567a7c2.rrtex"
+    },
+    {
+      "asset": "kr_lancer_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_armor_age04/chi_cavalry_armor_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/9f8ea9f057d6bb22426bbdfc2fe98be96da7e5d75662382f1790ffb2c1da4dc7.rrtex"
+    },
+    {
+      "asset": "kr_monk_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age03/chi_infantry_monk_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f.rrtex"
+    },
+    {
+      "asset": "kr_monk_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age04/chi_infantry_monk_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee.rrtex"
+    },
+    {
+      "asset": "kr_mount_horseman_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_light_age02/chi_horse_light_age02",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_horseman_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_light_age03/chi_horse_light_age03",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_horseman_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_light_age04/chi_horse_light_age04",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_hwarang_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_light_age02/chi_horse_light_age02",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_hwarang_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_light_age03/chi_horse_light_age03",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_hwarang_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_light_age04/chi_horse_light_age04",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_lancer_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_armor_age03/chi_horse_armor_age03",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_lancer_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_armor_age04/chi_horse_armor_age04",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_scout_a1",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_scout_age01/chi_horse_scout_age01",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_scout_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_scout_age02/chi_horse_scout_age02",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_scout_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_scout_age03/chi_horse_scout_age03",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_scout_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_scout_age04/chi_horse_scout_age04",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_trader_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_trade_age02/chi_horse_trade_age02",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_trader_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_trade_age03/chi_horse_trade_age03",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_mount_trader_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/animals/chi_horse_trade_age04/chi_horse_trade_age04",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_righteous_army_monk_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age03/chi_infantry_monk_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f.rrtex"
+    },
+    {
+      "asset": "kr_righteous_army_monk_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age04/chi_infantry_monk_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee.rrtex"
+    },
+    {
+      "asset": "kr_scout_a1",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_scout_age01/chi_cavalry_scout_age01",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/e01f8128980fab054ce4616e960ac82b2b0672d258d67440f50c96070a09152c.rrtex"
+    },
+    {
+      "asset": "kr_scout_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_scout_age02/chi_cavalry_scout_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/eb5fadc157547576d52c5c2e70c8fcd745b974ac47a6fb2afbe77fc14645648f.rrtex"
+    },
+    {
+      "asset": "kr_scout_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_scout_age03/chi_cavalry_scout_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c.rrtex"
+    },
+    {
+      "asset": "kr_scout_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_scout_age04/chi_cavalry_scout_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c.rrtex"
+    },
+    {
+      "asset": "kr_scout_female_a1",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age01/chi_cavalry_scout_female_age01",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/decf4849ff62482244c445cfc3c15b4cd3bbffa88c57ad3ff269b665aa911676.rrtex"
+    },
+    {
+      "asset": "kr_scout_female_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age02/chi_cavalry_scout_female_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/eed4dd28cdfd2f546e24dfd427a93567b3a90022e507d7a9e811f2682d8ae597.rrtex"
+    },
+    {
+      "asset": "kr_scout_female_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age03/chi_cavalry_scout_female_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b.rrtex"
+    },
+    {
+      "asset": "kr_scout_female_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age04/chi_cavalry_scout_female_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b.rrtex"
+    },
+    {
+      "asset": "kr_seonbi_a1",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_tax_official_age01/chi_villager_tax_official_age01",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/251b4d9f7adfc6b36024559cc40cc2b3b37c5e57e2e3dc3901d10842ebe947e2.rrtex"
+    },
+    {
+      "asset": "kr_seonbi_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_tax_official_age03/chi_villager_tax_official_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/1ee1589384b2d0c43bfdd646ed6fa6f3476a6ee9deb74851cfbda2de4c9eced3.rrtex"
+    },
+    {
+      "asset": "kr_spearman_a1",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_light_age01/chi_infantry_light_age01",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/d31b72ca658bbd1a9e2c626c03995d86fa69f1980c6b28933c942b2bc5f809e6.rrtex"
+    },
+    {
+      "asset": "kr_spearman_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_light_age02/chi_infantry_light_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/9862120e88d6a6f2a3dd7942b08e6eae9343b4a9a0ee82839d48a4a2fa08b629.rrtex"
+    },
+    {
+      "asset": "kr_spearman_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_light_age03/chi_infantry_light_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/4ffdc8514bcd41a3961ba27a216948fe839be9f03e4ec0e352bd32252544bd48.rrtex"
+    },
+    {
+      "asset": "kr_spearman_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_light_age04/chi_infantry_light_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/e610ea408543d8323cf16763fbac85eb5d3173915d19d8692423c36690766c64.rrtex"
+    },
+    {
+      "asset": "kr_tiger_hunter_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    },
+    {
+      "asset": "kr_tiger_hunter_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex"
+    },
+    {
+      "asset": "kr_tiger_hunter_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_infantry_armor_age04/chi_infantry_armor_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.rrtex"
+    },
+    {
+      "asset": "kr_trade_cargo_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/weapons/chi_trade_horse_age02/chi_trade_horse_age02",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_trade_cargo_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/weapons/chi_trade_horse_age03/chi_trade_horse_age03",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_trade_cargo_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/weapons/chi_trade_horse_age04/chi_trade_horse_age04",
+      "native_tint_lut_preserved": null,
+      "actual_bound_pattern": "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex"
+    },
+    {
+      "asset": "kr_trader_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_male_age02/chi_villager_male_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.rrtex"
+    },
+    {
+      "asset": "kr_trader_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_male_age03/chi_villager_male_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801.rrtex"
+    },
+    {
+      "asset": "kr_trader_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_male_age04/chi_villager_male_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4.rrtex"
+    },
+    {
+      "asset": "kr_trader_female_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_female_age02/chi_villager_female_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.rrtex"
+    },
+    {
+      "asset": "kr_trader_female_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_female_age03/chi_villager_female_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b.rrtex"
+    },
+    {
+      "asset": "kr_trader_female_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_female_age04/chi_villager_female_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09.rrtex"
+    },
+    {
+      "asset": "kr_villager_female_a1",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_female_age01/chi_villager_female_age01",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.rrtex"
+    },
+    {
+      "asset": "kr_villager_female_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_female_age02/chi_villager_female_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.rrtex"
+    },
+    {
+      "asset": "kr_villager_female_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_female_age03/chi_villager_female_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b.rrtex"
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_female_age04/chi_villager_female_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09.rrtex"
+    },
+    {
+      "asset": "kr_villager_male_a1",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_male_age01/chi_villager_male_age01",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.rrtex"
+    },
+    {
+      "asset": "kr_villager_male_a2",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_male_age02/chi_villager_male_age02",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.rrtex"
+    },
+    {
+      "asset": "kr_villager_male_a3",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_male_age03/chi_villager_male_age03",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801.rrtex"
+    },
+    {
+      "asset": "kr_villager_male_a4",
+      "kind": "unit",
+      "exact_official_skeleton_payload": true,
+      "official_source": "art/civilizations/chinese/humans/chi_villager_male_age04/chi_villager_male_age04",
+      "native_tint_lut_preserved": "art\\civilizations\\chinese\\humans\\tints\\chi_skin_tinting_lut.rrtex",
+      "actual_bound_pattern": "art/kr014/patterns/8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4.rrtex"
+    },
+    {
+      "asset": "bulguksa_temple",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    },
+    {
+      "asset": "gate_of_reverence",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    },
+    {
+      "asset": "gyeongbok_palace",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    },
+    {
+      "asset": "hall_of_worthies",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    },
+    {
+      "asset": "hwangnyongsa",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    },
+    {
+      "asset": "Korea_cavalry_spear",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_crossbow",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_gakgung_archer",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_gakgung_hwarang",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_gakgung_tiger_hunter",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_gapsa_heavy_spear",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_gapsa_long_spear",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_hand_chongtong",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_hwarang_sword",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_jangchang_plain",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_jangchang_tassel",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_lancer_lance",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_lancer_polearm_upgrade",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_lumber_camp01",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex"
+    },
+    {
+      "asset": "Korea_mining_camp01",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex"
+    },
+    {
+      "asset": "Korea_monk_staff",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_righteous_monk_sword",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_seonbi_book",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_shared_torch",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_villager_axe",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_villager_basket",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_villager_crook",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_villager_hammer",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_villager_hunting_bow",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_villager_hunting_spear",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_villager_pick",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "Korea_villager_sickle",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex"
+    },
+    {
+      "asset": "mountain_fortress",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    },
+    {
+      "asset": "seon_deok_observatory",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    },
+    {
+      "asset": "seowon_academy",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    },
+    {
+      "asset": "stone_pagoda",
+      "kind": "static",
+      "actual_bound_pattern": "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+    }
+  ],
+  "patterns": {
+    "art/kr014/patterns/d0c131f1e45aa3d59db176207e8fc19a33c7de0b4df9589f0d301ebb06b56a5b.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        13.937519073486328,
+        4.0533447265625,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "1ce43610034fac7aba6eaa989a67622c4d9aa50ba6813c28d679693bd2ed565e"
+    },
+    "art/kr014/patterns/6321b15c90970b52e18647b01f3513b53bbb58b8c5181ca947a9cb56693afc08.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        19.6796875,
+        6.930828094482422,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "4fb825241d4cb5cdfd237457c694a003a1b89554b9adf8ea98ed8979fe2429f3"
+    },
+    "art/kr014/patterns/bd385d544089530333299a37175206314782de3e8235610e0842b079bcbed5e9.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        18.577526092529297,
+        10.383903503417969,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "5cd4208947bfbf918b4750817e027524c2dd7f6b676935c5327d4646fd760c56"
+    },
+    "art/kr014/patterns/b9bd87464ed9426af1fd48be6fbd6651f2253ca4896019d029d8c3e7b96fad1d.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        14.286735534667969,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "f90bbad2c76ed5328b6e3d6482ace61d6939c0c379f22dfdf9af9b29324d6ca1"
+    },
+    "art/kr014/patterns/66797d5af26c15d11aecb854ed695a09157f0e8aabeaf027bed8754034174137.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        21.360557556152344,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "f6df154ad5cdcf133a05ff10292a28431e5642a1da59ce183024e4166190b01d"
+    },
+    "art/kr014/patterns/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        20.318744659423828,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "59d8c4238db4dfea006470d48779abc3500f60f1d9e2d47dbf34114785559d43"
+    },
+    "art/kr014/patterns/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        23.32064437866211,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "0a11110e9d6bbfae5c76eb1cfb4e9f516a6f55b4247e8d2537dbb1c6032a2c0c"
+    },
+    "art/kr014/patterns/dc9cbb81d52828000c6e59f39ceb44f3712d3f81f4bf09f0b52a09d839e0fe87.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        16.918907165527344,
+        2.194904327392578,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "1f63e00c2a3e43683d68764ae26f3c6615011c8fb9fad37fb7547cef5d4a11f8"
+    },
+    "art/kr014/patterns/1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        15.04123306274414,
+        7.049526214599609,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "b089e765fbd41dd99f990a2ca0ada84fa0f977cd72b5efbeaea989be06298191"
+    },
+    "art/kr014/patterns/0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        20.2640380859375,
+        5.3890380859375,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "e29258ebed110700b3abc0c6655af4f60c37e672149551ed3d8fe5d5e3666a67"
+    },
+    "art/kr014/patterns/f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        20.49976348876953,
+        4.306507110595703,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "d924fd31a311f6542f22924a8699c99a410418549b706332b0e51db08f8991f1"
+    },
+    "art/kr014/patterns/35ab20ef7863deb25d3eda7e0db1b230bd429b7c1eb5c8ad086913371567a7c2.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        12.527034759521484,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "d479d40e2119f3b5663d422c6caa03cf6672116aba362d689c54b8f5084343a2"
+    },
+    "art/kr014/patterns/9f8ea9f057d6bb22426bbdfc2fe98be96da7e5d75662382f1790ffb2c1da4dc7.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        17.78668212890625,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "5156053774698e0306b7a79302fcbf86b3ebad4ea3e040d3558e8e35b6549325"
+    },
+    "art/kr014/patterns/64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        33.08995056152344,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "f6c310105bb0b507ecc2dcae7a4f11ae3eebc2c2aab39c0a664270d7f168e49b"
+    },
+    "art/kr014/patterns/b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        26.194141387939453,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "5a7ffc0eaaa1e39088b1b4d5866d179d151c9b400e966f9479b5c5136911fca8"
+    },
+    "art/kr014/patterns/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        3.709075927734375,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "1fc9e789c7ed568e2b68d858ba07c7cb1f8d5d3465ece69ec10d304bbe255022"
+    },
+    "art/kr014/patterns/e01f8128980fab054ce4616e960ac82b2b0672d258d67440f50c96070a09152c.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        14.287948608398438,
+        5.264858245849609,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "1e8704ab7692f137907732b0383633d3c31a9de1568fc1885ae3a82feb547784"
+    },
+    "art/kr014/patterns/eb5fadc157547576d52c5c2e70c8fcd745b974ac47a6fb2afbe77fc14645648f.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        23.10942840576172,
+        6.799243927001953,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "63574c3a8ebc63cbaae805ff0ac76f579439dae7942a42084a30e124240158b7"
+    },
+    "art/kr014/patterns/d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        19.493507385253906,
+        9.81170654296875,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "b363ec553009dd0b8ea3243026ed069da905d6244532097cd105f2c6c7cf9ec0"
+    },
+    "art/kr014/patterns/decf4849ff62482244c445cfc3c15b4cd3bbffa88c57ad3ff269b665aa911676.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        13.191230773925781,
+        3.686309814453125,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "b52aaf67280afdd379b29304b66ca8107d249fef0365cd184a0facdc8b639255"
+    },
+    "art/kr014/patterns/eed4dd28cdfd2f546e24dfd427a93567b3a90022e507d7a9e811f2682d8ae597.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        21.21844482421875,
+        6.799243927001953,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "81107441ce61747fe9efc9b2c1ce6ba1b39b48c25c7000a1a493422490f6ba8d"
+    },
+    "art/kr014/patterns/24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        17.64236831665039,
+        9.81170654296875,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "7b8056e65b73e7e80c1257ddfd9ce57076d059387a5c7d2c04760bffd9534075"
+    },
+    "art/kr014/patterns/251b4d9f7adfc6b36024559cc40cc2b3b37c5e57e2e3dc3901d10842ebe947e2.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        17.659252166748047,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "eb2968c6b8d8ba2663db5c199029cf954fe6ba07013c4e7fd0895ee80ce9a9d8"
+    },
+    "art/kr014/patterns/1ee1589384b2d0c43bfdd646ed6fa6f3476a6ee9deb74851cfbda2de4c9eced3.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        13.720596313476562,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "2318c4769bfe10f671719a5057a439b9cc73ee1a3381b64ed32d8098e9432343"
+    },
+    "art/kr014/patterns/d31b72ca658bbd1a9e2c626c03995d86fa69f1980c6b28933c942b2bc5f809e6.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        13.460411071777344,
+        4.813529968261719,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "d9b638bdda71c5ed152722a98bff676c0289ba71c7eec2e6f38a017d467d3936"
+    },
+    "art/kr014/patterns/9862120e88d6a6f2a3dd7942b08e6eae9343b4a9a0ee82839d48a4a2fa08b629.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        15.378116607666016,
+        4.431888580322266,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "f4aa8b5d4015173f62169efe72f570fe7211e606bbf66d4a24e481adc046acf2"
+    },
+    "art/kr014/patterns/4ffdc8514bcd41a3961ba27a216948fe839be9f03e4ec0e352bd32252544bd48.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        21.087215423583984,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "8946a6bd5c1a9db6c7348fecdbfe6e2dcd9a78725f5ae1e6e7b1c7a4b531eb11"
+    },
+    "art/kr014/patterns/e610ea408543d8323cf16763fbac85eb5d3173915d19d8692423c36690766c64.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        23.230178833007812,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "c21929da5686b0866cab84a70c9039af2e28f6ca794a6c27d5cbdc24643e4169"
+    },
+    "art/kr014/patterns/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        14.693965911865234,
+        5.168006896972656,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "c967d8091f2d6a05ea50b13c51f030adc28b92094777b5650a28c59175a397af"
+    },
+    "art/kr014/patterns/834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        13.923118591308594,
+        10.800743103027344,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "55d5a9a0187f61a94516cd16af951db4df174b14c05005d4999612f64d5a63cb"
+    },
+    "art/kr014/patterns/8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        17.247699737548828,
+        1.1432456970214844,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "e058db18ac06890fd5f583c0b9bf7fcc464740f57539f8c7d505d692ce254cf1"
+    },
+    "art/kr014/patterns/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        11.936347961425781,
+        4.424022674560547,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "2f26d0f0e74b21a845ace1a032dc8462e66024f71303e0ac023b8991cf4fedbc"
+    },
+    "art/kr014/patterns/8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        16.41510772705078,
+        6.714878082275391,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "11fb02b3244bbe59ff5e70539d084cceeeee8c5c4e960a49a3f65cb6d8645cd9"
+    },
+    "art/kr014/patterns/f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        3.5894393920898438,
+        19.9189453125,
+        1.0797500610351562,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "2389e6dfc4726870ce5c4747437dc28a4a681905b383382e46575cb3014505d4"
+    },
+    "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        15.9375,
+        0.0,
+        0.0,
+        255.0
+      ],
+      "mips": 12,
+      "sha256": "c4a95a55a83723c74616c121fc13ad49d2dc69daa99036a830f080bc28a15903"
+    },
+    "art/kr014/patterns/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        31.875,
+        0.0,
+        0.0,
+        255.0
+      ],
+      "mips": 10,
+      "sha256": "4c06890a65c75be1fd310235782e4f66543a051bddc948ccad7318186185cb17"
+    },
+    "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex": {
+      "format": "BC3_UNORM",
+      "rgba_means": [
+        0.0,
+        0.0,
+        0.0,
+        255.0
+      ],
+      "mips": 3,
+      "sha256": "a1ea2650ac58651039cea508532f40408f48d9b1fb734cbf7faa11816d1d1d49"
+    }
+  },
+  "models": 108,
+  "stage": "F:\\aoe_4_temp\\Temp_aoe4\\repaired-native",
+  "geometry_unchanged": true,
+  "animation_clips_or_graphs_changed": false
+}

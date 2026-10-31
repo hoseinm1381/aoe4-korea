@@ -1,0 +1,23 @@
+{
+  "id": "villager_axe",
+  "donor": "art/civilizations/common/weapons/tools/axe_2hand/axe_2hand.rgm",
+  "kind": "tool",
+  "design": "Woodcutting axe, ash haft and worn forged-iron head",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\villager_axe\\7427167c70dc1527f9bd\\decoded-static.json",
+  "manifest_sha256": "78303a52cc4e03260dec321317ff63f3389f9ff7e06bfedbb884838b10085870",
+  "bounds": {
+    "min": [
+      -0.08416748046875,
+      -0.06610107421875,
+      -0.2432861328125
+    ],
+    "max": [
+      0.321533203125,
+      0.06597900390625,
+      0.79345703125
+    ]
+  },
+  "native_triangles": 150,
+  "bones": 0
+}

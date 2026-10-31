@@ -1,0 +1,186 @@
+{
+  "archive_sha256": "f6a72f1743c7f93ca6d4dd8d11aa95da118c75868ba8b1e0121149e4d14ffc41",
+  "all_passed": false,
+  "assets": [
+    {
+      "asset": "Korea_cavalry_spear",
+      "passed": false,
+      "error": "('Korea_cavalry_spear', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_crossbow",
+      "passed": false,
+      "error": "('Korea_crossbow', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_gakgung_archer",
+      "passed": false,
+      "error": "('Korea_gakgung_archer', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_gakgung_hwarang",
+      "passed": false,
+      "error": "('Korea_gakgung_hwarang', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_gakgung_tiger_hunter",
+      "passed": false,
+      "error": "('Korea_gakgung_tiger_hunter', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_gapsa_heavy_spear",
+      "passed": false,
+      "error": "('Korea_gapsa_heavy_spear', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_gapsa_long_spear",
+      "passed": false,
+      "error": "('Korea_gapsa_long_spear', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_hand_chongtong",
+      "passed": false,
+      "error": "('Korea_hand_chongtong', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_hwarang_sword",
+      "passed": false,
+      "error": "('Korea_hwarang_sword', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_jangchang_plain",
+      "passed": false,
+      "error": "('Korea_jangchang_plain', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_jangchang_tassel",
+      "passed": false,
+      "error": "('Korea_jangchang_tassel', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_lancer_lance",
+      "passed": false,
+      "error": "('Korea_lancer_lance', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_lancer_polearm_upgrade",
+      "passed": false,
+      "error": "('Korea_lancer_polearm_upgrade', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_lumber_camp01",
+      "passed": false,
+      "error": "('Korea_lumber_camp01', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_mining_camp01",
+      "passed": false,
+      "error": "('Korea_mining_camp01', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_monk_staff",
+      "passed": false,
+      "error": "('Korea_monk_staff', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_righteous_monk_sword",
+      "passed": false,
+      "error": "('Korea_righteous_monk_sword', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_seonbi_book",
+      "passed": false,
+      "error": "('Korea_seonbi_book', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_shared_torch",
+      "passed": false,
+      "error": "('Korea_shared_torch', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_villager_axe",
+      "passed": false,
+      "error": "('Korea_villager_axe', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_villager_basket",
+      "passed": false,
+      "error": "('Korea_villager_basket', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_villager_crook",
+      "passed": false,
+      "error": "('Korea_villager_crook', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_villager_hammer",
+      "passed": false,
+      "error": "('Korea_villager_hammer', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_villager_hunting_bow",
+      "passed": false,
+      "error": "('Korea_villager_hunting_bow', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_villager_hunting_spear",
+      "passed": false,
+      "error": "('Korea_villager_hunting_spear', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_villager_pick",
+      "passed": false,
+      "error": "('Korea_villager_pick', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "Korea_villager_sickle",
+      "passed": false,
+      "error": "('Korea_villager_sickle', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 3, 'reason': '3 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "bulguksa_temple",
+      "passed": false,
+      "error": "('bulguksa_temple', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 11, 'reason': '11 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "gate_of_reverence",
+      "passed": false,
+      "error": "('gate_of_reverence', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 11, 'reason': '11 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "gyeongbok_palace",
+      "passed": false,
+      "error": "('gyeongbok_palace', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 11, 'reason': '11 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "hall_of_worthies",
+      "passed": false,
+      "error": "('hall_of_worthies', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 11, 'reason': '11 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "hwangnyongsa",
+      "passed": false,
+      "error": "('hwangnyongsa', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 30, 'reason': '30 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "mountain_fortress",
+      "passed": false,
+      "error": "('mountain_fortress', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 11, 'reason': '11 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "seon_deok_observatory",
+      "passed": false,
+      "error": "('seon_deok_observatory', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 11, 'reason': '11 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "seowon_academy",
+      "passed": false,
+      "error": "('seowon_academy', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 11, 'reason': '11 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    },
+    {
+      "asset": "stone_pagoda",
+      "passed": false,
+      "error": "('stone_pagoda', [{'id': 'rig_projection', 'status': 'not_decoded', 'affected_group_count': 11, 'reason': '11 UnitDataStream group(s) remain rest-pose-only because complete exact SKMS palette binding is unresolved; animation is a separate gate'}])"
+    }
+  ]
+}

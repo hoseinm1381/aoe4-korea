@@ -1,0 +1,23 @@
+{
+  "id": "villager_sickle",
+  "donor": "art/civilizations/common/weapons/tools/sickle_farming/sickle_farming.rgm",
+  "kind": "tool",
+  "design": "Harvesting sickle and timber grip; farm BUILDINGS excluded, villager tools included",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\villager_sickle\\68f70b785af4d2b9e8f2\\decoded-static.json",
+  "manifest_sha256": "8b0838432ec56b589721720a4721a66ab24e297fece6df40094b3814d7634c5e",
+  "bounds": {
+    "min": [
+      -0.025848388671875,
+      -0.1290283203125,
+      -0.1807861328125
+    ],
+    "max": [
+      0.02581787109375,
+      0.2166748046875,
+      0.59375
+    ]
+  },
+  "native_triangles": 178,
+  "bones": 0
+}

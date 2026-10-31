@@ -1,0 +1,7122 @@
+{
+  "routes": 91,
+  "variants": [
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_2.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 50.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature50DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_2.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 50.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature50DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_3.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_4.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_4.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_maa_heavy_spear_4.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_maa_heavy_spear_4.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_unique_tech_spear.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_unique_tech_spear.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_wheelbarrow.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 200.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature200DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_wheelbarrow.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 200.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature200DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_1.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_1.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_2.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_2.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature750DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_3.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature750DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_hunt_gather_rate.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 100.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature100DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_hunt_gather_rate.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 100.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature100DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_pro_scout.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 450.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature450DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_pro_scout.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 450.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature450DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_1.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_1.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_2.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_2.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature750DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_3.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature750DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_chop.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 75.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature75DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_chop.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 75.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature75DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_1.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_1.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_2.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_2.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature750DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_3.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature750DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_armor_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_armor_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_attack_speed_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_attack_speed_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_attack_speed_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_construction_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature700ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_construction_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature700ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_construction_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature700ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_damage_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature250ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_damage_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature250ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_decay_armor_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_decay_armor_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_decay_armor_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_falcon_sight.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1200.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1200ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_falcon_sight.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1200.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1200ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_falcon_sight.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1200.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1200ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_gunpowder_attack_speed_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_gunpowder_attack_speed_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_gunpowder_attack_speed_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_healing_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_healing_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_healing_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_armor_maneuver_arrow.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_armor_maneuver_arrow.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_armor_maneuver_arrow.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature250ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature250ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature250ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_knight_damage_move_speed_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_knight_damage_move_speed_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_knight_damage_move_speed_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_move_speed_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_move_speed_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_move_speed_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_mon_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_mon_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_mon_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_ranged_attack_speed_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_ranged_attack_speed_activated.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_ranged_attack_speed_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_siege_damage_activated.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 125.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature125ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_siege_damage_activated.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 125.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature125ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_saladin_armor_activated_ayy.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 275.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature275ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_saladin_armor_activated_ayy.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 275.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature275ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_shirkuh_speed_activate_ayy.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature300ForeignDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_shirkuh_speed_activate_ayy.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature300ForeignDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_upgrade_naval_incendiaries.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_upgrade_naval_incendiaries.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_upgrade_naval_springald_ship_upgrade_1.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_upgrade_naval_springald_ship_upgrade_1.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_extra_hammocks.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_extra_hammocks.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_armored_hull.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_armored_hull.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_shipwrights.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 850.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature850DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_shipwrights.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 850.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature850DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_explosives.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_explosives.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_econ_drift_nets.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_econ_drift_nets.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_upgrade_econ_extended_lines.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature250DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_upgrade_econ_extended_lines.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature250DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_swivel_cannon.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_swivel_cannon.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_heated_shot.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature700DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_heated_shot.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature700DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_seowon_hungul_script_korea.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 200.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature200DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_seowon_hungul_script_korea.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 200.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature200DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_seowon_hungul_script_korea_for_feudal_landmark.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature300DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_seowon_hungul_script_korea_for_feudal_landmark.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature300DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_town_center_textile_korea.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_town_center_textile_korea.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_herbal_medicine.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 275.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature275DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_herbal_medicine.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 275.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature275DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_piety.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_piety.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_tithe_barns.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_tithe_barns.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_crossbow_tier_4.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_crossbow_tier_4.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_3.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_4.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_4.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_rocket.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_rocket.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_archer_tier_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_archer_tier_3.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_archer_tier_4.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_archer_tier_4.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_ranged_arrow_chutes.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature300DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_ranged_arrow_chutes.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature300DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_1.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_1.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_2.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_2.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_3.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_1.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_1.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_2.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_2.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_3.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_1.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_1.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_2.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_2.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_3.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_1.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_1.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_2.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_2.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_3.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_siege_engineers.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_siege_engineers.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature175DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_military_academy.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_military_academy.rgd.json",
+      "variant": "campaign",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_roller_shutter_trigger.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_roller_shutter_trigger.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_movement_speed.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_movement_speed.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_mathemathics.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_mathemathics.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature325DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_ram_upgrade.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 700.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "UniqueAbilityDataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_ram_upgrade.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 700.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "UniqueAbilityDataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_bombard_range.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_bombard_range.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_horseman_tier_3.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_horseman_tier_3.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature350DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_horseman_tier_4.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_horseman_tier_4.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_knight_tier_4.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_knight_tier_4.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_knight_range.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature700DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_knight_range.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature700DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_scout_los_incrase.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_scout_los_incrase.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature150DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_siege_cemistary.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 850.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature850DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_siege_cemistary.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 850.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature850DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_biology.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_biology.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_architecture_4.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_architecture_4.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_elite_army_tactic.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_elite_army_tactic.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_ranged_incendiary.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1500DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_ranged_incendiary.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1500DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_siege_works.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 900.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature900DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_siege_works.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 900.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature900DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_silkstring.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_silkstring.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature1000DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_leadshot.rgd.json",
+      "variant": "default",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 800.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature800DataTemplate"
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_leadshot.rgd.json",
+      "variant": "xp3",
+      "costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 800.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "tooltip": "KoreaLiterature800DataTemplate",
+      "before_costs": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    }
+  ],
+  "custom_tooltip_templates": {
+    "KoreaLiterature50DataTemplate": {
+      "literature": 50.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature350DataTemplate": {
+      "literature": 350.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature1000DataTemplate": {
+      "literature": 1000.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature500DataTemplate": {
+      "literature": 500.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature200DataTemplate": {
+      "literature": 200.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature150DataTemplate": {
+      "literature": 150.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature750DataTemplate": {
+      "literature": 750.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature100DataTemplate": {
+      "literature": 100.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature450DataTemplate": {
+      "literature": 450.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature75DataTemplate": {
+      "literature": 75.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature150ForeignDataTemplate": {
+      "literature": 150.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature1000ForeignDataTemplate": {
+      "literature": 1000.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature700ForeignDataTemplate": {
+      "literature": 700.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature250ForeignDataTemplate": {
+      "literature": 250.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature1200ForeignDataTemplate": {
+      "literature": 1200.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature325ForeignDataTemplate": {
+      "literature": 325.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature500ForeignDataTemplate": {
+      "literature": 500.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature350ForeignDataTemplate": {
+      "literature": 350.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature125ForeignDataTemplate": {
+      "literature": 125.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature275ForeignDataTemplate": {
+      "literature": 275.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature300ForeignDataTemplate": {
+      "literature": 300.0,
+      "allowance": 1.0
+    },
+    "KoreaLiterature850DataTemplate": {
+      "literature": 850.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature250DataTemplate": {
+      "literature": 250.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature700DataTemplate": {
+      "literature": 700.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature300DataTemplate": {
+      "literature": 300.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature275DataTemplate": {
+      "literature": 275.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature325DataTemplate": {
+      "literature": 325.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature175DataTemplate": {
+      "literature": 175.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature1500DataTemplate": {
+      "literature": 1500.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature900DataTemplate": {
+      "literature": 900.0,
+      "allowance": 0.0
+    },
+    "KoreaLiterature800DataTemplate": {
+      "literature": 800.0,
+      "allowance": 0.0
+    }
+  },
+  "official_ui_member": "UI.sga:ui/hud/controls/issuabletooltip.xaml",
+  "official_ui_sha256": "790a586acc8f11ec89f3cb66f963368bd77473c599bc89313271f9c55fb07594",
+  "official_paid_ability_donors": [
+    {
+      "member": "abilities/timed_abilities/rus/kremlin_levy",
+      "sha256": "c18497d4348c93604b5d4b70c2e64184c2acab2dab709460fe595abe75af0fbd",
+      "validate_actions": false,
+      "refundable": true
+    },
+    {
+      "member": "abilities/modal_abilities/core/poi/hire_ronin_poi",
+      "sha256": "cd58e5e2a9781698d72624e8b763396bcbea987ff50b5e9d759be11a4ab53ae1",
+      "validate_actions": false,
+      "refundable": true
+    }
+  ],
+  "resource_registry_diagnosis": "Likely cause of duplicate UI and inconsistent debit: a second stock RT_Merc_Byz descriptor in an additive owner namespace. Native confirmation pending.",
+  "no_fee_values_changed": false,
+  "no_cook_or_package": true,
+  "variant_cost_corrections": [
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_archer_tier_3.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_archer_tier_4.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_crossbow_tier_4.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_ranged_arrow_chutes.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_3.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_4.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_rocket.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_maa_heavy_spear_4.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_2.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 50.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_3.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_4.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_barracks_unique_tech_spear.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_1.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_2.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_3.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_1.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_2.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_3.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_military_academy.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_1.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_2.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_3.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_1.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_2.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_3.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_blacksmith_siege_engineers.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 175.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_1.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_2.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_3.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_1.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_2.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_3.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_chop.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 75.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_1.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_2.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_food_3.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 750.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_hunt_gather_rate.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 100.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_pro_scout.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 450.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_economic_mill_wheelbarrow.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 200.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_armor_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_attack_speed_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_attack_speed_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_construction_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_construction_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_damage_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_decay_armor_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_decay_armor_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_falcon_sight.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1200.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_falcon_sight.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1200.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_gunpowder_attack_speed_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_gunpowder_attack_speed_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_healing_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_healing_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_armor_maneuver_arrow.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_armor_maneuver_arrow.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_knight_damage_move_speed_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_knight_damage_move_speed_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_move_speed_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_move_speed_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_mon_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_production_mon_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_ranged_attack_speed_activated.rgd.json",
+      "variant": "campaign",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_ranged_attack_speed_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_leader_siege_damage_activated.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 125.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_herbal_medicine.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 275.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_piety.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_monestary_tithe_barns.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_armored_hull.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_econ_drift_nets.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_explosives.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_extra_hammocks.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_heated_shot.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_shipwrights.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 850.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_swivel_cannon.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_naval_upgrade_naval_incendiaries.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_saladin_armor_activated_ayy.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 275.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_seowon_hungul_script_korea.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 200.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_seowon_hungul_script_korea_for_feudal_landmark.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_shirkuh_speed_activate_ayy.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 1.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 300.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_bombard_range.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_mathemathics.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 325.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_movement_speed.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_ram_upgrade.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 700.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_siege_roller_shutter_trigger.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_horseman_tier_3.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 350.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_horseman_tier_4.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_knight_range.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 700.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_knight_tier_4.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_stable_scout_los_incrase.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_town_center_textile_korea.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 150.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_architecture_4.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_biology.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_elite_army_tactic.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_leadshot.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 800.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_ranged_incendiary.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_siege_cemistary.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 850.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_siege_works.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 900.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_university_silkstring.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 1000.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_upgrade_econ_extended_lines.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 250.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    },
+    {
+      "table": "source/tables/attrib/abilities/korea/kr_upgrade_naval_springald_ship_upgrade_1.rgd.json",
+      "variant": "xp3",
+      "before": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 0.0,
+        "command": 0.0,
+        "wood": 0.0
+      },
+      "after": {
+        "food": 0.0,
+        "action": 0.0,
+        "gold": 0.0,
+        "militia_hre": 0.0,
+        "popcap": 0.0,
+        "stone": 0.0,
+        "merc_byz": 500.0,
+        "command": 0.0,
+        "wood": 0.0
+      }
+    }
+  ],
+  "intended_catalogue_prices_changed": false,
+  "variant_payment_diagnosis": "104 non-default ability variants had all-zero cost_to_player, unlike default and the retained research catalogue. Their fees now exactly match default; no intended prices or research times changed."
+}

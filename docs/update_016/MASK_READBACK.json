@@ -1,0 +1,1100 @@
+[
+  {
+    "asset": "kr_archer_a2",
+    "encoded_vs_source_channel_mean_error": [
+      1.3675765991210938,
+      0.05641937255859375,
+      0.00518798828125,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.16484552649349776,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_archer_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.7158393859863281,
+      0.04604339599609375,
+      0.023345947265625,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.19419996032933093,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_archer_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.8386192321777344,
+      0.21595001220703125,
+      0.2788543701171875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2405824404678323,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_crossbowman_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.9585762023925781,
+      0.07230758666992188,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.15413197903472994,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_crossbowman_a4",
+    "encoded_vs_source_channel_mean_error": [
+      1.0460052490234375,
+      0.3245735168457031,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1835214592309601,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_gapsa_a3",
+    "encoded_vs_source_channel_mean_error": [
+      1.0842247009277344,
+      0.22762298583984375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2460312985135838,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_gapsa_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.9666366577148438,
+      0.23248672485351562,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.20127714709926148,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_handcannoneer_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.66961669921875,
+      0.13391494750976562,
+      0.0038909912109375,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.21583994793361977,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_horseman_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.3175392150878906,
+      0.08138656616210938,
+      0.08592605590820312,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1348424180974055,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_horseman_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.5881919860839844,
+      0.19195556640625,
+      0.05771636962890625,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2606211993821638,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_horseman_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.8388290405273438,
+      0.23443222045898438,
+      0.070037841796875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.21226797577000786,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a2",
+    "encoded_vs_source_channel_mean_error": [
+      1.0842247009277344,
+      0.22762298583984375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2671123653332261,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a3",
+    "encoded_vs_source_channel_mean_error": [
+      1.0842247009277344,
+      0.22762298583984375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2648770624616109,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.9666366577148438,
+      0.23248672485351562,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2182225757607541,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_hwarang_mounted_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.3175392150878906,
+      0.08138656616210938,
+      0.08592605590820312,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.13594379153036298,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_hwarang_mounted_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.5881919860839844,
+      0.19195556640625,
+      0.05771636962890625,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2618470131330863,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_hwarang_mounted_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.8388290405273438,
+      0.23443222045898438,
+      0.070037841796875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.20783081176092544,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_lancer_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.7527847290039062,
+      0.19519805908203125,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1816180861471494,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_lancer_a4",
+    "encoded_vs_source_channel_mean_error": [
+      1.3409767150878906,
+      0.17606735229492188,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.3068072143736986,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_monk_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.3856544494628906,
+      0.019779205322265625,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1829321876977932,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_monk_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.583465576171875,
+      0.13813018798828125,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1828471156479073,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_horseman_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.057781219482421875,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.03502258403310488,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_horseman_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.2619438171386719,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.08473113968008247,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_horseman_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.3252601623535156,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.17055540532624822,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_hwarang_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.057781219482421875,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.03502258403310488,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_hwarang_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.2619438171386719,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.08473113968008247,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_hwarang_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.3252601623535156,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.17055540532624822,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_lancer_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.2816276550292969,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.18004297659077745,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_lancer_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.8657798767089844,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.3188764984180168,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_scout_a1",
+    "encoded_vs_source_channel_mean_error": [
+      0.11684799194335938,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.0531936260087624,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_scout_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.11684799194335938,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.05319362566930496,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_scout_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.11684799194335938,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.0531936260087624,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_scout_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.11684799194335938,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.0531936260087624,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_trader_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.2513427734375,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.06369524115688129,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_trader_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.23839569091796875,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.05588167498661615,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_mount_trader_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.25862884521484375,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.055610519212267256,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_righteous_army_monk_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.3856544494628906,
+      0.019779205322265625,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.19024426068432237,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_righteous_army_monk_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.583465576171875,
+      0.13813018798828125,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1888523184054912,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_scout_a1",
+    "encoded_vs_source_channel_mean_error": [
+      0.07387161254882812,
+      0.000972747802734375,
+      0.0272369384765625,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.17275351854605253,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_scout_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.2320098876953125,
+      0.0946807861328125,
+      0.02593994140625,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.269014770105736,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_scout_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.4686431884765625,
+      0.1413726806640625,
+      0.052204132080078125,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2101223495758759,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_scout_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.2177886962890625,
+      0.11316299438476562,
+      0.035991668701171875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.28577129380198424,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_scout_female_a1",
+    "encoded_vs_source_channel_mean_error": [
+      0.16419219970703125,
+      0.000972747802734375,
+      0.030155181884765625,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.19579505225028612,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_scout_female_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.4716835021972656,
+      0.09824752807617188,
+      0.023021697998046875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.27040428379786147,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_scout_female_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.48583221435546875,
+      0.14688491821289062,
+      0.06549835205078125,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.21309533415485593,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_scout_female_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.238494873046875,
+      0.12613296508789062,
+      0.035991668701171875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2871031399981137,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_seonbi_a1",
+    "encoded_vs_source_channel_mean_error": [
+      0.4348182678222656,
+      0.2114105224609375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.03759955373259191,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_seonbi_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.2625274658203125,
+      0.2947425842285156,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.014138364414331394,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_spearman_a1",
+    "encoded_vs_source_channel_mean_error": [
+      0.4412498474121094,
+      0.045070648193359375,
+      0.015888214111328125,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1337317364554299,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_spearman_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.5043182373046875,
+      0.080413818359375,
+      0.04604339599609375,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.05865369351951073,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_spearman_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.8316307067871094,
+      0.18709182739257812,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.09330733950758523,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_spearman_a4",
+    "encoded_vs_source_channel_mean_error": [
+      1.2796669006347656,
+      0.145263671875,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.27048211079080997,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_tiger_hunter_a2",
+    "encoded_vs_source_channel_mean_error": [
+      1.0842247009277344,
+      0.22762298583984375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.24713988351083732,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_tiger_hunter_a3",
+    "encoded_vs_source_channel_mean_error": [
+      1.0842247009277344,
+      0.22762298583984375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.24713988351083732,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_tiger_hunter_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.9666366577148438,
+      0.23248672485351562,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.20220632664999086,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trade_cargo_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.8613433837890625,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.12852703572188545,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trade_cargo_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.8106269836425781,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.11674535448929091,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trade_cargo_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.7961921691894531,
+      0.000972747802734375,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.08817195947589387,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trader_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.2116851806640625,
+      0.02593994140625,
+      0.01621246337890625,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.21400220873503878,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trader_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.65899658203125,
+      0.023345947265625,
+      0.06258010864257812,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.2869790384552817,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trader_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.4860496520996094,
+      0.11640548706054688,
+      0.008106231689453125,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.303651250531679,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trader_female_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.4672088623046875,
+      0.04150390625,
+      0.08495330810546875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1696259589403004,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trader_female_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.5584793090820312,
+      0.166015625,
+      0.004863739013671875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.32210103492707315,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_trader_female_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.5004348754882812,
+      0.24091720581054688,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.320224527367481,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_villager_female_a1",
+    "encoded_vs_source_channel_mean_error": [
+      0.4832878112792969,
+      0.064849853515625,
+      0.070037841796875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1340756407781823,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_villager_female_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.4672088623046875,
+      0.04150390625,
+      0.08495330810546875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1284414052752365,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_villager_female_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.5584793090820312,
+      0.166015625,
+      0.004863739013671875,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1997386237613609,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_villager_female_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.5004348754882812,
+      0.24091720581054688,
+      0.0,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.1726058928310767,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_villager_male_a1",
+    "encoded_vs_source_channel_mean_error": [
+      0.421173095703125,
+      0.04863739013671875,
+      0.047016143798828125,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.23593723009076878,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_villager_male_a2",
+    "encoded_vs_source_channel_mean_error": [
+      0.2116851806640625,
+      0.02593994140625,
+      0.01621246337890625,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.22078951045098094,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_villager_male_a3",
+    "encoded_vs_source_channel_mean_error": [
+      0.65899658203125,
+      0.023345947265625,
+      0.06258010864257812,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.3135207518894618,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "kr_villager_male_a4",
+    "encoded_vs_source_channel_mean_error": [
+      0.4860496520996094,
+      0.11640548706054688,
+      0.008106231689453125,
+      0.0
+    ],
+    "lod1_surface_owner_before": 0.0,
+    "lod1_surface_owner_after": 0.32616138372918785,
+    "method": "triangle UV centroid sampled owner mask, weighted by native LOD1 3D triangle area"
+  },
+  {
+    "asset": "korea_cavalry_spear",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_crossbow",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_gakgung_archer",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_gakgung_hwarang",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_gakgung_tiger_hunter",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_gapsa_heavy_spear",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_gapsa_long_spear",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_hand_chongtong",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_hwarang_sword",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_jangchang_plain",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_jangchang_tassel",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_lancer_lance",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_lancer_polearm_upgrade",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_monk_staff",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_righteous_monk_sword",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_seonbi_book",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_shared_torch",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_villager_axe",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_villager_basket",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_villager_crook",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_villager_hammer",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_villager_hunting_bow",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_villager_hunting_spear",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_villager_pick",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "korea_villager_sickle",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "asset": "kr_hwacha",
+    "encoded_vs_source_channel_mean_error": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+]

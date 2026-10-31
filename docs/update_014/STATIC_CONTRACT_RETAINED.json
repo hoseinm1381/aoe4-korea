@@ -1,0 +1,258 @@
+{
+  "all_passed": true,
+  "assets": [
+    {
+      "asset": "bulguksa_temple",
+      "source_geometry_sha256": "f190327ad941a4bf964e9d610cc60e394116d16d527c15aaad594c1a752b2b8d",
+      "native_geometry_sha256": "f190327ad941a4bf964e9d610cc60e394116d16d527c15aaad594c1a752b2b8d",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "gate_of_reverence",
+      "source_geometry_sha256": "882f9196d9f0b50b9ca2db0fba48b7f5c7762be1c3dc5e1c8505eab5535ab706",
+      "native_geometry_sha256": "882f9196d9f0b50b9ca2db0fba48b7f5c7762be1c3dc5e1c8505eab5535ab706",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "gyeongbok_palace",
+      "source_geometry_sha256": "54d3c2f122264ec673f01f3b9407f4907517af038e6ad73886ccb359e2f1c1a4",
+      "native_geometry_sha256": "54d3c2f122264ec673f01f3b9407f4907517af038e6ad73886ccb359e2f1c1a4",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "hall_of_worthies",
+      "source_geometry_sha256": "2cfa73998763578ba83ee7a9409dd10395f83ea5fe3286e123c28a803a22a749",
+      "native_geometry_sha256": "2cfa73998763578ba83ee7a9409dd10395f83ea5fe3286e123c28a803a22a749",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "hwangnyongsa",
+      "source_geometry_sha256": "f5022a683a0d497dc096e9c759b94a6b9bc7339309f4f3dca74960add53093e1",
+      "native_geometry_sha256": "f5022a683a0d497dc096e9c759b94a6b9bc7339309f4f3dca74960add53093e1",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_cavalry_spear",
+      "source_geometry_sha256": "1373a5f319af6d5e3005b3a9b65824b8bd1648a19d21b50b6f4fcda3540df7e7",
+      "native_geometry_sha256": "1373a5f319af6d5e3005b3a9b65824b8bd1648a19d21b50b6f4fcda3540df7e7",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_crossbow",
+      "source_geometry_sha256": "11fd02a0c1e6013a5343cb9e271eb23853995317c01f73efe98322abf59f4a98",
+      "native_geometry_sha256": "11fd02a0c1e6013a5343cb9e271eb23853995317c01f73efe98322abf59f4a98",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_gakgung_archer",
+      "source_geometry_sha256": "2151fb1a59e575309464294977ed947d3773dac2da6146fc5e3f11c8d3d1e2d3",
+      "native_geometry_sha256": "2151fb1a59e575309464294977ed947d3773dac2da6146fc5e3f11c8d3d1e2d3",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_gakgung_hwarang",
+      "source_geometry_sha256": "c350b655f5aac4821da9f71199f61376104b57736ab28814f1a6c287e2e050fc",
+      "native_geometry_sha256": "c350b655f5aac4821da9f71199f61376104b57736ab28814f1a6c287e2e050fc",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_gakgung_tiger_hunter",
+      "source_geometry_sha256": "7f5ce594c5f8107daf008c68b1797966f89bcb5badcffadac1a3e2e657b696e0",
+      "native_geometry_sha256": "7f5ce594c5f8107daf008c68b1797966f89bcb5badcffadac1a3e2e657b696e0",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_gapsa_heavy_spear",
+      "source_geometry_sha256": "95a9e30572e9f5a0c8d98876cfe3a78c4aedd300bd9f78cb65f9ca45e26ac44d",
+      "native_geometry_sha256": "95a9e30572e9f5a0c8d98876cfe3a78c4aedd300bd9f78cb65f9ca45e26ac44d",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_gapsa_long_spear",
+      "source_geometry_sha256": "84243afaae947cd00caa3043fb9edf54a3e9af18f08f1d0467dc1aa305a96cbd",
+      "native_geometry_sha256": "84243afaae947cd00caa3043fb9edf54a3e9af18f08f1d0467dc1aa305a96cbd",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_hand_chongtong",
+      "source_geometry_sha256": "c38801d00bfcd9b2e3b7d080fcd275432b3fe17600c48b90e34c09f62cc60ae7",
+      "native_geometry_sha256": "c38801d00bfcd9b2e3b7d080fcd275432b3fe17600c48b90e34c09f62cc60ae7",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_hwarang_sword",
+      "source_geometry_sha256": "20c6ca3863c7cf3feb8823bf0a788fb9a8806737156034c588a2057bfce29a39",
+      "native_geometry_sha256": "20c6ca3863c7cf3feb8823bf0a788fb9a8806737156034c588a2057bfce29a39",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_jangchang_plain",
+      "source_geometry_sha256": "2c4f2be47680abc0a0212d2025f1b0ff598a5cd05825c7c9608be111bf72dba1",
+      "native_geometry_sha256": "2c4f2be47680abc0a0212d2025f1b0ff598a5cd05825c7c9608be111bf72dba1",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_jangchang_tassel",
+      "source_geometry_sha256": "fc793beffe600e738f5d12c3547a08a81632a608ba37cfe10f08e28e312392ea",
+      "native_geometry_sha256": "fc793beffe600e738f5d12c3547a08a81632a608ba37cfe10f08e28e312392ea",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_lancer_lance",
+      "source_geometry_sha256": "9c74f84a39b1fcc49a9680647eccee8a06a295328ea111a12fb731151b0d06e3",
+      "native_geometry_sha256": "9c74f84a39b1fcc49a9680647eccee8a06a295328ea111a12fb731151b0d06e3",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_lancer_polearm_upgrade",
+      "source_geometry_sha256": "43bafedebd08b7053c460cf49366b5ddc77f37003958b8b63557f9887e259e82",
+      "native_geometry_sha256": "43bafedebd08b7053c460cf49366b5ddc77f37003958b8b63557f9887e259e82",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_lumber_camp01",
+      "source_geometry_sha256": "b07df2b1701710feb4a66cb581db3e79c920bb04c0e2d8dd7cdb5775714bcda8",
+      "native_geometry_sha256": "b07df2b1701710feb4a66cb581db3e79c920bb04c0e2d8dd7cdb5775714bcda8",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_mining_camp01",
+      "source_geometry_sha256": "0376a15222795f9a3449a489393bc225183260cc3f04633528d5297729a997aa",
+      "native_geometry_sha256": "0376a15222795f9a3449a489393bc225183260cc3f04633528d5297729a997aa",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_monk_staff",
+      "source_geometry_sha256": "044739cc7a985ae4b7e9afbbbcac088b40fc00d7829599ddee7682a87e650d0d",
+      "native_geometry_sha256": "044739cc7a985ae4b7e9afbbbcac088b40fc00d7829599ddee7682a87e650d0d",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_righteous_monk_sword",
+      "source_geometry_sha256": "6fd165d2746cbc11ee62e12a0621894f2716ef1004020a41683d3b693eabb865",
+      "native_geometry_sha256": "6fd165d2746cbc11ee62e12a0621894f2716ef1004020a41683d3b693eabb865",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_seonbi_book",
+      "source_geometry_sha256": "8ccf6309060ce64635a329a17dedfdb220c56a27896cd0b33f65e8ebf97c0a25",
+      "native_geometry_sha256": "8ccf6309060ce64635a329a17dedfdb220c56a27896cd0b33f65e8ebf97c0a25",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_shared_torch",
+      "source_geometry_sha256": "e644eb12b58f18c9e28a5e54fce1fea9e4d56347944977d650fedd31345e5e45",
+      "native_geometry_sha256": "e644eb12b58f18c9e28a5e54fce1fea9e4d56347944977d650fedd31345e5e45",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_villager_axe",
+      "source_geometry_sha256": "bdacd1270d20ec7fc0a56e7e75896360012c2fbb52fd07939ecb716669937279",
+      "native_geometry_sha256": "bdacd1270d20ec7fc0a56e7e75896360012c2fbb52fd07939ecb716669937279",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_villager_basket",
+      "source_geometry_sha256": "5c7740d71bc0c70b9b2bf93f7bc3b9cde3d4a40e18e38ceab2a903948bd6891e",
+      "native_geometry_sha256": "5c7740d71bc0c70b9b2bf93f7bc3b9cde3d4a40e18e38ceab2a903948bd6891e",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_villager_crook",
+      "source_geometry_sha256": "1eac000282f58d9b90823e00ad963db6f71d38a612e22d1698cf79049aac1840",
+      "native_geometry_sha256": "1eac000282f58d9b90823e00ad963db6f71d38a612e22d1698cf79049aac1840",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_villager_hammer",
+      "source_geometry_sha256": "1878bdbef3ffb1b8a5b7a16afa9d792f0624e61920938f8888f66f6ba06359b4",
+      "native_geometry_sha256": "1878bdbef3ffb1b8a5b7a16afa9d792f0624e61920938f8888f66f6ba06359b4",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_villager_hunting_bow",
+      "source_geometry_sha256": "924ad2de82a37762652aa1f24e9a5ee36228e70148b821e0280fd46d6ca408c8",
+      "native_geometry_sha256": "924ad2de82a37762652aa1f24e9a5ee36228e70148b821e0280fd46d6ca408c8",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_villager_hunting_spear",
+      "source_geometry_sha256": "81d160cb5a1633645b43d056c93de8808a9f93e11b1cbae7d6fb002bc9264cd0",
+      "native_geometry_sha256": "81d160cb5a1633645b43d056c93de8808a9f93e11b1cbae7d6fb002bc9264cd0",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_villager_pick",
+      "source_geometry_sha256": "417c20ec7517e2e6ec58696e5f331da387609a7fbafd34f90922169222396b15",
+      "native_geometry_sha256": "417c20ec7517e2e6ec58696e5f331da387609a7fbafd34f90922169222396b15",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "Korea_villager_sickle",
+      "source_geometry_sha256": "2be387b23e7335c347ed1737351a697ae17e776d23a751aa62b2a96d1eb53b1d",
+      "native_geometry_sha256": "2be387b23e7335c347ed1737351a697ae17e776d23a751aa62b2a96d1eb53b1d",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "mountain_fortress",
+      "source_geometry_sha256": "6c4f838358a3d1a837eb1d692281143f0f7331506865872f1e3a3e230ff605ec",
+      "native_geometry_sha256": "6c4f838358a3d1a837eb1d692281143f0f7331506865872f1e3a3e230ff605ec",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "seon_deok_observatory",
+      "source_geometry_sha256": "a5cb0a727f83429761692d8ada69a939787b0eea8b7b830ede0cc652551d63c1",
+      "native_geometry_sha256": "a5cb0a727f83429761692d8ada69a939787b0eea8b7b830ede0cc652551d63c1",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "seowon_academy",
+      "source_geometry_sha256": "6ce1c133a30c688f18783ba5eb0c1feb787aac9bf3fa16015adf6cbc9d91dc7f",
+      "native_geometry_sha256": "6ce1c133a30c688f18783ba5eb0c1feb787aac9bf3fa16015adf6cbc9d91dc7f",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    },
+    {
+      "asset": "stone_pagoda",
+      "source_geometry_sha256": "2dc16f157d3408cc263c07ddec3a0ea9af364d19c9a3eedca12987d88049d6a4",
+      "native_geometry_sha256": "2dc16f157d3408cc263c07ddec3a0ea9af364d19c9a3eedca12987d88049d6a4",
+      "native_skin_palette": "qualified_013_one_root_unchanged",
+      "material_bindings_corrected": true
+    }
+  ],
+  "reason": "Unit shader requires valid one-root SKLN/SKMS even for rigid assemblies; root-owned sim attachment avoids merging against a foreign building rig."
+}

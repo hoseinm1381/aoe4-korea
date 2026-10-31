@@ -1,0 +1,108 @@
+{
+  "version": "0.1.4",
+  "removed": [
+    {
+      "root": "F:\\aoe_4_temp\\Temp_aoe4",
+      "files": 96773,
+      "logical_bytes": 5372163695,
+      "detached_junctions": [],
+      "root_retained_empty": true
+    },
+    {
+      "root": "E:\\aoe4_korea_014_model_tools",
+      "files": 82,
+      "logical_bytes": 952868401,
+      "detached_junctions": [
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\cardinal",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\cardinal"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\common",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\common"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\Craig_Mullins_Compilation_Banner",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\Craig_Mullins_Compilation_Banner"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\de",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\de"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\engine",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\engine"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\es",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\es"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\fr",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\fr"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\hu",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\hu"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\it",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\it"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\lib",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\lib"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\licences",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\licences"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\pt-BR",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\pt-BR"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\ro",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\ro"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\ru",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\ru"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\scardocs",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\scardocs"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\sv",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\sv"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\tools",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\tools"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\Unit_Counters_Chart",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\Unit_Counters_Chart"
+        },
+        {
+          "path": "E:\\aoe4_korea_014_model_tools\\zh-Hans",
+          "target": "E:\\Games\\steamapps\\common\\Age of Empires IV\\zh-Hans"
+        }
+      ],
+      "root_retained_empty": false
+    }
+  ],
+  "total_logical_bytes_removed": 6325032096,
+  "observed_free_space_change": {
+    "E": 3371008,
+    "F": 34023669760
+  },
+  "current_zip_sha256": "761736f2e6d43726bb2468cff62b8bc179a222080f59f36b49a87197758fc88c",
+  "rollback_013_sha256": "1e2d7976d5a3e1274c333a31738e963796d9fc56186f9040eef13bc62d8924cb",
+  "diagnostics_zip_sha256": "e5ff04aa17965a1a5a7dea861522f2a7f1c22b2670c7c067c7863571033b6a59",
+  "diagnostic_files_retained": 243,
+  "inputs_verified_after": true,
+  "installed_game_junction_targets_preserved": true,
+  "C_or_D_drive_mutations": false
+}

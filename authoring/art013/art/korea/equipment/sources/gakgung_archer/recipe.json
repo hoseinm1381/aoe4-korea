@@ -1,0 +1,23 @@
+{
+  "id": "gakgung_archer",
+  "donor": "art/civilizations/common/weapons/ranged/bow_recurve_short/bow_recurve_short.rgm",
+  "kind": "bow",
+  "design": "Compact reflex bow, horn/dark belly and pale sinew backing; native draw skeleton retained",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\gakgung_archer\\ee019fd1fb1ff088bd27\\decoded-static.json",
+  "manifest_sha256": "ed1bd6a6426f7effd535e9ea49f707556a2f94bb92d30db32d862e70af8d7f06",
+  "bounds": {
+    "min": [
+      -0.2783203125,
+      -0.09613037109375,
+      -0.7470703125
+    ],
+    "max": [
+      0.10504150390625,
+      0.00959014892578125,
+      0.75048828125
+    ]
+  },
+  "native_triangles": 336,
+  "bones": 4
+}

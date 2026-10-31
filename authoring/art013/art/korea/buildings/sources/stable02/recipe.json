@@ -1,0 +1,34 @@
+{
+  "family": "stable",
+  "age": 2,
+  "variant": "",
+  "recipe": {
+    "roof_rise_scale": 0.79,
+    "eave_spread": 0.05,
+    "tip_calm": 0.1,
+    "direction": "Low stable shelters and broad ventilated eaves; horse handling plan and yard preserved."
+  },
+  "anchors": {
+    "has_roof": true,
+    "eave_z": 2.60546875,
+    "center": [
+      0.04361328124999986,
+      0.0087890625,
+      2.60546875
+    ],
+    "half_xy": [
+      3.18880859375,
+      1.2099609375
+    ],
+    "rise": 1.75390625
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\stable02\\6922bf4812c92fb5d86a\\decoded-static.json"
+}

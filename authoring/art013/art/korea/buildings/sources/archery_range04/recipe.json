@@ -1,0 +1,34 @@
+{
+  "family": "archery_range",
+  "age": 4,
+  "variant": "",
+  "recipe": {
+    "roof_rise_scale": 0.8,
+    "eave_spread": 0.055,
+    "tip_calm": 0.11,
+    "direction": "Gungbang inspired timber shooting hall proportions with original range targets and clear training yard."
+  },
+  "anchors": {
+    "has_roof": true,
+    "eave_z": 2.7890625,
+    "center": [
+      0.11427734374999998,
+      -0.46875,
+      2.7890625
+    ],
+    "half_xy": [
+      3.93650390625,
+      2.416015625
+    ],
+    "rise": 3.3125
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\archery_range04\\e61995d242ac2bd72e68\\decoded-static.json"
+}

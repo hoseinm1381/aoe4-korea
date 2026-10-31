@@ -1,8 +1,9 @@
 {
-  "version": "0.1.2",
-  "tests": 18,
+  "version": "0.1.5",
   "passed": true,
-  "scope": "Actual tested native Codex regression, research age/header/icon layout, owned overview lists, flag fallback, both native views, UI-only source changes, preserved gameplay/media/schema/start, and exact audio-only SCAR substitutions.",
-  "static_validator": "passed",
-  "native_game_test": "pending"
+  "tests": 39,
+  "command": "PYTHONPATH=<temporary lupa 2.6 wheel target>; Python 3.13 -B -m unittest discover -s tests -v",
+  "log": "docs/update_015/source-tests.log",
+  "actual_lua_barrage_regressions": 5,
+  "native_gameplay": "not established by stubbed or static tests"
 }

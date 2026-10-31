@@ -1,0 +1,85 @@
+{
+  "cause": "The Gapsa tier shield in its left palm had been converted to a spear by the broad equipment fallback; its right-hand combat spear remained, producing two differently coloured spears.",
+  "correction": "Restore the exact current official age-specific left-hand shield paths; retain right-hand weapon visuals, bodies and all gameplay.",
+  "changes": [
+    {
+      "source": "source/tables/attrib/attachments/attachment_lists/garrison/korea/kr013_v41b699970804a44.rgd.json",
+      "stock": "attachments/attachment_lists/civilizations/mongol/units/tier3_manatarms_mon",
+      "stock_sha256": "44e4d807fb9bd7dbde6a585204a5bd5f287ed246bf58740eb15ee0d09a090005",
+      "fields": [
+        {
+          "path": "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "path": "default/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "path": "campaign/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "path": "campaign/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "path": "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "path": "xp3/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        }
+      ]
+    },
+    {
+      "source": "source/tables/attrib/attachments/attachment_lists/garrison/korea/kr013_v7c801db78ef2a14.rgd.json",
+      "stock": "attachments/attachment_lists/civilizations/mongol/units/tier4_manatarms_mon",
+      "stock_sha256": "40c48350465c981e9555877f4fa575eb4ff856a1805c432f2ddd58f28e1c2cbf",
+      "fields": [
+        {
+          "path": "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        },
+        {
+          "path": "default/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        },
+        {
+          "path": "campaign/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        },
+        {
+          "path": "campaign/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        },
+        {
+          "path": "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        },
+        {
+          "path": "xp3/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "before": "art\\kr013\\static\\korea_gapsa_heavy_spear\\model",
+          "after": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        }
+      ]
+    }
+  ],
+  "owner_authorization": "Fix duplicate spear, then build ZIP; supersedes earlier build hold.",
+  "before_native_manifest_sha256": "bb1d2bfd170b162f4e1b7fd9b9cf6bdc0aaa9f5789eef0c693d5dc43f4388768",
+  "before_master_index_sha256": "254d5dab3e63f64b3360c33fd9b3fc3c0e57df82b2c201b63323da4b9dd8d81e",
+  "before_scar_research_sha256": "fe6646b3351af9a5fee0a4347560957dc265797a1fd3a3d4d2281c7afa550b05",
+  "historical_tests": "Preserved without edits; run applicable native/research cases plus the new release gate."
+}

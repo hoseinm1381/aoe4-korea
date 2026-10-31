@@ -18,8 +18,8 @@ def main():
   assert z.testzip() is None;mn=next(n for n in z.namelist() if n.endswith('garrison.json'));m=json.loads(z.read(mn));prefix=mn[:-len('garrison.json')]
   assert m['bundle_key']==cfg['bundle_key'] and m['details']['version']==cfg['version']
   with z.open(prefix+m['members'][0]['path']) as f:assert hashlib.file_digest(f,'sha256').hexdigest()==r['archive_sha256']
- out=(ROOT/'output/current').resolve();assert out.is_relative_to(ROOT.resolve());targets=[out/x for x in ('prepared','delivery','readback') if (out/x).exists()]
- expected=(Path(tempfile.gettempdir())/'garrison-independent-builds'/cfg['owner']/'current').resolve();assembly=Path(r['assembly_path']).resolve();assert assembly==expected
+ out=(ROOT/('output/art-current/package' if cfg['version']=='0.1.3' else 'output/current')).resolve();assert out.is_relative_to(ROOT.resolve());targets=[out/x for x in ('prepared','delivery','readback') if (out/x).exists()]
+ expected=(Path(tempfile.gettempdir())/'garrison-independent-builds'/cfg['owner']/cfg.get('build_stage','current')).resolve();assembly=Path(r['assembly_path']).resolve();assert assembly==expected
  if assembly.exists():
   report=read(assembly/'report.json');archive=Path(report['archive']).resolve();assert archive.is_relative_to(assembly) and sha(archive)==r['archive_sha256'];targets.append(assembly)
  cache=assembly.parent/'package-current'

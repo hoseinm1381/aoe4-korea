@@ -1,0 +1,2193 @@
+{
+  "archive_sha256": "b22232584d956d01e17083bd6c3a5d9bdd59d94cdaf4ef199c69607e1b0d73ee",
+  "assets": [
+    {
+      "asset": "Korea_lumber_camp01",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_lumber_camp01\\decoded\\745eae682575d6b707d2\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 6,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 80
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 840
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 90
+        }
+      ],
+      "native_triangles": 1010,
+      "source_triangles": 1010,
+      "native_collection_contract": null,
+      "source_sha256": "8f991ba907b0d019995d0b4e346a4874dddebab32f00f869ad97ad80568ee1c3"
+    },
+    {
+      "asset": "Korea_crossbow",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_crossbow\\decoded\\fb60d8c52f22088b6e9a\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 440
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 240
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 138
+        }
+      ],
+      "native_triangles": 818,
+      "source_triangles": 818,
+      "native_collection_contract": null,
+      "source_sha256": "ef6c3628991336cb637347279853920b3436dad599182e0dbd60e43df5b35205"
+    },
+    {
+      "asset": "Korea_gakgung_archer",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_gakgung_archer\\decoded\\5cfe03dba6174bc1fb63\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 148
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 108
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 80
+        }
+      ],
+      "native_triangles": 336,
+      "source_triangles": 336,
+      "native_collection_contract": null,
+      "source_sha256": "82b32bd39198ac9298c07c46e3be43b5a60dd33f976c496e6cb73aa8cd40d7e3"
+    },
+    {
+      "asset": "Korea_gakgung_hwarang",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_gakgung_hwarang\\decoded\\1ddc5d3f634b6987099e\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 148
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 108
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 80
+        }
+      ],
+      "native_triangles": 336,
+      "source_triangles": 336,
+      "native_collection_contract": null,
+      "source_sha256": "1f16dfaf39916020bff7160ba56b466cde017d6bb89f2d1cb8508568489314ae"
+    },
+    {
+      "asset": "Korea_mining_camp01",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_mining_camp01\\decoded\\81c31302ed9b74b924ac\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 6,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 80
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 840
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 90
+        }
+      ],
+      "native_triangles": 1010,
+      "source_triangles": 1010,
+      "native_collection_contract": null,
+      "source_sha256": "3b2fcbd768ec4336a23ad25027b4c39c96bd2439fb4746f16ae1bea0f2e4740b"
+    },
+    {
+      "asset": "Korea_gakgung_tiger_hunter",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_gakgung_tiger_hunter\\decoded\\94ec9ee32d195f6731e7\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 148
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 108
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 80
+        }
+      ],
+      "native_triangles": 336,
+      "source_triangles": 336,
+      "native_collection_contract": null,
+      "source_sha256": "5f51e21201363d7e2553f8ddadc20cfad06eb6286685e4d9b247a504dbee7e48"
+    },
+    {
+      "asset": "Korea_gapsa_heavy_spear",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_gapsa_heavy_spear\\decoded\\a8375331c0819a250ea9\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        }
+      ],
+      "native_triangles": 90,
+      "source_triangles": 90,
+      "native_collection_contract": null,
+      "source_sha256": "0db500a5a9775061f995980a8613fe27c558ba24377e7023784b31db0f6dcb7f"
+    },
+    {
+      "asset": "Korea_gapsa_long_spear",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_gapsa_long_spear\\decoded\\7c76270e7790db2eb6fe\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 232
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 232
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 232
+        }
+      ],
+      "native_triangles": 696,
+      "source_triangles": 696,
+      "native_collection_contract": null,
+      "source_sha256": "6a04a78283a48341dea1832d490dd88c2be7e1ecc0891ee1497b279050e84728"
+    },
+    {
+      "asset": "Korea_hand_chongtong",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_hand_chongtong\\decoded\\2432e2099bf77727dfb6\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 96
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 96
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 52
+        }
+      ],
+      "native_triangles": 244,
+      "source_triangles": 244,
+      "native_collection_contract": null,
+      "source_sha256": "4c3c7fc8822f7815e226ebc7e8ac25bb91edfebd63b35715f0e9bf8fd19e6ab9"
+    },
+    {
+      "asset": "Korea_cavalry_spear",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_cavalry_spear\\decoded\\23ed41920aa6af55fd20\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        }
+      ],
+      "native_triangles": 90,
+      "source_triangles": 90,
+      "native_collection_contract": null,
+      "source_sha256": "ec2d9d42a532bc4544701ca00342b5869a2386a4040dfcc1fa590f376824742f"
+    },
+    {
+      "asset": "Korea_hwarang_sword",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_hwarang_sword\\decoded\\5fd2b4fa0e83ebe42ab9\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 274
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 163
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 84
+        }
+      ],
+      "native_triangles": 521,
+      "source_triangles": 521,
+      "native_collection_contract": null,
+      "source_sha256": "60c296317d07a2235fa16f35634980756387c4a6b17907ea9d2498214cc193bc"
+    },
+    {
+      "asset": "Korea_jangchang_plain",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_jangchang_plain\\decoded\\670322ff96cea10c3424\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 30
+        }
+      ],
+      "native_triangles": 90,
+      "source_triangles": 90,
+      "native_collection_contract": null,
+      "source_sha256": "46e5ebf7f0eb75974061e8cd1bd32155cbe556c865ee24b7ef8c88601d539ff3"
+    },
+    {
+      "asset": "Korea_jangchang_tassel",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_jangchang_tassel\\decoded\\7125f725005d7a8910fa\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 184
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 90
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 66
+        }
+      ],
+      "native_triangles": 340,
+      "source_triangles": 340,
+      "native_collection_contract": null,
+      "source_sha256": "2b8682da4f41e8a9fa1746c7d1819b67194b83b15470b547c7aaad31f3387468"
+    },
+    {
+      "asset": "Korea_lancer_lance",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_lancer_lance\\decoded\\5ccb417c0c0e42f58885\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 186
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 128
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 80
+        }
+      ],
+      "native_triangles": 394,
+      "source_triangles": 394,
+      "native_collection_contract": null,
+      "source_sha256": "fb278d6e8b6ec65020a426ffc19e6a5fff3042760afa109e0988d88bd077602f"
+    },
+    {
+      "asset": "Korea_lancer_polearm_upgrade",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_lancer_polearm_upgrade\\decoded\\4461807ea5d543899789\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 190
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 102
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 58
+        }
+      ],
+      "native_triangles": 350,
+      "source_triangles": 350,
+      "native_collection_contract": null,
+      "source_sha256": "e32b021272aaebe6ee92e9e5d4737e9d228b24b152d8ac7f0a01f97316fc03ce"
+    },
+    {
+      "asset": "Korea_monk_staff",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_monk_staff\\decoded\\d074f498da98e4d1266d\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 542
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 462
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 146
+        }
+      ],
+      "native_triangles": 1150,
+      "source_triangles": 1150,
+      "native_collection_contract": null,
+      "source_sha256": "930a5917c6207b453d00580515c1737ce4e8a70d3da8d92d466a854b95b44aee"
+    },
+    {
+      "asset": "Korea_righteous_monk_sword",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_righteous_monk_sword\\decoded\\4da239acdf1ecbda6063\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 97
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 97
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 97
+        }
+      ],
+      "native_triangles": 291,
+      "source_triangles": 291,
+      "native_collection_contract": null,
+      "source_sha256": "cd43405dbdb63a76536e045d8258eb2ae4c680576ff9c34c5446cb028355a89e"
+    },
+    {
+      "asset": "Korea_seonbi_book",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_seonbi_book\\decoded\\f4fd15091d12068d6bb8\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 28
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 28
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 28
+        }
+      ],
+      "native_triangles": 84,
+      "source_triangles": 84,
+      "native_collection_contract": null,
+      "source_sha256": "17fff79e1330e93997c737fef7b4ed009de708eacdd8a23fdfb3c66dbfaa69ec"
+    },
+    {
+      "asset": "Korea_shared_torch",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_shared_torch\\decoded\\44975b0ff6c057f45921\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 28
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 18
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 8
+        }
+      ],
+      "native_triangles": 54,
+      "source_triangles": 54,
+      "native_collection_contract": null,
+      "source_sha256": "dc8410d1799d2476f23603e1b2e16e39e7017c789ba31e4f1170eed510081828"
+    },
+    {
+      "asset": "Korea_villager_axe",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_villager_axe\\decoded\\a8c14cfea87d4977c5b9\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 64
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 54
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 32
+        }
+      ],
+      "native_triangles": 150,
+      "source_triangles": 150,
+      "native_collection_contract": null,
+      "source_sha256": "209ac4892ef7a9464342c5bcc781ad84fd6aa45c84f57c9b4f68bfa88056388f"
+    },
+    {
+      "asset": "Korea_villager_basket",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_villager_basket\\decoded\\bf10b0ec21e5c1db8fcb\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 804
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 480
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 256
+        }
+      ],
+      "native_triangles": 1540,
+      "source_triangles": 1540,
+      "native_collection_contract": null,
+      "source_sha256": "4bd1db30c381a4785d086ceec0b896285fcb5ddb721385110b8848e6c9c0530d"
+    },
+    {
+      "asset": "Korea_villager_crook",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_villager_crook\\decoded\\8c251c8e289632c117a4\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 88
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 76
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 56
+        }
+      ],
+      "native_triangles": 220,
+      "source_triangles": 220,
+      "native_collection_contract": null,
+      "source_sha256": "f0e0b20d1c8299d95488592255969b439ed0f04b09f313e198d0629e5677ae55"
+    },
+    {
+      "asset": "Korea_villager_hammer",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_villager_hammer\\decoded\\de67dcdc0c9bb6bdef60\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 32
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 32
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 24
+        }
+      ],
+      "native_triangles": 88,
+      "source_triangles": 88,
+      "native_collection_contract": null,
+      "source_sha256": "bcc1deeb01cd8b006432bb197043f048dfd362fab19572af5f29f59a42ef796f"
+    },
+    {
+      "asset": "Korea_villager_hunting_bow",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_villager_hunting_bow\\decoded\\afa58ac817b6dc736a87\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 84
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 76
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 50
+        }
+      ],
+      "native_triangles": 210,
+      "source_triangles": 210,
+      "native_collection_contract": null,
+      "source_sha256": "c8aab4a4a821d1adfe998b7ff7bffcd9c08af5f4e5ef6be639351369c0f20abc"
+    },
+    {
+      "asset": "Korea_villager_hunting_spear",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_villager_hunting_spear\\decoded\\bc3c6c7b04cefd41a36a\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 50
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 50
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 50
+        }
+      ],
+      "native_triangles": 150,
+      "source_triangles": 150,
+      "native_collection_contract": null,
+      "source_sha256": "ab4b9461bcc6e3ac8ffa70127d3bc130a27b0de26e874fc32bc9ddfe5f96592c"
+    },
+    {
+      "asset": "Korea_villager_pick",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_villager_pick\\decoded\\a78fce9467736a783f66\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 92
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 56
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 20
+        }
+      ],
+      "native_triangles": 168,
+      "source_triangles": 168,
+      "native_collection_contract": null,
+      "source_sha256": "c1ef387a09559443d89a0851e765fb6ee6e67f288c7fcb24697e4b55ac1b4321"
+    },
+    {
+      "asset": "Korea_villager_sickle",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\Korea_villager_sickle\\decoded\\ad255da23b9c40de7b7d\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 80
+        },
+        {
+          "mesh": 0,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 60
+        },
+        {
+          "mesh": 0,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 38
+        }
+      ],
+      "native_triangles": 178,
+      "source_triangles": 178,
+      "native_collection_contract": null,
+      "source_sha256": "ee03361de96bfb7ce5e0df63e625febeaa1db6084e6be2e44caa480c2c4f1f20"
+    },
+    {
+      "asset": "gate_of_reverence",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\gate_of_reverence\\decoded\\4c1b4c68650ca0533bf6\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0",
+          "lod": null,
+          "triangles": 12
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_ruins",
+          "lod": null,
+          "triangles": 4076
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_construction_25",
+          "lod": null,
+          "triangles": 5644
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_50",
+          "lod": null,
+          "triangles": 11484
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75",
+          "lod": null,
+          "triangles": 15852
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25",
+          "lod": null,
+          "triangles": 14640
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50",
+          "lod": null,
+          "triangles": 13428
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75",
+          "lod": null,
+          "triangles": 12204
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 15852
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 7980
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 3724
+        }
+      ],
+      "native_triangles": 104896,
+      "source_triangles": 104896,
+      "native_collection_contract": null,
+      "source_sha256": "cf45e15b9b33745f644b756ac4e7a2d678feef79cbc6d8294892319deb59b125"
+    },
+    {
+      "asset": "gyeongbok_palace",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\gyeongbok_palace\\decoded\\721f7951536dae70c355\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0",
+          "lod": null,
+          "triangles": 12
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_ruins",
+          "lod": null,
+          "triangles": 1684
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_construction_25",
+          "lod": null,
+          "triangles": 1236
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_50",
+          "lod": null,
+          "triangles": 9784
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75",
+          "lod": null,
+          "triangles": 17108
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25",
+          "lod": null,
+          "triangles": 15608
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50",
+          "lod": null,
+          "triangles": 13100
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75",
+          "lod": null,
+          "triangles": 11588
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 17108
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 11404
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 4928
+        }
+      ],
+      "native_triangles": 103560,
+      "source_triangles": 103560,
+      "native_collection_contract": null,
+      "source_sha256": "6ba9ae411fd3b61102851e1883c7d2c441858ac1737124f2247dc2c88f5fdc4f"
+    },
+    {
+      "asset": "bulguksa_temple",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\bulguksa_temple\\decoded\\0ad78eb582d9e4d09b31\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0",
+          "lod": null,
+          "triangles": 36
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_ruins",
+          "lod": null,
+          "triangles": 5260
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_construction_25",
+          "lod": null,
+          "triangles": 7504
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_50",
+          "lod": null,
+          "triangles": 16812
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75",
+          "lod": null,
+          "triangles": 22052
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25",
+          "lod": null,
+          "triangles": 21944
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50",
+          "lod": null,
+          "triangles": 19580
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75",
+          "lod": null,
+          "triangles": 19520
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 22052
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 13176
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 6276
+        }
+      ],
+      "native_triangles": 154212,
+      "source_triangles": 154212,
+      "native_collection_contract": null,
+      "source_sha256": "7cb7daae3430ccd3bade9b24b7f496cced79066afb1b76831a3864620c00fecf"
+    },
+    {
+      "asset": "hall_of_worthies",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\hall_of_worthies\\decoded\\ce79c6c4677965983898\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0",
+          "lod": null,
+          "triangles": 12
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_ruins",
+          "lod": null,
+          "triangles": 1564
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_construction_25",
+          "lod": null,
+          "triangles": 1116
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_50",
+          "lod": null,
+          "triangles": 8388
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75",
+          "lod": null,
+          "triangles": 13832
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25",
+          "lod": null,
+          "triangles": 13192
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50",
+          "lod": null,
+          "triangles": 11056
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75",
+          "lod": null,
+          "triangles": 10416
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 13832
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 9888
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 4236
+        }
+      ],
+      "native_triangles": 87532,
+      "source_triangles": 87532,
+      "native_collection_contract": null,
+      "source_sha256": "7fabc772a2e109f7794c4624c70a3ffcb9e23e2f22a5e13c45fa5c2a89a5b81f"
+    },
+    {
+      "asset": "mountain_fortress",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\mountain_fortress\\decoded\\ed22f31ebe84b0813485\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0",
+          "lod": null,
+          "triangles": 28
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_ruins",
+          "lod": null,
+          "triangles": 2000
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_construction_25",
+          "lod": null,
+          "triangles": 8016
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_50",
+          "lod": null,
+          "triangles": 12896
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75",
+          "lod": null,
+          "triangles": 15448
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25",
+          "lod": null,
+          "triangles": 15228
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50",
+          "lod": null,
+          "triangles": 13972
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75",
+          "lod": null,
+          "triangles": 13740
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 15448
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 6464
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 3312
+        }
+      ],
+      "native_triangles": 106552,
+      "source_triangles": 106552,
+      "native_collection_contract": null,
+      "source_sha256": "b714ceaeb005f8dc31ebbc30189580a5e4e959b996fecf0ad900a0e282943a4f"
+    },
+    {
+      "asset": "seon_deok_observatory",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\seon_deok_observatory\\decoded\\8e13b144a570a9397164\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0",
+          "lod": null,
+          "triangles": 24
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_ruins",
+          "lod": null,
+          "triangles": 1432
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_construction_25",
+          "lod": null,
+          "triangles": 2592
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_50",
+          "lod": null,
+          "triangles": 5308
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75",
+          "lod": null,
+          "triangles": 5368
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25",
+          "lod": null,
+          "triangles": 5368
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50",
+          "lod": null,
+          "triangles": 3796
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75",
+          "lod": null,
+          "triangles": 3160
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 5368
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 4700
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 4016
+        }
+      ],
+      "native_triangles": 41132,
+      "source_triangles": 41132,
+      "native_collection_contract": null,
+      "source_sha256": "799b83a1d7b0640321a3d445fde400a9acffe175bbd281ecf18107434fb5b96d"
+    },
+    {
+      "asset": "stone_pagoda",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\stone_pagoda\\decoded\\1f89ccf640bb82f99dfc\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0",
+          "lod": null,
+          "triangles": 60
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_ruins",
+          "lod": null,
+          "triangles": 780
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_construction_25",
+          "lod": null,
+          "triangles": 432
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_50",
+          "lod": null,
+          "triangles": 1612
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75",
+          "lod": null,
+          "triangles": 1840
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25",
+          "lod": null,
+          "triangles": 1840
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50",
+          "lod": null,
+          "triangles": 1392
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75",
+          "lod": null,
+          "triangles": 872
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 1840
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 1144
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 924
+        }
+      ],
+      "native_triangles": 12736,
+      "source_triangles": 12736,
+      "native_collection_contract": null,
+      "source_sha256": "7c29335cdab66737d9a8cc43538c2d34d14aa40a169607a0387573c9ed467786"
+    },
+    {
+      "asset": "hwangnyongsa",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\hwangnyongsa\\decoded\\8496a66461aaa7f034a7\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0_part0",
+          "lod": null,
+          "triangles": 36
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_construction_50_part1",
+          "lod": null,
+          "triangles": 9768
+        },
+        {
+          "mesh": 1,
+          "group": 1,
+          "name": "mesh_construction_50_part1",
+          "lod": null,
+          "triangles": 9768
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_ruins_part0",
+          "lod": null,
+          "triangles": 2208
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_25_part0",
+          "lod": null,
+          "triangles": 1796
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75_part0",
+          "lod": null,
+          "triangles": 9747
+        },
+        {
+          "mesh": 4,
+          "group": 1,
+          "name": "mesh_construction_75_part0",
+          "lod": null,
+          "triangles": 9747
+        },
+        {
+          "mesh": 4,
+          "group": 2,
+          "name": "mesh_construction_75_part0",
+          "lod": null,
+          "triangles": 9747
+        },
+        {
+          "mesh": 4,
+          "group": 3,
+          "name": "mesh_construction_75_part0",
+          "lod": null,
+          "triangles": 9747
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25_part0",
+          "lod": null,
+          "triangles": 11876
+        },
+        {
+          "mesh": 5,
+          "group": 1,
+          "name": "mesh_damage_25_part0",
+          "lod": null,
+          "triangles": 11876
+        },
+        {
+          "mesh": 5,
+          "group": 2,
+          "name": "mesh_damage_25_part0",
+          "lod": null,
+          "triangles": 11876
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50_part0",
+          "lod": null,
+          "triangles": 9311
+        },
+        {
+          "mesh": 6,
+          "group": 1,
+          "name": "mesh_damage_50_part0",
+          "lod": null,
+          "triangles": 9311
+        },
+        {
+          "mesh": 6,
+          "group": 2,
+          "name": "mesh_damage_50_part0",
+          "lod": null,
+          "triangles": 9310
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75_part0",
+          "lod": null,
+          "triangles": 8191
+        },
+        {
+          "mesh": 7,
+          "group": 1,
+          "name": "mesh_damage_75_part0",
+          "lod": null,
+          "triangles": 8191
+        },
+        {
+          "mesh": 7,
+          "group": 2,
+          "name": "mesh_damage_75_part0",
+          "lod": null,
+          "triangles": 8190
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 9747
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 9747
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 9747
+        },
+        {
+          "mesh": 8,
+          "group": 3,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 9747
+        },
+        {
+          "mesh": 8,
+          "group": 4,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 6127
+        },
+        {
+          "mesh": 8,
+          "group": 5,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 6127
+        },
+        {
+          "mesh": 8,
+          "group": 6,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 6127
+        },
+        {
+          "mesh": 8,
+          "group": 7,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 6127
+        },
+        {
+          "mesh": 8,
+          "group": 8,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 2953
+        },
+        {
+          "mesh": 8,
+          "group": 9,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 2953
+        },
+        {
+          "mesh": 8,
+          "group": 10,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 2953
+        },
+        {
+          "mesh": 8,
+          "group": 11,
+          "name": "mesh_healthy_part0",
+          "lod": null,
+          "triangles": 2953
+        }
+      ],
+      "native_triangles": 226004,
+      "source_triangles": 226004,
+      "native_collection_contract": null,
+      "source_sha256": "ff6cfbf725322f886724917fb34d46f15bc93e3b969cf2dfb0c4208525caec74"
+    },
+    {
+      "asset": "seowon_academy",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-readbacks-b2223258\\seowon_academy\\decoded\\5e9f8642081860a0b485\\decoded-static.json",
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "groups": [
+        {
+          "mesh": 0,
+          "group": 0,
+          "name": "mesh_construction_0",
+          "lod": null,
+          "triangles": 12
+        },
+        {
+          "mesh": 1,
+          "group": 0,
+          "name": "mesh_ruins",
+          "lod": null,
+          "triangles": 1672
+        },
+        {
+          "mesh": 2,
+          "group": 0,
+          "name": "mesh_construction_25",
+          "lod": null,
+          "triangles": 1224
+        },
+        {
+          "mesh": 3,
+          "group": 0,
+          "name": "mesh_construction_50",
+          "lod": null,
+          "triangles": 8700
+        },
+        {
+          "mesh": 4,
+          "group": 0,
+          "name": "mesh_construction_75",
+          "lod": null,
+          "triangles": 14536
+        },
+        {
+          "mesh": 5,
+          "group": 0,
+          "name": "mesh_damage_25",
+          "lod": null,
+          "triangles": 13656
+        },
+        {
+          "mesh": 6,
+          "group": 0,
+          "name": "mesh_damage_50",
+          "lod": null,
+          "triangles": 11408
+        },
+        {
+          "mesh": 7,
+          "group": 0,
+          "name": "mesh_damage_75",
+          "lod": null,
+          "triangles": 10528
+        },
+        {
+          "mesh": 8,
+          "group": 0,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 14536
+        },
+        {
+          "mesh": 8,
+          "group": 1,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 10416
+        },
+        {
+          "mesh": 8,
+          "group": 2,
+          "name": "mesh_healthy",
+          "lod": null,
+          "triangles": 4576
+        }
+      ],
+      "native_triangles": 91264,
+      "source_triangles": 91264,
+      "native_collection_contract": null,
+      "source_sha256": "f67eab6c9aaa478fc2f8066eb9b0d547db308391a1f6f7c5313f32dd561e5a39"
+    }
+  ],
+  "completed": 36,
+  "expected": 36,
+  "all_passed": true
+}

@@ -5663,7 +5663,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier3_manatarms_jpn"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v576964232a86a7f"
                             },
                             {
                               "key": "$PBGMAP",
@@ -5826,7 +5826,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier4_manatarms_jpn"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v5b34bd5aba6b879"
                             },
                             {
                               "key": "$PBGMAP",
@@ -9977,7 +9977,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier3_archer_abb"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v185cf6c2c0da025"
                             },
                             {
                               "key": "$PBGMAP",
@@ -10140,7 +10140,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier4_archer_abb"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v3411ab9f5caba6a"
                             },
                             {
                               "key": "$PBGMAP",

@@ -1,0 +1,50 @@
+{
+  "schema": "korea.art013-model-cook-compatibility/v1",
+  "checked_at": "2026-10-31T07:57:15.699561+00:00",
+  "owner_confirmed": "Only current installed Garrison available",
+  "feed_refresh": "Blender extensions.repo_sync FINISHED using already configured connection",
+  "official_feed": "https://raw.githubusercontent.com/AOE-Garrison/garrison-blender-extensions/main/index.json",
+  "installed_authoring": "0.1.8",
+  "available_official_authoring_tested": "0.1.9",
+  "official_package": {
+    "bytes": 53559526,
+    "sha256": "026d601bd2389a775b41041a2278b741fd2ade621b5d049f99cc015ea81589e0",
+    "installed_over_existing_addon": false
+  },
+  "current_editor_files": {
+    "EssenceEditor.exe": {
+      "bytes": 10242872,
+      "sha256": "df563dcdab31e0b772b9239da2c6058f86aa0063ec2359a0847e5057fae4efab"
+    },
+    "Essence.Editor.Core.dll": {
+      "bytes": 3291448,
+      "sha256": "e2149a216e284bd6c33995c542f898af7f34ffa2e071162735ec1b6a74ef88ef"
+    }
+  },
+  "readiness_checks": {
+    "0.1.8": {
+      "overlay_root": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor",
+      "editor": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor\\EssenceEditor.exe",
+      "game_root": "E:\\Games\\steamapps\\common\\Age of Empires IV",
+      "status": "unsupported",
+      "reasons": [
+        "this Essence Editor build is not supported yet (editor df563dcdab31, core e2149a216e28)"
+      ]
+    },
+    "0.1.9": {
+      "overlay_root": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor",
+      "editor": "C:\\Users\\RS\\AppData\\Local\\Garrison\\Kit\\tools\\essence-object-editor\\EssenceEditor.exe",
+      "game_root": "E:\\Games\\steamapps\\common\\Age of Empires IV",
+      "status": "unsupported",
+      "reasons": [
+        "this Essence Editor build is not supported yet (editor df563dcdab31, core e2149a216e28)"
+      ]
+    }
+  },
+  "native_pilot": "failed; no burn log, no SGA; terminated exact task-owned stalled process",
+  "needed": "Official model-tools support for these Content Editor/Core fingerprints; rerun pilot native cook/readback, then private art integration and 0.1.3 build",
+  "old_player_package_preserved": true,
+  "source_assets_changed_this_check": false,
+  "post_restart_check": "docs/update_013/post-restart-check.json",
+  "correction": "Garrison gates on Essence.Editor.Core.dll, not Essence.Core.dll. The earlier readiness error text and unsupported result were accurate; the separately recorded DLL identity was wrong."
+}

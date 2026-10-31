@@ -1,0 +1,65 @@
+{
+  "tests": 34,
+  "success": true,
+  "seconds": 3.398905100000775,
+  "selected": [
+    "Release016.test_actual_old_mapper_reproduces_extra_spear_and_new_mapper_preserves_shield",
+    "Release016.test_final_policy_is_based_on_verified_015_and_contains_pending_repairs",
+    "Release016.test_only_12_left_hand_shield_paths_change",
+    "Research016.test_all_research_variants_only_flags_and_presentation_change",
+    "Research016.test_custom_tooltips_preserve_stock_dictionary_and_match_fees",
+    "Research016.test_fallback_catalogue_matches_all_native_variants_and_gold_exception",
+    "Research016.test_fee_once_completion_and_observatory_rebate",
+    "Research016.test_foreign_allowance_consumes_and_restores_once",
+    "Research016.test_native_insufficient_and_duplicate_paid_callbacks",
+    "Research016.test_original_dead_actor_loses_payment_current_refunds",
+    "Research016.test_original_missing_custom_fields_loses_literature_refund",
+    "Research016.test_queue_rejection_cancel_and_death_refund_once",
+    "Native016.test_actual_new_masks_expand_unit_colour_and_preserve_skin_hair_sources",
+    "Native016.test_all_bound_masks_have_valid_bc3_mip_streams_and_digests",
+    "Native016.test_every_cavalry_skin_maps_to_owner_hierarchy_and_lod_domains",
+    "Native016.test_geometry_vertex_index_buffers_are_byte_identical_all_lods",
+    "Native016.test_mesh_and_material_keys_resolve_without_cross_mesh_collisions",
+    "Native016.test_model_metadata_changes_are_exact_and_all_other_records_preserved",
+    "Native016.test_non_pattern_shader_slots_and_parameters_preserved",
+    "Native016.test_real_old_cavalry_root_and_duplicate_names_are_rejected",
+    "Native016.test_scout_and_infantry_animation_data_are_untouched",
+    "Barrage015.test_actual_old_fixture_reproduces_reported_nil_call",
+    "Barrage015.test_completion_stops_once_removes_modifiers_and_destroys_groups",
+    "Barrage015.test_death_and_capture_cleanup_without_old_owner_command",
+    "Barrage015.test_move_newly_accepted_order_and_stop_are_respected",
+    "Barrage015.test_repeated_barrage_and_keep_branch_remain_operable",
+    "DirectNativeStart.test_ai_retains_excluded_scope",
+    "DirectNativeStart.test_cleanup_once_and_second_match",
+    "DirectNativeStart.test_direct_start_and_duplicate_start",
+    "DirectNativeStart.test_foreign_race_is_not_enrolled",
+    "DirectNativeStart.test_later_age_is_rejected",
+    "DirectNativeStart.test_unsupported_start_is_rejected_without_partial_grant",
+    "PlayerSchema.test_preserved_player_requirements_have_native_definitions",
+    "PlayerSchema.test_script_player_properties_have_native_definitions"
+  ],
+  "historical_phase_specific_gates_not_run": [
+    {
+      "test": "Research016.test_additive_build_omits_only_reviewed_shared_descriptor",
+      "reason": "Historical held-source gate requires version 0.1.5/build_hold; superseded by explicit 0.1.6 build authorization and the new release test."
+    },
+    {
+      "test": "Research016.test_art_masters_native_inputs_and_release_unchanged",
+      "reason": "Pre-spear full-source equality is superseded by the 12-path native reversal gate and strict final member allowlist."
+    },
+    {
+      "test": "Research016.test_original_art_only_source_gate_is_preserved_before_cost_repair",
+      "reason": "Pre-cost source equality lacks the separately authorized shield edit. Historical code retained; new release gate proves that edit exactly."
+    },
+    {
+      "test": "Native016.test_build_hold_stops_before_verification_staging_or_assembly",
+      "reason": "Owner explicitly resumed builds; build-hold implementation remains unchanged."
+    },
+    {
+      "test": "Native016.test_current_native_changes_and_gameplay_match_exact_source_allowlist",
+      "reason": "Historical art-only source equality predates authorized research and shield changes."
+    }
+  ],
+  "failures": [],
+  "errors": []
+}

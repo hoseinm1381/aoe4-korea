@@ -1,0 +1,23 @@
+{
+  "id": "villager_crook",
+  "donor": "art/civilizations/common/weapons/tools/crook_shepherd/crook_shepherd.rgm",
+  "kind": "tool",
+  "design": "Shepherd crook with hardwood and cord binding",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\villager_crook\\2d5567e79f59cabf4c01\\decoded-static.json",
+  "manifest_sha256": "cb390510dd7873317cdde72b7acba38e1d7f673c346989d90c50d447ae230474",
+  "bounds": {
+    "min": [
+      -0.07080078125,
+      -0.049407958984375,
+      -0.955078125
+    ],
+    "max": [
+      0.276123046875,
+      0.037933349609375,
+      0.9443359375
+    ]
+  },
+  "native_triangles": 220,
+  "bones": 0
+}

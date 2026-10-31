@@ -1,0 +1,70 @@
+{
+  "schema": "garrison.essence-run/v1",
+  "status": "failed",
+  "started_at_utc": "2026-10-31T10:16:04.185661Z",
+  "editor": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools\\EssenceEditor.exe",
+    "sha256": "df563dcdab31e0b772b9239da2c6058f86aa0063ec2359a0847e5057fae4efab",
+    "size_bytes": 10242872,
+    "profile": null,
+    "accepted_by": "capability-probe"
+  },
+  "mod": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-project\\k013.aoe4mod",
+    "namespace": "http://schemas.datacontract.org/2004/07/Essence.Editor.Modding",
+    "mod_id": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "mod_type": "Extension",
+    "data_generic_path": "source\\",
+    "data_intermediate_path": "cache",
+    "locdb_path": "locdb\\k013.locdb",
+    "burn_project_path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-project\\source\\_default.burnproj"
+  },
+  "run_root": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console",
+  "command": [
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools\\EssenceEditor.exe",
+    "-rtm",
+    "--safe_settings",
+    "--do_not_restore",
+    "--quiet_crash_report",
+    "--no_source_control",
+    "--log_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\logs",
+    "--build_mod",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-project\\k013.aoe4mod",
+    "--no_burn_window",
+    "--burn_verbose_log_level",
+    "--burn_cache_type",
+    "Local",
+    "--burn_max_threads",
+    "1",
+    "--build_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\output",
+    "--intermediate_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\intermediate"
+  ],
+  "working_directory": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools",
+  "timeout_seconds": 1200.0,
+  "intermediate_mode": "isolated-run",
+  "generated_write_scope": [
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\intermediate",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\output"
+  ],
+  "finished_at_utc": "2026-10-31T10:16:18.562181Z",
+  "duration_seconds": 14.375,
+  "raw_exit_code": 4294967290,
+  "exit_code": -6,
+  "timed_out": false,
+  "diagnostics": [
+    {
+      "code": "unclassified-editor-failure",
+      "message": "Inspect the captured application, burn, stdout, and stderr logs.",
+      "evidence": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\logs"
+    }
+  ],
+  "logs": {
+    "application_directory": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\logs",
+    "burn": null,
+    "stdout": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\logs\\stdout.log",
+    "stderr": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook-rigid-pattern-console\\logs\\stderr.log"
+  }
+}

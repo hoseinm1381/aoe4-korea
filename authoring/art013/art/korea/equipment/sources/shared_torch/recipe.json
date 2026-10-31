@@ -1,0 +1,23 @@
+{
+  "id": "shared_torch",
+  "donor": "art/civilizations/common/weapons/tools/torch/torch.rgm",
+  "kind": "torch",
+  "design": "Bound bamboo/timber torch, native flame owner and effects remain future integration inputs",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\shared_torch\\a69102335510608ec379\\decoded-static.json",
+  "manifest_sha256": "b3beb06cd6a49522bf3bc6b7d5f238889850ec99c15262f6cd633f3422df28c2",
+  "bounds": {
+    "min": [
+      -0.0633544921875,
+      -0.0577392578125,
+      -0.312744140625
+    ],
+    "max": [
+      0.06756591796875,
+      0.05767822265625,
+      0.489990234375
+    ]
+  },
+  "native_triangles": 54,
+  "bones": 0
+}

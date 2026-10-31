@@ -1,0 +1,70 @@
+ORDINARY_REUSED 1 46 Korea_archery_range02
+ORDINARY_REUSED 2 46 Korea_archery_range03
+ORDINARY_REUSED 3 46 Korea_archery_range04
+ORDINARY_REUSED 4 46 Korea_barracks_combined01
+ORDINARY_REUSED 5 46 Korea_barracks_combined02
+ORDINARY_REUSED 6 46 Korea_barracks_combined03
+ORDINARY_REUSED 7 46 Korea_barracks_combined04
+ORDINARY_REUSED 8 46 Korea_blacksmith02
+ORDINARY_REUSED 9 46 Korea_blacksmith03
+ORDINARY_REUSED 10 46 Korea_blacksmith04
+ORDINARY_REUSED 11 46 Korea_dock02
+ORDINARY_REUSED 12 46 Korea_dock03
+ORDINARY_REUSED 13 46 Korea_dock04
+ORDINARY_REUSED 14 46 Korea_gristmill01
+ORDINARY_REUSED 15 46 Korea_housea01
+ORDINARY_REUSED 16 46 Korea_housea02
+ORDINARY_REUSED 17 46 Korea_housea03
+ORDINARY_REUSED 18 46 Korea_housea04
+ORDINARY_REUSED 19 46 Korea_houseb01
+ORDINARY_REUSED 20 46 Korea_houseb02
+ORDINARY_REUSED 21 46 Korea_houseb03
+ORDINARY_REUSED 22 46 Korea_houseb04
+ORDINARY_REUSED 23 46 Korea_housec01
+ORDINARY_REUSED 24 46 Korea_housec02
+ORDINARY_REUSED 25 46 Korea_housec03
+00:00.782  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housec04\Korea_housec04.blend"
+ORDINARY_NATIVE_READY 26 46 Korea_housec04 20726
+00:01.563  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\lumber_camp01\Korea_lumber_camp01.blend"
+ORDINARY_NATIVE_READY 27 46 Korea_lumber_camp01 0
+00:02.078  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\market02\Korea_market02.blend"
+ORDINARY_NATIVE_READY 28 46 Korea_market02 26597
+00:02.735  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\market03\Korea_market03.blend"
+ORDINARY_NATIVE_READY 29 46 Korea_market03 25512
+00:03.328  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\market04\Korea_market04.blend"
+ORDINARY_NATIVE_READY 30 46 Korea_market04 32582
+00:04.000  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\mining_camp01\Korea_mining_camp01.blend"
+ORDINARY_NATIVE_READY 31 46 Korea_mining_camp01 0
+00:04.563  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\monastery03\Korea_monastery03.blend"
+ORDINARY_NATIVE_READY 32 46 Korea_monastery03 30375
+00:05.282  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\monastery04\Korea_monastery04.blend"
+ORDINARY_NATIVE_READY 33 46 Korea_monastery04 29403
+00:05.969  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\outpost01\Korea_outpost01.blend"
+ORDINARY_NATIVE_READY 34 46 Korea_outpost01 26530
+00:06.532  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\outpost_stone01\Korea_outpost_stone01.blend"
+ORDINARY_NATIVE_READY 35 46 Korea_outpost_stone01 47023
+00:07.172  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\siege_workshop03\Korea_siege_workshop03.blend"
+ORDINARY_NATIVE_READY 36 46 Korea_siege_workshop03 48228
+00:07.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\siege_workshop04\Korea_siege_workshop04.blend"
+ORDINARY_NATIVE_READY 37 46 Korea_siege_workshop04 62058
+00:08.657  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\stable02\Korea_stable02.blend"
+ORDINARY_NATIVE_READY 38 46 Korea_stable02 18085
+00:09.282  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\stable03\Korea_stable03.blend"
+ORDINARY_NATIVE_READY 39 46 Korea_stable03 17920
+00:09.953  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\stable04\Korea_stable04.blend"
+ORDINARY_NATIVE_READY 40 46 Korea_stable04 61706
+00:10.688  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\stone_tower02\Korea_stone_tower02.blend"
+ORDINARY_NATIVE_READY 41 46 Korea_stone_tower02 0
+00:11.344  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\towncenter_combined01\Korea_towncenter_combined01.blend"
+ORDINARY_NATIVE_READY 42 46 Korea_towncenter_combined01 27666
+00:12.157  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\towncenter_combined02\Korea_towncenter_combined02.blend"
+ORDINARY_NATIVE_READY 43 46 Korea_towncenter_combined02 35508
+00:13.063  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\towncenter_combined03\Korea_towncenter_combined03.blend"
+ORDINARY_NATIVE_READY 44 46 Korea_towncenter_combined03 35533
+00:13.891  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\towncenter_combined04\Korea_towncenter_combined04.blend"
+ORDINARY_NATIVE_READY 45 46 Korea_towncenter_combined04 67314
+00:14.844  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\university04\Korea_university04.blend"
+ORDINARY_NATIVE_READY 46 46 Korea_university04 30136
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

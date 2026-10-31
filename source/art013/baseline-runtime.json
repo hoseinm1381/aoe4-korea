@@ -1,0 +1,1830 @@
+{
+  "schema": "korea.art013-baseline-runtime/v1",
+  "source_commit": "9d524e9dc46a0943b1945180cad8c6cd1bb499d0",
+  "files": {
+    "inputs/native/mod.bin": {
+      "bytes": 1761,
+      "sha256": "010eaa548a4c8cee5eebad1181535bcbc31997a3bfa9df425baad9ba587ff8af"
+    },
+    "inputs/native/mod.rrtex": {
+      "bytes": 406,
+      "sha256": "88b2691efdb66882b906ce7538497946532f0c5ad206bd0bf83b2379ff82ca15"
+    },
+    "inputs/native/ui/icons/garrison/korea/presentation/flag_list_small.rrtex": {
+      "bytes": 1449,
+      "sha256": "4f487c43e4193de982a0ee269e7d30cdee47bf74f7d8cff0d98a4dd6087149ce"
+    },
+    "inputs/native/ui/icons/korea/arrowchuteicon.rrtex": {
+      "bytes": 4188,
+      "sha256": "f01214eb13a5a30ca92423e84069f72ce57854af06c701a82d6583969af6ebbf"
+    },
+    "inputs/native/ui/icons/korea/book_unavailable.rrtex": {
+      "bytes": 3294,
+      "sha256": "16bd9af93710903b02ea0981f3b018d42a235e9e9e4c853743a8a480c1f71c24"
+    },
+    "inputs/native/ui/icons/korea/bookicon.rrtex": {
+      "bytes": 2930,
+      "sha256": "915c5522a3f72069567432b6e255503c826416ab66987412850279ec16171f2b"
+    },
+    "inputs/native/ui/icons/korea/bulgulksatemple.rrtex": {
+      "bytes": 5474,
+      "sha256": "c0ad6063bd8e84fa27a4479ca53b90b1949810a10687a6a4141481e208913faf"
+    },
+    "inputs/native/ui/icons/korea/chongtongicon.rrtex": {
+      "bytes": 3703,
+      "sha256": "4451d29b10040ec46647aec8f13aa43e2b52a7b05cac00928c186d9453836767"
+    },
+    "inputs/native/ui/icons/korea/dangpatridenticon.rrtex": {
+      "bytes": 2551,
+      "sha256": "3b683f6425165a8a23f36dbf08d82ed328a985c11830870c50c5fd6b973ee78b"
+    },
+    "inputs/native/ui/icons/korea/explosivearrowsicon.rrtex": {
+      "bytes": 3181,
+      "sha256": "4de2be91b5a28e884948dada0bd0d7e36311b50cbaa4c837b8fdc714dcba78aa"
+    },
+    "inputs/native/ui/icons/korea/gapsaicon.rrtex": {
+      "bytes": 5326,
+      "sha256": "04b7455957590ca5ce4730b17f95e8510a568739bcc40e3b841633baf695afad"
+    },
+    "inputs/native/ui/icons/korea/gapsaicon4.rrtex": {
+      "bytes": 5345,
+      "sha256": "53c97871639d93add2dd1f46e5f4c228f1831e0445af5ee82953ebf4d1e378ce"
+    },
+    "inputs/native/ui/icons/korea/gyeongbokpalace.rrtex": {
+      "bytes": 5275,
+      "sha256": "783df4a2789b1a94bcde4dfeaff71b4110b7a77fa0c448ed42e73b3e415eb23c"
+    },
+    "inputs/native/ui/icons/korea/hallofworthies.rrtex": {
+      "bytes": 4643,
+      "sha256": "c9fa6f94db47bd103a794bf9ffacfc1e90aa9a88ad7821e773f759c9acc2e5c8"
+    },
+    "inputs/native/ui/icons/korea/hangulicon.rrtex": {
+      "bytes": 3833,
+      "sha256": "6d8120a523fc25e93c33ddc8a9bd46d9180cb6b5d2d4bc26bd543b4a9fc2c18a"
+    },
+    "inputs/native/ui/icons/korea/hwacha.rrtex": {
+      "bytes": 4696,
+      "sha256": "234b63dc4e042da6deccb0a8bc05bb3bb5fed9966534d741e77e55ea17817a29"
+    },
+    "inputs/native/ui/icons/korea/hwacha_3.rrtex": {
+      "bytes": 4038,
+      "sha256": "1e86e6159783e71768b2afaed26a4cf15e46f43a8603b7183fc3d849072a5f29"
+    },
+    "inputs/native/ui/icons/korea/hwarangicon2.rrtex": {
+      "bytes": 6450,
+      "sha256": "80b31b6d62d6bd28c0465d4b681c0b7bf1bf6588e0d62efbfc8e9c68805e3c05"
+    },
+    "inputs/native/ui/icons/korea/hwarangicon3.rrtex": {
+      "bytes": 6460,
+      "sha256": "906e42bc4b7bfc44e309eee3c37ef2d1c097789ccbce0a07aeb61972d2f3890f"
+    },
+    "inputs/native/ui/icons/korea/hwarangicon4.rrtex": {
+      "bytes": 6477,
+      "sha256": "8a555951813429c706acacfddd588c9213a4606d9651b30348d6d770bd1a1afa"
+    },
+    "inputs/native/ui/icons/korea/ironflailicon.rrtex": {
+      "bytes": 2883,
+      "sha256": "8668cffef9551d6180f8f285937f3ba720b4169bef9b587d5d42f528c8a365e8"
+    },
+    "inputs/native/ui/icons/korea/jinjufortress.rrtex": {
+      "bytes": 5818,
+      "sha256": "7b0e181c267d9505f88c859aeac53c6d8b7d773c1421f5c25128d9d690274a36"
+    },
+    "inputs/native/ui/icons/korea/koreancover.rrtex": {
+      "bytes": 1700011,
+      "sha256": "279b863dab6bf5f810e14e71c7bfe0e907334fef8a7965187b0129e8f05c1748"
+    },
+    "inputs/native/ui/icons/korea/koreans_2.rrtex": {
+      "bytes": 25059,
+      "sha256": "6d467b98e935c7b6925a6ab4ce03eca1da2ae4b282eab878bfd453d4d1305595"
+    },
+    "inputs/native/ui/icons/korea/koreanwonder.rrtex": {
+      "bytes": 4530,
+      "sha256": "991acb27d9a4bb0224bc483adf421fda4f3e49c1f0eeba6b9c2daed021b967af"
+    },
+    "inputs/native/ui/icons/korea/main_icon.rrtex": {
+      "bytes": 33465,
+      "sha256": "88cb8184fe3524e7a1d9a14064489f2cf16344a5835e9f9ac600668541507b21"
+    },
+    "inputs/native/ui/icons/korea/mountainfortress.rrtex": {
+      "bytes": 5653,
+      "sha256": "44429e4db1efbd894b657fdc314b1b89be4e31ea90b15b1e791f6ddd8b51855f"
+    },
+    "inputs/native/ui/icons/korea/seonbischolaricon.rrtex": {
+      "bytes": 5468,
+      "sha256": "e8580cf54d0068262c4b854266f872cf16336a4cf145015f85b299ad2694ff58"
+    },
+    "inputs/native/ui/icons/korea/seondeokobservatoryicon.rrtex": {
+      "bytes": 4738,
+      "sha256": "aaae9ff2def70b1910b56a181aa45b6c31d84176eeb13c595b6d68194c43f8f5"
+    },
+    "inputs/native/ui/icons/korea/seowon.rrtex": {
+      "bytes": 4930,
+      "sha256": "2f3ee7d6456b026e0de90d42e4beb702d3d309b27c5ce24124a0263f49a85c55"
+    },
+    "inputs/native/ui/icons/korea/seowon_new.rrtex": {
+      "bytes": 4898,
+      "sha256": "aa2e532158dbcc1c40182c148914e115b721b9262412e3a408fab069daa02030"
+    },
+    "inputs/native/ui/icons/korea/stonepagodaicon.rrtex": {
+      "bytes": 4470,
+      "sha256": "4febc9415b5cf3eb0430690aa2d5e886cefe6e6225628bde6570f35ee980b442"
+    },
+    "inputs/native/ui/icons/korea/tigerhuntericon2.rrtex": {
+      "bytes": 5169,
+      "sha256": "49b82281fe40453e929d91ceec1f284ae1b77d1cc560c7a037fcdc68bbaeb47c"
+    },
+    "inputs/native/ui/icons/korea/tigerhuntericon3.rrtex": {
+      "bytes": 5171,
+      "sha256": "611abd92a42ad379bc79d4765091fa3b39d3b92695e4e389a5cbe04dc8ffa320"
+    },
+    "inputs/native/ui/icons/korea/tigerhuntericon4.rrtex": {
+      "bytes": 5197,
+      "sha256": "bd3364802cd38a76b560fbf44d9f2b1a52426e0aecbdd3f8dfe88a6c7d16cca9"
+    },
+    "inputs/native/ui/icons/korea/warriorpoets.rrtex": {
+      "bytes": 4088,
+      "sha256": "af7e20236bb8dd0d68c4209880566af2094df5acf23867ff213cd971ed4287f8"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_background.rrtex": {
+      "bytes": 204367,
+      "sha256": "e76e0e942043eadc092f73e68e1eb5ce60557725cda853d73e520009476d6f31"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_fade.rrtex": {
+      "bytes": 7291,
+      "sha256": "589666e2d00306d5a1bd8c26aab10a225b09a893a69c90c603c153562b90ae2d"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_list.rrtex": {
+      "bytes": 3250,
+      "sha256": "230b678e83b301290cf9adca2b7a3c50a71db5d3cfb0844e8b83b9f3f2b4bfaa"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_list_small.rrtex": {
+      "bytes": 1449,
+      "sha256": "4f487c43e4193de982a0ee269e7d30cdee47bf74f7d8cff0d98a4dd6087149ce"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_loading.rrtex": {
+      "bytes": 204364,
+      "sha256": "17a690f9d734e3c4faf8992cbf2f22a18c5107b7c7c44b3192efcbf56832cacb"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_mastery.rrtex": {
+      "bytes": 72944,
+      "sha256": "17c03dcafa72ec7b516a87a77d1cd617c9d49008036d544f8ed2363cc7d60171"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_pattern.rrtex": {
+      "bytes": 39441,
+      "sha256": "045a4d3aee23f72bd25ac7039e0d98d5281f39e9f91d78e00290357ce541fd6a"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_secondary.rrtex": {
+      "bytes": 18056,
+      "sha256": "19043fa1f407447fab642cd1d6163f35cbf465505d1bf8c98e541c543e6eb82d"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_secondary_small.rrtex": {
+      "bytes": 8574,
+      "sha256": "ab7891ad373bf42b6fd0f817b1ab2f17c9aa350e887e62d5e4b60144ae821e8a"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation/flag_tile.rrtex": {
+      "bytes": 65212,
+      "sha256": "1e8c9e6709e0d8ce0858f6dee396be268cabad166713f0cfce86ee0ee34a1d8f"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_fade.rrtex": {
+      "bytes": 4570,
+      "sha256": "e1854d076f1901620df03e2d0f6835dc773140925a8e7e72af30dd57fb0758c5"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_list.rrtex": {
+      "bytes": 1754,
+      "sha256": "c56b89a682c7fe72ce2b67efc51e16bd6c5e971a5a3e13f4345e908b8a596543"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_list_small.rrtex": {
+      "bytes": 893,
+      "sha256": "0703cd1cac5ae29627dbf4001d6cb44b21fb6147c5c8ecfd5e623e6d35641cda"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_loading.rrtex": {
+      "bytes": 158066,
+      "sha256": "f3d24c9a2ce19c5c898c1cfa56c2a9b57ec98969c6a32461155bd8974e7b1ace"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_mastery.rrtex": {
+      "bytes": 30189,
+      "sha256": "31c47a320d7d8dd67a67c30c6319ef5a35e7efe4d47942b806d959086bc69b85"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_pattern.rrtex": {
+      "bytes": 28015,
+      "sha256": "d2a11118dd34c0de6ff4cff5d51dbadfe4e6dbb9d3c331b70f60f0eb59d9b96c"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_secondary.rrtex": {
+      "bytes": 11512,
+      "sha256": "ab5f1d8704319593315ff30afde7c52eef77b2a88f21a79fd0d293464dcd215e"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_secondary_small.rrtex": {
+      "bytes": 4837,
+      "sha256": "6f86ae582585d57ae55453e7904ae49dbfa7a0549672cbd3d7b90fd932ebe9d7"
+    },
+    "inputs/native/ui/images/garrison/korea/presentation_011/flag_tile.rrtex": {
+      "bytes": 34368,
+      "sha256": "bded2bb3190ca305a2ff73e6031744acb386c99b3d1bdd0fede73408e8186a30"
+    },
+    "inputs/native-manifest.json": {
+      "bytes": 12103,
+      "sha256": "8ebbcba41d0714e1ab4ec6fa7656d4729e982eef982337a638a209e7b02f4ad2"
+    },
+    "project.json": {
+      "bytes": 9150,
+      "sha256": "285b4dc028d3c496402f7af11ac74a89693a9a8cfdc93951e06e9f102a9d9b1e"
+    },
+    "source/locale/en.json": {
+      "bytes": 100386,
+      "sha256": "16b97447b099d535da0a725482e25076aea49e14680da8bafffa402921f677f1"
+    },
+    "source/scar/garrison/korea/dispatcher.scar": {
+      "bytes": 2024,
+      "sha256": "1b418484b38e348ec5a3ca0ce0419c151b07dea2b0f7c1b9d6e5301628239fc0"
+    },
+    "source/scar/korea/blueprints.scar": {
+      "bytes": 10723,
+      "sha256": "b27cd719442684c17e9d1a45e857f142eef10be3c1ff8f227155bba7a304791d"
+    },
+    "source/scar/korea/catalog.scar": {
+      "bytes": 64604,
+      "sha256": "0ccb2daf42b6ff0193f5b67bc7f4882ffd024c1c7871cff4c31e105072151309"
+    },
+    "source/scar/korea/core.scar": {
+      "bytes": 4216,
+      "sha256": "7deb2fbed3002feedff6bc346f3d60eb3e207716a0d652a299c8f24f83f0bd2a"
+    },
+    "source/scar/korea/economy.scar": {
+      "bytes": 6860,
+      "sha256": "a0cbaf044dcd554a45a52277a903363abf5fd8b2830eb0f671d5e98260123d51"
+    },
+    "source/scar/korea/effect_catalog.scar": {
+      "bytes": 15215,
+      "sha256": "94acec3b66dd72d1d191bbb1a799caba9c2f51b13b6ab02d5311956023e3c86b"
+    },
+    "source/scar/korea/effects.scar": {
+      "bytes": 9914,
+      "sha256": "1971bc54cfaade3d8c9665ebd914d4c6cd3509343575151c251f33bbedba89d7"
+    },
+    "source/scar/korea/initialization.scar": {
+      "bytes": 2106,
+      "sha256": "3c3e909d20eb162be51a4f9e98fcdc27772bc60421b7e5888b098bd098b8b292"
+    },
+    "source/scar/korea/landmarks.scar": {
+      "bytes": 5171,
+      "sha256": "4b2235b24e00184063596f79c8b2350f1ca2464fe985e812fd7e921a21f1494d"
+    },
+    "source/scar/korea/lifecycle.scar": {
+      "bytes": 6943,
+      "sha256": "3ed4dc072e34e29f38f9b7b5856a2a1ff911ebff6dafc3aa725533f9882e7866"
+    },
+    "source/scar/korea/research.scar": {
+      "bytes": 5873,
+      "sha256": "0cf3e9c5c612dad4921c1fcfa8474397352076913431e7dea8db4ecc4edbcab0"
+    },
+    "source/scar/korea/research_core.scar": {
+      "bytes": 2349,
+      "sha256": "c74f3337500738fda1f472388e1e285d7688683a6cb0a6f80c45b183feea5e92"
+    },
+    "source/scar/korea/ui.scar": {
+      "bytes": 4599,
+      "sha256": "b4354db54d133f5ead85b13f6cd596be7f3d37c4db39ca3476e39d7a4dd044f3"
+    },
+    "source/tables/attrib/abilities/korea/kr_acre_barrage_ayy.rgd.json": {
+      "bytes": 104669,
+      "sha256": "893e3f398da6f24cfa6fafecf14ac6bc466ac4adbacc511ca41203501a2eff28"
+    },
+    "source/tables/attrib/abilities/korea/kr_acre_barrage_small_ayy.rgd.json": {
+      "bytes": 104672,
+      "sha256": "d97214f9032372084f68ce91c8bc20f033c1503882ea07cd0d1dc23c78989c6e"
+    },
+    "source/tables/attrib/abilities/korea/kr_archery_archer_tier_3.rgd.json": {
+      "bytes": 108963,
+      "sha256": "9833e64956ee15fb7e40081d3d00cc67ea80b448c77f737504fd14f7e6cdcc93"
+    },
+    "source/tables/attrib/abilities/korea/kr_archery_archer_tier_4.rgd.json": {
+      "bytes": 112225,
+      "sha256": "0f7a9d7948f838bc308a4eea5f57f3f1bfd143d85872e1abbe9fa2584848b461"
+    },
+    "source/tables/attrib/abilities/korea/kr_archery_crossbow_tier_4.rgd.json": {
+      "bytes": 108976,
+      "sha256": "64f5af318d53d2cb0166b7147094c625bbebfe6aedddb10fbd808aeba6c4c524"
+    },
+    "source/tables/attrib/abilities/korea/kr_archery_ranged_arrow_chutes.rgd.json": {
+      "bytes": 109113,
+      "sha256": "b559c97186e13ac3067a4de365ec28836b8103b0c79e6a8fe2ad927bf819d906"
+    },
+    "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_3.rgd.json": {
+      "bytes": 109064,
+      "sha256": "a334f9c569701734579b4573bd3711ba08a972882c97c916e9ea044301230de7"
+    },
+    "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_4.rgd.json": {
+      "bytes": 112383,
+      "sha256": "470419ba59a425b4936940f64ffbc12924fd2524f002ff9bdeb0add7fce2f7db"
+    },
+    "source/tables/attrib/abilities/korea/kr_archery_tiger_hunter_tier_rocket.rgd.json": {
+      "bytes": 109511,
+      "sha256": "c16a28484fdc775115795a0db626faabb2be3ddff759d81d3a715df20f9da8ac"
+    },
+    "source/tables/attrib/abilities/korea/kr_barracks_maa_heavy_spear_4.rgd.json": {
+      "bytes": 112652,
+      "sha256": "95f244bdf7531bc552a79cfdb4d089b39f2eadb817dd9507dcb242687428e142"
+    },
+    "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_2.rgd.json": {
+      "bytes": 112498,
+      "sha256": "c29d92ef0fd2788643506a17d02a388f006cd3d74bb7c72d85ae42766b62aa88"
+    },
+    "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_3.rgd.json": {
+      "bytes": 115760,
+      "sha256": "4ddd740aa04fce9559645c3daa59fd5927e770fc37b7975bb18fd3bc0827aa61"
+    },
+    "source/tables/attrib/abilities/korea/kr_barracks_spear_tier_4.rgd.json": {
+      "bytes": 115763,
+      "sha256": "5caf4fce139096a75ad0a306ca818a1a6a06f0a99e13393853f7ff61bebb6f8e"
+    },
+    "source/tables/attrib/abilities/korea/kr_barracks_unique_tech_spear.rgd.json": {
+      "bytes": 112648,
+      "sha256": "64d9fe8e26295ffdc8bb56cac365b7167ff6dfce894eadb44a728890f62a9334"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_1.rgd.json": {
+      "bytes": 123067,
+      "sha256": "f07168f1114a51f13f8a951796bbd53ed7464409766d74661cab342a42c9f26f"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_2.rgd.json": {
+      "bytes": 131984,
+      "sha256": "bf2908b59a4b4ceb511d7088b6f17ab39aead3146da982a3b9333e467abe9bd0"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_melee_armor_3.rgd.json": {
+      "bytes": 140118,
+      "sha256": "4585baff16979d51d7656becb71d637e9b54e541438c81b3e16a5789614fc349"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_1.rgd.json": {
+      "bytes": 123071,
+      "sha256": "961ebbb8012613a3300fc6c8a052ab99fbd278b8ee931eb49c0ce50a2d4ecaa0"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_2.rgd.json": {
+      "bytes": 131990,
+      "sha256": "61964d6ef07df03a6286ca8eb91b2da8d98b0434c06c37ba931a32b69991e149"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_melee_damage_3.rgd.json": {
+      "bytes": 140844,
+      "sha256": "83b538850e670abb7721b89cac4423e1ff0bfdfcaf03ce53447b57ccb3c437ff"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_military_academy.rgd.json": {
+      "bytes": 122641,
+      "sha256": "d55977e0127b161682e6453829a5574a83683af9dbd680f580e097acb07de68d"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_1.rgd.json": {
+      "bytes": 123071,
+      "sha256": "4dc767e36c5b83b9cff21bfce09c746c44f8371bb36ac328117d23c3a17af677"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_2.rgd.json": {
+      "bytes": 131990,
+      "sha256": "37e8b69c97ec228bb0b076ac1bba28cf6a88eaae730dfea9d08a91282a9beba6"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_armor_3.rgd.json": {
+      "bytes": 140844,
+      "sha256": "bfae88554e651b2718c4a6bdbe77661d6f47dfabf293aad09567dc99577c1cbe"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_1.rgd.json": {
+      "bytes": 123075,
+      "sha256": "45fd4f4fdab358c97503465199ea145251aeac0de59cb71ed4ed350c89e315d6"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_2.rgd.json": {
+      "bytes": 131996,
+      "sha256": "4ef8dad05046f2097d5402fbd61d38bb5de2267c1aa0b8429f17b6f307f03c4a"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_ranged_damage_3.rgd.json": {
+      "bytes": 140852,
+      "sha256": "a3ccd0e2fc46bd7b51b15a2c4a795498b17f91afa01ec534360acd1fc34fcd64"
+    },
+    "source/tables/attrib/abilities/korea/kr_blacksmith_siege_engineers.rgd.json": {
+      "bytes": 121973,
+      "sha256": "517f3d0fe50c744fe824134a646081f97a1beebf359e2c5f207c9363091306ec"
+    },
+    "source/tables/attrib/abilities/korea/kr_building_spend_10_or_less.rgd.json": {
+      "bytes": 105006,
+      "sha256": "db0b88288b554e2d65afeccd6f37213e6f8e2c38c7d1cb2582ab6db9291fed18"
+    },
+    "source/tables/attrib/abilities/korea/kr_convert_archer_to_horseman.rgd.json": {
+      "bytes": 104619,
+      "sha256": "dd2c60edf605e58ab561fdb9b8e7e3bdef4085ddacfdc16213d6cfa0ce4758a2"
+    },
+    "source/tables/attrib/abilities/korea/kr_convert_horseman_to_archer.rgd.json": {
+      "bytes": 105004,
+      "sha256": "e32b7bc2c474daf06ba0df19085e259fa749ee783105e1c8af86afde4409298a"
+    },
+    "source/tables/attrib/abilities/korea/kr_core_market_buy_merc_bulk_kor.rgd.json": {
+      "bytes": 63249,
+      "sha256": "db8265fae9043f7b5818510d18609905f23c94638c5640627a21a61b6160b0a4"
+    },
+    "source/tables/attrib/abilities/korea/kr_core_market_buy_merc_kor.rgd.json": {
+      "bytes": 112871,
+      "sha256": "04b4a37f544888a6521016de036788cb14ee55cabecb9ac8c18ac0b0ab55517d"
+    },
+    "source/tables/attrib/abilities/korea/kr_core_market_sell_merc_bulk_kor.rgd.json": {
+      "bytes": 63251,
+      "sha256": "38300b7a9da306582ee706d56cdccba3853b1ff17a1c3106511703cf48a66aca"
+    },
+    "source/tables/attrib/abilities/korea/kr_core_market_sell_merc_kor.rgd.json": {
+      "bytes": 112886,
+      "sha256": "577ca427c8a214a9e8ef7a62d770f03eaf03bea5a69af5ae097aa695a1df5b7f"
+    },
+    "source/tables/attrib/abilities/korea/kr_display_foreign_tech_for_everyone.rgd.json": {
+      "bytes": 104612,
+      "sha256": "6e77d1f35a49ca4a646bf9315a2115d5207d6e1af32605e7f7c30608e068250f"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_1.rgd.json": {
+      "bytes": 120917,
+      "sha256": "1c9d6107c27b06f4872ff9cf14cae90bb8bab4a73fe3a08c9f2d22ef8c4abdb4"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_2.rgd.json": {
+      "bytes": 129878,
+      "sha256": "21e419752d44be43dbeb7806a5e774c9d61b1f99a58d5c973eb5ecf57f5c1309"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_lumber_mine_3.rgd.json": {
+      "bytes": 129879,
+      "sha256": "9ef156d9875f47e5180c50b1ba38fbc4f8bef2149ed2f8badca4c5f6f0e95d41"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_1.rgd.json": {
+      "bytes": 120910,
+      "sha256": "91a2df7d4793f29743f9dc17e3793044cb95b62f61baf8d287bcbf4ab46eac22"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_2.rgd.json": {
+      "bytes": 129876,
+      "sha256": "a906a224e28f223861016f77347b5fecda553afd2cb2724bb3eeefea01a13961"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_3.rgd.json": {
+      "bytes": 130105,
+      "sha256": "b04fa4ad1bbca13e59aaff452330111cd3c26988fe1169c8778f72ac81ace84d"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_lumber_wood_chop.rgd.json": {
+      "bytes": 113523,
+      "sha256": "c7495b2c13573758b31f9651c0a5bb154ef32625ef5117dc1d3976aab6f8c394"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_mill_food_1.rgd.json": {
+      "bytes": 124193,
+      "sha256": "57a86ebf43ad23554accfcf25d21b2e4314405858afceb484ce25370f1c4f626"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_mill_food_2.rgd.json": {
+      "bytes": 133153,
+      "sha256": "02bcfbcc38e635c2da86dc0b53f28339fb9cd126c2ffb6f6afbb7301023f6505"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_mill_food_3.rgd.json": {
+      "bytes": 133165,
+      "sha256": "72c7291eb6280b184ae26662fc6ad3a3938167cd00ab2da2c4a596fafbb311a7"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_mill_hunt_gather_rate.rgd.json": {
+      "bytes": 117449,
+      "sha256": "b6b983df1614c12de39307ba847b7bdea763b756f0f2a2f5671c98d826a21bb4"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_mill_pro_scout.rgd.json": {
+      "bytes": 119918,
+      "sha256": "070943672cab9146b99667f4fba75f7d3265134a4ee94c5586ca48f897e9dac9"
+    },
+    "source/tables/attrib/abilities/korea/kr_economic_mill_wheelbarrow.rgd.json": {
+      "bytes": 126075,
+      "sha256": "f9209fc9885213a1eefb0a988ebd588a080a76504f71d3145b415f6cf0d15c56"
+    },
+    "source/tables/attrib/abilities/korea/kr_general_aura_infantry.rgd.json": {
+      "bytes": 105406,
+      "sha256": "4b1c8354c93aa635df186568c43ce2d5df36f735e9502d56d08a46ec84f3b047"
+    },
+    "source/tables/attrib/abilities/korea/kr_general_aura_logistics.rgd.json": {
+      "bytes": 105406,
+      "sha256": "52181bb7ab57f35aa93e9551151704ea280c1dfba2e78e25dae88cadfc2d2cd2"
+    },
+    "source/tables/attrib/abilities/korea/kr_general_aura_production.rgd.json": {
+      "bytes": 105406,
+      "sha256": "10172ed3f9ff4b39067919aa0a01e64616c80e82e26971479ac2dec27b905881"
+    },
+    "source/tables/attrib/abilities/korea/kr_general_aura_raiding.rgd.json": {
+      "bytes": 105398,
+      "sha256": "a11fee1d167663000840bd243a6019ef58fe485560069bf40f5b8ee6708584ff"
+    },
+    "source/tables/attrib/abilities/korea/kr_general_aura_siege.rgd.json": {
+      "bytes": 105404,
+      "sha256": "c831d2f856cd0df3bd9860ec354f4ea3700f53a9a6bc4054043e32eba43ee353"
+    },
+    "source/tables/attrib/abilities/korea/kr_hall_of_worthies_food_decree.rgd.json": {
+      "bytes": 101909,
+      "sha256": "14c0626e188a27a8dea7c7cf91ccc4295158cf7fa7761d0794a41b04339c0648"
+    },
+    "source/tables/attrib/abilities/korea/kr_hall_of_worthies_gold_decree.rgd.json": {
+      "bytes": 101901,
+      "sha256": "0ca2d2d124a4d98e65a933afc97981fa5f5ef13ffd61bf4183d135d32d00aab0"
+    },
+    "source/tables/attrib/abilities/korea/kr_hall_of_worthies_stone_decree.rgd.json": {
+      "bytes": 101869,
+      "sha256": "95fc3ec267eba056fd63d23dfe944ece6a1e2f9fb5b1a43dec6c98e3a9b4ca60"
+    },
+    "source/tables/attrib/abilities/korea/kr_hall_of_worthies_wood_decree.rgd.json": {
+      "bytes": 101898,
+      "sha256": "f3e7cca60da5e530b6496d75447543caef4a2a479a13786b975ddbe347cf1822"
+    },
+    "source/tables/attrib/abilities/korea/kr_horseman_or_archer_kill_tracker.rgd.json": {
+      "bytes": 104637,
+      "sha256": "74831564e78c6e0144edfc4256935f9dd3abd5a4ac47eee6403eba21c816c66c"
+    },
+    "source/tables/attrib/abilities/korea/kr_hwarang_study_korea.rgd.json": {
+      "bytes": 135533,
+      "sha256": "57eb4168f979d972b861720c0f7be570f507024fea4de1fc2b09f92caf75d3d9"
+    },
+    "source/tables/attrib/abilities/korea/kr_korea_rigteous_army_range.rgd.json": {
+      "bytes": 65363,
+      "sha256": "f9ca789577832612d87b81d569410525fd63cdc79c06d135c0858230de5d8028"
+    },
+    "source/tables/attrib/abilities/korea/kr_korea_seowon_range.rgd.json": {
+      "bytes": 64140,
+      "sha256": "6cba0ac8785193c6077415533ca25934f221338efc6f244a9d1d0fde864fe739"
+    },
+    "source/tables/attrib/abilities/korea/kr_korea_seowon_range_dummy.rgd.json": {
+      "bytes": 65363,
+      "sha256": "185b34dda333af8f91de9d9dd95ea0e21da27e1f6fdb691f42019c3c6cfbdf00"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_armor_activated.rgd.json": {
+      "bytes": 110203,
+      "sha256": "9c7f39df7c83d347fc3e11c1ac94f153c8286db926ce70558c6f1d7ed58fc5f8"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_attack_speed_activated.rgd.json": {
+      "bytes": 157657,
+      "sha256": "cb5a5fe86d69d2594222ae7a9757c00c5845d1003f1b06b304ece6a2cca2dc53"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_construction_activated.rgd.json": {
+      "bytes": 157482,
+      "sha256": "fbb24c1fcb66f4fc7393c26ca0fd3d0942e2b1ef39b4670c5e1ffbd9981795c5"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_damage_activated.rgd.json": {
+      "bytes": 109700,
+      "sha256": "e185db52c99b77438360e7d74b318b6f526f44921e852a4b4eb8860245d28342"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_decay_armor_activated.rgd.json": {
+      "bytes": 172268,
+      "sha256": "1e37c062e18ffd5e855a2e0b48366d58363e254fe079f9dae2b2d2ae291ab9ba"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_falcon_sight.rgd.json": {
+      "bytes": 161488,
+      "sha256": "a009c629d8183b0aa2fe4045ffb6e02c57af933b6b8fdc1dd31b164f0c776e02"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_gunpowder_attack_speed_activated.rgd.json": {
+      "bytes": 157171,
+      "sha256": "d67a1068406de3baa7ca73a24257fe9fcb720548fc7728b8761822ce3a4c3cf3"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_healing_activated.rgd.json": {
+      "bytes": 159928,
+      "sha256": "f46d71a01175f45f5d9932fb1ba887a8adbd62077cec6019d613da8089f6e119"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_improved_armor_maneuver_arrow.rgd.json": {
+      "bytes": 163561,
+      "sha256": "9e2d6aaa931a6c59d5f26985f407c9bea6e4a9602eb0c2cb0eb778dc5c3c7b01"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.rgd.json": {
+      "bytes": 167253,
+      "sha256": "cd3bcf2f6c34335f07e2aed614ae58f9cd83650881c2a0ef4d98ecac9b278376"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_knight_damage_move_speed_activated.rgd.json": {
+      "bytes": 156782,
+      "sha256": "0336dd0adbe949c6684bcdf7d6aeca5c1c8798651f4fb3131ffd093bb13972f4"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_move_speed_activated.rgd.json": {
+      "bytes": 159937,
+      "sha256": "eae6086ac73a14fdfae2aab487ce7d35ab78d99fb6c73b0e2ec9da6332d8c121"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_production_activated.rgd.json": {
+      "bytes": 159092,
+      "sha256": "6e9325d6bf9f97e71edcb251b5b456785139e927b228d94aceb752b8ac917197"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_production_mon_activated.rgd.json": {
+      "bytes": 155638,
+      "sha256": "957c2a406b86cc3272bf8b73e4a9bb66d5e56fb32c0236c905505c1fd7cb4673"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_ranged_attack_speed_activated.rgd.json": {
+      "bytes": 160095,
+      "sha256": "887995f0e21baf98b00587c0bbfd9d75ea61845ffa0660be0d023fa5eb8fd41f"
+    },
+    "source/tables/attrib/abilities/korea/kr_leader_siege_damage_activated.rgd.json": {
+      "bytes": 109704,
+      "sha256": "7c47dc2873c87a57bc942893e18e9bf17dce0594f24015c64f2f77d0b0c4b7c3"
+    },
+    "source/tables/attrib/abilities/korea/kr_longbow_set_up_camp_nrm.rgd.json": {
+      "bytes": 62258,
+      "sha256": "d89c94b2fd8ad00d3ffc9673bc3c2d6c3f056574ec611b27b1f1c961e29ef789"
+    },
+    "source/tables/attrib/abilities/korea/kr_mehter_attack_buff_ott.rgd.json": {
+      "bytes": 61062,
+      "sha256": "0eb33afa6542f00a7ccfd15c4a383903ffef055835119e9d9849696d30fafbe1"
+    },
+    "source/tables/attrib/abilities/korea/kr_monestary_herbal_medicine.rgd.json": {
+      "bytes": 119744,
+      "sha256": "2c4a52aa06ffa8d62b5a8e57f8eecc2b69134a68910a34834304ad3d47dded88"
+    },
+    "source/tables/attrib/abilities/korea/kr_monestary_piety.rgd.json": {
+      "bytes": 116425,
+      "sha256": "077f25baa52377ada045828470f367c957ad1ad83a2b0e138c835a7d95f1ccea"
+    },
+    "source/tables/attrib/abilities/korea/kr_monestary_tithe_barns.rgd.json": {
+      "bytes": 120194,
+      "sha256": "f6fc0269cc08161c5defced57dafa57c6bf3569650d97445acd38033c9d90d51"
+    },
+    "source/tables/attrib/abilities/korea/kr_monk_inspire_target_ayy.rgd.json": {
+      "bytes": 125335,
+      "sha256": "78a235febda2725fbd337d4b6359b7da0c2a893dcad392ac611c697bbb2d63ad"
+    },
+    "source/tables/attrib/abilities/korea/kr_naval_armored_hull.rgd.json": {
+      "bytes": 113402,
+      "sha256": "249c9231cd2a7bb828af0bb9316a8e1b7cb0e2976b56c63901db16916eb3b311"
+    },
+    "source/tables/attrib/abilities/korea/kr_naval_econ_drift_nets.rgd.json": {
+      "bytes": 117853,
+      "sha256": "5a9da52b655f426d2b5d78d59b0a931ffdeedba0dc8529ea959ff0f10ab23010"
+    },
+    "source/tables/attrib/abilities/korea/kr_naval_explosives.rgd.json": {
+      "bytes": 113172,
+      "sha256": "660a0931c50290e04e4a7a4d27c198631b437f272842c29f74849635e97422dc"
+    },
+    "source/tables/attrib/abilities/korea/kr_naval_extra_hammocks.rgd.json": {
+      "bytes": 113172,
+      "sha256": "be9720f25a65731e6bf33899d35c7245f749340f8f565477790903657017998a"
+    },
+    "source/tables/attrib/abilities/korea/kr_naval_heated_shot.rgd.json": {
+      "bytes": 112211,
+      "sha256": "e447359520e1912493335ecce2fca20f50c10aa7a4b1eb7f54ea49e6e6d3ad2b"
+    },
+    "source/tables/attrib/abilities/korea/kr_naval_shipwrights.rgd.json": {
+      "bytes": 116671,
+      "sha256": "ec5c440cb7568f7eccce3606274c7aaca14caab1043d2222d601b16c12f7a612"
+    },
+    "source/tables/attrib/abilities/korea/kr_naval_swivel_cannon.rgd.json": {
+      "bytes": 112524,
+      "sha256": "fee6533fef3400ec7f56927a247f569b1a6ab52d955fb38b3f860f165cc47f87"
+    },
+    "source/tables/attrib/abilities/korea/kr_naval_upgrade_naval_incendiaries.rgd.json": {
+      "bytes": 113168,
+      "sha256": "eba4366f545375a181a0eac9248da98c627caf1880ec3113ecb7b8b09cdfc2dd"
+    },
+    "source/tables/attrib/abilities/korea/kr_saladin_armor_activated_ayy.rgd.json": {
+      "bytes": 112563,
+      "sha256": "7c523fa9694c0e932d15c1821d13828e501eb89b10e2433f8f56f2a91ead31f1"
+    },
+    "source/tables/attrib/abilities/korea/kr_senobi_give_10_ticket_to_building.rgd.json": {
+      "bytes": 132058,
+      "sha256": "5ad98b9677dcc4e1f963d7957920b16bd095c42f4368454d816d85412f1742ae"
+    },
+    "source/tables/attrib/abilities/korea/kr_senobi_give_30_ticket_to_building.rgd.json": {
+      "bytes": 132058,
+      "sha256": "b436d73913308ff2d2f6184337f651b1f990b4344883997730028a5558a0a2c3"
+    },
+    "source/tables/attrib/abilities/korea/kr_senobi_give_max_ticket_to_building.rgd.json": {
+      "bytes": 132056,
+      "sha256": "a448382a1a465eeb6dc507057d8d497e0639d81cef2e341ad8c56a2f5e881757"
+    },
+    "source/tables/attrib/abilities/korea/kr_senobi_study_korea.rgd.json": {
+      "bytes": 131566,
+      "sha256": "c6d154bab6b7c5a4b394db415cbadad510fc0deba426ed7e432a19ae1a7ad6c5"
+    },
+    "source/tables/attrib/abilities/korea/kr_senobi_take_30_ticket_from_seowon.rgd.json": {
+      "bytes": 109858,
+      "sha256": "34d271ff30bcf3b9fd0a81002135aecc2a3d3dc23cbcd2bce66d3454b6139a49"
+    },
+    "source/tables/attrib/abilities/korea/kr_senobi_take_5_ticket_from_seowon.rgd.json": {
+      "bytes": 109856,
+      "sha256": "90a0740a4b0b159f9cfab84232aa71ce98e39fb12d57fdc7f649fcc52a0b1443"
+    },
+    "source/tables/attrib/abilities/korea/kr_senobi_take_60_ticket_from_seowon.rgd.json": {
+      "bytes": 109843,
+      "sha256": "84e224178b119b07c65190f9f255a87a4781c1ea31473c2e4cf6a90fc1932fdc"
+    },
+    "source/tables/attrib/abilities/korea/kr_seowon_hungul_script_korea.rgd.json": {
+      "bytes": 112662,
+      "sha256": "188a38f965f2e6fb2397994053675c28a3718a4b6249fba85c51aaad281e989c"
+    },
+    "source/tables/attrib/abilities/korea/kr_seowon_hungul_script_korea_for_feudal_landmark.rgd.json": {
+      "bytes": 109106,
+      "sha256": "ac68411611fe867a4771c1b69239b4f2e9150c6f9989d54e4c14a9491975091c"
+    },
+    "source/tables/attrib/abilities/korea/kr_shirkuh_speed_activate_ayy.rgd.json": {
+      "bytes": 112918,
+      "sha256": "3199ac7b66d5f1de46cf36b82c68fffba4aa3e51269332746602c90ed87e4fb2"
+    },
+    "source/tables/attrib/abilities/korea/kr_siege_bombard_range.rgd.json": {
+      "bytes": 109113,
+      "sha256": "28cca74af7e6e3b6072c2c41db70cb7979a9cbe3643c03a62907ddf43f7b69cb"
+    },
+    "source/tables/attrib/abilities/korea/kr_siege_mathemathics.rgd.json": {
+      "bytes": 113176,
+      "sha256": "b69dc16f99bda44bfafe7b52132090c4a8af9c1ef68f59c53ed548b039cdcaaf"
+    },
+    "source/tables/attrib/abilities/korea/kr_siege_movement_speed.rgd.json": {
+      "bytes": 116449,
+      "sha256": "4ec2d628c8c36408ec472f7f42e2ea9ab1627d4a904f0168cf941e976a3785c3"
+    },
+    "source/tables/attrib/abilities/korea/kr_siege_ram_upgrade.rgd.json": {
+      "bytes": 119953,
+      "sha256": "a86a494b07104ebb2f7050b8a654474c74550a3eaf338c18fd3d399872aadb67"
+    },
+    "source/tables/attrib/abilities/korea/kr_siege_roller_shutter_trigger.rgd.json": {
+      "bytes": 116703,
+      "sha256": "19083320dc0a70103300b4ce7b7e6c80513feb4c775783a83e13f67f377c158d"
+    },
+    "source/tables/attrib/abilities/korea/kr_smoke_reaction_ayy.rgd.json": {
+      "bytes": 104333,
+      "sha256": "80f46e55e17baedea5e10feaef3395485c95fadb6c8a0683b30ad08ab54cf019"
+    },
+    "source/tables/attrib/abilities/korea/kr_stable_horseman_tier_3.rgd.json": {
+      "bytes": 112498,
+      "sha256": "3fadded1af4ad42145eaba4d442f581ba847fb16fc1dfe25356d172956ef4b05"
+    },
+    "source/tables/attrib/abilities/korea/kr_stable_horseman_tier_4.rgd.json": {
+      "bytes": 115762,
+      "sha256": "ab4df7eaba60ec730079d5ca37b0e8e954948f21dd9eddb2bbb75434dced6d60"
+    },
+    "source/tables/attrib/abilities/korea/kr_stable_knight_range.rgd.json": {
+      "bytes": 112605,
+      "sha256": "affe6f2fcfc1ef4acc3ce89536d765c8eb1f7f77357a17e76696deef3ba1a498"
+    },
+    "source/tables/attrib/abilities/korea/kr_stable_knight_tier_4.rgd.json": {
+      "bytes": 112497,
+      "sha256": "7d1fc6e640be8847b50328f4555fd3800d6b5034365ea5992ce160134b995cfd"
+    },
+    "source/tables/attrib/abilities/korea/kr_stable_scout_los_incrase.rgd.json": {
+      "bytes": 113157,
+      "sha256": "7e76b56309b411271aeae1f3559b1eb115ff78a7b2bba578aec8e6313bf5870b"
+    },
+    "source/tables/attrib/abilities/korea/kr_templar_master_attack_speed_tem.rgd.json": {
+      "bytes": 61062,
+      "sha256": "18f50c5d19403416ab8c0e7b2025bebc5faf075b8c2705aa19fd95ce402a76bd"
+    },
+    "source/tables/attrib/abilities/korea/kr_toggle_saladin_armor_ayy.rgd.json": {
+      "bytes": 114224,
+      "sha256": "4481e38214efc7939c8aa72735f88c89320f7f53cdff27c7c2d23d494a59e3d3"
+    },
+    "source/tables/attrib/abilities/korea/kr_toggle_saladin_speed_ayy.rgd.json": {
+      "bytes": 136442,
+      "sha256": "f50731a91a7440116135a8061ea29178d3d66b6caab127a9c82ed5db1ffa46c6"
+    },
+    "source/tables/attrib/abilities/korea/kr_town_center_textile_korea.rgd.json": {
+      "bytes": 112895,
+      "sha256": "fd4f4ecc1cd0f35b74ab58c054dcefe29d456670abfabfb71f6048743cfa393e"
+    },
+    "source/tables/attrib/abilities/korea/kr_university_architecture_4.rgd.json": {
+      "bytes": 118228,
+      "sha256": "1139c6d182ef44c36e52f56bbac07c058d77d9ea8f5950afb26a09ec5bcf4e63"
+    },
+    "source/tables/attrib/abilities/korea/kr_university_biology.rgd.json": {
+      "bytes": 121452,
+      "sha256": "9cde6f23f58419e53188542e501e21ef442d94338a2ed65276d4dfdf9c1a2812"
+    },
+    "source/tables/attrib/abilities/korea/kr_university_elite_army_tactic.rgd.json": {
+      "bytes": 121744,
+      "sha256": "155e6acc104ea865921de7c4edda2ae37a70801025e9aea4aa6bf55b93542996"
+    },
+    "source/tables/attrib/abilities/korea/kr_university_leadshot.rgd.json": {
+      "bytes": 121471,
+      "sha256": "12ab50593ce09aab2414cce0573ecda636018311134ee8f17d2ca5dd5bcb10bb"
+    },
+    "source/tables/attrib/abilities/korea/kr_university_ranged_incendiary.rgd.json": {
+      "bytes": 118214,
+      "sha256": "4532741a08d7078a6f0086509ce3a01334f99db4440386da1fc9e317a57cf880"
+    },
+    "source/tables/attrib/abilities/korea/kr_university_siege_cemistary.rgd.json": {
+      "bytes": 118199,
+      "sha256": "67eba4052536e1c4438cbb4e883e38c5aa0eccf420c387c81c7f44038e8eea9f"
+    },
+    "source/tables/attrib/abilities/korea/kr_university_siege_works.rgd.json": {
+      "bytes": 128001,
+      "sha256": "8732e1ee0e1d506f468316336b3ad92b9950b9264cabc79f57010bd0a996191f"
+    },
+    "source/tables/attrib/abilities/korea/kr_university_silkstring.rgd.json": {
+      "bytes": 125242,
+      "sha256": "6b56270c1c1e13b32ab4f04b9c35c7b83964ba826f6ef5df9165ea05adf505c4"
+    },
+    "source/tables/attrib/abilities/korea/kr_upgrade_discount_for_observatory.rgd.json": {
+      "bytes": 60801,
+      "sha256": "5f75f1a151947002b5a7e30b322e9043e5e2afbc8d35ca578ba36a1b4a43f5c9"
+    },
+    "source/tables/attrib/abilities/korea/kr_upgrade_econ_extended_lines.rgd.json": {
+      "bytes": 114362,
+      "sha256": "f0adad8a5b10a46f208588ac27acb03625e515fb8ee1d6d4cb58f5f3613794d2"
+    },
+    "source/tables/attrib/abilities/korea/kr_upgrade_naval_springald_ship_upgrade_1.rgd.json": {
+      "bytes": 113411,
+      "sha256": "a61ece86c5446dea38c274dbf71fa5d29cab4481df451b64bea50c4cf80f3d58"
+    },
+    "source/tables/attrib/army/garrison/korea/korea_standard.rgd.json": {
+      "bytes": 102583,
+      "sha256": "ce177d19128d04f3f595e012dce20c2319b84cc744b9f5292b963faca8d773c6"
+    },
+    "source/tables/attrib/army_slot_layout/garrison/korea/korea_layout.rgd.json": {
+      "bytes": 12745,
+      "sha256": "a28cb5fa730f87294a60ab58b323882049c7ce3aefe435d9eaa2fa5583c3f4d9"
+    },
+    "source/tables/attrib/codex/garrison/korea/korea_codex.rgd.json": {
+      "bytes": 4238887,
+      "sha256": "2d44241bb1b1346edaa86a0511524a62eee9650c39b80642ac1393edbedd8f6e"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_defense_keep_chi_ha_01.rgd.json": {
+      "bytes": 687271,
+      "sha256": "586ecd8deef2509bb458a6771ed7f655290caf5d73f7ca7b564559f9fb3eb141"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_defense_outpost_chi_ha_01.rgd.json": {
+      "bytes": 347416,
+      "sha256": "32cde0de9c80408838742a6032d059c0c430fbf3cb49fa65d5389ec4e171d343"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_defense_palisade_chi_ha_01.rgd.json": {
+      "bytes": 178152,
+      "sha256": "36fb0812c6cd0b0a3ea80637f4d82491e165877796e5d19d95e49510c3b00e23"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_defense_palisade_gate_chi_ha_01.rgd.json": {
+      "bytes": 184425,
+      "sha256": "e4bf85fac4aac9f4a97dd6344396e3d9d07331f0b68c2ca4a7f25027a5e6a2d7"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_defense_tower_chi_ha_01.rgd.json": {
+      "bytes": 231957,
+      "sha256": "f8fe9d0b71cc5bac5a269c68e206a02d3cd1e585c2c6e3063e7f21a0378a41b1"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_defense_wall_chi_ha_01.rgd.json": {
+      "bytes": 186496,
+      "sha256": "a47613ab140f37a11cd3edbf7e667aa172758aaf542216c95f47101b695e3d2e"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_defense_wall_gate_chi_ha_01.rgd.json": {
+      "bytes": 190616,
+      "sha256": "ddd8b5bb4e61a2d20b64ea506976924cdede0110ef384b731f936c16307196e5"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_dynasty_pagoda_control_chi_ha_01.rgd.json": {
+      "bytes": 262616,
+      "sha256": "04e820dd089541e23ef000997caf6e1e4b94861b541d8637dbaa574d9dd7da50"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_econ_food_control_chi_ha_01.rgd.json": {
+      "bytes": 188111,
+      "sha256": "2e63239e9c9c417e58dbbe7af4b3821adf926eb4b7754242ad4422d32bf29d83"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_econ_market_control_chi_ha_01.rgd.json": {
+      "bytes": 234353,
+      "sha256": "a79026a2f452810e744ed662c5774dd65faed6a1850fbab0477e4f5ef4e3ec30"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_econ_mining_camp_ayy.rgd.json": {
+      "bytes": 348804,
+      "sha256": "9551a9c79aca469c99e6c6aa62b71826a446036193927e1b4d07eb1a4232117a"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_econ_mining_camp_control_chi_ha_01.rgd.json": {
+      "bytes": 183095,
+      "sha256": "f085ab41dd15be228b9631f8756aecee8ba88a35b5df598c70dd882adaf0ca33"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_econ_wood_control_chi_ha_01.rgd.json": {
+      "bytes": 184025,
+      "sha256": "39ad2b7a65f09d1d061113c56f57f01342fc905484589079d6bb985e99388c3f"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_house_control_chi_ha_01.rgd.json": {
+      "bytes": 199200,
+      "sha256": "612e1625f290c990533535d4082c37c9ed0c074557998d5c44de64121acd6f8a"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_landmark_age1_meditation_gardens_control_chi_ha_01.rgd.json": {
+      "bytes": 265629,
+      "sha256": "9a024545b21af22bc96047a851b546681b64666b62021e8ebb96ba833b03aa29"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main.rgd.json": {
+      "bytes": 243789,
+      "sha256": "cbcb3f29375028592d85dd0ffe919103c197d197286fb51fb092d8a59a3f6f81"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_landmark_age1_prefecture_chi_ha_01.rgd.json": {
+      "bytes": 200134,
+      "sha256": "6b34ea9afaac2a532dbd5b6b2bcfbf8db8ccf7d88150ef7908ffb3bd03a9fb39"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_landmark_age2_shaolin_temple_control_chi_ha_01.rgd.json": {
+      "bytes": 201615,
+      "sha256": "e2ad1084cb758a25fbc327b21d2dc13559fe9b346d4634a8172c9ed53ae0e2b6"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_landmark_age2_white_deer_grotto_control_chi_ha_01.rgd.json": {
+      "bytes": 208769,
+      "sha256": "674cb395989a56bedaa6ad37cc6a4c74f2a7a684b11435034f204726afa08ea3"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_landmark_age3_library_chi_ha_01.rgd.json": {
+      "bytes": 176569,
+      "sha256": "156173db56939e4cb6e2b04afdab96c1ffa3354fd7cb064bed32be47d27cc989"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01.rgd.json": {
+      "bytes": 688406,
+      "sha256": "e7cd51c6b08414c26f6086060492b1915ebe98e0a98bf6da469b5798b8b10dd8"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_resource_farm_chi_ha_01.rgd.json": {
+      "bytes": 164483,
+      "sha256": "eef997875b7356f3d6a8cf3abd1f8507adceac9214d25bb8843d5b758cbdc804"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_tech_unit_infantry_control_chi_ha_01.rgd.json": {
+      "bytes": 222472,
+      "sha256": "2cd98bf2320aff77765216a1ab1306c0aa1e44f95cb17d6ba7067c24cbe37280"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_tech_university_control_chi_ha_01.rgd.json": {
+      "bytes": 186083,
+      "sha256": "6d3a2c571cf72a87827d383d6d0a02ea45e3ecbf6eea34d348fefb8c833cabc4"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_abb_ha_01.rgd.json": {
+      "bytes": 464383,
+      "sha256": "7e9693d5a482ed85db689cfe5b36a3272c445770424e8cbf06aa5448a0bd9021"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_abb.rgd.json": {
+      "bytes": 1520762,
+      "sha256": "3d1b703bef259c74922c02a0b31d33197462a4e94a1f105d23752cd8b028e041"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_byz.rgd.json": {
+      "bytes": 559122,
+      "sha256": "124528967eebd363d262ec9297c778a395fbadd64ff7244c1a8f3aa2e61e04f7"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_chi.rgd.json": {
+      "bytes": 1032009,
+      "sha256": "31a7f7113dcb05c8dbe4b3156da5794a7701a87080eca2a12b009f07ed6f33c1"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_chi_ha_01.rgd.json": {
+      "bytes": 546346,
+      "sha256": "3550668a2ba7750961850f95c39ec266a02399da682fa6efaacdec1904a7fc00"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_eng.rgd.json": {
+      "bytes": 1521055,
+      "sha256": "842aca06604a498005a995e5c56352241e53674d6af0f1b685acf7f29a519920"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_fre.rgd.json": {
+      "bytes": 1524908,
+      "sha256": "f629aedf5a1a685b3ace2e7ca9466cefc31a30bf6666cd867be48c9c8521ed50"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_fre_ha_01.rgd.json": {
+      "bytes": 563481,
+      "sha256": "6e8f3c8f70f1307af16f653a74edcb7ecc6b1301e9de47575574c9d1584f31bc"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_hre.rgd.json": {
+      "bytes": 1038744,
+      "sha256": "1d2e8a973acd9a2f043608d4a6ccdffa65f04e7c660fe633ea87908d6d6283c5"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_hre_ha_01.rgd.json": {
+      "bytes": 557053,
+      "sha256": "88b29c849185f5ea2814c24992ab30a90095c58a5976872c0025469d914b919a"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_jpn.rgd.json": {
+      "bytes": 666907,
+      "sha256": "0a6ee22eae5cfc937be3aa2a6fa0a3d8f5de89de95f9766f4b3b0cc778ca0579"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_lan.rgd.json": {
+      "bytes": 559901,
+      "sha256": "7690d156f0a04740e4ab7e709b5f91858554b1298eb7be7f82c3d55da6d03849"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_mal.rgd.json": {
+      "bytes": 603387,
+      "sha256": "7909931d1c2f0d485b51cb6ea30437f58f0f4c490afdfadab553f8bb5b123bb9"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_mon.rgd.json": {
+      "bytes": 1619204,
+      "sha256": "2965937433d99ce1b27a70d4f8933edf3c3b51d65e7f43a82cd430bc4cbc8069"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_ott.rgd.json": {
+      "bytes": 715625,
+      "sha256": "ad47e7204b2ec7742c5b25cf0a1877340a4f850defcff0f08fe8ad986aa2cf96"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_rus.rgd.json": {
+      "bytes": 1015168,
+      "sha256": "ff6e4b6f4dec19a4df232ed7fb493c34c4b798070e6762ce83d302c610385452"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_sul.rgd.json": {
+      "bytes": 1002119,
+      "sha256": "7a991576ddd62589d41c520c9b654b7e788de7f7b4c598843757314cc6d321b8"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_capital_tem.rgd.json": {
+      "bytes": 570066,
+      "sha256": "410a82c50f152aadc2e37955ab9085fd19c09bf8bbaf8f4037b507a7b1bf7228"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_town_center_chi_ha_01.rgd.json": {
+      "bytes": 467784,
+      "sha256": "a85688f6519f5195df3cbced3cc946e0db331a90cbe7eb65e63d96b4633258fd"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_trade_post_core.rgd.json": {
+      "bytes": 1403873,
+      "sha256": "0ce79f9f58762eedd0a799b82e7a9ffba89980041808e26d8ab51778ca4a05cb"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_trade_post_east.rgd.json": {
+      "bytes": 1394937,
+      "sha256": "e36f49b34c6212de9c98ed727ffcc4984e59a9fd13daab0c5e1cd68a2f8d13ec"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_trade_post_mid_east.rgd.json": {
+      "bytes": 1394949,
+      "sha256": "520719819cac485b8717f2b1d4ac5b775ba58c14a19170904b92d7942622ff8b"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_trade_post_west.rgd.json": {
+      "bytes": 1394937,
+      "sha256": "242de9b91dc342228c4e29bfd155033c308a13389aee010841f77d165c070161"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_unit_cavalry_control_chi_ha_01.rgd.json": {
+      "bytes": 339169,
+      "sha256": "928eb9b550eebb27b0f00179efeb19dc14f2054c3d998630ada28a03fa6861d8"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_unit_infantry_control_chi_ha_01.rgd.json": {
+      "bytes": 343415,
+      "sha256": "ca133ee4e0abc1fc063f950b1766bf9cdc9613fc4fda6022eac8053842a7423a"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_unit_naval_chi_ha_01.rgd.json": {
+      "bytes": 388246,
+      "sha256": "fb27bb8a7bf4c9a1222bf7752beae6b8f1f09df77ee26a05f84ecb213e5ed34a"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_unit_ranged_control_chi_ha_01.rgd.json": {
+      "bytes": 421835,
+      "sha256": "e94ee40f0f25d0a7f47f7df1fa28f606abaade3cd62a4b71a300eca684ffcdf9"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_unit_religious_control_chi_ha_01.rgd.json": {
+      "bytes": 216889,
+      "sha256": "1513e98dcd2e7de77ed3df6f20d86f42ecb59850beca92b7b51d90486c3abfda"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_unit_siege_control_chi_ha_01.rgd.json": {
+      "bytes": 310086,
+      "sha256": "312915e7cfafccdb4c9b9dd085697e620d66e9e03c4ab8e5c1908184fa2fa7af"
+    },
+    "source/tables/attrib/ebps/korea/kr_building_wonder_age4_forbidden_control_chi_ha_01.rgd.json": {
+      "bytes": 160953,
+      "sha256": "5bfb5af78df72fe60e772c2accd2512276234d43c9e0ff522cb13251eca016db"
+    },
+    "source/tables/attrib/ebps/korea/kr_gapsa_dummy.rgd.json": {
+      "bytes": 288706,
+      "sha256": "2954c9bdd92197a5759a5b8d24eb909cc4d358c8f3ab51bb4bbde40b39ca3aed"
+    },
+    "source/tables/attrib/ebps/korea/kr_hwacha_dummy.rgd.json": {
+      "bytes": 288706,
+      "sha256": "c425361af51409b8a7f948e96b88a8b657b321de5f93adc0d86b7d826d87dfee"
+    },
+    "source/tables/attrib/ebps/korea/kr_naval_trade_post_east.rgd.json": {
+      "bytes": 1637324,
+      "sha256": "2d7c6a1b37847e94f5baea280f776b91dd7dad1d86c63e9b5d2154cc7cff71bf"
+    },
+    "source/tables/attrib/ebps/korea/kr_naval_trade_post_mid_east.rgd.json": {
+      "bytes": 1637336,
+      "sha256": "4fb75368fb139b27031b878e71a6b4b395b0720ccbb17228da1cc9b49d035d40"
+    },
+    "source/tables/attrib/ebps/korea/kr_naval_trade_post_west.rgd.json": {
+      "bytes": 1637324,
+      "sha256": "207c09943fecb3524c48bcbc6389f68dfd3e5c2253e49903267e77a09d4ba14b"
+    },
+    "source/tables/attrib/ebps/korea/kr_projectile_arrow_naval_nestofbees_special_archer.rgd.json": {
+      "bytes": 51122,
+      "sha256": "58d99b0e596afe6836b6fd878757f4b3be78ca47407ea341ce8f1dd3f87862cd"
+    },
+    "source/tables/attrib/ebps/korea/kr_projectile_arrow_nestofbees_hwacha.rgd.json": {
+      "bytes": 94542,
+      "sha256": "a2fadb7c4781e4cbb91b3c41006f9cff40982ecec23a87cf059b5b6961faab30"
+    },
+    "source/tables/attrib/ebps/korea/kr_projectile_barrage_campaign.rgd.json": {
+      "bytes": 94215,
+      "sha256": "3225230ea7f835c029787f29d7276b785760a3d19063e5ff31c84f22034960d1"
+    },
+    "source/tables/attrib/ebps/korea/kr_projectile_barrage_initial_explosion_campaign.rgd.json": {
+      "bytes": 94006,
+      "sha256": "187abe4215fdd27be4936750b282eb847b2acd198885466b73cbdbf2a7bd12e7"
+    },
+    "source/tables/attrib/ebps/korea/kr_tiger_hunter_dummy.rgd.json": {
+      "bytes": 288706,
+      "sha256": "a3cd9b24118a124b9476cedab04d9a60bda3c484fc1b3fc5433df6f2c4674eba"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_archer_2_ayy.rgd.json": {
+      "bytes": 327656,
+      "sha256": "17f4e898166d160a6424ebdd623e0bddce58669461986c903c11675c742751a6"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_archer_2_chi_ha_01.rgd.json": {
+      "bytes": 176728,
+      "sha256": "4e3d3bbfd04f23a53d12ae5e380f2b9ea6d0f472ef86d5eb3cce2527a4e3af31"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_archer_3_ayy.rgd.json": {
+      "bytes": 313253,
+      "sha256": "a5b9ad53e2f1169304dc91b3333bebf619329ad7dd4a62793e11c6892280b96e"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_archer_3_chi_ha_01.rgd.json": {
+      "bytes": 169513,
+      "sha256": "327809e78788626c3e1b7e7624d4b277bfe126d218952130450f845908869f3a"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_archer_4_ayy.rgd.json": {
+      "bytes": 298845,
+      "sha256": "4cf19bb11c4cc2cf33f7a3c706c75b1fa174cebd53e7128d8fd4600d2ce3e83d"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_archer_4_chi_ha_01.rgd.json": {
+      "bytes": 162279,
+      "sha256": "139145710e163808d39af69fc7e34830617c196d71cf50e09c4ba57dc605de1d"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_bombard_4_chi_ha_01.rgd.json": {
+      "bytes": 151182,
+      "sha256": "1b94cb76e2b89fa3d955ce1e6cc6f14e5b52d6bf0d8a832376e9dd749898fc41"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_crossbowman_3_chi_ha_01.rgd.json": {
+      "bytes": 188114,
+      "sha256": "01fc22844cbd9e3fdf9ecf69b258f287830efcbb2cc5deec932d6911aa208941"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_crossbowman_4_chi_ha_01.rgd.json": {
+      "bytes": 181082,
+      "sha256": "1b31309cefa14193186d17513d2074df39f77a80f36593057d0778a5d1861f13"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_handcannon_4_chi_ha_01.rgd.json": {
+      "bytes": 155764,
+      "sha256": "a7ae6c75d29b1a877dea29620eb1e21c2635ff0eb0980ba70dcf71c62704cb53"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_horseman_2_ayy.rgd.json": {
+      "bytes": 316379,
+      "sha256": "40e775ccda474d56cbcb1b6ad8be9a95b37175906e72f6873520de293460bc98"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd.json": {
+      "bytes": 174494,
+      "sha256": "774e7e1ebc5245ea0cda6b2a5115dcf32e039f56accad0491b25ee212e1e259e"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_horseman_3_ayy.rgd.json": {
+      "bytes": 301880,
+      "sha256": "0d5d82d5223af9213ad9e4849fe071912938710d01aaf3daf1d23ff9381956b7"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd.json": {
+      "bytes": 167251,
+      "sha256": "26cb140d9f3516b6a6fbb4abe3887fc47bd6ff7a920028fac81b714a5cb96f1e"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_horseman_4_ayy.rgd.json": {
+      "bytes": 287381,
+      "sha256": "b05f0aa6087448b85cde228355c1456283fccc47408c81b24dcc1674fcb1a42e"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd.json": {
+      "bytes": 160009,
+      "sha256": "d51712bb34dda56a6d36c2a4c09288829f90ecd112392d582bd147f6d08f0d6b"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_knight_3_chi_ha_01.rgd.json": {
+      "bytes": 180413,
+      "sha256": "975d68bb544324dc6b8a3ac28cb1c4f1b65080e562d71bbecdea18e117f88fab"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_knight_4_chi_ha_01.rgd.json": {
+      "bytes": 173165,
+      "sha256": "a808a9280a83307992df6aead11886e9c6bacd5926ef71af00072ee2eca3b4df"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_leader_baibars_ayy.rgd.json": {
+      "bytes": 273299,
+      "sha256": "7fc6794971690d8428ef0501c524d16436c52f1ad971b1eceed7459e1b3b086c"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_manatarms_3_chi_ha_01.rgd.json": {
+      "bytes": 176297,
+      "sha256": "5710f0306a2c1f2916805207e8f9111ff26c419ab8d4086c6534ca2fdbd3484f"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_manatarms_4_chi_ha_01.rgd.json": {
+      "bytes": 169025,
+      "sha256": "39693ccbbe73373fa5ee1b9aa0066a1c9182e8442827689aecab86d6fe700387"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_militia_cmp_chi.rgd.json": {
+      "bytes": 271385,
+      "sha256": "3b2448beebbfabd89033be2613a6c36a2e602095e380f67efbe37db39ba2f965"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_militia_cru.rgd.json": {
+      "bytes": 288704,
+      "sha256": "64af8228f68479be7fe0bea5f4949e7afdd82a9a935c2f8b4838be870761c441"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_combat_ship_3_chi_ha_01.rgd.json": {
+      "bytes": 208354,
+      "sha256": "5e75eb09cd4d0f0cc591d9dc963cfa741cf633999ca12aa406ead23a8d18fbeb"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_combat_warship_4_chi_ha_01.rgd.json": {
+      "bytes": 306805,
+      "sha256": "a64f7d6df9d899661da18d23625abf998c1248093f7e8382b36745bf692ebfa3"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_fireship_3_chi_ha_01.rgd.json": {
+      "bytes": 152533,
+      "sha256": "fdeac777ba781e0bdcade026d3a984c400fb262d89f41079576b0e8738c26b60"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_fishing_boat_2_chi_ha_01.rgd.json": {
+      "bytes": 134741,
+      "sha256": "007732b14d3fa21fc8ab3396939ae5e816e9702e5f9fd96110ac69730366769e"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_scout_2_chi_ha_01.rgd.json": {
+      "bytes": 126076,
+      "sha256": "b0d5ce0b0ef2544be7e79b78fd2c316681486dad86081885399f90f0ba3d5ef1"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_trade_ship_3_chi_ha_01.rgd.json": {
+      "bytes": 119230,
+      "sha256": "0c78bdef83b8f1aeba2b712fb675fea348a2affc377821ca36d9f96ae35a0551"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_transport_ship_2_chi_ha_01.rgd.json": {
+      "bytes": 136590,
+      "sha256": "46e3ee4963d78474e8be0eb236a8ee6696e922508bf4ce0cde693e0d5a8a00d7"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_turtle_ship_3_korea.rgd.json": {
+      "bytes": 155521,
+      "sha256": "377314f7cc2c92384ad80a07a7a6a784aaa61f0634b8b616c864aca17e9fad2d"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_naval_war_galley_3_chi_ha_01.rgd.json": {
+      "bytes": 168706,
+      "sha256": "61bc9f0e3a3a301a101f6bb4d420c8d722c2f4ad791d247fe4f8eb6f2e62bd48"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_nest_of_bees_4_chi_ha_01.rgd.json": {
+      "bytes": 145556,
+      "sha256": "09f694c66ca4a7b46ed79ec0540e1800fdc70ec00c1548a0a3efb1ab3755f094"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_official_1_chi_ha_01.rgd.json": {
+      "bytes": 154022,
+      "sha256": "d2d60d72a84bec7cc983245508909ee7ae5213d9f454c67cda8625443d69cdb7"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd.json": {
+      "bytes": 184193,
+      "sha256": "08ba08400090c8f7a9849d7575e3f243649bbfb74877dbcaccaf183174b346cd"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd.json": {
+      "bytes": 176909,
+      "sha256": "7e5c2397aa4590378be3abe90137593d2b023a37b73b10384d8cd4e6d5689c01"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd.json": {
+      "bytes": 169593,
+      "sha256": "046b908f168b6c79aaa565d3ed2faca84b0070842ddf0c4f0bf2d0caa5755355"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json": {
+      "bytes": 188582,
+      "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_spearman_1_chi_ha_01.rgd.json": {
+      "bytes": 208978,
+      "sha256": "3f1bbd89da7d84bcdaaab2b1fd85cb7b0303515591d12f97cc67b135ba937d4e"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_spearman_2_chi_ha_01.rgd.json": {
+      "bytes": 201716,
+      "sha256": "90227c0c5d6e91d0d3db28e8c4ba4188e69d4832ce6b079598d1d8562a97400d"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_spearman_3_chi_ha_01.rgd.json": {
+      "bytes": 194455,
+      "sha256": "f9247e0093d25e80db8becef9f02598770d3dbcf885938b46579cacaef8cf132"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_spearman_4_chi_ha_01.rgd.json": {
+      "bytes": 187221,
+      "sha256": "f1c5a8e46f8c679e9b05a4c4e624d36195a3705df7d8fd7c79e0edbfd0dcb55e"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.rgd.json": {
+      "bytes": 164687,
+      "sha256": "f4e4af7a7975e18b24f50c738cf7629d531f57e49871bb2918c0239047bbff62"
+    },
+    "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json": {
+      "bytes": 224786,
+      "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+    },
+    "source/tables/attrib/ebps/korea/kr_wpn_siege_keep_cannon.rgd.json": {
+      "bytes": 32505,
+      "sha256": "a790e97d30bed50c60fff7d37059f0ce64f1f59a40d5c77b0266aaff8b1ffdef"
+    },
+    "source/tables/attrib/ebps/korea/kr_wpn_siege_keep_hwacha.rgd.json": {
+      "bytes": 32555,
+      "sha256": "cf5ddc405e374399fe621ba991dcb8fd2bc69f303a1222497181ee031a29e347"
+    },
+    "source/tables/attrib/korea.rgd.json": {
+      "bytes": 799,
+      "sha256": "ac80a6d8ae87cde0675d00a35196c76fd356540dd3c9beff409e1e267ac91b62"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi.rgd.json": {
+      "bytes": 22876,
+      "sha256": "279cae36a4de961428f5d3f88d4b55157e31a3238b594bc36f4b4059e8505577"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_blacksmith.rgd.json": {
+      "bytes": 23103,
+      "sha256": "7a52d233aa203b3ee1834f3e5c260b10dbea92bcb5b9aaeaeb4fae013c2765da"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_eco_mill.rgd.json": {
+      "bytes": 23102,
+      "sha256": "a515406367e830a1cb448af3bfbe8d7dfe423e113c574cffe731e0fadbde855c"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_foreign_1.rgd.json": {
+      "bytes": 22820,
+      "sha256": "a026642f4548225a816f3f653dc21f77cb3a55a36c62a4207a30692658065724"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_foreign_2.rgd.json": {
+      "bytes": 22820,
+      "sha256": "930e25550a2a97a083525aeab415a4d53e8d12b90afdf90a575f4e4282a53c39"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_military_building.rgd.json": {
+      "bytes": 23114,
+      "sha256": "14f295a9fa30115854e8f512195bdc597a5d06953afa6b8a7c13c661d07713b9"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_naval.rgd.json": {
+      "bytes": 22827,
+      "sha256": "1810b098f350dea3ef08890e23c170b93dc0611e664e0822a7ce58b58db54e17"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_other.rgd.json": {
+      "bytes": 23091,
+      "sha256": "8705dd981b14f96b9c01fc90ed41b068f1418a3a6597b8624fa064b582f235ce"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_siege.rgd.json": {
+      "bytes": 23107,
+      "sha256": "666035f70c5466cdf5b98842c70e76631e5ff7ac10318a3261e0890c2aade99f"
+    },
+    "source/tables/attrib/menu/korea/kr_korea_upgrade_tab_senobi_university.rgd.json": {
+      "bytes": 23103,
+      "sha256": "419ea9e6fc220163eddb0afd3256fd4a087e63a565bdac9d0df8f76d3b3eb272"
+    },
+    "source/tables/attrib/racebps/korea.rgd.json": {
+      "bytes": 129786,
+      "sha256": "1fe955505f86e0f5d4e02578e58b22923605bbe4efdbf358247e24f2f649cd65"
+    },
+    "source/tables/attrib/resource_type_info/merc_byz.rgd.json": {
+      "bytes": 17663,
+      "sha256": "662e49589873ed47001c6e4286e451ebf458c2dd571fd4a0f6a7412590d3e7c4"
+    },
+    "source/tables/attrib/sbps/korea/kr_gapsa_dummy.rgd.json": {
+      "bytes": 322293,
+      "sha256": "ce42a12eb61bd163834c79bd4599157ebf99af72d6041dae2c4ce3aab63c151b"
+    },
+    "source/tables/attrib/sbps/korea/kr_hwacha_dummy.rgd.json": {
+      "bytes": 322294,
+      "sha256": "617808592eeccd3ed64ee3290efad4e8f6c1322f33005c9bd817ffd11ae4ea89"
+    },
+    "source/tables/attrib/sbps/korea/kr_tiger_hunter_dummy.rgd.json": {
+      "bytes": 322352,
+      "sha256": "e90afe0c9d48cb7a8d8394710ce91e0691542bfed2452c1b55fb3fd688876236"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_archer_2_ayy.rgd.json": {
+      "bytes": 288914,
+      "sha256": "c8c38bafd6a764d65a39ef8a0666440f2fb21c8d8f4d0d14bd53b6f7d61e65b9"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_archer_2_chi_ha_01.rgd.json": {
+      "bytes": 134359,
+      "sha256": "d7f425c469d6fb62853a308b388a889a2501fa163fde2edbdd91b1bd01ab7739"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_archer_3_ayy.rgd.json": {
+      "bytes": 285691,
+      "sha256": "f27fbb069f6aa66fe997d712533d1e2bde27135d848cb9b19309b84418456f29"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_archer_3_chi_ha_01.rgd.json": {
+      "bytes": 131122,
+      "sha256": "987e1e89692015b3d27975dced7cb541b387e0d0e440f0c4917094e98ecfbbd0"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_archer_4_ayy.rgd.json": {
+      "bytes": 279182,
+      "sha256": "edf8ae44099048ef0ef99e615e89cab7e08225c17e09236d6d7a42fc19aa5e40"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_archer_4_chi_ha_01.rgd.json": {
+      "bytes": 127862,
+      "sha256": "11d7ffa1bda9d238ed04929fac2d92c1a59eebbc39fdc2b3fa49ba291a971075"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_crossbowman_3_chi_ha_01.rgd.json": {
+      "bytes": 131139,
+      "sha256": "8284387d48f2246e3816800c7156d5a9f29547127b1a5a80200a327284313c2b"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_crossbowman_4_chi_ha_01.rgd.json": {
+      "bytes": 127902,
+      "sha256": "07b4a4cb2a2d522c649329658867c027fdec53c224aa19b159293237ddfb4a33"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_handcannon_4_chi_ha_01.rgd.json": {
+      "bytes": 114672,
+      "sha256": "b0650b652f97a85734ba370e210bf658e509be839ef56f362aa55a05e8660d0c"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_horseman_2_ayy.rgd.json": {
+      "bytes": 180432,
+      "sha256": "65487fbf128bf57100784873c2d45a2225dd152c439ca9bcda22176179cf8809"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_horseman_2_chi_ha_01.rgd.json": {
+      "bytes": 98456,
+      "sha256": "14f4c728d7bb344108c6e1a2632c9060631be7fffe9f83353133f95af5ac1d3c"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_horseman_3_ayy.rgd.json": {
+      "bytes": 177209,
+      "sha256": "7eeaf34a228b16e7d214c97e7725778862fa054ce00922848b86b721c7218575"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_horseman_3_chi_ha_01.rgd.json": {
+      "bytes": 95219,
+      "sha256": "5b8774352929159a18eceadfc5d97f48445f9f2e2797d63b917a133cc8f8dbff"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_horseman_4_ayy.rgd.json": {
+      "bytes": 170698,
+      "sha256": "1285d118ac41e88bcc953af066a81da341068601b29643ea43c57395dbc0e56b"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_horseman_4_chi_ha_01.rgd.json": {
+      "bytes": 91957,
+      "sha256": "daecaa87fdb48243affe359f817a5d8c670e2751eeeb6eae31a93d50e08d0bac"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_knight_3_chi_ha_01.rgd.json": {
+      "bytes": 98553,
+      "sha256": "8b38014c2d69276691501f0be8c7b3e96a11d18f651ff2859bc108290be33587"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_knight_4_chi_ha_01.rgd.json": {
+      "bytes": 95517,
+      "sha256": "18a05a296195f075cf4303dd44dc45408a64be31a8f92ab5b469012ea8101d3b"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_leader_baibars_ayy.rgd.json": {
+      "bytes": 168113,
+      "sha256": "5de6b781c1c4bee06288dcd0726e4917a5dd477e15078353b7260d2d08109b8f"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_manatarms_3_chi_ha_01.rgd.json": {
+      "bytes": 145343,
+      "sha256": "83286cb1bee490f092848005b04fbe2e2c721503b79741d1575b78a8221f11f2"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_manatarms_4_chi_ha_01.rgd.json": {
+      "bytes": 142107,
+      "sha256": "7ec6256b983f929d9ef78dc75cae468f1a2cc9f2704770d395fce0c65aad169f"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_militia_cmp_chi.rgd.json": {
+      "bytes": 205567,
+      "sha256": "9acd97d3cb95ad764916662c196ef1bc4b449e3383b4910c7d09227640976f29"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_militia_cru.rgd.json": {
+      "bytes": 322726,
+      "sha256": "ac3c19486c2c0f78682ce513da07bdb9a38e8be9a9b833973404222d39945174"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_naval_fireship_3_chi_ha_01.rgd.json": {
+      "bytes": 86966,
+      "sha256": "fbef27f93a3349b7a868598f7b422dae11d75d1377fc40f6a0e9c9d9856f443e"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_naval_fishing_boat_2_chi_ha_01.rgd.json": {
+      "bytes": 82437,
+      "sha256": "9fa79b6fd9e4a89835f4ed7e212f26dbf4479e044a9a23f50410c2e8ebe4c3ea"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_naval_turtle_ship_3_korea.rgd.json": {
+      "bytes": 88014,
+      "sha256": "091495b040307c63b764874b0572015e09fc9ca0678b31da3031dc799307d8ee"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_nest_of_bees_4_chi_ha_01.rgd.json": {
+      "bytes": 85085,
+      "sha256": "6a50b87d3b694f518ccce70bcaba52c59cfa6a265ef3e56213930564897276a9"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_official_1_chi_ha_01.rgd.json": {
+      "bytes": 89554,
+      "sha256": "9e527992eac3069a8aa6a8df489bf1799ebd5e43abd19f8837c76faad8aba88f"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_ram_3_chi_ha_01.rgd.json": {
+      "bytes": 86727,
+      "sha256": "777f2927d4cc1129547c7ca3833697f91cb8b04e6e4315f5e5f52836bb018b4f"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd.json": {
+      "bytes": 131376,
+      "sha256": "092e70e6427c4fb1edde220b0234819aa9e8aa0796e795639576a7e780e69602"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd.json": {
+      "bytes": 131388,
+      "sha256": "2aa1f3e11ecbbee41b659032622231391220a01cbf20652d722e4f347a9a9e28"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd.json": {
+      "bytes": 131379,
+      "sha256": "744bd52620ba78f425fd0486d2a06e5e054db1112d4a1b88aed7ca62ad19681f"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_spearman_1_chi_ha_01.rgd.json": {
+      "bytes": 148138,
+      "sha256": "fcb38a446434c786741b58a56bf01a16ac15a85a7d93cd47aa9096d765abc1ce"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_spearman_2_chi_ha_01.rgd.json": {
+      "bytes": 148137,
+      "sha256": "0d8ae361270549dd18f68709d6bcd2a493ec6c3b6a56cf96300d96cced64dc3b"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_spearman_3_chi_ha_01.rgd.json": {
+      "bytes": 144875,
+      "sha256": "1a140b1d98126e3b7c22ef69a16445bfb07d55e69e97894fea6c4784055f4ab2"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_spearman_4_chi_ha_01.rgd.json": {
+      "bytes": 141613,
+      "sha256": "527534b68a4838416dc4acde48d7e1f11a7bca7cfa7ef014eff49734fd0a9ded"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.rgd.json": {
+      "bytes": 87209,
+      "sha256": "ee90a2878ca3c054420d86087fac52f48c9c5a8832196854c3caae7406661d16"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_villager_1_chi_ha_01.rgd.json": {
+      "bytes": 662584,
+      "sha256": "0cf524bf2839133282cfa47190a8c251d54ef8e2b5799e4151d92d7dfd15be1a"
+    },
+    "source/tables/attrib/sbps/korea/kr_unit_workshop_ram_3_chi_ha_01.rgd.json": {
+      "bytes": 86762,
+      "sha256": "bcdfb38b17ddf6ef6933553fcb5975bf94d5731a89ea1accafbc6880e1cff282"
+    },
+    "source/tables/attrib/statemodel_schema/garrison/korea/korea_player.rgd.json": {
+      "bytes": 204321,
+      "sha256": "0579ac23b7376019cb4997868b3d59c1b6f8ee941cdb1ade11977213a7ab7b13"
+    },
+    "source/tables/attrib/upgrade/korea/kr_activate_getting_resource_on_kill_horseman_archer_korea.rgd.json": {
+      "bytes": 45431,
+      "sha256": "977dddfd82612f456d7d99c53cf2b56f123a46d93ec8300fbc05883c8c3c3250"
+    },
+    "source/tables/attrib/upgrade/korea/kr_chart_a_course_aquarius_2.rgd.json": {
+      "bytes": 51421,
+      "sha256": "476b29e0b1e5382729ad2c3446ff679c88de2a425c7aad936850a40616a48bbf"
+    },
+    "source/tables/attrib/upgrade/korea/kr_land_monster_attack_damage_military.rgd.json": {
+      "bytes": 47355,
+      "sha256": "52e07c03bbfff04f65e00985d09f909901c84d23b1c6b83a5dd351c8ea4e010c"
+    },
+    "source/tables/attrib/upgrade/korea/kr_player_dynasty0_chi_ha_01.rgd.json": {
+      "bytes": 33531,
+      "sha256": "1bd4a1ea770ca13d8e9a2dedfab5bb5f5009677f76b4c9defac06c2be4ba53ba"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_armor_clad_cru.rgd.json": {
+      "bytes": 98144,
+      "sha256": "3bbc3030964e043736ea817de616b431e126f9f36a047080112108decca045b2"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_crossbow_gambesons_cru.rgd.json": {
+      "bytes": 97328,
+      "sha256": "99780711dfd731429200f248aa060dcc320008dad1b4b7030c90990f5806a578"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_crossbow_stirrups_cru.rgd.json": {
+      "bytes": 108278,
+      "sha256": "0a02e2fb5bbb09314d99f18fffaf95ecc8e00b7f4f7231e86495a9f00026836f"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_dali_horses_chi_ha_01.rgd.json": {
+      "bytes": 50474,
+      "sha256": "fb4d5aa0aee9530091fc228d1af071b0220670d7cffa7ffe63be9883870ad318"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_farm_improved_enclosures_nrm.rgd.json": {
+      "bytes": 105956,
+      "sha256": "120dd8dc014890b387d99b695a35ac2cd88aa863eda0d84f039cd56809fe7fe9"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_keep_cannon.rgd.json": {
+      "bytes": 163129,
+      "sha256": "e6a8ef9eabe00dd53b279a92ebd9ad10c1bb19c41f4d5793b1e19611db7b763e"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_keep_springald.rgd.json": {
+      "bytes": 144556,
+      "sha256": "3990782fa9b5fc3294a404259b5bb7d4e140ab4e4af1785c4a305a8ba1ec8162"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_landmark_enlistment_incentives_cru.rgd.json": {
+      "bytes": 103938,
+      "sha256": "18774511a6628be8c842848736a8e792d18aec64afca80d45516fdaf310647e3"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_library_flaming_charge.rgd.json": {
+      "bytes": 51068,
+      "sha256": "e2784125e11cfbdfa28cba88fb068932e6208c143d04da35801a9611ce97460f"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_library_siege_works.rgd.json": {
+      "bytes": 52184,
+      "sha256": "7b084d620e09e5ab3d36383d2d9ef7bfb6f084cc4349f708eade32abe449b572"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_longbow_arrow_volley_cru.rgd.json": {
+      "bytes": 95395,
+      "sha256": "48ea3a0797db7778bf69ffcb711897644c774f23fd5ce720dfab46c8082c46ef"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_man_at_arms_armor_clad_cru.rgd.json": {
+      "bytes": 96191,
+      "sha256": "ed45536d4775b7d775eacb78b8b74ded1b82840fdf7389504572ab546a7d41bd"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_naval_arrowslits.rgd.json": {
+      "bytes": 104515,
+      "sha256": "982a1e61a0701f9940916c70ec997f8b269801da93ea37892b56c701ee093360"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_naval_long_guns_cru.rgd.json": {
+      "bytes": 106015,
+      "sha256": "5003c244aed39fc2fe1c70cf32b138a68335031f96798ada0c6f0d82d7350217"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_outpost_arrowslits.rgd.json": {
+      "bytes": 207593,
+      "sha256": "f7ffff8e70ca5335b7c224ce741c974536a1136021f01e15a3fbe58481aef5c8"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_outpost_cannon.rgd.json": {
+      "bytes": 239606,
+      "sha256": "055599dc8da89e753286a20a6cf02803bf6c111f1748dcd5a602c8d6d1768d08"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_outpost_springald.rgd.json": {
+      "bytes": 213116,
+      "sha256": "1030640623faec0aac4bffc13a54aff4a7399621b1094fde6528256d15127c5f"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_outpost_stone.rgd.json": {
+      "bytes": 153071,
+      "sha256": "94ed50fdc9a606219fdf6d93ede184d0dca503711a4511a707ce3c75dcef4869"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_ranged_longbow_damage_nrm.rgd.json": {
+      "bytes": 80789,
+      "sha256": "b10f9fc44e30cb8412f053083f0a728f777595dc20f6f41419911a1f6434d825"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_reliable_supplies_fre.rgd.json": {
+      "bytes": 38828,
+      "sha256": "f6a152228f2d984cb1adf4189d07a96d780fd09a220cefcb45b06f379889897d"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_royal_edict_hre.rgd.json": {
+      "bytes": 43314,
+      "sha256": "93a4fd410f2fbb180cf635325185d18a5ac7cfffb040b7cfeba937735f8d1391"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_tech_university_murder_holes_4.rgd.json": {
+      "bytes": 145662,
+      "sha256": "ee8c5e1297b2a1fa12ff470136f1bdc39c07bacd69d962d1a4b87af176a68752"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_tech_university_murder_holes_4_korea.rgd.json": {
+      "bytes": 144462,
+      "sha256": "7f83e6a25068d54d90887d8ba8b5a0c2687db3177f9ba5b4c604856a160953af"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_tower_cannon.rgd.json": {
+      "bytes": 177187,
+      "sha256": "7e4aa28626535cd077a3b2201599c101198b218277fd3dac44c12dbdf9258889"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_tower_springald.rgd.json": {
+      "bytes": 164157,
+      "sha256": "68d7ed3f84aa35853e2e51802ea160dfe0b7c73812ddcdfc8e2f56ab0a22a9b1"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_unit_manatarms_2_cru.rgd.json": {
+      "bytes": 93806,
+      "sha256": "f4b5881a3ac95d7e95f2c2b5b604ccb41dbd7bfb3153d49a001cbcaec50f9c5c"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_unit_manatarms_4_chi_ha_01.rgd.json": {
+      "bytes": 47663,
+      "sha256": "04ced30436e7856abfdcb109d696e7e5c90fd67592869cf24988a46012b2b9c0"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_unit_religious_sanctity_4_sul.rgd.json": {
+      "bytes": 86851,
+      "sha256": "df0e360c5748b08371373694419030653872e0babfde4254348e90a1b283cc00"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_unit_repeater_crossbow_3_chi_ha_01.rgd.json": {
+      "bytes": 47926,
+      "sha256": "0158f16b2e374efca94fd1a6710cce5fd643cc3bd3708f0368dd30b043678587"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_unit_repeater_crossbow_4_chi_ha_01.rgd.json": {
+      "bytes": 51247,
+      "sha256": "fc6809670566c0cd5c4a39c2a98518fe2597714baac086fd08ce0f9ecda0b1c7"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_unit_town_center_wheelbarrow_2_jpn.rgd.json": {
+      "bytes": 74739,
+      "sha256": "73e5003e40d2eff9cdce4fc8e4481fd7a51672f936fa43888d53c15dbc1dae08"
+    },
+    "source/tables/attrib/upgrade/korea/kr_upgrade_unit_turkic_horse_archer_3_ayy.rgd.json": {
+      "bytes": 87314,
+      "sha256": "df6b5132b1c8e473e7e629807f5bef86dddc1eb8b5a20b822fafa4aff6e43e1c"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_acre_barrage_dot_abb.rgd.json": {
+      "bytes": 190705,
+      "sha256": "a899e105382f0019ab5728accaa1f7ad0da7bfa2d0fd57bc8bf2522a208adab4"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_2.rgd.json": {
+      "bytes": 267409,
+      "sha256": "08844a6cce9f148b7b972c414a21969432b8ea6f192de0614751df0548ac2b11"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_2_hre_ha_01.rgd.json": {
+      "bytes": 102085,
+      "sha256": "7b958c4ff8858a5453b59aeb899ed3bd6e5366205eea0b82c8b25cc007dc9f3d"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_2_korea.rgd.json": {
+      "bytes": 267406,
+      "sha256": "d9548c29256cb11f4b4498a9959cedb0c758e0f20052cc523370250918102f91"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_2_nrm.rgd.json": {
+      "bytes": 184501,
+      "sha256": "e937ee9dee57f41fce962b2156248c570516fc7680df425ea1088e70e82f21b6"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_3.rgd.json": {
+      "bytes": 349798,
+      "sha256": "3b10d11d40050decd90996b6ee5e08054433b6b993091bd8fb70cdf4236febc3"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_3_hre_ha_01.rgd.json": {
+      "bytes": 102085,
+      "sha256": "92d95e81db1569c075d504610e3cd9927f90eaa12f08444e7bd962f53b32bad1"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_3_korea.rgd.json": {
+      "bytes": 349798,
+      "sha256": "d4262e45698ae7dc84a4e67880af52a320070f2cec081e8508a140c78beb392a"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_3_nrm.rgd.json": {
+      "bytes": 184501,
+      "sha256": "141d9726c50951246119b538d5206784d715f2a1b68ebe6453e69b7bdf42ea78"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_4.rgd.json": {
+      "bytes": 267581,
+      "sha256": "7108a33f3a0693fa0af1093370fdcdaec2aa6be2138cda83a5452aa190620227"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_4_hre_ha_01.rgd.json": {
+      "bytes": 102087,
+      "sha256": "7509ca437be123da2138c9ca63c7f1d25212ce204e4d49f5d2d892dbe865ec72"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_4_korea.rgd.json": {
+      "bytes": 267581,
+      "sha256": "d96500cc8850a7b5c15b71264686ebde070bba1f5bf85195357c5d5cb8c140d0"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_4_nrm.rgd.json": {
+      "bytes": 184501,
+      "sha256": "1dd70c11d4fb5376f17517ff62020ba01141e2505afff7e0ecb44985cd9e8220"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary.rgd.json": {
+      "bytes": 264957,
+      "sha256": "55ca31fe2d12fa59c602518d83b792bf05f2be99715d317e01b977ca9c61aaea"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_3.rgd.json": {
+      "bytes": 184490,
+      "sha256": "07b08789d10018b8962aa1534056a77ab7a2627b5f82fbf749bbf23a1309227f"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_3_hre_ha_01.rgd.json": {
+      "bytes": 102118,
+      "sha256": "24b4a189bffaa36531cfc6545b1ceaa91f82e961ef2e6bc5e329c958c4918bbe"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_3_korea.rgd.json": {
+      "bytes": 184490,
+      "sha256": "8ffc8779120a8b2f18ac52035b60dbb68d765469e79d0168439cd2b33011cd9b"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_4.rgd.json": {
+      "bytes": 184490,
+      "sha256": "a923a695a691fda6e407ad671c8f78e2b01342ecf607fd0988ac51a313bf7807"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_4_hre_ha_01.rgd.json": {
+      "bytes": 102120,
+      "sha256": "782d127666fc23f484efb044d8069def9c7c0dc7eefea9c3f7493d115dc16847"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_4_korea.rgd.json": {
+      "bytes": 184490,
+      "sha256": "604c4eeb0344ff2f47381e72cc512155926c537f8502567a6452c20ecd892985"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_building_fire.rgd.json": {
+      "bytes": 102121,
+      "sha256": "0508d109591d7e003f7765807cee2cdfe31c60794055d8a252317d5e37007f73"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_building_fire_hre_ha_01.rgd.json": {
+      "bytes": 102122,
+      "sha256": "51fa52ee82958cc1ac5fc12cc5810338708a694535e108303a0eab4b582cee4c"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_hre_ha_01.rgd.json": {
+      "bytes": 102118,
+      "sha256": "9f65999b7db09e76be97786f825e800d7451e4d38826e762c3b347e47bf47b51"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_archer_incendiary_korea.rgd.json": {
+      "bytes": 264957,
+      "sha256": "ff923bb884e3547e5ba26b1a1a21c506a71ce6de59b5c26b54dfd1fc917f634b"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_barrage_initial_explosive.rgd.json": {
+      "bytes": 190173,
+      "sha256": "ccbc651b971480e47be5d2f657334b4e9c4333aa5d15ebe2d85ca1c76dcb646f"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_horseman_2_charge_korea.rgd.json": {
+      "bytes": 265628,
+      "sha256": "8a2fa0a46fbbecf19878594889a35dfb368a61b6da1d5770aa6dfa9ff28e493b"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_horseman_2_korea.rgd.json": {
+      "bytes": 265527,
+      "sha256": "7f9efbb7d1930b05c9b9c0ccf5d61162f31e55c9d8126c27a51008728b48dca8"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_horseman_3_charge_korea.rgd.json": {
+      "bytes": 350139,
+      "sha256": "ec4e28c8b195f034df58a53533409af78855cfa8e52186b482ce4f5fd7e8c224"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_horseman_3_korea.rgd.json": {
+      "bytes": 349997,
+      "sha256": "6fd6ae4b28df5f039f629425f1968a83ea3da274367393f525fcdcb0d2cc1edf"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_horseman_4_charge_korea.rgd.json": {
+      "bytes": 265633,
+      "sha256": "06697f831002cd9fbfba12e82b2d27fac899cdf7b728ec9eee986cbfe4e358b3"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_horseman_4_korea.rgd.json": {
+      "bytes": 265532,
+      "sha256": "b239fa849bd344b172408e22d1bf1752f7dc20ba4d57a4c008416226494476e9"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_knight_3_charge_iron_flails_kor.rgd.json": {
+      "bytes": 100459,
+      "sha256": "43631eca737730f37c6ad0db42098cba729d790ee905bed61a1b75bb8669cd56"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_knight_3_iron_flails_kor.rgd.json": {
+      "bytes": 100398,
+      "sha256": "114a0fb08c9f37ed9f3bd23e372ef3ff0297ab2ff1d8dfdf6b73c2f577d96d02"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_knight_4_charge_iron_flails_kor.rgd.json": {
+      "bytes": 100459,
+      "sha256": "4bcb1d4467edd7b9ab6d048516c442470432c0e1efcb331758c32e42911f6b20"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_knight_4_iron_flails_kor.rgd.json": {
+      "bytes": 100398,
+      "sha256": "b600eadd5a82bc11543a6cfc1f1570187a286efded9f85dec70e5e63bb0deb07"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_manatarms_2_charge_nov.rgd.json": {
+      "bytes": 178950,
+      "sha256": "416ad08eb505b7e6a23d625a42f4527bc6e5a1307d94a94140146b0fdb961b5e"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_manatarms_2_nov.rgd.json": {
+      "bytes": 178948,
+      "sha256": "5d8f6e53ee2cbdb12346db3117709ce82a4fc4f138bbe2cd367bf6dfe1f49d7c"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_manatarms_3_charge_nov.rgd.json": {
+      "bytes": 178950,
+      "sha256": "ca971851f359c9aa05ce74ddeebd0ffee2aa6723dc927666ff616131995b1973"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_manatarms_3_nov.rgd.json": {
+      "bytes": 178948,
+      "sha256": "debdf96e943a43659f11c5a7e82d7e28b38048967013c62ff047211c54438e13"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_manatarms_4_charge_nov.rgd.json": {
+      "bytes": 178950,
+      "sha256": "8a2691fb28e1ed488e02c3111a048011a5e129a3c4475ad133c36a9dd90da460"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_manatarms_4_nov.rgd.json": {
+      "bytes": 178948,
+      "sha256": "8674c6d251f4e351bfbede09eb94594df9b35fa47ef578738f1daa8ea5e96252"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_repeater_crossbow_2_library_upgrade_chi_ha_01.rgd.json": {
+      "bytes": 97939,
+      "sha256": "0c5d9c74192c45262cd15d1f99bab36d968fdb1245adbaad10945bf7c513fa18"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_repeater_crossbow_3_library_upgrade_chi_ha_01.rgd.json": {
+      "bytes": 97941,
+      "sha256": "01cfa878f1faca8be59fa50a18b158007085c4d60ce77c9e0080d8682429091e"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_repeater_crossbow_4_library_upgrade_chi_ha_01.rgd.json": {
+      "bytes": 97941,
+      "sha256": "459bcb2b751849683cceeafbf8302e064a536a3cd2b473200702b7435660d36b"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_repeater_crossbow_4_library_upgrade_incendiary_chi_ha_01.rgd.json": {
+      "bytes": 101305,
+      "sha256": "0635c4f756b48f8ab53662bf638e98f65aaa78d6fdb2fe0227b859cc5564b32a"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_turkic_horsearcher_2_ayy.rgd.json": {
+      "bytes": 179517,
+      "sha256": "37784ae1eb9a88068cbfe4598cb2bc06d85f5b12b4659d79e777e8e9e63e4f41"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_turkic_horsearcher_3_ayy.rgd.json": {
+      "bytes": 179519,
+      "sha256": "3396a3eaced853ee8b137e21d6770e125a8b103701d861762486fc870a4f327f"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_turkic_horsearcher_4_ayy.rgd.json": {
+      "bytes": 179519,
+      "sha256": "f19899dd6e7a3fb6e8264fbe528deef677d28f8147823b54f4fa381faf4d1399"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_2_ayy.rgd.json": {
+      "bytes": 179557,
+      "sha256": "e76250c93faabcaf02bf4b1f0783ee4afcf77a43be33153da28e24fe5664fe10"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_3_ayy.rgd.json": {
+      "bytes": 179559,
+      "sha256": "1296360c4b4a7f41c9d5128230881c7446bdf31a458cd4fe671b6533f46a331b"
+    },
+    "source/tables/attrib/weapon/korea/kr_weapon_turkic_horsearcher_incendiary_4_ayy.rgd.json": {
+      "bytes": 179559,
+      "sha256": "252d3c48159be141cabe5170f05004156da20abdedc8c6906adc68e5c70a8892"
+    }
+  }
+}

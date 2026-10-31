@@ -1,0 +1,10 @@
+{
+  "id": "kr_trader_a2",
+  "family": "trader",
+  "age": 2,
+  "donor": "art/civilizations/chinese/humans/chi_villager_male_age02/chi_villager_male_age02.rgm",
+  "design": "travel overrobe, cloth pack harness, straw hat, restrained toggles",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces"
+  }
+}

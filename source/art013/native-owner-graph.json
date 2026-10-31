@@ -1,0 +1,1565 @@
+{
+  "blueprints": [
+    {
+      "blueprint": "kr_building_defense_keep_chi_ha_01.xml",
+      "sha256": "42e8474cf99b976ebf47f02959581afaae23a5d6cda028922007e32dafb83bfc",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\keep",
+        "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\defense_keep_jpn\\tier3_keep_jpn",
+        "attachments\\attachment_lists\\races\\core\\buildings\\building_defense_keep"
+      ]
+    },
+    {
+      "blueprint": "kr_building_defense_outpost_chi_ha_01.xml",
+      "sha256": "2f8ba4f2c7b8ecd0340c22caf6b90655c69278c85712f05e4df59f60275ddaaf",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\defense_outpost_chi\\defense_outpost_control_chi"
+      ]
+    },
+    {
+      "blueprint": "kr_building_defense_tower_chi_ha_01.xml",
+      "sha256": "0f2eb00630a604ec0fed02a015433192b86c1d875402b2a49cbaf51b749f01dc",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese_ha_01\\buildings\\building_defense_wall_chi_ha_01\\building_defense_wall_stone_tower_chi_ha_01"
+      ]
+    },
+    {
+      "blueprint": "kr_building_dynasty_pagoda_control_chi_ha_01.xml",
+      "sha256": "19e937c320c2c5edf784ba4a9789d203dda0d47b8e35e40a8828aaae24935201",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\dynasty_pagoda_chi\\tier1_pagoda_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\dynasty_pagoda",
+        "attachments\\attachment_lists\\races\\core\\buildings\\building_tech_university"
+      ]
+    },
+    {
+      "blueprint": "kr_building_econ_food_control_chi_ha_01.xml",
+      "sha256": "f61adf84e236e7b19db0966c5efd1b949a572a0b928dc77ff6c8d88cb3464874",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_food_chi\\tier1_econ_food_control_chi",
+        "attachments\\attachment_lists\\civilizations\\core\\outskirts\\resource",
+        "attachments\\attachment_lists\\races\\chinese\\buildings\\building_econ_food_chi"
+      ]
+    },
+    {
+      "blueprint": "kr_building_econ_market_control_chi_ha_01.xml",
+      "sha256": "7d52c1686cfb6d323a9a1c291a920061e530f8fac36053f654dbac739eaf5c91",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier2_econ_market_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier3_econ_market_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier4_econ_market_control_chi",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\market_02"
+      ]
+    },
+    {
+      "blueprint": "kr_building_econ_mining_camp_ayy.xml",
+      "sha256": "7a7c77d3f1aad6c414abe0f4ba85c1d0c0c59f9535afe72274a72362f1c9329c",
+      "attachment_owners": []
+    },
+    {
+      "blueprint": "kr_building_econ_mining_camp_control_chi_ha_01.xml",
+      "sha256": "2939240a98fe3e76cc3fbfd1cf48082cd90d4d1fcaca2b271e0a3561eb0c77d2",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\core\\outskirts\\resource",
+        "attachments\\attachment_lists\\civilizations\\english\\buildings\\econ_mining_camp_eng\\tier1_econ_mining_camp_control_eng"
+      ]
+    },
+    {
+      "blueprint": "kr_building_econ_wood_control_chi_ha_01.xml",
+      "sha256": "cb4035b26f5c446fa9d61336568896db48dd3bf72601f2808c843285966abed4",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\core\\outskirts\\resource",
+        "attachments\\attachment_lists\\civilizations\\english\\buildings\\econ_wood_eng\\tier1_econ_wood_control_eng"
+      ]
+    },
+    {
+      "blueprint": "kr_building_house_control_chi_ha_01.xml",
+      "sha256": "5c8dea90a5ed897be94d024ae24928f92b99616b60747afb6f8c410ea49f0f81",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier1_house_a_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier2_house_a_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier3_house_a_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier4_house_a_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\houses\\chi_house_01",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\houses\\chi_house_03"
+      ]
+    },
+    {
+      "blueprint": "kr_building_landmark_age1_meditation_gardens_control_chi_ha_01.xml",
+      "sha256": "ac69f8f9ddeb16b6feab23b4521e9e36d19217a2c24ae2d43b3df98c48a5be46",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\dynasty_pagoda_chi\\tier1_pagoda_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\dynasty_pagoda",
+        "attachments\\attachment_lists\\races\\core\\buildings\\building_tech_university"
+      ]
+    },
+    {
+      "blueprint": "kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main.xml",
+      "sha256": "4a450708db08787eb9c48760d328a8a76e176a9e9c5f73becb3aa1f2457671fe",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\jpn_landmark_b_02",
+        "attachments\\attachment_lists\\civilizations\\japanese\\outskirts\\landmarks\\jpn_lan_b_02",
+        "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age1"
+      ]
+    },
+    {
+      "blueprint": "kr_building_landmark_age1_prefecture_chi_ha_01.xml",
+      "sha256": "9898f5f1c946ffdca193e7ea6f434b9c5de9e734cab535fc35adab7464c5a976",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\campaign\\crusader\\buildings\\building_defense_wall_acre_tower_cru",
+        "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\jpn_wonder"
+      ]
+    },
+    {
+      "blueprint": "kr_building_landmark_age2_shaolin_temple_control_chi_ha_01.xml",
+      "sha256": "da827bffbbb1e7672a90291ab45f5a32bf74678b427530d44f6a1f5cb0e5cb93",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age3_observatory_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_zgate",
+        "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age2"
+      ]
+    },
+    {
+      "blueprint": "kr_building_landmark_age2_white_deer_grotto_control_chi_ha_01.xml",
+      "sha256": "a6d92152c6be36f4b3a50d7e9fde09f01af439e0cc59726fb2b8b9834dfc3943",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\mongol\\buildings\\wonder_khanbaliq_mon\\tier3_wonder_khanbaliq_mon",
+        "attachments\\attachment_lists\\civilizations\\mongol\\outskirts\\wonders\\won_khanb",
+        "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age2"
+      ]
+    },
+    {
+      "blueprint": "kr_building_landmark_age3_library_chi_ha_01.xml",
+      "sha256": "c690682a9afa9d104c18c754923061586923a948b8a368e58f1410271812d484",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age1_mausoleum_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_qmausoleum"
+      ]
+    },
+    {
+      "blueprint": "kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01.xml",
+      "sha256": "a2f1808bd4bce56c6b77cbd16bc1c2f3738aa2cdb208f22cc3c97df04550467e",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age4_forbidden_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_ftemple",
+        "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age3"
+      ]
+    },
+    {
+      "blueprint": "kr_building_tech_unit_infantry_control_chi_ha_01.xml",
+      "sha256": "1e907b0d173ff9f1dd26f52301bd791d82f4d43b1f0ce0b50af596a7ba773615",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier2_tech_unit_melee_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier3_tech_unit_melee_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier4_tech_unit_melee_control_chi",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_02",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_03",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_04"
+      ]
+    },
+    {
+      "blueprint": "kr_building_tech_university_control_chi_ha_01.xml",
+      "sha256": "6739e09a1f028069ea69eb1fb923dcedc7eab6ac4038be9b43a125c0f23dfe30",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_university_chi\\tier4_tech_university_control_chi",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\university_chi"
+      ]
+    },
+    {
+      "blueprint": "kr_building_town_center_abb_ha_01.xml",
+      "sha256": "9bb8ea01a3d900bbc72340e2611183306620b1535ea76a2a871b94b6ccf1afb8",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier1_town_center_control_abb",
+        "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier2_town_center_control_abb",
+        "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier3_town_center_control_abb",
+        "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier4_town_center_control_abb",
+        "attachments\\attachment_lists\\civilizations\\common\\buildings\\building_town_center_bell_arch",
+        "attachments\\attachment_lists\\civilizations\\sultanate\\outskirts\\general\\sul_towncenter_01",
+        "attachments\\attachment_lists\\civilizations\\sultanate\\outskirts\\general\\sul_towncenter_03"
+      ]
+    },
+    {
+      "blueprint": "kr_building_town_center_chi_ha_01.xml",
+      "sha256": "7b78ac93847da436bea149369f25b9086180f9d7e1f2b288d08dfc1de91d1ed1",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier1_town_center_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier2_town_center_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier3_town_center_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier4_town_center_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\general\\chi_towncenter_01",
+        "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\general\\chi_towncenter_03",
+        "attachments\\attachment_lists\\civilizations\\common\\buildings\\building_town_center_bell_arch"
+      ]
+    },
+    {
+      "blueprint": "kr_building_unit_cavalry_control_chi_ha_01.xml",
+      "sha256": "0c1ad30488178f8dbafccd76ac508a8c11adc3da8b34f845043ac76b5165ccd4",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier2_unit_cavalry_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier3_unit_cavalry_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier4_unit_cavalry_control_chi",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_01",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_02",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_03",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_04"
+      ]
+    },
+    {
+      "blueprint": "kr_building_unit_infantry_control_chi_ha_01.xml",
+      "sha256": "a318224c860a0485e33a146b6d18cb99fac9ecdc4239f2b3a926cbc62db8e8dd",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier1_unit_infantry_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier2_unit_infantry_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier3_unit_infantry_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier4_unit_infantry_control_chi",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_01",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_02",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_03",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_04"
+      ]
+    },
+    {
+      "blueprint": "kr_building_unit_naval_chi_ha_01.xml",
+      "sha256": "b681bbfd3ce85bcb918694245489cc5b1b1bdb4b8e5f2027f63f86ff721826da",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier2_unit_naval_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier3_unit_naval_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier4_unit_naval_control_chi"
+      ]
+    },
+    {
+      "blueprint": "kr_building_unit_ranged_control_chi_ha_01.xml",
+      "sha256": "52a61ab49d9808248972ff20041a2022a1a7720a39c85e2dfada4c7d726c8e74",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier2_unit_ranged_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier3_unit_ranged_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier4_unit_ranged_control_chi",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_01",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_02",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_03",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_04"
+      ]
+    },
+    {
+      "blueprint": "kr_building_unit_religious_control_chi_ha_01.xml",
+      "sha256": "fc733c1680777bb437ae07dbc851038de17727ca98a2130bde6dc7053bc8d002",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_religious_chi\\tier3_unit_religious_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_religious_chi\\tier4_unit_religious_control_chi",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\monastery_chi",
+        "attachments\\attachment_lists\\races\\core\\buildings\\building_unit_religious"
+      ]
+    },
+    {
+      "blueprint": "kr_building_unit_siege_control_chi_ha_01.xml",
+      "sha256": "d98d96b78931108dce8812eaaa464c758cd7f7f1aaa8a8912794c218af0081ea",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_siege_chi\\tier3_unit_siege_control_chi",
+        "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_siege_chi\\tier4_unit_siege_control_chi",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_01",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_02",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_03",
+        "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_04"
+      ]
+    },
+    {
+      "blueprint": "kr_building_wonder_age4_forbidden_control_chi_ha_01.xml",
+      "sha256": "c1bbb4d951743484a384ca80a1761d36e70b4c109bbd469511b7487ebe70e739",
+      "attachment_owners": [
+        "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\jpn_wonder"
+      ]
+    }
+  ],
+  "owners": {
+    "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier1_town_center_control_abb": {
+      "reference": "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier1_town_center_control_abb",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9bf2366e78fc536fd578.rgd",
+      "sha256": "ae9f439075e2f8367b0372f493268597d24adc8e70268a0aa6d87b83b0e38ec6",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9bf2366e78fc536fd578.xml",
+      "art_references": [
+        "art\\stamps\\civ_abbasid\\abb_town_center_age_01",
+        "art\\stamps\\const_dest\\dest_town_center_stone",
+        "art\\stamps\\scaffolding\\west\\west_towncenter"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier2_town_center_control_abb": {
+      "reference": "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier2_town_center_control_abb",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\099207f5746d8d6e663c.rgd",
+      "sha256": "2f598613de1c663866804ea28ec93c68ad96263927ecf19fddfd2b311db23dd1",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\099207f5746d8d6e663c.xml",
+      "art_references": [
+        "art\\stamps\\civ_abbasid\\abb_town_center_age_02",
+        "art\\stamps\\const_dest\\dest_town_center_stone",
+        "art\\stamps\\scaffolding\\west\\west_towncenter"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier3_town_center_control_abb": {
+      "reference": "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier3_town_center_control_abb",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8b09373dcca370c86f65.rgd",
+      "sha256": "486d1e61231d545fda9ca5ea243e884c1b647b55917399d9b2dc8f0a339b94a9",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8b09373dcca370c86f65.xml",
+      "art_references": [
+        "art\\stamps\\civ_abbasid\\abb_town_center_age_03",
+        "art\\stamps\\const_dest\\dest_town_center_stone",
+        "art\\stamps\\scaffolding\\west\\west_towncenter"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier4_town_center_control_abb": {
+      "reference": "attachments\\attachment_lists\\civilizations\\abbasid\\buildings\\town_center_abb\\tier4_town_center_control_abb",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8406a77f0a4f372f268d.rgd",
+      "sha256": "a05430a4ab802d81c3a4f823fd4709e422c53b5221370fea4ca67f020214076e",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8406a77f0a4f372f268d.xml",
+      "art_references": [
+        "art\\stamps\\civ_abbasid\\abb_town_center_age_04",
+        "art\\stamps\\const_dest\\dest_town_center_stone",
+        "art\\stamps\\scaffolding\\west\\west_towncenter"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\campaign\\crusader\\buildings\\building_defense_wall_acre_tower_cru": {
+      "reference": "attachments\\attachment_lists\\civilizations\\campaign\\crusader\\buildings\\building_defense_wall_acre_tower_cru",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8ddb00bb34819ded0609.rgd",
+      "sha256": "f50afb79f75f4b375cc5d7f917ec5507fc1fd06dec82b41f4db1000005efe090",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8ddb00bb34819ded0609.xml",
+      "art_references": [
+        "art\\civilizations\\campaign_sultanate\\structures\\acre_tower\\acre_tower_control\\acre_tower",
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_stonewall_tower\\layout_stonewall_tower"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age1_mausoleum_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age1_mausoleum_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\aca8f9ba16ef2f1a0b74.rgd",
+      "sha256": "c5cbab42d68cde55b9460d81e8d7e54b15123efd889f7a1f3539480ecba82a3b",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\aca8f9ba16ef2f1a0b74.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_wonder_qianling_mausoleum",
+        "art\\stamps\\scaffolding\\chinese\\chi_qianling_mausoleum"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age3_observatory_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age3_observatory_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9e309d03dbb0e5318441.rgd",
+      "sha256": "ac5550279672cc4f3d86e357ba5142282b5da894980dd60964dc8c8bb151e56c",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9e309d03dbb0e5318441.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_wonder_zhengyangmen_gate",
+        "art\\stamps\\scaffolding\\chinese\\chi_zhengyangmen_gate"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age4_forbidden_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\building_wonder_age4_forbidden_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\e16e887f1bd98a8f688b.rgd",
+      "sha256": "64054010f9199c59e7f0f4cf61e50d73765d96bc554c64e8cfe46113f80ce792",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\e16e887f1bd98a8f688b.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_wonder_forbidden_palace",
+        "art\\stamps\\scaffolding\\chinese\\chi_forbidden_palace"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\defense_outpost_chi\\defense_outpost_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\defense_outpost_chi\\defense_outpost_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8d0ed3abb297a38c28e6.rgd",
+      "sha256": "8147845c50dd0792310c1038e04829bb60d03f7f1dc3f59a25a640c46522738a",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8d0ed3abb297a38c28e6.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_outpost\\layout_outpost",
+        "art\\stamps\\civ_chinese\\chi_outpost",
+        "art\\stamps\\civ_chinese\\chi_outpost_stone",
+        "art\\stamps\\const_dest\\dest_outpost_stone",
+        "art\\stamps\\scaffolding\\west\\west_outpost"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\dynasty_pagoda_chi\\tier1_pagoda_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\dynasty_pagoda_chi\\tier1_pagoda_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\4c169d3b03d2d695c5df.rgd",
+      "sha256": "cc5dc34994f0eb724951340d5de6ba10d0b3209751b66e9a51a3b74058c6857c",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\4c169d3b03d2d695c5df.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_dynasty_pagoda",
+        "art\\stamps\\scaffolding\\chinese\\chi_pagoda"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_food_chi\\tier1_econ_food_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_food_chi\\tier1_econ_food_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\177c5583a6d250e26c87.rgd",
+      "sha256": "88513afd1c357b7d56da7683fc84142da5518676e09850aa9e8da5bcf2dab02a",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\177c5583a6d250e26c87.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_grismill",
+        "art\\stamps\\const_dest\\const_house_wood_d",
+        "art\\stamps\\const_dest\\dest_house_stone_d"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier2_econ_market_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier2_econ_market_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\841e79852231fac14c7f.rgd",
+      "sha256": "de56f3641cfc9ff9db1f453d88f6a90b392347d26fc6f714a974a9a7af7b8344",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\841e79852231fac14c7f.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_market_age_02",
+        "art\\stamps\\const_dest\\dest_market_stone",
+        "art\\stamps\\scaffolding\\west\\west_market"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier3_econ_market_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier3_econ_market_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\7cff60777373089711dc.rgd",
+      "sha256": "7eebe8e155bcd34e8c0ed86fbbbbbbd3f0e5e0c17d1dfc00df473b28af2deccf",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\7cff60777373089711dc.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_market_age_03",
+        "art\\stamps\\const_dest\\dest_market_stone",
+        "art\\stamps\\scaffolding\\west\\west_market"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier4_econ_market_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\econ_market_chi\\tier4_econ_market_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\bd4dfd2ee4648f6ae936.rgd",
+      "sha256": "eea88ab77eced56ff57f1a18bbc5fd51c2facfdf693cffb084304967d61bae63",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\bd4dfd2ee4648f6ae936.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_market_age_04",
+        "art\\stamps\\const_dest\\dest_market_stone",
+        "art\\stamps\\scaffolding\\west\\west_market"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier1_house_a_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier1_house_a_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\a7ee28d8e566fa7055e2.rgd",
+      "sha256": "ad1fea4b9e985e81a8448d92805e43cbd0ef737b4ebf381b77ef6dbb20b0df1f",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\a7ee28d8e566fa7055e2.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_house_a_age_01",
+        "art\\stamps\\civ_chinese\\chi_house_b_age_01",
+        "art\\stamps\\civ_chinese\\chi_house_c_age_01",
+        "art\\stamps\\const_dest\\const_house_wood_d",
+        "art\\stamps\\const_dest\\dest_house_stone_a",
+        "art\\stamps\\const_dest\\dest_house_stone_b",
+        "art\\stamps\\const_dest\\dest_house_stone_c"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier2_house_a_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier2_house_a_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\97fd934a908a7b88afea.rgd",
+      "sha256": "fbbfe12c728bf1289ba320f7d212d73a6753aaa841588a6d9e74931d839bd324",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\97fd934a908a7b88afea.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_house_a_age_02",
+        "art\\stamps\\civ_chinese\\chi_house_b_age_02",
+        "art\\stamps\\civ_chinese\\chi_house_c_age_02",
+        "art\\stamps\\const_dest\\dest_house_stone_a",
+        "art\\stamps\\const_dest\\dest_house_stone_b",
+        "art\\stamps\\const_dest\\dest_house_stone_c",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_a",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_b",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_c",
+        "art\\stamps\\scaffolding\\west\\west_house_a",
+        "art\\stamps\\scaffolding\\west\\west_house_b",
+        "art\\stamps\\scaffolding\\west\\west_house_c"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier3_house_a_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier3_house_a_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\df482556e225234b392f.rgd",
+      "sha256": "8cba8900592de0845322f2240a7c2c8858e685788798876a362c90eaea09fd8b",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\df482556e225234b392f.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_house_a_age_03",
+        "art\\stamps\\civ_chinese\\chi_house_b_age_03",
+        "art\\stamps\\civ_chinese\\chi_house_c_age_03",
+        "art\\stamps\\const_dest\\dest_house_stone_a",
+        "art\\stamps\\const_dest\\dest_house_stone_b",
+        "art\\stamps\\const_dest\\dest_house_stone_c",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_a",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_b",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_c",
+        "art\\stamps\\scaffolding\\west\\west_house_a",
+        "art\\stamps\\scaffolding\\west\\west_house_b",
+        "art\\stamps\\scaffolding\\west\\west_house_c"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier4_house_a_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\house_chi\\tier4_house_a_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\3d452013fb652909450f.rgd",
+      "sha256": "3b4f9f39f38ea440e2ec9049d659792a3624cc175df16e7f8647b0c432896683",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\3d452013fb652909450f.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_house_a_age_04",
+        "art\\stamps\\civ_chinese\\chi_house_b_age_04",
+        "art\\stamps\\civ_chinese\\chi_house_c_age_04",
+        "art\\stamps\\const_dest\\dest_house_stone_a",
+        "art\\stamps\\const_dest\\dest_house_stone_b",
+        "art\\stamps\\const_dest\\dest_house_stone_c",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_a",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_b",
+        "art\\stamps\\scaffolding\\chinese\\chi_house_c"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier2_tech_unit_melee_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier2_tech_unit_melee_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\7cb1751aebd59c36658a.rgd",
+      "sha256": "5b30fcaffa9372791ed4e77b045881c3cb971f46120843144ea23ab67580feb3",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\7cb1751aebd59c36658a.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_blacksmith_age_02",
+        "art\\stamps\\const_dest\\dest_blacksmith_stone",
+        "art\\stamps\\scaffolding\\west\\west_blacksmith"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier3_tech_unit_melee_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier3_tech_unit_melee_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\53877435c28ca0fddeba.rgd",
+      "sha256": "b461d8d365be2ba654a31617afc4422026fe3eba2b0243325ff632ba52d306cc",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\53877435c28ca0fddeba.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_blacksmith_age_03",
+        "art\\stamps\\const_dest\\dest_blacksmith_stone",
+        "art\\stamps\\scaffolding\\west\\west_blacksmith"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier4_tech_unit_melee_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_unit_melee_chi\\tier4_tech_unit_melee_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\59f34f8061fd50c2d29b.rgd",
+      "sha256": "edb86e755516a5b0b8f7815a5d9b9e49333ec2658eb9c2beed7820b2b3764149",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\59f34f8061fd50c2d29b.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_blacksmith_age_04",
+        "art\\stamps\\const_dest\\dest_blacksmith_stone",
+        "art\\stamps\\scaffolding\\west\\west_blacksmith"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_university_chi\\tier4_tech_university_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\tech_university_chi\\tier4_tech_university_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f184aff5f345a3ca06b0.rgd",
+      "sha256": "08880d5a47a6840c5e11cd69f86b6211bdf18f6b4f2575d4b7b44cc166d29f88",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f184aff5f345a3ca06b0.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_university",
+        "art\\stamps\\const_dest\\dest_university_stone",
+        "art\\stamps\\scaffolding\\west\\west_university"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier1_town_center_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier1_town_center_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\d22657ec66b63ae54178.rgd",
+      "sha256": "850e98d2087c96e21da8f2fe7fefb01649227c9574cd2a56da3786da371b9f6b",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\d22657ec66b63ae54178.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_town_center_age_01",
+        "art\\stamps\\const_dest\\dest_town_center_stone",
+        "art\\stamps\\scaffolding\\west\\west_towncenter"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier2_town_center_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier2_town_center_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8f09b80e3698de4b08dd.rgd",
+      "sha256": "f04b4eda314254a9dbdff0df1e17b5c35e284a7bc6a3f13adcdafd5f25224bb2",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\8f09b80e3698de4b08dd.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_town_center_age_02",
+        "art\\stamps\\const_dest\\dest_town_center_stone",
+        "art\\stamps\\scaffolding\\west\\west_towncenter"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier3_town_center_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier3_town_center_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f7c5f896b2edd6308598.rgd",
+      "sha256": "985003adb6614d133c4e1866842c3ea4d63a345ec9667fe8379a1c4cbe8dfd4f",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f7c5f896b2edd6308598.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_town_center_age_03",
+        "art\\stamps\\const_dest\\dest_town_center_stone",
+        "art\\stamps\\scaffolding\\west\\west_towncenter"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier4_town_center_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\town_center_chi\\tier4_town_center_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\a245e441efe31a3aeee0.rgd",
+      "sha256": "0b26fbe97baeaa93e43fbff47ec0e68ff7b7039a6a703a9d19bde8e1d67932f5",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\a245e441efe31a3aeee0.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_town_center_age_04",
+        "art\\stamps\\const_dest\\dest_town_center_stone",
+        "art\\stamps\\scaffolding\\west\\west_towncenter"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier2_unit_cavalry_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier2_unit_cavalry_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9ed3fb8a3f9a4f1c4fcb.rgd",
+      "sha256": "9b51390dcae7f78dfe92c4592245ce5ff2e7602714e7e5863424f094374f3eb1",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9ed3fb8a3f9a4f1c4fcb.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_stable_age_02",
+        "art\\stamps\\const_dest\\dest_stable_stone",
+        "art\\stamps\\scaffolding\\west\\west_stable"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier3_unit_cavalry_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier3_unit_cavalry_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\398d238bcc29fb345204.rgd",
+      "sha256": "0012dd339e3b04db1e95ca01771d939a00de47eab8215db3954f8e455263a3f4",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\398d238bcc29fb345204.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_stable_age_03",
+        "art\\stamps\\const_dest\\dest_stable_stone",
+        "art\\stamps\\scaffolding\\west\\west_stable"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier4_unit_cavalry_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_cavalry_chi\\tier4_unit_cavalry_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\6fc9c4c1b5cf54fe23f8.rgd",
+      "sha256": "3a7e3916fbfbb0f33cee225c3c082ce1780a0e632c6094033ff647c63206a186",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\6fc9c4c1b5cf54fe23f8.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_stable_age_04",
+        "art\\stamps\\const_dest\\dest_stable_stone",
+        "art\\stamps\\scaffolding\\west\\west_stable"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier1_unit_infantry_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier1_unit_infantry_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\738465438ade6c373953.rgd",
+      "sha256": "1ea9512603302c0beea723dbc79d39236e33c39d31240e9e829f3620fe49d85a",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\738465438ade6c373953.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_barracks_age_01",
+        "art\\stamps\\const_dest\\dest_barracks_wood",
+        "art\\stamps\\scaffolding\\west\\west_barracks"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier2_unit_infantry_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier2_unit_infantry_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\35976f26af52a184b123.rgd",
+      "sha256": "c0ba9cdf2101460c1d90cecdb49ec905dd71606708c2eb2a2436604566ac429d",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\35976f26af52a184b123.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_barracks_age_02",
+        "art\\stamps\\const_dest\\dest_barracks_stone",
+        "art\\stamps\\scaffolding\\west\\west_barracks"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier3_unit_infantry_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier3_unit_infantry_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\be929cf5a6ca2fe0f391.rgd",
+      "sha256": "bef0cb39dee82f6147624c29e117d382a604a10d789e976c8cf33d2e06778377",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\be929cf5a6ca2fe0f391.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_barracks_age_03",
+        "art\\stamps\\const_dest\\dest_barracks_stone",
+        "art\\stamps\\scaffolding\\west\\west_barracks"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier4_unit_infantry_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_infantry_chi\\tier4_unit_infantry_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\fb7b0cd89433519ec1e1.rgd",
+      "sha256": "f93e2b429727a6b8040f2144385809c512d5a6dc46df7133a5eeafcc834a8eac",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\fb7b0cd89433519ec1e1.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_barracks_age_04",
+        "art\\stamps\\const_dest\\dest_barracks_stone",
+        "art\\stamps\\scaffolding\\west\\west_barracks"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier2_unit_naval_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier2_unit_naval_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f9afe93600074437fcc0.rgd",
+      "sha256": "a75182f363c740cd725b162eb18efe4e9e2334d46795d02df4d515064d9326db",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f9afe93600074437fcc0.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_dock_age_02",
+        "art\\stamps\\scaffolding\\west\\west_dock"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier3_unit_naval_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier3_unit_naval_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\ee28396c188766e008e7.rgd",
+      "sha256": "02ee6976d5262592c172ac0eff345777691b0e11331ba138a2ee27dc9bc25ea2",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\ee28396c188766e008e7.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_dock_age_03"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier4_unit_naval_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_naval_chi\\tier4_unit_naval_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\43b100c2b7737afb2ea9.rgd",
+      "sha256": "f34c3ffdd582de9ac119eb9e7a815ab6645edc024a99fe480230999cea0a2f11",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\43b100c2b7737afb2ea9.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_dock_age_04",
+        "art\\stamps\\scaffolding\\west\\west_dock"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier2_unit_ranged_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier2_unit_ranged_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\839a9b7ba147945bbd47.rgd",
+      "sha256": "be56a2ec077ffde2dadbb28e85194dea18516b5a4c2c3fa1399dc151f6492174",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\839a9b7ba147945bbd47.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_archery_range_age_02",
+        "art\\stamps\\const_dest\\dest_archery_stone",
+        "art\\stamps\\scaffolding\\west\\west_archery_range"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier3_unit_ranged_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier3_unit_ranged_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\c24fef2e6fa015d29b9f.rgd",
+      "sha256": "e401cbe33568d26f97abc6998f2cd94b98e63d4c5a5c0c0b959f6c4fe2d4b91c",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\c24fef2e6fa015d29b9f.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_archery_range_age_03",
+        "art\\stamps\\const_dest\\dest_archery_stone",
+        "art\\stamps\\scaffolding\\west\\west_archery_range"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier4_unit_ranged_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_ranged_chi\\tier4_unit_ranged_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9f706b22c7e5f23887ca.rgd",
+      "sha256": "899c721f8bcc7bbadcac9ab85546505b4bf8dd6373ff41ccffca08671d312808",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9f706b22c7e5f23887ca.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_archery_range_age_04",
+        "art\\stamps\\const_dest\\dest_archery_stone",
+        "art\\stamps\\scaffolding\\west\\west_archery_range"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_religious_chi\\tier3_unit_religious_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_religious_chi\\tier3_unit_religious_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\3ff95af7f43494e27b25.rgd",
+      "sha256": "a51b29ebb0e0bd895320a65809aceaf977ff2b8b4ad28a7c37087a8fa29d742b",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\3ff95af7f43494e27b25.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_monastery_age_03",
+        "art\\stamps\\const_dest\\dest_monastery_stone",
+        "art\\stamps\\scaffolding\\chinese\\chi_monastery"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_religious_chi\\tier4_unit_religious_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_religious_chi\\tier4_unit_religious_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\4df3a67c94308248df57.rgd",
+      "sha256": "30ffa73fed3da244ed03c8f7a51c8e33a0885941537c7d4629d96e881ea6d512",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\4df3a67c94308248df57.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_monastery_age_04",
+        "art\\stamps\\const_dest\\dest_monastery_stone",
+        "art\\stamps\\scaffolding\\chinese\\chi_monastery"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_siege_chi\\tier3_unit_siege_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_siege_chi\\tier3_unit_siege_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\d2706ff6ae5dbe083bd0.rgd",
+      "sha256": "763249697285e5c46403cce386f81c15d623093a5f24f56c17dccc3768692d3a",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\d2706ff6ae5dbe083bd0.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_siege_workshop_age_03",
+        "art\\stamps\\const_dest\\dest_siege_stone",
+        "art\\stamps\\scaffolding\\west\\west_siege_workshop"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_siege_chi\\tier4_unit_siege_control_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\buildings\\unit_siege_chi\\tier4_unit_siege_control_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f60b6623668d22f918af.rgd",
+      "sha256": "9d54e2d706a92685f27181575a0ec05dc6f41316f84fe306ad317124c3151645",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f60b6623668d22f918af.xml",
+      "art_references": [
+        "art\\stamps\\civ_chinese\\chi_siege_workshop_age_04",
+        "art\\stamps\\const_dest\\dest_siege_stone",
+        "art\\stamps\\scaffolding\\west\\west_siege_workshop"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\general\\chi_towncenter_01": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\general\\chi_towncenter_01",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\1b181d43031d9f6ad464.rgd",
+      "sha256": "235282659c4637f0fc19506dc601b4ab13e4ad7907f3f31b6d79cbc75908b420",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\1b181d43031d9f6ad464.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_tc_01_back_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_01_back_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_01_back_right_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_01_front_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_01_front_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_01_front_right_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_01_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_01_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\general\\chi_towncenter_03": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\general\\chi_towncenter_03",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\880d6b847d322947b6ca.rgd",
+      "sha256": "cf0dc2f6979336cd088cecc7c163754272e799fc4f959b0838c420d03b9ae398",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\880d6b847d322947b6ca.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_tc_03_back_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_03_back_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_03_back_right_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_03_front_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_03_front_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_03_front_right_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_03_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_tc_03_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\houses\\chi_house_01": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\houses\\chi_house_01",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\6b5b74e69aa1935d2944.rgd",
+      "sha256": "1ac02db9045206a4ed14e32de42139bd274fad40aac67a2e908cebff12121ff7",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\6b5b74e69aa1935d2944.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_house_01_back_a",
+        "art\\stamps\\outskirt_chinese\\chi_house_01_back_b",
+        "art\\stamps\\outskirt_chinese\\chi_house_01_front_a",
+        "art\\stamps\\outskirt_chinese\\chi_house_01_front_b",
+        "art\\stamps\\outskirt_chinese\\chi_house_01_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_house_01_left_b",
+        "art\\stamps\\outskirt_chinese\\chi_house_01_right_a",
+        "art\\stamps\\outskirt_chinese\\chi_house_01_right_b"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\houses\\chi_house_03": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\houses\\chi_house_03",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\277b4d6b671e00c2c441.rgd",
+      "sha256": "5e63bc6598825495e9e4e2d768cbd19fc09d00bf6cdc53b284ddc9fe6df1a39e",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\277b4d6b671e00c2c441.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_house_03_back_a",
+        "art\\stamps\\outskirt_chinese\\chi_house_03_back_b",
+        "art\\stamps\\outskirt_chinese\\chi_house_03_front_a",
+        "art\\stamps\\outskirt_chinese\\chi_house_03_front_b",
+        "art\\stamps\\outskirt_chinese\\chi_house_03_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_house_03_left_b",
+        "art\\stamps\\outskirt_chinese\\chi_house_03_left_c",
+        "art\\stamps\\outskirt_chinese\\chi_house_03_right_a",
+        "art\\stamps\\outskirt_chinese\\chi_house_03_right_b"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\dynasty_pagoda": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\dynasty_pagoda",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\afc06f6219fffdc44cf0.rgd",
+      "sha256": "3a48509aa9198781f660b0c63a1daa643ca6d5d8427834c323c98b1b5c632079",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\afc06f6219fffdc44cf0.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_dynasty_pagoda_back",
+        "art\\stamps\\outskirt_chinese\\chi_dynasty_pagoda_front",
+        "art\\stamps\\outskirt_chinese\\chi_dynasty_pagoda_left",
+        "art\\stamps\\outskirt_chinese\\chi_dynasty_pagoda_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_ftemple": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_ftemple",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\da3199d5da43c2533d81.rgd",
+      "sha256": "107fb5163438ebd08744fd0f8b3676a48266a84a4f844fb42f4287ba594d43e6",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\da3199d5da43c2533d81.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_won_ftemple_back",
+        "art\\stamps\\outskirt_chinese\\chi_won_ftemple_front",
+        "art\\stamps\\outskirt_chinese\\chi_won_ftemple_left",
+        "art\\stamps\\outskirt_chinese\\chi_won_ftemple_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_qmausoleum": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_qmausoleum",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\d39eec0c185356ca2501.rgd",
+      "sha256": "4838a52ebffafc0b82370df67d502b952bc0f977c388c2790f1c0eb842081e98",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\d39eec0c185356ca2501.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_won_qmausoleum_front",
+        "art\\stamps\\outskirt_chinese\\chi_won_qmausoleum_left",
+        "art\\stamps\\outskirt_chinese\\chi_won_qmausoleum_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_zgate": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese\\outskirts\\wonders\\won_zgate",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9bc7bc60603594d3a145.rgd",
+      "sha256": "2a83d9427645dba3744a6c11d922e167e6dc16487ad40d0bfb05fe8a2ed05729",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9bc7bc60603594d3a145.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_won_zgate_back",
+        "art\\stamps\\outskirt_chinese\\chi_won_zgate_front"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\chinese_ha_01\\buildings\\building_defense_wall_chi_ha_01\\building_defense_wall_stone_tower_chi_ha_01": {
+      "reference": "attachments\\attachment_lists\\civilizations\\chinese_ha_01\\buildings\\building_defense_wall_chi_ha_01\\building_defense_wall_stone_tower_chi_ha_01",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\c43458ab01ce3721d9f7.rgd",
+      "sha256": "98b94a41766d4f568f3d48fdfb68e1707735e887e4f529188be198ce2104fb76",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\c43458ab01ce3721d9f7.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_stonewall_tower\\layout_stonewall_tower",
+        "art\\stamps\\civ_chi_walls\\chi_stonewall_tower"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\common\\buildings\\building_town_center_bell_arch": {
+      "reference": "attachments\\attachment_lists\\civilizations\\common\\buildings\\building_town_center_bell_arch",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\361a3ede69218d8ab565.rgd",
+      "sha256": "ed4b0d5d98fcde93a8b15ceaf1316cb9b3ca9a72b9d077d084609cd23c2e159d",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\361a3ede69218d8ab565.xml",
+      "art_references": [
+        "art\\civilizations\\abbasids\\monuments\\abb_monument_tier01\\abb_monument_tier01",
+        "art\\civilizations\\abbasids\\monuments\\abb_monument_tier02\\abb_monument_tier02",
+        "art\\civilizations\\abbasids\\monuments\\abb_monument_tier03\\abb_monument_tier03",
+        "art\\civilizations\\byzantine\\monuments\\byz_monument_tier01\\byz_monument_tier01",
+        "art\\civilizations\\byzantine\\monuments\\byz_monument_tier02\\byz_monument_tier02",
+        "art\\civilizations\\byzantine\\monuments\\byz_monument_tier03\\byz_monument_tier03",
+        "art\\civilizations\\chinese\\monuments\\chi_monument_tier01\\chi_monument_tier01",
+        "art\\civilizations\\chinese\\monuments\\chi_monument_tier02\\chi_monument_tier02",
+        "art\\civilizations\\chinese\\monuments\\chi_monument_tier03\\chi_monument_tier03",
+        "art\\civilizations\\common\\monuments\\monument_rogue_shield_conqueror\\monument_rogue_shield_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_rogue_shield_gold\\monument_rogue_shield_gold",
+        "art\\civilizations\\common\\monuments\\monument_s10_shepherd_conqueror\\monument_s10_shepherd_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_s10_shepherd_diamond\\monument_s10_shepherd_diamond",
+        "art\\civilizations\\common\\monuments\\monument_s10_shepherd_gold\\monument_s10_shepherd_gold",
+        "art\\civilizations\\common\\monuments\\monument_s10_shepherd_platinum\\monument_s10_shepherd_platinum",
+        "art\\civilizations\\common\\monuments\\monument_s10_shepherd_stone\\monument_s10_shepherd_stone",
+        "art\\civilizations\\common\\monuments\\monument_s3_battering_ram_conqueror\\monument_s3_battering_ram_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_s3_battering_ram_diamond\\monument_s3_battering_ram_diamond",
+        "art\\civilizations\\common\\monuments\\monument_s3_battering_ram_gold\\monument_s3_battering_ram_gold",
+        "art\\civilizations\\common\\monuments\\monument_s3_battering_ram_platinum\\monument_s3_battering_ram_platinum",
+        "art\\civilizations\\common\\monuments\\monument_s3_battering_ram_stone\\monument_s3_battering_ram_stone",
+        "art\\civilizations\\common\\monuments\\monument_s3_pile_of_toys\\monument_s3_pile_of_toys",
+        "art\\civilizations\\common\\monuments\\monument_s3_rabbit\\monument_s3_rabbit",
+        "art\\civilizations\\common\\monuments\\monument_s4_runningdeer\\monument_s4_runningdeer",
+        "art\\civilizations\\common\\monuments\\monument_s4_throne_conqueror\\monument_s4_throne_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_s4_throne_diamond\\monument_s4_throne_diamond",
+        "art\\civilizations\\common\\monuments\\monument_s4_throne_gold\\monument_s4_throne_gold",
+        "art\\civilizations\\common\\monuments\\monument_s4_throne_platinum\\monument_s4_throne_platinum",
+        "art\\civilizations\\common\\monuments\\monument_s4_throne_stone\\monument_s4_throne_stone",
+        "art\\civilizations\\common\\monuments\\monument_s5_inflatableelephant\\monument_s5_inflatableelephant",
+        "art\\civilizations\\common\\monuments\\monument_s5_tree_treasure_conqueror\\monument_s5_tree_treasure_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_s5_tree_treasure_diamond\\monument_s5_tree_treasure_diamond",
+        "art\\civilizations\\common\\monuments\\monument_s5_tree_treasure_gold\\monument_s5_tree_treasure_gold",
+        "art\\civilizations\\common\\monuments\\monument_s5_tree_treasure_platinum\\monument_s5_tree_treasure_platinum",
+        "art\\civilizations\\common\\monuments\\monument_s5_tree_treasure_stone\\monument_s5_tree_treasure_stone",
+        "art\\civilizations\\common\\monuments\\monument_s5_watermonster\\monument_s5_watermonster",
+        "art\\civilizations\\common\\monuments\\monument_s6_gargoyle\\monument_s6_gargoyle",
+        "art\\civilizations\\common\\monuments\\monument_s6_polar_bear\\monument_s6_polar_bear",
+        "art\\civilizations\\common\\monuments\\monument_s6_snow_mangonel_conqueror\\monument_s6_snow_mangonel_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_s6_snow_mangonel_diamond\\monument_s6_snow_mangonel_diamond",
+        "art\\civilizations\\common\\monuments\\monument_s6_snow_mangonel_gold\\monument_s6_snow_mangonel_gold",
+        "art\\civilizations\\common\\monuments\\monument_s6_snow_mangonel_platinum\\monument_s6_snow_mangonel_platinum",
+        "art\\civilizations\\common\\monuments\\monument_s6_snow_mangonel_stone\\monument_s6_snow_mangonel_stone",
+        "art\\civilizations\\common\\monuments\\monument_s7_coronation_conqueror\\monument_s7_coronation_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_s7_coronation_diamond\\monument_s7_coronation_diamond",
+        "art\\civilizations\\common\\monuments\\monument_s7_coronation_gold\\monument_s7_coronation_gold",
+        "art\\civilizations\\common\\monuments\\monument_s7_coronation_platinum\\monument_s7_coronation_platinum",
+        "art\\civilizations\\common\\monuments\\monument_s7_coronation_stone\\monument_s7_coronation_stone",
+        "art\\civilizations\\common\\monuments\\monument_s7_lunar_new_year_dragon\\monument_s7_lunar_new_year_dragon",
+        "art\\civilizations\\common\\monuments\\monument_s7_onna_bugeisha\\monument_s7_onna_bugeisha",
+        "art\\civilizations\\common\\monuments\\monument_s7_royal_knight\\monument_s7_royal_knight",
+        "art\\civilizations\\common\\monuments\\monument_s8_king\\monument_s8_king",
+        "art\\civilizations\\common\\monuments\\monument_s8_king_conqueror\\monument_s8_king_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_s8_king_diamond\\monument_s8_king_diamond",
+        "art\\civilizations\\common\\monuments\\monument_s8_king_gold\\monument_s8_king_gold",
+        "art\\civilizations\\common\\monuments\\monument_s8_king_platinum\\monument_s8_king_platinum",
+        "art\\civilizations\\common\\monuments\\monument_s9_battlescene\\monument_s9_battlescene",
+        "art\\civilizations\\common\\monuments\\monument_s9_battlescene_conqueror\\monument_s9_battlescene_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_s9_battlescene_diamond\\monument_s9_battlescene_diamond",
+        "art\\civilizations\\common\\monuments\\monument_s9_battlescene_gold\\monument_s9_battlescene_gold",
+        "art\\civilizations\\common\\monuments\\monument_s9_battlescene_platinum\\monument_s9_battlescene_platinum",
+        "art\\civilizations\\common\\monuments\\monument_seasonal_kraken_conqueror\\monument_seasonal_kraken_conqueror",
+        "art\\civilizations\\common\\monuments\\monument_seasonal_kraken_diamond\\monument_seasonal_kraken_diamond",
+        "art\\civilizations\\common\\monuments\\monument_seasonal_kraken_gold\\monument_seasonal_kraken_gold",
+        "art\\civilizations\\common\\monuments\\monument_seasonal_kraken_platinum\\monument_seasonal_kraken_platinum",
+        "art\\civilizations\\common\\monuments\\monument_sup_iv\\monument_sup_iv",
+        "art\\civilizations\\common\\monuments\\monument_sup_iv_stone\\monument_sup_iv_stone",
+        "art\\civilizations\\common\\monuments\\monument_sup_lion\\monument_sup_lion",
+        "art\\civilizations\\common\\monuments\\monument_xp3_chronicler\\monument_xp3_chronicler",
+        "art\\civilizations\\common\\props\\monument_s2_serpent\\monument_s2_serpent",
+        "art\\civilizations\\common\\props\\monument_s2_waterhorse\\monument_s2_waterhorse",
+        "art\\civilizations\\common\\props\\monument_seasonal_kite_conqueror\\monument_seasonal_kite_conqueror",
+        "art\\civilizations\\common\\props\\monument_seasonal_kite_diamond\\monument_seasonal_kite_diamond",
+        "art\\civilizations\\common\\props\\monument_seasonal_kite_gold\\monument_seasonal_kite_gold",
+        "art\\civilizations\\common\\props\\monument_seasonal_kite_platinum\\monument_seasonal_kite_platinum",
+        "art\\civilizations\\common\\props\\monument_sup_bust_wolf\\monument_sup_bust_wolf",
+        "art\\civilizations\\common\\props\\monument_sup_mangonel\\monument_sup_mangonel",
+        "art\\civilizations\\common\\props\\monument_sup_sheep\\monument_sup_sheep",
+        "art\\civilizations\\common\\props\\monument_sup_springald\\monument_sup_springald",
+        "art\\civilizations\\common\\props\\monument_sup_trebuchet\\monument_sup_trebuchet",
+        "art\\civilizations\\common\\props\\monument_tier01\\monument_tier01",
+        "art\\civilizations\\common\\props\\monument_tier03_deer\\monument_tier03_deer",
+        "art\\civilizations\\common\\props\\monument_tier03_fishingboat\\monument_tier03_fishingboat",
+        "art\\civilizations\\common\\props\\monument_tier03_villager\\monument_tier03_villager",
+        "art\\civilizations\\common\\props\\monument_tier03_wolf\\monument_tier03_wolf",
+        "art\\civilizations\\english\\monuments\\eng_monument_tier01\\eng_monument_tier01",
+        "art\\civilizations\\english\\monuments\\eng_monument_tier02\\eng_monument_tier02",
+        "art\\civilizations\\english\\monuments\\eng_monument_tier03\\eng_monument_tier03",
+        "art\\civilizations\\french\\monuments\\fre_monument_tier01\\fre_monument_tier01",
+        "art\\civilizations\\french\\monuments\\fre_monument_tier02\\fre_monument_tier02",
+        "art\\civilizations\\french\\monuments\\fre_monument_tier03\\fre_monument_tier03",
+        "art\\civilizations\\hre\\monuments\\hre_monument_tier01\\hre_monument_tier01",
+        "art\\civilizations\\hre\\monuments\\hre_monument_tier02\\hre_monument_tier02",
+        "art\\civilizations\\hre\\monuments\\hre_monument_tier03\\hre_monument_tier03",
+        "art\\civilizations\\japanese\\monuments\\jpn_monument_tier01\\jpn_monument_tier01",
+        "art\\civilizations\\japanese\\monuments\\jpn_monument_tier02\\jpn_monument_tier02",
+        "art\\civilizations\\japanese\\monuments\\jpn_monument_tier03\\jpn_monument_tier03",
+        "art\\civilizations\\jin_dynasty\\props\\golden_pagoda\\golden_pagoda",
+        "art\\civilizations\\malian\\monuments\\mal_monument_tier01\\mal_monument_tier01",
+        "art\\civilizations\\malian\\monuments\\mal_monument_tier02\\mal_monument_tier02",
+        "art\\civilizations\\malian\\monuments\\mal_monument_tier03\\mal_monument_tier03",
+        "art\\civilizations\\mongols\\monuments\\mon_monument_tier01\\mon_monument_tier01",
+        "art\\civilizations\\mongols\\monuments\\mon_monument_tier02\\mon_monument_tier02",
+        "art\\civilizations\\mongols\\monuments\\mon_monument_tier03\\mon_monument_tier03",
+        "art\\civilizations\\ottoman\\monuments\\ott_monument_tier01\\ott_monument_tier01",
+        "art\\civilizations\\ottoman\\monuments\\ott_monument_tier02\\ott_monument_tier02",
+        "art\\civilizations\\ottoman\\monuments\\ott_monument_tier03\\ott_monument_tier03",
+        "art\\civilizations\\rus\\monuments\\rus_monument_tier01\\rus_monument_tier01",
+        "art\\civilizations\\rus\\monuments\\rus_monument_tier02\\rus_monument_tier02",
+        "art\\civilizations\\rus\\monuments\\rus_monument_tier03\\rus_monument_tier03",
+        "art\\civilizations\\scots\\monuments\\sco_monument_tier01\\sco_monument_tier01",
+        "art\\civilizations\\sultanate\\monuments\\sul_monument_tier01\\sul_monument_tier01",
+        "art\\civilizations\\sultanate\\monuments\\sul_monument_tier02\\sul_monument_tier02",
+        "art\\civilizations\\sultanate\\monuments\\sul_monument_tier03\\sul_monument_tier03",
+        "art\\civilizations\\vikings\\monuments\\vik_monument_tier01\\vik_monument_tier01",
+        "art\\stamps\\civ_abbasid\\monuments\\abb_monument_tier_01",
+        "art\\stamps\\civ_abbasid\\monuments\\abb_monument_tier_02",
+        "art\\stamps\\civ_abbasid\\monuments\\abb_monument_tier_03",
+        "art\\stamps\\civ_chinese\\chi_bell_arch_age_01",
+        "art\\stamps\\civ_chinese\\monuments\\chi_monument_tier_01",
+        "art\\stamps\\civ_chinese\\monuments\\chi_monument_tier_02",
+        "art\\stamps\\civ_chinese\\monuments\\chi_monument_tier_03",
+        "art\\stamps\\civ_common\\com_empty_stamp",
+        "art\\stamps\\civ_english\\eng_bell_arch_age_01",
+        "art\\stamps\\civ_english\\monuments\\eng_monument_tier_01",
+        "art\\stamps\\civ_english\\monuments\\eng_monument_tier_02",
+        "art\\stamps\\civ_english\\monuments\\eng_monument_tier_03",
+        "art\\stamps\\civ_french\\monuments\\fre_monument_tier_01",
+        "art\\stamps\\civ_french\\monuments\\fre_monument_tier_02",
+        "art\\stamps\\civ_french\\monuments\\fre_monument_tier_03",
+        "art\\stamps\\civ_hre\\monuments\\hre_monument_tier_01",
+        "art\\stamps\\civ_hre\\monuments\\hre_monument_tier_02",
+        "art\\stamps\\civ_hre\\monuments\\hre_monument_tier_03",
+        "art\\stamps\\civ_mongols\\mon_bell_arch_age_01",
+        "art\\stamps\\civ_mongols\\mon_bell_arch_age_02",
+        "art\\stamps\\civ_mongols\\monuments\\mon_monument_tier_01",
+        "art\\stamps\\civ_mongols\\monuments\\mon_monument_tier_02",
+        "art\\stamps\\civ_mongols\\monuments\\mon_monument_tier_03",
+        "art\\stamps\\civ_rus\\monuments\\rus_monument_tier_01",
+        "art\\stamps\\civ_rus\\monuments\\rus_monument_tier_02",
+        "art\\stamps\\civ_rus\\monuments\\rus_monument_tier_03",
+        "art\\stamps\\civ_rus\\rus_bell_arch_age_01",
+        "art\\stamps\\civ_sul\\monuments\\sul_monument_tier_01",
+        "art\\stamps\\civ_sul\\monuments\\sul_monument_tier_02",
+        "art\\stamps\\civ_sul\\monuments\\sul_monument_tier_03"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\core\\outskirts\\resource": {
+      "reference": "attachments\\attachment_lists\\civilizations\\core\\outskirts\\resource",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\00dc79b9aa803e3779d5.rgd",
+      "sha256": "63c83230ca272a3660bbf5eb61bdd6696cd81c0dbd24c2166d0a912a8cf53da9",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\00dc79b9aa803e3779d5.xml",
+      "art_references": [
+        "art\\stamps\\outskirt\\com_resource_back_a",
+        "art\\stamps\\outskirt\\com_resource_front_a",
+        "art\\stamps\\outskirt\\com_resource_left_a",
+        "art\\stamps\\outskirt\\com_resource_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\buildings\\econ_mining_camp_eng\\tier1_econ_mining_camp_control_eng": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\buildings\\econ_mining_camp_eng\\tier1_econ_mining_camp_control_eng",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\bddee15062e2dd89c6aa.rgd",
+      "sha256": "c6d164393f7bff0d9f26b4771837add8c6532166ce7be36c20942579a56f1e20",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\bddee15062e2dd89c6aa.xml",
+      "art_references": [
+        "art\\stamps\\civ_common\\com_mining_camp",
+        "art\\stamps\\const_dest\\const_house_wood_c"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\buildings\\econ_wood_eng\\tier1_econ_wood_control_eng": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\buildings\\econ_wood_eng\\tier1_econ_wood_control_eng",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\b21dfb77c139e7f31d31.rgd",
+      "sha256": "08e6d5160ada1fce6d6c01d5c7910ca2ffc5a07da18969b10e5ea08cb342ca07",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\b21dfb77c139e7f31d31.xml",
+      "art_references": [
+        "art\\stamps\\civ_common\\com_lumber_camp",
+        "art\\stamps\\const_dest\\const_house_wood_b"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\market_02": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\market_02",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\6c48ae15a63a8a15c469.rgd",
+      "sha256": "2344ab2c90312c3302a9fe5cef91873bb253acd342de2195680b3424e16e43d4",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\6c48ae15a63a8a15c469.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_market_02_back_a",
+        "art\\stamps\\outskirt_english\\eng_market_02_front_a",
+        "art\\stamps\\outskirt_english\\eng_market_02_left_a",
+        "art\\stamps\\outskirt_english\\eng_market_02_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\monastery_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\monastery_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\a81dde24584f9b266f91.rgd",
+      "sha256": "ebdf0d5b47b8c5dea9b16eba37e31f0868f524bc4de1d847e35007067c9b0fea",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\a81dde24584f9b266f91.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_monastery_03_back_a",
+        "art\\stamps\\outskirt_chinese\\chi_monastery_03_front_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_monastery_03_front_right_a",
+        "art\\stamps\\outskirt_chinese\\chi_monastery_03_left_a",
+        "art\\stamps\\outskirt_chinese\\chi_monastery_03_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\university_chi": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\general\\university_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\dfc9f74b3245b88351cc.rgd",
+      "sha256": "166e5c919ffec366298ea91132462938fb0ba1a678a54f44c1cdb4587c7aae7f",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\dfc9f74b3245b88351cc.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_chinese\\chi_university_back_left",
+        "art\\stamps\\outskirt_chinese\\chi_university_front_left",
+        "art\\stamps\\outskirt_chinese\\chi_university_front_right",
+        "art\\stamps\\outskirt_chinese\\chi_university_left",
+        "art\\stamps\\outskirt_chinese\\chi_university_left_front",
+        "art\\stamps\\outskirt_chinese\\chi_university_right",
+        "art\\stamps\\outskirt_chinese\\chi_university_right_front"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\keep": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\keep",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\95b32174d8fc612a5ef3.rgd",
+      "sha256": "ccacb90b3d5ea0bc87730874705c5482e45501de35069a3d1a85b9f7865a5873",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\95b32174d8fc612a5ef3.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_keep_back_a",
+        "art\\stamps\\outskirt_english\\eng_keep_front_a",
+        "art\\stamps\\outskirt_english\\eng_keep_left_a",
+        "art\\stamps\\outskirt_english\\eng_keep_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_01": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_01",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\0592ebdba020eece9d69.rgd",
+      "sha256": "9aa01ff3bf2bd7f865ab7524cd7cbcedb2883d89188dbde08c654a32109d749d",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\0592ebdba020eece9d69.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_01_back",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_01_back_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_01_back_right",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_01_front",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_01_front_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_01_front_right",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_01_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_01_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_02": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_02",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\4c71828ef062f94881ad.rgd",
+      "sha256": "58516c398b014fc92efb40aab8943743f158d28361e1acc875d4c9db406f6fc8",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\4c71828ef062f94881ad.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_02_back",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_02_back_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_02_back_right",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_02_front",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_02_front_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_02_front_right",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_02_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_02_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_03": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_03",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f0bfc5055e545742ced0.rgd",
+      "sha256": "8fd7ca7bc710cc719a008344973475a7c8c324cf0fa62d7bc739b3a7d5241d95",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\f0bfc5055e545742ced0.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_03_back",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_03_back_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_03_back_right",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_03_front",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_03_front_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_03_front_right",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_03_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_03_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_04": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\military_04",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\ca85667b51df6f84818a.rgd",
+      "sha256": "5bd6b184d9c6fe84ad2e94f80d2273203bf5d723533d56ed87c9cc25679dfd4f",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\ca85667b51df6f84818a.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_04_back",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_04_back_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_04_back_right",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_04_front",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_04_front_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_04_front_right",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_04_left",
+        "art\\stamps\\outskirt_english\\eng_military\\eng_military_04_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_02": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_02",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\26580ca76bc4991c4557.rgd",
+      "sha256": "f36e8548cca9d0dc0b706c8a5b88e12191602799a7d0131c1d192bffc1bb2c6a",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\26580ca76bc4991c4557.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_02_back",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_02_back_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_02_back_right",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_02_front",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_02_front_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_02_front_right",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_02_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_02_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_03": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_03",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\b790c37eea7384460dd8.rgd",
+      "sha256": "d3b6b96eeb15de8e3aa8ba34cc0e614b7c276dc0dd2d846f62bf9a0557809a5f",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\b790c37eea7384460dd8.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_03_back",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_03_back_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_03_back_right",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_03_front",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_03_front_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_03_front_right",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_03_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_03_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_04": {
+      "reference": "attachments\\attachment_lists\\civilizations\\english\\outskirts\\military\\tech_04",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\fd45b8233cacf230dd0b.rgd",
+      "sha256": "19e1a5a97cd2afd69844bda89fd6c94575b11f942ed56c774bcb07f8127358a6",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\fd45b8233cacf230dd0b.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_04_back",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_04_back_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_04_back_right",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_04_front",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_04_front_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_04_front_right",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_04_left",
+        "art\\stamps\\outskirt_english\\eng_tech\\eng_tech_04_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\defense_keep_jpn\\tier3_keep_jpn": {
+      "reference": "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\defense_keep_jpn\\tier3_keep_jpn",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\1541573a399339fe0fe6.rgd",
+      "sha256": "9256390b43d7d3fa41d5a5f63bcbdd1c528e1b854d6cc258684836e43a28817c",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\1541573a399339fe0fe6.xml",
+      "art_references": [
+        "art\\stamps\\civ_japanese\\jpn_keep",
+        "art\\stamps\\const_dest\\dest_keep_stone"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\jpn_landmark_b_02": {
+      "reference": "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\jpn_landmark_b_02",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\0ac8724d28033763e73e.rgd",
+      "sha256": "67a5f9477b7a9a0c735446405bffd80fda757bf46472b791ef7c89d644b39c58",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\0ac8724d28033763e73e.xml",
+      "art_references": [
+        "art\\stamps\\civ_japanese\\jpn_landmark_b_age_02"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\jpn_wonder": {
+      "reference": "attachments\\attachment_lists\\civilizations\\japanese\\buildings\\jpn_wonder",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\b46fffde64d5c78ca4f5.rgd",
+      "sha256": "c9f6f8f514aa1fc5e3a7c9cd5c11c16242dcfd917d574796b1d700d279cb1ee0",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\b46fffde64d5c78ca4f5.xml",
+      "art_references": [
+        "art\\stamps\\civ_japanese\\jpn_wonder",
+        "art\\stamps\\outskirt_japanese\\jpn_wonder_front"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\japanese\\outskirts\\landmarks\\jpn_lan_b_02": {
+      "reference": "attachments\\attachment_lists\\civilizations\\japanese\\outskirts\\landmarks\\jpn_lan_b_02",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\3a52a7aa3e05b86c3e2b.rgd",
+      "sha256": "b0eac6085a8513876408e0b4edb7c92a0e8330335723494226550224cb45ec5f",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\3a52a7aa3e05b86c3e2b.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_japanese\\jpn_landmark_b_02\\jpn_landmark_b_02_back_left",
+        "art\\stamps\\outskirt_japanese\\jpn_landmark_b_02\\jpn_landmark_b_02_back_right",
+        "art\\stamps\\outskirt_japanese\\jpn_landmark_b_02\\jpn_landmark_b_02_front",
+        "art\\stamps\\outskirt_japanese\\jpn_landmark_b_02\\jpn_landmark_b_02_left",
+        "art\\stamps\\outskirt_japanese\\jpn_landmark_b_02\\jpn_landmark_b_02_right"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\mongol\\buildings\\wonder_khanbaliq_mon\\tier3_wonder_khanbaliq_mon": {
+      "reference": "attachments\\attachment_lists\\civilizations\\mongol\\buildings\\wonder_khanbaliq_mon\\tier3_wonder_khanbaliq_mon",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\ccdc5225850aac16a787.rgd",
+      "sha256": "ca702ce6440192cb86e79c502b1ab7bdbccc3f2bf3e28f2ae5a7361585cca7e8",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\ccdc5225850aac16a787.xml",
+      "art_references": [
+        "art\\stamps\\civ_mongols\\mon_wonder_03_khanbaliq",
+        "art\\stamps\\const_dest\\const_large_fleft_wood"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\mongol\\outskirts\\wonders\\won_khanb": {
+      "reference": "attachments\\attachment_lists\\civilizations\\mongol\\outskirts\\wonders\\won_khanb",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\59c8a703303e1561c66c.rgd",
+      "sha256": "8931fda1e6a99404f722303ce425cc80d0a7e58abccb1b38995c009d8634c84f",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\59c8a703303e1561c66c.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_mongols\\mon_won_khanb_back_left_a",
+        "art\\stamps\\outskirt_mongols\\mon_won_khanb_back_right_a",
+        "art\\stamps\\outskirt_mongols\\mon_won_khanb_front_left_a",
+        "art\\stamps\\outskirt_mongols\\mon_won_khanb_front_right_a",
+        "art\\stamps\\outskirt_mongols\\mon_won_khanb_left_a",
+        "art\\stamps\\outskirt_mongols\\mon_won_khanb_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\sultanate\\outskirts\\general\\sul_towncenter_01": {
+      "reference": "attachments\\attachment_lists\\civilizations\\sultanate\\outskirts\\general\\sul_towncenter_01",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\18ed681843ae24c59540.rgd",
+      "sha256": "719a7801646a934ef756a85fdbebee10f0a052c66e56ebb029b2a19fbd56bbcb",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\18ed681843ae24c59540.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_sultanate\\sul_tc_01_back_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_01_back_left_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_01_back_right_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_01_front_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_01_front_left_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_01_front_right_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_01_left_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_01_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\civilizations\\sultanate\\outskirts\\general\\sul_towncenter_03": {
+      "reference": "attachments\\attachment_lists\\civilizations\\sultanate\\outskirts\\general\\sul_towncenter_03",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\da7686c4a882c29c837e.rgd",
+      "sha256": "71c24bd147bc7bfb85ea3ebcdec6a1e96d4361f35822ccb1894384a4f29b463d",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\da7686c4a882c29c837e.xml",
+      "art_references": [
+        "art\\stamps\\outskirt_sultanate\\sul_tc_03_back_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_03_back_left_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_03_back_right_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_03_front_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_03_front_left_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_03_front_right_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_03_left_a",
+        "art\\stamps\\outskirt_sultanate\\sul_tc_03_right_a"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\races\\chinese\\buildings\\building_econ_food_chi": {
+      "reference": "attachments\\attachment_lists\\races\\chinese\\buildings\\building_econ_food_chi",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\e0cb692a3fbb9d9a3872.rgd",
+      "sha256": "21bd3d8162ddc69cf24a29e950ad854335fec358ad7d8a9ee5b0c9bee3db1aaa",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\e0cb692a3fbb9d9a3872.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_mill_chi\\layout_mill_chi"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\races\\core\\buildings\\building_defense_keep": {
+      "reference": "attachments\\attachment_lists\\races\\core\\buildings\\building_defense_keep",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\a9fdc42b465a808ba3ec.rgd",
+      "sha256": "aabbda653ea64b93fe1d5d7affbc0d74398a27a7a180979063c88d90f87ac92b",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\a9fdc42b465a808ba3ec.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_keep\\layout_keep"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\races\\core\\buildings\\building_tech_university": {
+      "reference": "attachments\\attachment_lists\\races\\core\\buildings\\building_tech_university",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\495c9a2a999521d58d60.rgd",
+      "sha256": "d5e8eaf3a6faed6a1b126adc0f70a6c51810930e31a9edcd2f5f926766d7aaf1",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\495c9a2a999521d58d60.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_university\\layout_university"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\races\\core\\buildings\\building_unit_religious": {
+      "reference": "attachments\\attachment_lists\\races\\core\\buildings\\building_unit_religious",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\2eadeb031489bfa047ec.rgd",
+      "sha256": "6af73caf85c076160c8c3a90149c1a8345adf66df30d356c4a535eb3493de74c",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\2eadeb031489bfa047ec.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_monastery\\layout_monastery"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age1": {
+      "reference": "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age1",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\18fb44583bf8ba8fbefa.rgd",
+      "sha256": "4a7dc8c716b30e811e34e5651237468d28196766ae97b0eaf43a89f2b022abba",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\18fb44583bf8ba8fbefa.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_landmark\\layout_landmark"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age2": {
+      "reference": "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age2",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\2691dbf5d67049582dd3.rgd",
+      "sha256": "377a0702fbab9270349496ee2f36846803daa38162ed614a15fece27a130ba29",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\2691dbf5d67049582dd3.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_landmark\\layout_landmark"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    },
+    "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age3": {
+      "reference": "attachments\\attachment_lists\\races\\core\\buildings\\building_wonder_age3",
+      "binary": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9873c19005708309bc59.rgd",
+      "sha256": "2e130e3bb8473b1af9b7d822766279764701d64159accee91dfff2b0c561e3b5",
+      "xml": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\native_owners\\9873c19005708309bc59.xml",
+      "art_references": [
+        "art\\civilizations\\common\\layouts\\archetypes\\layout_landmark\\layout_landmark"
+      ],
+      "child_references": [],
+      "status": "preserved_native_owner"
+    }
+  },
+  "no_blueprint_mutations": true,
+  "note": "Native lifecycle and stamp owners are read-only preserved references. Future integration must private-clone the exact graph and cannot infer gameplay footprint from render bounds."
+}

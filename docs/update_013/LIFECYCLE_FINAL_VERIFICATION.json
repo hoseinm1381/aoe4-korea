@@ -1,0 +1,22 @@
+{
+  "changed_members": [
+    "art/kr013/static/bulguksa_temple/model.rgo",
+    "art/kr013/static/gate_of_reverence/model.rgo",
+    "art/kr013/static/gyeongbok_palace/model.rgo",
+    "art/kr013/static/hall_of_worthies/model.rgo",
+    "art/kr013/static/hwangnyongsa/model.rgo",
+    "art/kr013/static/korea_lumber_camp01/model.rgo",
+    "art/kr013/static/korea_mining_camp01/model.rgo",
+    "art/kr013/static/mountain_fortress/model.rgo",
+    "art/kr013/static/seon_deok_observatory/model.rgo",
+    "art/kr013/static/seowon_academy/model.rgo",
+    "art/kr013/static/stone_pagoda/model.rgo"
+  ],
+  "non_enum_bytes_identical": true,
+  "all_1572_member_sha256_verified": true,
+  "native_crc_sha1": true,
+  "namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "zip_sha256": "1e2d7976d5a3e1274c333a31738e963796d9fc56186f9040eef13bc62d8924cb",
+  "zip_bytes": 95155560,
+  "archive_sha256": "501f1e1049f9cacc0569b21a9f131c25537839b0413921537185b030451b2101"
+}

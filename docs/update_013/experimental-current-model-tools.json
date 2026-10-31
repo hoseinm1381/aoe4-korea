@@ -1,0 +1,465 @@
+{
+  "schema": "korea.experimental-model-tools/v1",
+  "owner_authorized_trial": true,
+  "official_extension": "0.1.9",
+  "official_support_table": {
+    "16.3.11308": {
+      "editor_sha256": "2ff1278eed5b1a6e163e6d78e04ad768dc38e4c198f6354069c99bed9e8f84e8",
+      "core_sha256": "74f898191090bba81414db0777dca5b80afa369086bf71d6451fe79ab3cd847b"
+    }
+  },
+  "experimental_process_local_profile": "experimental-korea-current-editor",
+  "editor_sha256": "df563dcdab31e0b772b9239da2c6058f86aa0063ec2359a0847e5057fae4efab",
+  "core_source_sha256": "e2149a216e284bd6c33995c542f898af7f34ffa2e071162735ec1b6a74ef88ef",
+  "core_trial_sha256": "5235b788072d81a9c4f4025c259bc736b17e03fccb24f7c6a67e03e9c2aa0f74",
+  "patch_bytes_equal_official_routine": true,
+  "only_feature_marker_changed": true,
+  "game_source_unchanged": true,
+  "global_addon_unchanged": true,
+  "official_support_claim": false,
+  "overlay_result": {
+    "schema": "garrison.essence-overlay/v2",
+    "created_at_utc": "2026-10-31T08:03:29.902002Z",
+    "game_root": "E:\\Games\\steamapps\\common\\Age of Empires IV",
+    "overlay_root": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools",
+    "editor_version": "experimental-korea-current-editor",
+    "editor_sha256": "df563dcdab31e0b772b9239da2c6058f86aa0063ec2359a0847e5057fae4efab",
+    "core_source_sha256": "e2149a216e284bd6c33995c542f898af7f34ffa2e071162735ec1b6a74ef88ef",
+    "core_patched_sha256": "5235b788072d81a9c4f4025c259bc736b17e03fccb24f7c6a67e03e9c2aa0f74",
+    "patch": {
+      "feature": "ObjectEditor",
+      "source": "ActionEditor;BiomeWizard;FXEditor;ObjectEditor;RaceWizard;ReplacementWizard;StateTreeEditor",
+      "replacement": "ActionEditor;BiomeWizard;FXEditor;ObjectEditoX;RaceWizard;ReplacementWizard;StateTreeEditor"
+    },
+    "files": {
+      "Aegis_RelicCardinal.log": {
+        "size": 1910,
+        "mtime_ns": 1793293977190000000,
+        "method": "copy"
+      },
+      "amd_ags_x64.dll": {
+        "size": 167424,
+        "mtime_ns": 1767812136618402000,
+        "method": "copy"
+      },
+      "App.ini": {
+        "size": 207,
+        "mtime_ns": 1767812130700842900,
+        "method": "copy"
+      },
+      "BsSndRpt.exe": {
+        "size": 356880,
+        "mtime_ns": 1767811718715308700,
+        "method": "copy"
+      },
+      "BsSndRpt64.exe": {
+        "size": 389648,
+        "mtime_ns": 1767811718715308700,
+        "method": "copy"
+      },
+      "BugSplat64.dll": {
+        "size": 630288,
+        "mtime_ns": 1767811718715308700,
+        "method": "copy"
+      },
+      "BugSplatDotNet.dll": {
+        "size": 27152,
+        "mtime_ns": 1767812135331299400,
+        "method": "copy"
+      },
+      "BugSplatHD64.exe": {
+        "size": 336400,
+        "mtime_ns": 1767811718715308700,
+        "method": "copy"
+      },
+      "BugSplatRc.dll": {
+        "size": 285200,
+        "mtime_ns": 1767811718715308700,
+        "method": "copy"
+      },
+      "BugSplatRc64.dll": {
+        "size": 285200,
+        "mtime_ns": 1767811718715308700,
+        "method": "copy"
+      },
+      "BurningTexturesBridgePS5.dll": {
+        "size": 1454080,
+        "mtime_ns": 1793293926000000000,
+        "method": "copy"
+      },
+      "CodeSignSummary-2729053b-c0bc-422b-803a-0aee299b7058.md": {
+        "size": 4738,
+        "mtime_ns": 1793294575990000000,
+        "method": "copy"
+      },
+      "dbghelp.dll": {
+        "size": 1909472,
+        "mtime_ns": 1767811722298648700,
+        "method": "copy"
+      },
+      "dxcompiler_x.dll": {
+        "size": 19201568,
+        "mtime_ns": 1767811722298648700,
+        "method": "copy"
+      },
+      "dxcompiler_xs.dll": {
+        "size": 18982432,
+        "mtime_ns": 1767811722298648700,
+        "method": "copy"
+      },
+      "EngineObjectModel.dll": {
+        "size": 138560,
+        "mtime_ns": 1793294731290000000,
+        "method": "copy"
+      },
+      "Essence.Core.dll": {
+        "size": 403296,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "Essence.Editor.Attributes.dll": {
+        "size": 1328992,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "Essence.Editor.Bridge.dll": {
+        "size": 144117056,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "Essence.Editor.Bridge.Resources.dll": {
+        "size": 42808,
+        "mtime_ns": 1793294704530000000,
+        "method": "copy"
+      },
+      "Essence.Editor.Core.dll": {
+        "size": 3291448,
+        "mtime_ns": 1793293976000000000,
+        "method": "patched"
+      },
+      "Essence.Editor.Localization.Core.dll": {
+        "size": 240952,
+        "mtime_ns": 1793294527680000000,
+        "method": "copy"
+      },
+      "Essence.Editor.Localization.dll": {
+        "size": 507704,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "Essence.Editor.Modding.dll": {
+        "size": 151352,
+        "mtime_ns": 1793294438860000000,
+        "method": "copy"
+      },
+      "Essence.MemoryAnalysis.dll": {
+        "size": 71480,
+        "mtime_ns": 1793294527780000000,
+        "method": "copy"
+      },
+      "Essence.RPC.dll": {
+        "size": 88416,
+        "mtime_ns": 1793294653950000000,
+        "method": "copy"
+      },
+      "Essence.Telemetry.dll": {
+        "size": 38200,
+        "mtime_ns": 1793294344750000000,
+        "method": "copy"
+      },
+      "EssenceEditor.exe": {
+        "size": 10242872,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "EssenceEditor.exe.config": {
+        "size": 1032,
+        "mtime_ns": 1793294348450000000,
+        "method": "copy"
+      },
+      "GamesTest.Rpc.Client.dll": {
+        "size": 56320,
+        "mtime_ns": 1767817270698924500,
+        "method": "copy"
+      },
+      "GFSDK_Aftermath_Lib.x64.dll": {
+        "size": 1234432,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "GPUBurner.exe": {
+        "size": 52070712,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "ICSharpCode.AvalonEdit.dll": {
+        "size": 598016,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "ICSharpCode.TreeView.dll": {
+        "size": 53248,
+        "mtime_ns": 1793294736650000000,
+        "method": "copy"
+      },
+      "installscript.vdf": {
+        "size": 463,
+        "mtime_ns": 1767817271442119300,
+        "method": "copy"
+      },
+      "IntelGfx.cfg": {
+        "size": 14433,
+        "mtime_ns": 1767817665496774300,
+        "method": "copy"
+      },
+      "libHttpClient.Win32.dll": {
+        "size": 264192,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "libSceAgcGpuAddress.dll": {
+        "size": 1407488,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "libSceAgcTextureTool.dll": {
+        "size": 7270400,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "libSceProsperoWavePsslc.dll": {
+        "size": 19868160,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "Locale.ini": {
+        "size": 24,
+        "mtime_ns": 1767815900573068100,
+        "method": "copy"
+      },
+      "MemEnv.ini": {
+        "size": 1716,
+        "mtime_ns": 1767815900573068100,
+        "method": "copy"
+      },
+      "Microsoft.Identity.Client.dll": {
+        "size": 1632728,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "Microsoft.IdentityModel.Abstractions.dll": {
+        "size": 18824,
+        "mtime_ns": 1767817371728512600,
+        "method": "copy"
+      },
+      "msvcp140.dll": {
+        "size": 557728,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "msvcp_win.dll": {
+        "size": 641920,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "msvcrt.dll": {
+        "size": 699768,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "newbe.dll": {
+        "size": 27139616,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "newbe_xs.dll": {
+        "size": 27140152,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "nvtt.dll": {
+        "size": 602624,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "on": {
+        "size": 407647109,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "p4api.net.dll": {
+        "size": 440320,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "PartyWin.dll": {
+        "size": 3702720,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "PartyWin7.dll": {
+        "size": 5563320,
+        "mtime_ns": 1767811722314347200,
+        "method": "copy"
+      },
+      "Relic.Core.dll": {
+        "size": 126264,
+        "mtime_ns": 1793294360030000000,
+        "method": "copy"
+      },
+      "Relic.Windows.dll": {
+        "size": 158560,
+        "mtime_ns": 1793294672030000000,
+        "method": "copy"
+      },
+      "RelicCardinal.exe": {
+        "size": 145914957,
+        "mtime_ns": 1793378508960498200,
+        "method": "copy"
+      },
+      "RelicGame.module": {
+        "size": 15307,
+        "mtime_ns": 1793294655850000000,
+        "method": "copy"
+      },
+      "sc_dll.dll": {
+        "size": 7435832,
+        "mtime_ns": 1767811722330310600,
+        "method": "copy"
+      },
+      "scdxil.dll": {
+        "size": 7119416,
+        "mtime_ns": 1767811722330310600,
+        "method": "copy"
+      },
+      "ShaderBurnerPS5.dll": {
+        "size": 1536000,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "steam_api64.dll": {
+        "size": 300392,
+        "mtime_ns": 1780349379121907700,
+        "method": "copy"
+      },
+      "steam_xp3id.txt": {
+        "size": 7,
+        "mtime_ns": 1767815907822190300,
+        "method": "copy"
+      },
+      "symsrv.dll": {
+        "size": 229896,
+        "mtime_ns": 1767817469874112600,
+        "method": "copy"
+      },
+      "sysconfig.lua": {
+        "size": 207399,
+        "mtime_ns": 1793294714130000000,
+        "method": "copy"
+      },
+      "System.Buffers.dll": {
+        "size": 20856,
+        "mtime_ns": 1767817663984293700,
+        "method": "copy"
+      },
+      "System.Runtime.CompilerServices.Unsafe.dll": {
+        "size": 18024,
+        "mtime_ns": 1770226839615820700,
+        "method": "copy"
+      },
+      "System.Threading.Channels.dll": {
+        "size": 51824,
+        "mtime_ns": 1770226836895557300,
+        "method": "copy"
+      },
+      "System.Threading.Tasks.Extensions.dll": {
+        "size": 25984,
+        "mtime_ns": 1770226837052194100,
+        "method": "copy"
+      },
+      "tensorflowlite_c.dll": {
+        "size": 3350016,
+        "mtime_ns": 1767811722330310600,
+        "method": "copy"
+      },
+      "ucrtbase.dll": {
+        "size": 1373296,
+        "mtime_ns": 1767811722330310600,
+        "method": "copy"
+      },
+      "vcruntime140.dll": {
+        "size": 124544,
+        "mtime_ns": 1767817664014837200,
+        "method": "copy"
+      },
+      "vcruntime140_1.dll": {
+        "size": 49792,
+        "mtime_ns": 1767815547483751300,
+        "method": "copy"
+      },
+      "WebClient.exe": {
+        "size": 2365952,
+        "mtime_ns": 1767811722330310600,
+        "method": "copy"
+      },
+      "ws_xp3id.txt": {
+        "size": 12,
+        "mtime_ns": 1767817274322150000,
+        "method": "copy"
+      },
+      "xboxservices.config": {
+        "size": 102,
+        "mtime_ns": 1767817538421489700,
+        "method": "copy"
+      },
+      "xbsc_xs.dll": {
+        "size": 16851480,
+        "mtime_ns": 1767811722330310600,
+        "method": "copy"
+      },
+      "Xceed.Wpf.AvalonDock.dll": {
+        "size": 422912,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "Xceed.Wpf.Toolkit.dll": {
+        "size": 1080832,
+        "mtime_ns": 1793293976000000000,
+        "method": "copy"
+      },
+      "xg.dll": {
+        "size": 206400,
+        "mtime_ns": 1767816472515327200,
+        "method": "copy"
+      },
+      "xg_xs.dll": {
+        "size": 546368,
+        "mtime_ns": 1767811722330310600,
+        "method": "copy"
+      }
+    },
+    "junctions": {
+      "cardinal": "E:\\Games\\steamapps\\common\\Age of Empires IV\\cardinal",
+      "common": "E:\\Games\\steamapps\\common\\Age of Empires IV\\common",
+      "Craig_Mullins_Compilation_Banner": "E:\\Games\\steamapps\\common\\Age of Empires IV\\Craig_Mullins_Compilation_Banner",
+      "de": "E:\\Games\\steamapps\\common\\Age of Empires IV\\de",
+      "engine": "E:\\Games\\steamapps\\common\\Age of Empires IV\\engine",
+      "es": "E:\\Games\\steamapps\\common\\Age of Empires IV\\es",
+      "fr": "E:\\Games\\steamapps\\common\\Age of Empires IV\\fr",
+      "hu": "E:\\Games\\steamapps\\common\\Age of Empires IV\\hu",
+      "it": "E:\\Games\\steamapps\\common\\Age of Empires IV\\it",
+      "lib": "E:\\Games\\steamapps\\common\\Age of Empires IV\\lib",
+      "licences": "E:\\Games\\steamapps\\common\\Age of Empires IV\\licences",
+      "pt-BR": "E:\\Games\\steamapps\\common\\Age of Empires IV\\pt-BR",
+      "ro": "E:\\Games\\steamapps\\common\\Age of Empires IV\\ro",
+      "ru": "E:\\Games\\steamapps\\common\\Age of Empires IV\\ru",
+      "scardocs": "E:\\Games\\steamapps\\common\\Age of Empires IV\\scardocs",
+      "sv": "E:\\Games\\steamapps\\common\\Age of Empires IV\\sv",
+      "tools": "E:\\Games\\steamapps\\common\\Age of Empires IV\\tools",
+      "Unit_Counters_Chart": "E:\\Games\\steamapps\\common\\Age of Empires IV\\Unit_Counters_Chart",
+      "zh-Hans": "E:\\Games\\steamapps\\common\\Age of Empires IV\\zh-Hans"
+    },
+    "removal": "Use remove_overlay; a plain recursive delete can follow junctions into the game."
+  },
+  "native_cook": "not run yet"
+}

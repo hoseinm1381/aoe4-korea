@@ -1,0 +1,3966 @@
+[
+  {
+    "asset": "kr_archer_a2",
+    "stem": "art/kr013/units/kr_archer_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6c4e8857caca40a923135dba93ed0ccf67c8e305ab0379c13865dacd40ba365c.png",
+        "sha256": "6c4e8857caca40a923135dba93ed0ccf67c8e305ab0379c13865dacd40ba365c",
+        "bytes": 209920,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d0c131f1e45aa3d59db176207e8fc19a33c7de0b4df9589f0d301ebb06b56a5b.png",
+        "sha256": "d0c131f1e45aa3d59db176207e8fc19a33c7de0b4df9589f0d301ebb06b56a5b",
+        "bytes": 3373,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_ranged_bow_age02/14777417877175652282_packed.rrtex",
+    "stock_pattern_sha256": "0cb9a8c2f5f8fc869c5994a4ce9128d9fa722e2431fcbfd9d5e799816d4fe84a",
+    "stock_model": "art/civilizations/chinese/humans/chi_ranged_bow_age02/chi_ranged_bow_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_archer_a3",
+    "stem": "art/kr013/units/kr_archer_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/696000b7c12d16edf180e25d6530c06c8a6e31d88258229dd14e66a11ebffb39.png",
+        "sha256": "696000b7c12d16edf180e25d6530c06c8a6e31d88258229dd14e66a11ebffb39",
+        "bytes": 252775,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6321b15c90970b52e18647b01f3513b53bbb58b8c5181ca947a9cb56693afc08.png",
+        "sha256": "6321b15c90970b52e18647b01f3513b53bbb58b8c5181ca947a9cb56693afc08",
+        "bytes": 3749,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_ranged_bow_age03/13717966291387388284_packed.rrtex",
+    "stock_pattern_sha256": "5b8e59310438e1b8d9ea94d9b0273badb7e72bca48a28c88ef97abc8cedd4606",
+    "stock_model": "art/civilizations/chinese/humans/chi_ranged_bow_age03/chi_ranged_bow_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_archer_a4",
+    "stem": "art/kr013/units/kr_archer_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6b1ae9c1ac6543772492b03a6df768a0040eef4628d5aa01caafc20f6e4af8e9.png",
+        "sha256": "6b1ae9c1ac6543772492b03a6df768a0040eef4628d5aa01caafc20f6e4af8e9",
+        "bytes": 261012,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/bd385d544089530333299a37175206314782de3e8235610e0842b079bcbed5e9.png",
+        "sha256": "bd385d544089530333299a37175206314782de3e8235610e0842b079bcbed5e9",
+        "bytes": 3877,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_ranged_bow_age04/10229585464310535098_packed.rrtex",
+    "stock_pattern_sha256": "a8c3938d0704b957e70fcbade7a4f52713e55cbceefa33a772c9f356a1399425",
+    "stock_model": "art/civilizations/chinese/humans/chi_ranged_bow_age04/chi_ranged_bow_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_crossbowman_a3",
+    "stem": "art/kr013/units/kr_crossbowman_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/d732f0628a04f288c7d39cd8b052d4faa5c53dd5dcc5a42c0e14e5d521344592.png",
+        "sha256": "d732f0628a04f288c7d39cd8b052d4faa5c53dd5dcc5a42c0e14e5d521344592",
+        "bytes": 264012,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/b9bd87464ed9426af1fd48be6fbd6651f2253ca4896019d029d8c3e7b96fad1d.png",
+        "sha256": "b9bd87464ed9426af1fd48be6fbd6651f2253ca4896019d029d8c3e7b96fad1d",
+        "bytes": 2772,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_ranged_crossbow_age03/2514684928092202980_packed.rrtex",
+    "stock_pattern_sha256": "a8ab223264fbddd2111fdc61165631fdb71b02fde3fffeec5cab3ad8cdcdc606",
+    "stock_model": "art/civilizations/chinese/humans/chi_ranged_crossbow_age03/chi_ranged_crossbow_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_crossbowman_a4",
+    "stem": "art/kr013/units/kr_crossbowman_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/94f9672f2d601c7d140296069db328c89e56ae108abf292a6b45b0eb00d5490f.png",
+        "sha256": "94f9672f2d601c7d140296069db328c89e56ae108abf292a6b45b0eb00d5490f",
+        "bytes": 254195,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/66797d5af26c15d11aecb854ed695a09157f0e8aabeaf027bed8754034174137.png",
+        "sha256": "66797d5af26c15d11aecb854ed695a09157f0e8aabeaf027bed8754034174137",
+        "bytes": 3706,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_ranged_crossbow_age04/18385120474782357780_packed.rrtex",
+    "stock_pattern_sha256": "77895ec4667b012fe026f9633daeb012bd06bc6e151d8fa320d3c345f8a66660",
+    "stock_model": "art/civilizations/chinese/humans/chi_ranged_crossbow_age04/chi_ranged_crossbow_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_gapsa_a3",
+    "stem": "art/kr013/units/kr_gapsa_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/0c53d87fb383406581cd8066dacc5f6e236d072eb96ec7af97ee7a29bb8c8601.png",
+        "sha256": "0c53d87fb383406581cd8066dacc5f6e236d072eb96ec7af97ee7a29bb8c8601",
+        "bytes": 289465,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.png",
+        "sha256": "30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e",
+        "bytes": 3282,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_armor_age03/12669140150506319459_packed.rrtex",
+    "stock_pattern_sha256": "a64065fdc4c93d283f205c3a95683e56217ae1d86a512dafe619c3c50666aa5a",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_gapsa_a4",
+    "stem": "art/kr013/units/kr_gapsa_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/072646bbb16e85e4980c20f1c3dc6d213f2f8969d8714a80a34ef069b9c58bfa.png",
+        "sha256": "072646bbb16e85e4980c20f1c3dc6d213f2f8969d8714a80a34ef069b9c58bfa",
+        "bytes": 286695,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.png",
+        "sha256": "832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7",
+        "bytes": 3863,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_armor_age04/2281915942806076457_packed.rrtex",
+    "stock_pattern_sha256": "da5838376df9f3ce86b82b49c122e6b4e23d2a99ac29f0553e445edc3a576acd",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_armor_age04/chi_infantry_armor_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_handcannoneer_a4",
+    "stem": "art/kr013/units/kr_handcannoneer_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/ab9c528a8b88d861be6990a690cd9d90bf1da2b522a4207f98d6fe2386d0f9b1.png",
+        "sha256": "ab9c528a8b88d861be6990a690cd9d90bf1da2b522a4207f98d6fe2386d0f9b1",
+        "bytes": 239316,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/dc9cbb81d52828000c6e59f39ceb44f3712d3f81f4bf09f0b52a09d839e0fe87.png",
+        "sha256": "dc9cbb81d52828000c6e59f39ceb44f3712d3f81f4bf09f0b52a09d839e0fe87",
+        "bytes": 3333,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_ranged_cannoneer_age04/7658072223200955804_packed.rrtex",
+    "stock_pattern_sha256": "38f9f4be3887988d124ded59c83d1929e65f43d48865a7efec2e09637d27cd6e",
+    "stock_model": "art/civilizations/chinese/humans/chi_ranged_cannoneer_age04/chi_ranged_cannoneer_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_horseman_a2",
+    "stem": "art/kr013/units/kr_horseman_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/b2ad37f6ffd91eaf8bf9caf8ad541a6c4308a8c3c70583e7e6a5268e9210b95d.png",
+        "sha256": "b2ad37f6ffd91eaf8bf9caf8ad541a6c4308a8c3c70583e7e6a5268e9210b95d",
+        "bytes": 251518,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8.png",
+        "sha256": "1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8",
+        "bytes": 3310,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_light_age02/8776599764531495223_packed.rrtex",
+    "stock_pattern_sha256": "3ebefca142d6c1b0f250d5400df2199ad4cf507cb6db9e2e2a70e20eb026ea0a",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_light_age02/chi_cavalry_light_age02",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "metarig_root",
+      "root_after": "gaia_root",
+      "skin_bones": 46,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age02/chi_horse_combined_light_age02",
+      "donor_sha256": "a516cdfcbe2a7682617248292ed22a4d31d24bd20820ebd06bc04e398d830a38",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_horseman_a3",
+    "stem": "art/kr013/units/kr_horseman_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/e1ff278090b5b52294e3725dcac49e62b9f2cb76f9ee604dbf229db9960ef575.png",
+        "sha256": "e1ff278090b5b52294e3725dcac49e62b9f2cb76f9ee604dbf229db9960ef575",
+        "bytes": 297792,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947.png",
+        "sha256": "0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947",
+        "bytes": 3540,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_light_age03/1258812421430060549_packed.rrtex",
+    "stock_pattern_sha256": "1c7c61dc28412c9d0aa2a34246773657b35b118abd9b6fedbe1be94587c8c44f",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_light_age03/chi_cavalry_light_age03",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "metarig_root",
+      "root_after": "gaia_root",
+      "skin_bones": 46,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age03/chi_horse_combined_light_age03",
+      "donor_sha256": "57e46b755ad3fec39f96649092da45334753bc0f5ba5c1e84e70257ae1d9cb21",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_horseman_a4",
+    "stem": "art/kr013/units/kr_horseman_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/f9d57a42be5bd6a211c30b4287be9750940ad0914dd97c338077c3e1b417bc4d.png",
+        "sha256": "f9d57a42be5bd6a211c30b4287be9750940ad0914dd97c338077c3e1b417bc4d",
+        "bytes": 336439,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57.png",
+        "sha256": "f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57",
+        "bytes": 3521,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_light_age04/6282388786480985990_packed.rrtex",
+    "stock_pattern_sha256": "375ea7f36b10c098c72fcd4aff72a7d52fc24405eb6891e2cb93ffb3353b5cb8",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_light_age04/chi_cavalry_light_age04",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "metarig_root",
+      "root_after": "gaia_root",
+      "skin_bones": 46,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age04/chi_horse_combined_light_age04",
+      "donor_sha256": "7f4424c4505f653754dfcea718c7f4819249caf58d67e2c1542ec2075a56b033",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a2",
+    "stem": "art/kr013/units/kr_hwarang_dismounted_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6c0cee4bada4ff060550b273d5c8d9448d26a643ebefffb0d7d6fbd198cdc27d.png",
+        "sha256": "6c0cee4bada4ff060550b273d5c8d9448d26a643ebefffb0d7d6fbd198cdc27d",
+        "bytes": 289589,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.png",
+        "sha256": "30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e",
+        "bytes": 3282,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_armor_age03/12669140150506319459_packed.rrtex",
+    "stock_pattern_sha256": "a64065fdc4c93d283f205c3a95683e56217ae1d86a512dafe619c3c50666aa5a",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a3",
+    "stem": "art/kr013/units/kr_hwarang_dismounted_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6c0cee4bada4ff060550b273d5c8d9448d26a643ebefffb0d7d6fbd198cdc27d.png",
+        "sha256": "6c0cee4bada4ff060550b273d5c8d9448d26a643ebefffb0d7d6fbd198cdc27d",
+        "bytes": 289589,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.png",
+        "sha256": "30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e",
+        "bytes": 3282,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_armor_age03/12669140150506319459_packed.rrtex",
+    "stock_pattern_sha256": "a64065fdc4c93d283f205c3a95683e56217ae1d86a512dafe619c3c50666aa5a",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_hwarang_dismounted_a4",
+    "stem": "art/kr013/units/kr_hwarang_dismounted_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/cdeb3592fa9c9c0b77b2460ae4f1e8cc68ea3059ed037df4810fe65b1524ff96.png",
+        "sha256": "cdeb3592fa9c9c0b77b2460ae4f1e8cc68ea3059ed037df4810fe65b1524ff96",
+        "bytes": 286772,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.png",
+        "sha256": "832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7",
+        "bytes": 3863,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_armor_age04/2281915942806076457_packed.rrtex",
+    "stock_pattern_sha256": "da5838376df9f3ce86b82b49c122e6b4e23d2a99ac29f0553e445edc3a576acd",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_armor_age04/chi_infantry_armor_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_hwarang_mounted_a2",
+    "stem": "art/kr013/units/kr_hwarang_mounted_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/a1be4b3bb42f112c2b41c46391dbff9c9561a9eb0893e359cc24df246e5cf6e8.png",
+        "sha256": "a1be4b3bb42f112c2b41c46391dbff9c9561a9eb0893e359cc24df246e5cf6e8",
+        "bytes": 251384,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8.png",
+        "sha256": "1937eed8b5764ea9c13145fdf2771c64e75d57c822706a8661b4d2f92e5d9ef8",
+        "bytes": 3310,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_light_age02/8776599764531495223_packed.rrtex",
+    "stock_pattern_sha256": "3ebefca142d6c1b0f250d5400df2199ad4cf507cb6db9e2e2a70e20eb026ea0a",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_light_age02/chi_cavalry_light_age02",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "metarig_root",
+      "root_after": "gaia_root",
+      "skin_bones": 46,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age02/chi_horse_combined_light_age02",
+      "donor_sha256": "a516cdfcbe2a7682617248292ed22a4d31d24bd20820ebd06bc04e398d830a38",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_hwarang_mounted_a3",
+    "stem": "art/kr013/units/kr_hwarang_mounted_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/04a133a6289a565e2c9105cd59f92bdda8a421ededcc4985ac26538db79aea63.png",
+        "sha256": "04a133a6289a565e2c9105cd59f92bdda8a421ededcc4985ac26538db79aea63",
+        "bytes": 297653,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947.png",
+        "sha256": "0d3dc610f758cdcf5908c4df2b8ae2a2065c3667c4fdfce80bdf26f186f82947",
+        "bytes": 3540,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_light_age03/1258812421430060549_packed.rrtex",
+    "stock_pattern_sha256": "1c7c61dc28412c9d0aa2a34246773657b35b118abd9b6fedbe1be94587c8c44f",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_light_age03/chi_cavalry_light_age03",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "metarig_root",
+      "root_after": "gaia_root",
+      "skin_bones": 46,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age03/chi_horse_combined_light_age03",
+      "donor_sha256": "57e46b755ad3fec39f96649092da45334753bc0f5ba5c1e84e70257ae1d9cb21",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_hwarang_mounted_a4",
+    "stem": "art/kr013/units/kr_hwarang_mounted_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/30315ed5e7edbe1a3e0ee7728194d303cb32aa02b59f39c93fcdd3d8b080453c.png",
+        "sha256": "30315ed5e7edbe1a3e0ee7728194d303cb32aa02b59f39c93fcdd3d8b080453c",
+        "bytes": 336328,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57.png",
+        "sha256": "f80dc3888e0ededb9ee8d953966657758b124ab00fdb17b75ea9e27ff5775e57",
+        "bytes": 3521,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_light_age04/6282388786480985990_packed.rrtex",
+    "stock_pattern_sha256": "375ea7f36b10c098c72fcd4aff72a7d52fc24405eb6891e2cb93ffb3353b5cb8",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_light_age04/chi_cavalry_light_age04",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "metarig_root",
+      "root_after": "gaia_root",
+      "skin_bones": 46,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age04/chi_horse_combined_light_age04",
+      "donor_sha256": "7f4424c4505f653754dfcea718c7f4819249caf58d67e2c1542ec2075a56b033",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_lancer_a3",
+    "stem": "art/kr013/units/kr_lancer_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/501315fa69b0ae767781c829834ae4d4f99f8c43ba18001e8b75ce48bde40499.png",
+        "sha256": "501315fa69b0ae767781c829834ae4d4f99f8c43ba18001e8b75ce48bde40499",
+        "bytes": 323484,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/35ab20ef7863deb25d3eda7e0db1b230bd429b7c1eb5c8ad086913371567a7c2.png",
+        "sha256": "35ab20ef7863deb25d3eda7e0db1b230bd429b7c1eb5c8ad086913371567a7c2",
+        "bytes": 2770,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_armor_age03/8741359878091584731_packed.rrtex",
+    "stock_pattern_sha256": "f8746ef35beb29252d764e9f7e37c32bd570869ac6fb0689d7321c869bbce194",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_armor_age03/chi_cavalry_armor_age03",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "metarig_root",
+      "root_after": "gaia_root",
+      "skin_bones": 46,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_armor_age03/chi_horse_combined_armor_age03",
+      "donor_sha256": "deb5af178cef7e1d8109b9c04222ff009d8cc32df438e868af181737b31de869",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_lancer_a4",
+    "stem": "art/kr013/units/kr_lancer_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/283dfc70a977da828de65657844f23c3415ae499a1c2a13524b9a22dac86f2bc.png",
+        "sha256": "283dfc70a977da828de65657844f23c3415ae499a1c2a13524b9a22dac86f2bc",
+        "bytes": 280728,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/9f8ea9f057d6bb22426bbdfc2fe98be96da7e5d75662382f1790ffb2c1da4dc7.png",
+        "sha256": "9f8ea9f057d6bb22426bbdfc2fe98be96da7e5d75662382f1790ffb2c1da4dc7",
+        "bytes": 3041,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_armor_age04/16333969111650150750_packed.rrtex",
+    "stock_pattern_sha256": "63fa56c3804c9e1e7f189180d60eb24f8f8f9055d296a0e759b574e0975098f6",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_armor_age04/chi_cavalry_armor_age04",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "metarig_root",
+      "root_after": "gaia_root",
+      "skin_bones": 46,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_armor_age04/chi_horse_combined_armor_age04",
+      "donor_sha256": "b8033d4f579e0517a0d7b2aed8f68911ec8428a0e3a79cf7d00f4d0e1c168bb4",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_monk_a3",
+    "stem": "art/kr013/units/kr_monk_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/542255766bdc41276bab4200a72138b0f5fcb30436fdba4b2959ca2104406a77.png",
+        "sha256": "542255766bdc41276bab4200a72138b0f5fcb30436fdba4b2959ca2104406a77",
+        "bytes": 161414,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f.png",
+        "sha256": "64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f",
+        "bytes": 3117,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age03/8958691944173926781_packed.rrtex",
+    "stock_pattern_sha256": "5e4abd8f9e365bdc7c198cd1979096c4e62ae7cbfcf3c5c63d47e2b16e4bbc4d",
+    "stock_model": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age03/chi_infantry_monk_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_monk_a4",
+    "stem": "art/kr013/units/kr_monk_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/3a4d6ceec77df7a7ed16bde33faae61f36e66cfdb88cfaf3c313619d74ae19df.png",
+        "sha256": "3a4d6ceec77df7a7ed16bde33faae61f36e66cfdb88cfaf3c313619d74ae19df",
+        "bytes": 222082,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee.png",
+        "sha256": "b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee",
+        "bytes": 3044,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age04/2767671583164743019_packed.rrtex",
+    "stock_pattern_sha256": "4397a05633965545de8ab24ad21ccf4017bd904d268ccce70c975f4c2bc5c0d4",
+    "stock_model": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age04/chi_infantry_monk_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_mount_horseman_a2",
+    "stem": "art/kr013/units/kr_mount_horseman_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/f0853d19a8694c0ba21691b7165c73fca13dd1df81c51e091115422759b64812.png",
+        "sha256": "f0853d19a8694c0ba21691b7165c73fca13dd1df81c51e091115422759b64812",
+        "bytes": 277861,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_light_age02/1926264957567875840_packed.rrtex",
+    "stock_pattern_sha256": "97355326c8ce08b64747fa87281e595ff6ef8f4be7f7325090e89a8e0d7b691b",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_light_age02/chi_horse_light_age02",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "gaia_root",
+      "root_after": "gaia_root",
+      "skin_bones": 59,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age02/chi_horse_combined_light_age02",
+      "donor_sha256": "a516cdfcbe2a7682617248292ed22a4d31d24bd20820ebd06bc04e398d830a38",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_mount_horseman_a3",
+    "stem": "art/kr013/units/kr_mount_horseman_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/90295dfec7989a7dddc41299f04cb3fabd4ab171bb8b17ac15592fd0ea5deec2.png",
+        "sha256": "90295dfec7989a7dddc41299f04cb3fabd4ab171bb8b17ac15592fd0ea5deec2",
+        "bytes": 292246,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_light_age03/13639108864263318337_packed.rrtex",
+    "stock_pattern_sha256": "e90d07c5d92f1106468597f9ae7d17393afe7914f9e8ddac2cde9897a41a56a4",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_light_age03/chi_horse_light_age03",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "gaia_root",
+      "root_after": "gaia_root",
+      "skin_bones": 64,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age03/chi_horse_combined_light_age03",
+      "donor_sha256": "57e46b755ad3fec39f96649092da45334753bc0f5ba5c1e84e70257ae1d9cb21",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_mount_horseman_a4",
+    "stem": "art/kr013/units/kr_mount_horseman_a4/model",
+    "atlas": {
+      "native_u_domain": 1.9921875,
+      "native_u_scale": 0.37145098039215685,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/2da3964a3d2bcc871b541ef94aa5e260a99ed4f3c64708a50a99e15b4f04345e.png",
+        "sha256": "2da3964a3d2bcc871b541ef94aa5e260a99ed4f3c64708a50a99e15b4f04345e",
+        "bytes": 315376,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_light_age04/14360199327491671233_packed.rrtex",
+    "stock_pattern_sha256": "1e6336f4907e50a8eb6207833d5bc51e362fca420d957054b07c5f130f2a9786",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_light_age04/chi_horse_light_age04",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "gaia_root",
+      "root_after": "gaia_root",
+      "skin_bones": 64,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age04/chi_horse_combined_light_age04",
+      "donor_sha256": "7f4424c4505f653754dfcea718c7f4819249caf58d67e2c1542ec2075a56b033",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_mount_hwarang_a2",
+    "stem": "art/kr013/units/kr_mount_hwarang_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/aae54a75be714bd41797adfbd4e9bf05c87bdd1dd6b7066fb4089eccb23e7eb5.png",
+        "sha256": "aae54a75be714bd41797adfbd4e9bf05c87bdd1dd6b7066fb4089eccb23e7eb5",
+        "bytes": 277885,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_light_age02/1926264957567875840_packed.rrtex",
+    "stock_pattern_sha256": "97355326c8ce08b64747fa87281e595ff6ef8f4be7f7325090e89a8e0d7b691b",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_light_age02/chi_horse_light_age02",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "gaia_root",
+      "root_after": "gaia_root",
+      "skin_bones": 59,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age02/chi_horse_combined_light_age02",
+      "donor_sha256": "a516cdfcbe2a7682617248292ed22a4d31d24bd20820ebd06bc04e398d830a38",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_mount_hwarang_a3",
+    "stem": "art/kr013/units/kr_mount_hwarang_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/43a6c703a605578a8e83e54810bd591f7e62444f804fe68a5178aa72452c9c6d.png",
+        "sha256": "43a6c703a605578a8e83e54810bd591f7e62444f804fe68a5178aa72452c9c6d",
+        "bytes": 292270,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_light_age03/13639108864263318337_packed.rrtex",
+    "stock_pattern_sha256": "e90d07c5d92f1106468597f9ae7d17393afe7914f9e8ddac2cde9897a41a56a4",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_light_age03/chi_horse_light_age03",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "gaia_root",
+      "root_after": "gaia_root",
+      "skin_bones": 64,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age03/chi_horse_combined_light_age03",
+      "donor_sha256": "57e46b755ad3fec39f96649092da45334753bc0f5ba5c1e84e70257ae1d9cb21",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_mount_hwarang_a4",
+    "stem": "art/kr013/units/kr_mount_hwarang_a4/model",
+    "atlas": {
+      "native_u_domain": 1.9921875,
+      "native_u_scale": 0.37145098039215685,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/2e366d133770352c74a2abc16a2b322b2ebb79f8682437206964dc36267b7040.png",
+        "sha256": "2e366d133770352c74a2abc16a2b322b2ebb79f8682437206964dc36267b7040",
+        "bytes": 315401,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_light_age04/14360199327491671233_packed.rrtex",
+    "stock_pattern_sha256": "1e6336f4907e50a8eb6207833d5bc51e362fca420d957054b07c5f130f2a9786",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_light_age04/chi_horse_light_age04",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "gaia_root",
+      "root_after": "gaia_root",
+      "skin_bones": 64,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_light_age04/chi_horse_combined_light_age04",
+      "donor_sha256": "7f4424c4505f653754dfcea718c7f4819249caf58d67e2c1542ec2075a56b033",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_mount_lancer_a3",
+    "stem": "art/kr013/units/kr_mount_lancer_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6d013cfb6330d66e29e12c1944a3b622fa317fb9c8933110607597ca72816374.png",
+        "sha256": "6d013cfb6330d66e29e12c1944a3b622fa317fb9c8933110607597ca72816374",
+        "bytes": 310334,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_armor_age03/13478927191940709097_packed.rrtex",
+    "stock_pattern_sha256": "5cf84bf29935c08ef603db2cc1b35eb9928e53dac5aadb9023c143038af3e254",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_armor_age03/chi_horse_armor_age03",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "gaia_root",
+      "root_after": "gaia_root",
+      "skin_bones": 67,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_armor_age03/chi_horse_combined_armor_age03",
+      "donor_sha256": "deb5af178cef7e1d8109b9c04222ff009d8cc32df438e868af181737b31de869",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_mount_lancer_a4",
+    "stem": "art/kr013/units/kr_mount_lancer_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/9c711e465f1042b62987f14be82f2ed44ab518d6518891a663cc8cd467c1cd37.png",
+        "sha256": "9c711e465f1042b62987f14be82f2ed44ab518d6518891a663cc8cd467c1cd37",
+        "bytes": 328360,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_armor_age04/15970247664870446310_packed.rrtex",
+    "stock_pattern_sha256": "ce0afdf17b3cdf2c8a97f65c29ed626d50a6bab7a6ccddcc75abd1445498a61b",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_armor_age04/chi_horse_armor_age04",
+    "mask_mode": "restore_stock_owner",
+    "cavalry": {
+      "root_before": "gaia_root",
+      "root_after": "gaia_root",
+      "skin_bones": 67,
+      "owner_bones": 127,
+      "combined_donor": "art/civilizations/chinese/animals/chi_horse_combined_armor_age04/chi_horse_combined_armor_age04",
+      "donor_sha256": "b8033d4f579e0517a0d7b2aed8f68911ec8428a0e3a79cf7d00f4d0e1c168bb4",
+      "geometry_unchanged": true
+    }
+  },
+  {
+    "asset": "kr_mount_scout_a1",
+    "stem": "art/kr013/units/kr_mount_scout_a1/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/9c2aaff2085567fcad1ae69e9a083f79fb488b987d7023777b16349e405f9584.png",
+        "sha256": "9c2aaff2085567fcad1ae69e9a083f79fb488b987d7023777b16349e405f9584",
+        "bytes": 294588,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_scout_age01/1026516946841857693_packed.rrtex",
+    "stock_pattern_sha256": "a67555983cbacc605b6bdc986b814f113e51c994a9e66dae5fa458287680d2ba",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_scout_age01/chi_horse_scout_age01",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_mount_scout_a2",
+    "stem": "art/kr013/units/kr_mount_scout_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/39c6d46ac1446dd6edcd300b1c40ef9a79528ae636c00d5fb5512d86304ba294.png",
+        "sha256": "39c6d46ac1446dd6edcd300b1c40ef9a79528ae636c00d5fb5512d86304ba294",
+        "bytes": 290287,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_scout_age02/888594074735451061_packed.rrtex",
+    "stock_pattern_sha256": "2709449d459d9b4ab6d10a303da262de7fb94e6de2c04692aacec518b68dc96b",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_scout_age02/chi_horse_scout_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_mount_scout_a3",
+    "stem": "art/kr013/units/kr_mount_scout_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/9c2aaff2085567fcad1ae69e9a083f79fb488b987d7023777b16349e405f9584.png",
+        "sha256": "9c2aaff2085567fcad1ae69e9a083f79fb488b987d7023777b16349e405f9584",
+        "bytes": 294588,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_scout_age03/5085747574170977346_packed.rrtex",
+    "stock_pattern_sha256": "81d385d82257c891ef7b17b466e7a60cf0f7302f86598da733f911d516c2f22a",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_scout_age03/chi_horse_scout_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_mount_scout_a4",
+    "stem": "art/kr013/units/kr_mount_scout_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/9c2aaff2085567fcad1ae69e9a083f79fb488b987d7023777b16349e405f9584.png",
+        "sha256": "9c2aaff2085567fcad1ae69e9a083f79fb488b987d7023777b16349e405f9584",
+        "bytes": 294588,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_scout_age04/5894687296282110919_packed.rrtex",
+    "stock_pattern_sha256": "caa71d46c405fa97c29124e14bd7a268cf223b6d8a6c5330bd496b5d30438f4e",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_scout_age04/chi_horse_scout_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_mount_trader_a2",
+    "stem": "art/kr013/units/kr_mount_trader_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/778024cf27d41d09f54039516b819133b2725522eb55483ca8eaa3c79dd52c61.png",
+        "sha256": "778024cf27d41d09f54039516b819133b2725522eb55483ca8eaa3c79dd52c61",
+        "bytes": 297933,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_trade_age02/429569063330943039_packed.rrtex",
+    "stock_pattern_sha256": "9b6810a530ed8a121803a586f0d4cdaff6fce761d6fbb51c238665b34ac4a012",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_trade_age02/chi_horse_trade_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_mount_trader_a3",
+    "stem": "art/kr013/units/kr_mount_trader_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/1b29fd29159811ff57413fdf4b8648b5a8fad3676128af7ffddce5df0ca87868.png",
+        "sha256": "1b29fd29159811ff57413fdf4b8648b5a8fad3676128af7ffddce5df0ca87868",
+        "bytes": 295598,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_trade_age03/12757120072105541272_packed.rrtex",
+    "stock_pattern_sha256": "196aeda5846a542f6c761cbc4eb425ac414fbc5d460f95f85989f608667421a1",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_trade_age03/chi_horse_trade_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_mount_trader_a4",
+    "stem": "art/kr013/units/kr_mount_trader_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0087890625,
+      "native_u_scale": 0.7335527589545014,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/4afb7aa4c4759a2de0d4c4ba42b5c466ae8dd9a812fd86221f8bc6014e726e6c.png",
+        "sha256": "4afb7aa4c4759a2de0d4c4ba42b5c466ae8dd9a812fd86221f8bc6014e726e6c",
+        "bytes": 301112,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/animals/chi_horse_trade_age04/2568637098745644070_packed.rrtex",
+    "stock_pattern_sha256": "fa74e6252b96e5b198ce9a29c63953b57c04b2a669f382f17afee35713b42175",
+    "stock_model": "art/civilizations/chinese/animals/chi_horse_trade_age04/chi_horse_trade_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_righteous_army_monk_a3",
+    "stem": "art/kr013/units/kr_righteous_army_monk_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/c80c2cccbf54499c15f770ddec064c6f0be5bcebe6345ada9ba1bfacd9794a4f.png",
+        "sha256": "c80c2cccbf54499c15f770ddec064c6f0be5bcebe6345ada9ba1bfacd9794a4f",
+        "bytes": 161575,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f.png",
+        "sha256": "64ca5e60df0e13d43439060923eb7ca5b007f199fbfd012a9df9285a365c340f",
+        "bytes": 3117,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age03/8958691944173926781_packed.rrtex",
+    "stock_pattern_sha256": "5e4abd8f9e365bdc7c198cd1979096c4e62ae7cbfcf3c5c63d47e2b16e4bbc4d",
+    "stock_model": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age03/chi_infantry_monk_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_righteous_army_monk_a4",
+    "stem": "art/kr013/units/kr_righteous_army_monk_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/5641903cc6696fc32042d8636227575a5081f112ecb80be9a3acbb251ca4d179.png",
+        "sha256": "5641903cc6696fc32042d8636227575a5081f112ecb80be9a3acbb251ca4d179",
+        "bytes": 222232,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee.png",
+        "sha256": "b0d2edb154a6ade165fa240ee3932c1cec5cda6f00bb09230bcca69389a4e9ee",
+        "bytes": 3044,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age04/2767671583164743019_packed.rrtex",
+    "stock_pattern_sha256": "4397a05633965545de8ab24ad21ccf4017bd904d268ccce70c975f4c2bc5c0d4",
+    "stock_model": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age04/chi_infantry_monk_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_scout_a1",
+    "stem": "art/kr013/units/kr_scout_a1/model",
+    "atlas": {
+      "native_u_domain": 1.001953125,
+      "native_u_scale": 0.7385575048732943,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/62822ec1074e96f73212fba23b5c85f0d413cb7053ddfc55dc84bb7883b7ffef.png",
+        "sha256": "62822ec1074e96f73212fba23b5c85f0d413cb7053ddfc55dc84bb7883b7ffef",
+        "bytes": 288164,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/e01f8128980fab054ce4616e960ac82b2b0672d258d67440f50c96070a09152c.png",
+        "sha256": "e01f8128980fab054ce4616e960ac82b2b0672d258d67440f50c96070a09152c",
+        "bytes": 2935,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_scout_age01/471156931479683127_packed.rrtex",
+    "stock_pattern_sha256": "6b851d77c1325c91ff7550ef08468fccbac395e57af9e6ef3b1df1eb27e584fb",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_scout_age01/chi_cavalry_scout_age01",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_scout_a2",
+    "stem": "art/kr013/units/kr_scout_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/62d4b136668ff86587c437aaac3c5493e97199b0f2c2254c9073805007ce0d29.png",
+        "sha256": "62d4b136668ff86587c437aaac3c5493e97199b0f2c2254c9073805007ce0d29",
+        "bytes": 234956,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/eb5fadc157547576d52c5c2e70c8fcd745b974ac47a6fb2afbe77fc14645648f.png",
+        "sha256": "eb5fadc157547576d52c5c2e70c8fcd745b974ac47a6fb2afbe77fc14645648f",
+        "bytes": 3838,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_scout_age02/1337749121734570637_packed.rrtex",
+    "stock_pattern_sha256": "aa9e93eff0d56fae2b12b154d0eb2a8a7fe4883004217fb6db945409549a4535",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_scout_age02/chi_cavalry_scout_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_scout_a3",
+    "stem": "art/kr013/units/kr_scout_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/59011fb92e051215cb3da465b37d81785db6316427c77fffbfa97cf0c402085f.png",
+        "sha256": "59011fb92e051215cb3da465b37d81785db6316427c77fffbfa97cf0c402085f",
+        "bytes": 225907,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c.png",
+        "sha256": "d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c",
+        "bytes": 3622,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_scout_age03/10123452877726600987_packed.rrtex",
+    "stock_pattern_sha256": "bf916b96dfd05a099ed39df2356f92c4de575603a1d979f9bf16d00d3076a2eb",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_scout_age03/chi_cavalry_scout_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_scout_a4",
+    "stem": "art/kr013/units/kr_scout_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/b2d0e93cfdedafc685e3472e35aa301ffb3290fe1e8b1284872d64697569ffe0.png",
+        "sha256": "b2d0e93cfdedafc685e3472e35aa301ffb3290fe1e8b1284872d64697569ffe0",
+        "bytes": 222998,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c.png",
+        "sha256": "d34a19ed6f058c4ab17ba203080cce20091d3c84c442e8cc3eb32d578a922e6c",
+        "bytes": 3622,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_scout_age04/270552077974981718_packed.rrtex",
+    "stock_pattern_sha256": "c5f286c0411384e15cb0423e33fb06dd6d5937bbcc0299ff70f3a5d1b20af249",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_scout_age04/chi_cavalry_scout_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_scout_female_a1",
+    "stem": "art/kr013/units/kr_scout_female_a1/model",
+    "atlas": {
+      "native_u_domain": 1.001953125,
+      "native_u_scale": 0.7385575048732943,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/710ea438d33e03fdbb55a57789e495edc7ccd948ac1661a6d76c35de22bf4b18.png",
+        "sha256": "710ea438d33e03fdbb55a57789e495edc7ccd948ac1661a6d76c35de22bf4b18",
+        "bytes": 280139,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/decf4849ff62482244c445cfc3c15b4cd3bbffa88c57ad3ff269b665aa911676.png",
+        "sha256": "decf4849ff62482244c445cfc3c15b4cd3bbffa88c57ad3ff269b665aa911676",
+        "bytes": 3453,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age01/4448604588585156615_packed.rrtex",
+    "stock_pattern_sha256": "cb69adce92d53fc60126951624ce8c022a816133e5a9c5a054ae484c04c7abde",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age01/chi_cavalry_scout_female_age01",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_scout_female_a2",
+    "stem": "art/kr013/units/kr_scout_female_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/a0f0b229cd4e7b8c6cd71e04c55732993ce1fc7d33a4d3362bc2dfe0bacfb6ca.png",
+        "sha256": "a0f0b229cd4e7b8c6cd71e04c55732993ce1fc7d33a4d3362bc2dfe0bacfb6ca",
+        "bytes": 227770,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/eed4dd28cdfd2f546e24dfd427a93567b3a90022e507d7a9e811f2682d8ae597.png",
+        "sha256": "eed4dd28cdfd2f546e24dfd427a93567b3a90022e507d7a9e811f2682d8ae597",
+        "bytes": 3902,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age02/9873713347831736552_packed.rrtex",
+    "stock_pattern_sha256": "4c3076eff645038760bc3787d85a673217c7519631e3c42102e3f34d5f0e2333",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age02/chi_cavalry_scout_female_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_scout_female_a3",
+    "stem": "art/kr013/units/kr_scout_female_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/51c295bf6421c0633046c8ad380f608c56969d1e6c5f62116466d527a282c1cc.png",
+        "sha256": "51c295bf6421c0633046c8ad380f608c56969d1e6c5f62116466d527a282c1cc",
+        "bytes": 226422,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b.png",
+        "sha256": "24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b",
+        "bytes": 3610,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age03/1351876951616831464_packed.rrtex",
+    "stock_pattern_sha256": "7fded00f7218df295db5f3e450469c87b8007db962c45ee0672a5ff3f10455aa",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age03/chi_cavalry_scout_female_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_scout_female_a4",
+    "stem": "art/kr013/units/kr_scout_female_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6155517e7bd9061cd4f6e502c7f3e23166f41d4983fc3d5a426a178d50839613.png",
+        "sha256": "6155517e7bd9061cd4f6e502c7f3e23166f41d4983fc3d5a426a178d50839613",
+        "bytes": 237393,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b.png",
+        "sha256": "24e55b6e810aeb242c30e71118babf44b44a1998361dad994715b8c778aa306b",
+        "bytes": 3610,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age04/6607315792713872681_packed.rrtex",
+    "stock_pattern_sha256": "77caff4cbcdafed44ddc53f7aa18a38c33198a2bcd42b14648f8d4bbb0c3ed6a",
+    "stock_model": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age04/chi_cavalry_scout_female_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_seonbi_a1",
+    "stem": "art/kr013/units/kr_seonbi_a1/model",
+    "atlas": {
+      "native_u_domain": 1.3408203125,
+      "native_u_scale": 0.5519009468317553,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/605a209d200ed60219d95328e9aa4392ed9b6002f332a188d41e05c699db7caa.png",
+        "sha256": "605a209d200ed60219d95328e9aa4392ed9b6002f332a188d41e05c699db7caa",
+        "bytes": 209025,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/251b4d9f7adfc6b36024559cc40cc2b3b37c5e57e2e3dc3901d10842ebe947e2.png",
+        "sha256": "251b4d9f7adfc6b36024559cc40cc2b3b37c5e57e2e3dc3901d10842ebe947e2",
+        "bytes": 3513,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_tax_official_age01/9895157830576544222_packed.rrtex",
+    "stock_pattern_sha256": "f38df980189525f30bba770a2bc541487f631fdb4c98bd4bf807a7e6f57e410d",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_tax_official_age01/chi_villager_tax_official_age01",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_seonbi_a3",
+    "stem": "art/kr013/units/kr_seonbi_a3/model",
+    "atlas": {
+      "native_u_domain": 1.9892578125,
+      "native_u_scale": 0.3719980363279332,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/01a810f9498247cc6e9dbca727851a5a962d0542b765b85a34b2b44cad089dc1.png",
+        "sha256": "01a810f9498247cc6e9dbca727851a5a962d0542b765b85a34b2b44cad089dc1",
+        "bytes": 250694,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/1ee1589384b2d0c43bfdd646ed6fa6f3476a6ee9deb74851cfbda2de4c9eced3.png",
+        "sha256": "1ee1589384b2d0c43bfdd646ed6fa6f3476a6ee9deb74851cfbda2de4c9eced3",
+        "bytes": 3338,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_tax_official_age03/10980829322857968259_packed.rrtex",
+    "stock_pattern_sha256": "eae98c95c021dd669d1d32c8e774769a9d5d00987cf30402183275c6129b3674",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_tax_official_age03/chi_villager_tax_official_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_spearman_a1",
+    "stem": "art/kr013/units/kr_spearman_a1/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/750f8ab6c9f2c7dce44a180aba3792bb6d2f13aaf9e027f83a8f5d6b1d19c700.png",
+        "sha256": "750f8ab6c9f2c7dce44a180aba3792bb6d2f13aaf9e027f83a8f5d6b1d19c700",
+        "bytes": 230492,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d31b72ca658bbd1a9e2c626c03995d86fa69f1980c6b28933c942b2bc5f809e6.png",
+        "sha256": "d31b72ca658bbd1a9e2c626c03995d86fa69f1980c6b28933c942b2bc5f809e6",
+        "bytes": 3050,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_light_age01/16624080413937767113_packed.rrtex",
+    "stock_pattern_sha256": "9f451ae3c4e7aa2457c883779822902e32182a26d362dfe136a665cba3e037a9",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_light_age01/chi_infantry_light_age01",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_spearman_a2",
+    "stem": "art/kr013/units/kr_spearman_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/cc383dfea94c93a1ffa36b137a8aa8938dc38b621cc065532b45082e774eb7aa.png",
+        "sha256": "cc383dfea94c93a1ffa36b137a8aa8938dc38b621cc065532b45082e774eb7aa",
+        "bytes": 217088,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/9862120e88d6a6f2a3dd7942b08e6eae9343b4a9a0ee82839d48a4a2fa08b629.png",
+        "sha256": "9862120e88d6a6f2a3dd7942b08e6eae9343b4a9a0ee82839d48a4a2fa08b629",
+        "bytes": 3598,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_light_age02/13711178958231400631_packed.rrtex",
+    "stock_pattern_sha256": "0c100924cfe12aa1ed4a9beecc942b60f1cf7d4d1e88482f5f5c4fb822ef2b42",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_light_age02/chi_infantry_light_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_spearman_a3",
+    "stem": "art/kr013/units/kr_spearman_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/29dcf9e6b4286f94f14348ce874084d48403b81b812e57540677741fd1801578.png",
+        "sha256": "29dcf9e6b4286f94f14348ce874084d48403b81b812e57540677741fd1801578",
+        "bytes": 280061,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/4ffdc8514bcd41a3961ba27a216948fe839be9f03e4ec0e352bd32252544bd48.png",
+        "sha256": "4ffdc8514bcd41a3961ba27a216948fe839be9f03e4ec0e352bd32252544bd48",
+        "bytes": 3316,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_light_age03/4429453272177159357_packed.rrtex",
+    "stock_pattern_sha256": "2890285eae1536dfd22bc9e8fa26db204a8c4df3af2df9635b7731c120debf3a",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_light_age03/chi_infantry_light_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_spearman_a4",
+    "stem": "art/kr013/units/kr_spearman_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/f122960a84b007e697d94de159191bc897b6607e758741c3cf8fc7037c55589b.png",
+        "sha256": "f122960a84b007e697d94de159191bc897b6607e758741c3cf8fc7037c55589b",
+        "bytes": 284840,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/e610ea408543d8323cf16763fbac85eb5d3173915d19d8692423c36690766c64.png",
+        "sha256": "e610ea408543d8323cf16763fbac85eb5d3173915d19d8692423c36690766c64",
+        "bytes": 3538,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_light_age04/6349753910195472667_packed.rrtex",
+    "stock_pattern_sha256": "86572c983b0b464cc9300218dcc71ed40aba4cdbb0b9edcaba100468ef51941f",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_light_age04/chi_infantry_light_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_tiger_hunter_a2",
+    "stem": "art/kr013/units/kr_tiger_hunter_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6303a0824c3133c6bfbbc4a40e2681905f1691787596c127c0c45ec38cfc10a5.png",
+        "sha256": "6303a0824c3133c6bfbbc4a40e2681905f1691787596c127c0c45ec38cfc10a5",
+        "bytes": 289613,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.png",
+        "sha256": "30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e",
+        "bytes": 3282,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_armor_age03/12669140150506319459_packed.rrtex",
+    "stock_pattern_sha256": "a64065fdc4c93d283f205c3a95683e56217ae1d86a512dafe619c3c50666aa5a",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_tiger_hunter_a3",
+    "stem": "art/kr013/units/kr_tiger_hunter_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6303a0824c3133c6bfbbc4a40e2681905f1691787596c127c0c45ec38cfc10a5.png",
+        "sha256": "6303a0824c3133c6bfbbc4a40e2681905f1691787596c127c0c45ec38cfc10a5",
+        "bytes": 289613,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e.png",
+        "sha256": "30a4d5ee1375ac9205ab5e127ff60361e747e78988b2082a0f3d0509bae1c12e",
+        "bytes": 3282,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_armor_age03/12669140150506319459_packed.rrtex",
+    "stock_pattern_sha256": "a64065fdc4c93d283f205c3a95683e56217ae1d86a512dafe619c3c50666aa5a",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_tiger_hunter_a4",
+    "stem": "art/kr013/units/kr_tiger_hunter_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/b6bd128efcb05c6dc83aa4603cf82fd3a309a8ecceb8c0b7507dbda83430269a.png",
+        "sha256": "b6bd128efcb05c6dc83aa4603cf82fd3a309a8ecceb8c0b7507dbda83430269a",
+        "bytes": 286828,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7.png",
+        "sha256": "832e615eb28b1408f5c1b4d87915d7ef11f743d9df3ab0f977b49307cb2a13a7",
+        "bytes": 3863,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_infantry_armor_age04/2281915942806076457_packed.rrtex",
+    "stock_pattern_sha256": "da5838376df9f3ce86b82b49c122e6b4e23d2a99ac29f0553e445edc3a576acd",
+    "stock_model": "art/civilizations/chinese/humans/chi_infantry_armor_age04/chi_infantry_armor_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trade_cargo_a2",
+    "stem": "art/kr013/units/kr_trade_cargo_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        128,
+        128
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/735c4a1e37279cfa8081a26235d5a303c9012296fdf167417a196030a91dabff.png",
+        "sha256": "735c4a1e37279cfa8081a26235d5a303c9012296fdf167417a196030a91dabff",
+        "bytes": 178682,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/weapons/chi_trade_horse_age02/11719918130528561955_packed.rrtex",
+    "stock_pattern_sha256": "7cfed1fceed31f84ddaa8a5ae4b2d558d647e3f3c8a30b746b9f5f3bf3e8d5da",
+    "stock_model": "art/civilizations/chinese/weapons/chi_trade_horse_age02/chi_trade_horse_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trade_cargo_a3",
+    "stem": "art/kr013/units/kr_trade_cargo_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        128,
+        128
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/735c4a1e37279cfa8081a26235d5a303c9012296fdf167417a196030a91dabff.png",
+        "sha256": "735c4a1e37279cfa8081a26235d5a303c9012296fdf167417a196030a91dabff",
+        "bytes": 178682,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/weapons/chi_trade_horse_age03/6828792839895003592_packed.rrtex",
+    "stock_pattern_sha256": "3dbbee63aa2b4084ecb4327e25c4031ada1b1cb6148101ffa5fd797fddbbde82",
+    "stock_model": "art/civilizations/chinese/weapons/chi_trade_horse_age03/chi_trade_horse_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trade_cargo_a4",
+    "stem": "art/kr013/units/kr_trade_cargo_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        128,
+        128
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/735c4a1e37279cfa8081a26235d5a303c9012296fdf167417a196030a91dabff.png",
+        "sha256": "735c4a1e37279cfa8081a26235d5a303c9012296fdf167417a196030a91dabff",
+        "bytes": 178682,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606.png",
+        "sha256": "6194f672d6e738af45a1323febd747d4440278dcd8d22c9d5fe13f3c02960606",
+        "bytes": 1361,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/weapons/chi_trade_horse_age04/13307771474244029857_packed.rrtex",
+    "stock_pattern_sha256": "43b4bfb8b4311419b17d1e86af96c1bea28d7ab458d15759d37ab49373cc2d24",
+    "stock_model": "art/civilizations/chinese/weapons/chi_trade_horse_age04/chi_trade_horse_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trader_a2",
+    "stem": "art/kr013/units/kr_trader_a2/model",
+    "atlas": {
+      "native_u_domain": 1.001953125,
+      "native_u_scale": 0.7385575048732943,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/ae8b414179fac24d5ffd9760ec52f91e61c2085610e439a32ac18b2e15dd7fdf.png",
+        "sha256": "ae8b414179fac24d5ffd9760ec52f91e61c2085610e439a32ac18b2e15dd7fdf",
+        "bytes": 242003,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.png",
+        "sha256": "43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48",
+        "bytes": 3050,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_male_age02/14949117772191333780_packed.rrtex",
+    "stock_pattern_sha256": "a882a52e2fde2caaf1a2de9e29c93f4b73f83dd5d03aea56d5df60528858b6b6",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_male_age02/chi_villager_male_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trader_a3",
+    "stem": "art/kr013/units/kr_trader_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/4d33a7db93a4b8fab6621c8084c44f6755c6452ad1c1fa9aee28ae644062f868.png",
+        "sha256": "4d33a7db93a4b8fab6621c8084c44f6755c6452ad1c1fa9aee28ae644062f868",
+        "bytes": 162390,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801.png",
+        "sha256": "834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801",
+        "bytes": 3418,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_male_age03/15842976682098995519_packed.rrtex",
+    "stock_pattern_sha256": "4b4427488d6d01a5030edf1cfd50ed54a529063f59798e58135a93902b526574",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_male_age03/chi_villager_male_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trader_a4",
+    "stem": "art/kr013/units/kr_trader_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/fc5fb5172c948a418f006d1437c3bd08234eb18d171279f405df67e0807f9b1d.png",
+        "sha256": "fc5fb5172c948a418f006d1437c3bd08234eb18d171279f405df67e0807f9b1d",
+        "bytes": 185096,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4.png",
+        "sha256": "8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4",
+        "bytes": 3216,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_male_age04/9965128652882447269_packed.rrtex",
+    "stock_pattern_sha256": "db7df7172d248e1251a31fe804cb51d61e38563640f408d77182a8a1427420d0",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_male_age04/chi_villager_male_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trader_female_a2",
+    "stem": "art/kr013/units/kr_trader_female_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/7c4904090c62fc2c16b5f13d8730fa540c1970ec49fbddb951bfbdcde9014acb.png",
+        "sha256": "7c4904090c62fc2c16b5f13d8730fa540c1970ec49fbddb951bfbdcde9014acb",
+        "bytes": 218881,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.png",
+        "sha256": "e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8",
+        "bytes": 2762,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_female_age02/18100961372285796207_packed.rrtex",
+    "stock_pattern_sha256": "59563779674c5ebbf3278811f315e5d384f31adc157b629fb4317b76f0c71bb5",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_female_age02/chi_villager_female_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trader_female_a3",
+    "stem": "art/kr013/units/kr_trader_female_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/c4afa2c1a0c2ed4ce4c13f587daaf1b2ed8779b4f459c18ee0918560a47c51f9.png",
+        "sha256": "c4afa2c1a0c2ed4ce4c13f587daaf1b2ed8779b4f459c18ee0918560a47c51f9",
+        "bytes": 201452,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b.png",
+        "sha256": "8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b",
+        "bytes": 3416,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_female_age03/17539834073935114230_packed.rrtex",
+    "stock_pattern_sha256": "de7bdda1ce6dbb9207deab2695f7aeba15c6351b28b4ca05fd0c842e0c719a35",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_female_age03/chi_villager_female_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_trader_female_a4",
+    "stem": "art/kr013/units/kr_trader_female_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6f67ad12fc36e53b4305ee796c901826390b30997826e527b74c02180917f486.png",
+        "sha256": "6f67ad12fc36e53b4305ee796c901826390b30997826e527b74c02180917f486",
+        "bytes": 200862,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09.png",
+        "sha256": "f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09",
+        "bytes": 3468,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_female_age04/2883230609170901482_packed.rrtex",
+    "stock_pattern_sha256": "4f34c0e5aea31c2beab3fa7d8448f8d2953bd13f5d7d394bf02734bd5f29db6d",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_female_age04/chi_villager_female_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_villager_female_a1",
+    "stem": "art/kr013/units/kr_villager_female_a1/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/384a1e64c9e7444c8c2ea248e5988932b3098907639c39805166e5ae4625872a.png",
+        "sha256": "384a1e64c9e7444c8c2ea248e5988932b3098907639c39805166e5ae4625872a",
+        "bytes": 210291,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.png",
+        "sha256": "e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8",
+        "bytes": 2762,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_female_age01/14648950769506104963_packed.rrtex",
+    "stock_pattern_sha256": "b98f57cd322b631301d2657d4d339b501d82c8acb0e6d6adb883c3fd4c0425d6",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_female_age01/chi_villager_female_age01",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_villager_female_a2",
+    "stem": "art/kr013/units/kr_villager_female_a2/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/6351f803305fa2192ec64c7e165f4ce36e6080819aadad8dbbcc23ab16487aa7.png",
+        "sha256": "6351f803305fa2192ec64c7e165f4ce36e6080819aadad8dbbcc23ab16487aa7",
+        "bytes": 218975,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8.png",
+        "sha256": "e956566ad46a3db17e11a08dcf00ebc0066bb0143c50c6d4bb9c42b0d884e9b8",
+        "bytes": 2762,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_female_age02/18100961372285796207_packed.rrtex",
+    "stock_pattern_sha256": "59563779674c5ebbf3278811f315e5d384f31adc157b629fb4317b76f0c71bb5",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_female_age02/chi_villager_female_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_villager_female_a3",
+    "stem": "art/kr013/units/kr_villager_female_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/c5d8a4518bd29a67bfb56c80e600052534505d43e2f5e666e7dc9741ae9eada0.png",
+        "sha256": "c5d8a4518bd29a67bfb56c80e600052534505d43e2f5e666e7dc9741ae9eada0",
+        "bytes": 201519,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b.png",
+        "sha256": "8ee21503cc35d041a1aadaf395f257f9751b80e7d998e4ab15ef5c75cf4e751b",
+        "bytes": 3416,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_female_age03/17539834073935114230_packed.rrtex",
+    "stock_pattern_sha256": "de7bdda1ce6dbb9207deab2695f7aeba15c6351b28b4ca05fd0c842e0c719a35",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_female_age03/chi_villager_female_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_villager_female_a4",
+    "stem": "art/kr013/units/kr_villager_female_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/3b3a2055e1e4499f8c1955ebdd456f7e0e75197a2cc67e5ae0a932c4a1927d43.png",
+        "sha256": "3b3a2055e1e4499f8c1955ebdd456f7e0e75197a2cc67e5ae0a932c4a1927d43",
+        "bytes": 200932,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09.png",
+        "sha256": "f7d0f413a648172baaced50fbbc7515aaf83a3dc35d1e4da5fa71b0d02792b09",
+        "bytes": 3468,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_female_age04/2883230609170901482_packed.rrtex",
+    "stock_pattern_sha256": "4f34c0e5aea31c2beab3fa7d8448f8d2953bd13f5d7d394bf02734bd5f29db6d",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_female_age04/chi_villager_female_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_villager_male_a1",
+    "stem": "art/kr013/units/kr_villager_male_a1/model",
+    "atlas": {
+      "native_u_domain": 1.001953125,
+      "native_u_scale": 0.7385575048732943,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/4566b241c8b27e5a319599aec1dd65c5e2b0b33ca1945b79637ff3d14632d888.png",
+        "sha256": "4566b241c8b27e5a319599aec1dd65c5e2b0b33ca1945b79637ff3d14632d888",
+        "bytes": 208817,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.png",
+        "sha256": "43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48",
+        "bytes": 3050,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_male_age01/10497992000956699665_packed.rrtex",
+    "stock_pattern_sha256": "54fb86f5e69bdcb5a6d6f03f008bd29be00a3cd9399e54f99fb220a570ab0bc4",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_male_age01/chi_villager_male_age01",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_villager_male_a2",
+    "stem": "art/kr013/units/kr_villager_male_a2/model",
+    "atlas": {
+      "native_u_domain": 1.001953125,
+      "native_u_scale": 0.7385575048732943,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        512,
+        512
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/f2eef362eabc8ef34fe81bcb0b0ea1645263fb9e5fa0eedc3b987da1f60c5d53.png",
+        "sha256": "f2eef362eabc8ef34fe81bcb0b0ea1645263fb9e5fa0eedc3b987da1f60c5d53",
+        "bytes": 241904,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48.png",
+        "sha256": "43d52b25a366f6bfeeae021376603bc6fbe324f59fbedab71d194a5db4baeb48",
+        "bytes": 3050,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_male_age02/14949117772191333780_packed.rrtex",
+    "stock_pattern_sha256": "a882a52e2fde2caaf1a2de9e29c93f4b73f83dd5d03aea56d5df60528858b6b6",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_male_age02/chi_villager_male_age02",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_villager_male_a3",
+    "stem": "art/kr013/units/kr_villager_male_a3/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/61df82ca617c7c92fbc351217830533e58f92323696b60ca65ee6d799cc67f21.png",
+        "sha256": "61df82ca617c7c92fbc351217830533e58f92323696b60ca65ee6d799cc67f21",
+        "bytes": 162319,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801.png",
+        "sha256": "834afde5c7780b6272c11bc957a758d85d5ddad9e5ff680aac9bcc6781b2e801",
+        "bytes": 3418,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_male_age03/15842976682098995519_packed.rrtex",
+    "stock_pattern_sha256": "4b4427488d6d01a5030edf1cfd50ed54a529063f59798e58135a93902b526574",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_male_age03/chi_villager_male_age03",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "kr_villager_male_a4",
+    "stem": "art/kr013/units/kr_villager_male_a4/model",
+    "atlas": {
+      "native_u_domain": 1.0,
+      "native_u_scale": 0.74,
+      "working_resolution": 512,
+      "master_resolution": 1024,
+      "native_albedo_resolution": [
+        256,
+        256
+      ]
+    },
+    "textures": [
+      {
+        "name": "albedo.png",
+        "file": "authoring/art013/textures/79a6a7524e85a96a12e7c69bf0ed630e4ef8916329a489571660aed598e49fc8.png",
+        "sha256": "79a6a7524e85a96a12e7c69bf0ed630e4ef8916329a489571660aed598e49fc8",
+        "bytes": 185039,
+        "packed": false
+      },
+      {
+        "name": "metalness.png",
+        "file": "authoring/art013/textures/5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f.png",
+        "sha256": "5a16de76fd18b832afdda27956d305eeba0034389e4e52238a87b11ca2d2f49f",
+        "bytes": 834,
+        "packed": false
+      },
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4.png",
+        "sha256": "8ac65c4b97cad7ac5b03f102aab8f51accc124571edc8dfeb2d7d60fa3f882e4",
+        "bytes": 3216,
+        "packed": false
+      },
+      {
+        "name": "roughness.png",
+        "file": "authoring/art013/textures/b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36.png",
+        "sha256": "b12ead0047f2f1fab5fd86a46b94b5438611dc34fe691f95b49faf8376e4bd36",
+        "bytes": 1329,
+        "packed": false
+      }
+    ],
+    "stock_pattern": "art/civilizations/chinese/humans/chi_villager_male_age04/9965128652882447269_packed.rrtex",
+    "stock_pattern_sha256": "db7df7172d248e1251a31fe804cb51d61e38563640f408d77182a8a1427420d0",
+    "stock_model": "art/civilizations/chinese/humans/chi_villager_male_age04/chi_villager_male_age04",
+    "mask_mode": "restore_stock_owner"
+  },
+  {
+    "asset": "korea_cavalry_spear",
+    "stem": "art/kr013/static/korea_cavalry_spear/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_crossbow",
+    "stem": "art/kr013/static/korea_crossbow/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_gakgung_archer",
+    "stem": "art/kr013/static/korea_gakgung_archer/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_gakgung_hwarang",
+    "stem": "art/kr013/static/korea_gakgung_hwarang/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_gakgung_tiger_hunter",
+    "stem": "art/kr013/static/korea_gakgung_tiger_hunter/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_gapsa_heavy_spear",
+    "stem": "art/kr013/static/korea_gapsa_heavy_spear/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_gapsa_long_spear",
+    "stem": "art/kr013/static/korea_gapsa_long_spear/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_hand_chongtong",
+    "stem": "art/kr013/static/korea_hand_chongtong/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_hwarang_sword",
+    "stem": "art/kr013/static/korea_hwarang_sword/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_jangchang_plain",
+    "stem": "art/kr013/static/korea_jangchang_plain/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_jangchang_tassel",
+    "stem": "art/kr013/static/korea_jangchang_tassel/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_lancer_lance",
+    "stem": "art/kr013/static/korea_lancer_lance/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_lancer_polearm_upgrade",
+    "stem": "art/kr013/static/korea_lancer_polearm_upgrade/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_monk_staff",
+    "stem": "art/kr013/static/korea_monk_staff/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_righteous_monk_sword",
+    "stem": "art/kr013/static/korea_righteous_monk_sword/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_seonbi_book",
+    "stem": "art/kr013/static/korea_seonbi_book/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_shared_torch",
+    "stem": "art/kr013/static/korea_shared_torch/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_villager_axe",
+    "stem": "art/kr013/static/korea_villager_axe/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_villager_basket",
+    "stem": "art/kr013/static/korea_villager_basket/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_villager_crook",
+    "stem": "art/kr013/static/korea_villager_crook/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_villager_hammer",
+    "stem": "art/kr013/static/korea_villager_hammer/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_villager_hunting_bow",
+    "stem": "art/kr013/static/korea_villager_hunting_bow/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_villager_hunting_spear",
+    "stem": "art/kr013/static/korea_villager_hunting_spear/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_villager_pick",
+    "stem": "art/kr013/static/korea_villager_pick/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "korea_villager_sickle",
+    "stem": "art/kr013/static/korea_villager_sickle/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art013/textures/d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  },
+  {
+    "asset": "kr_hwacha",
+    "stem": "art/kr014/hwacha/model",
+    "textures": [
+      {
+        "name": "pattern.png",
+        "file": "authoring/art014/hwacha/pattern.png"
+      }
+    ],
+    "atlas": {
+      "native_u_scale": 1
+    },
+    "mask_mode": "preserve_authored_RGB_native_zero_alpha"
+  }
+]

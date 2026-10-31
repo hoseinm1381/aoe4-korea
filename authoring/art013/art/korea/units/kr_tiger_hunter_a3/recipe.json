@@ -1,0 +1,14 @@
+{
+  "id": "kr_tiger_hunter_a3",
+  "family": "tiger_hunter",
+  "age": 3,
+  "donor": "art/civilizations/chinese/humans/chi_infantry_armor_age03/chi_infantry_armor_age03.rgm",
+  "design": "armoured bow hunter, tiger stripe cloth modest panel, tall hat avoided",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces",
+    "compact_authored_sections": true,
+    "LOD0_budget": 1663,
+    "reason": "Remove unnecessary native prop/limb cuts; reduce authored cloth/helmet sections, hidden headbands and lamellar rows while retaining silhouette",
+    "contact_policy": "Match coat sectors; bounded waist support-plane sash over completed coat/native waist; lower closure/tie face-interior clearance"
+  }
+}

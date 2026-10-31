@@ -1,0 +1,10 @@
+{
+  "id": "kr_righteous_army_monk_a4",
+  "family": "righteous_army_monk",
+  "age": 4,
+  "donor": "art/civilizations/chinese_ha_01/humans/chi_infantry_monk_age04/chi_infantry_monk_age04.rgm",
+  "design": "worn grey monk robe with continuous ochre gasa, native bald Shaolin head and foot sword; no procedural cap",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces"
+  }
+}

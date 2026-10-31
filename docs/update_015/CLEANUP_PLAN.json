@@ -1,0 +1,32 @@
+{
+  "targets": [
+    {
+      "path": "F:\\aoe_4_temp\\Temp_aoe4\\k15",
+      "files": 5335,
+      "logical_bytes": 1734035997
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current",
+      "files": 507,
+      "logical_bytes": 368156661
+    }
+  ],
+  "E_task_model_tools_already_absent": "E:\\aoe4_korea_014_model_tools",
+  "preserved": [
+    "release ZIP",
+    "0.1.3/0.1.4 rollback ZIPs",
+    "source/tables",
+    "source/scar",
+    "authoring",
+    "inputs/native",
+    "Git",
+    "compact diagnostics"
+  ],
+  "critical_files": {
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\release\\Koreans-Garrison-0.1.5.zip": "d97df7034df3f73ad98cd4acedfdf6cb06528553b61976fe3f4c6d638f7c78e2",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\art015-baseline\\761736f2e6d4\\Koreans-Garrison-0.1.4.zip": "761736f2e6d43726bb2468cff62b8bc179a222080f59f36b49a87197758fc88c",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\art013-baseline\\1e2d7976d5a3\\Koreans-Garrison-0.1.3.zip": "1e2d7976d5a3e1274c333a31738e963796d9fc56186f9040eef13bc62d8924cb",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\inputs\\native-manifest.json": "c55487c9b47487d3cfbf9a703d6352d2280df5af96278466e88ecfdec0aa29d2",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\master-index.json": "2e70fb0c933f175159515f6b1af937e263c99929358461aea61735453fdcfbbf"
+  }
+}

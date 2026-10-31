@@ -1,0 +1,372 @@
+{
+  "completed": 72,
+  "expected": 72,
+  "results": [
+    {
+      "asset": "kr_archer_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_archer_a2.json"
+    },
+    {
+      "asset": "kr_archer_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_archer_a3.json"
+    },
+    {
+      "asset": "kr_archer_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_archer_a4.json"
+    },
+    {
+      "asset": "kr_crossbowman_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_crossbowman_a3.json"
+    },
+    {
+      "asset": "kr_crossbowman_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_crossbowman_a4.json"
+    },
+    {
+      "asset": "kr_gapsa_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_gapsa_a3.json"
+    },
+    {
+      "asset": "kr_gapsa_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_gapsa_a4.json"
+    },
+    {
+      "asset": "kr_handcannoneer_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_handcannoneer_a4.json"
+    },
+    {
+      "asset": "kr_horseman_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_horseman_a2.json"
+    },
+    {
+      "asset": "kr_horseman_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_horseman_a3.json"
+    },
+    {
+      "asset": "kr_horseman_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_horseman_a4.json"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_hwarang_dismounted_a2.json"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_hwarang_dismounted_a3.json"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_hwarang_dismounted_a4.json"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_hwarang_mounted_a2.json"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_hwarang_mounted_a3.json"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_hwarang_mounted_a4.json"
+    },
+    {
+      "asset": "kr_lancer_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_lancer_a3.json"
+    },
+    {
+      "asset": "kr_lancer_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_lancer_a4.json"
+    },
+    {
+      "asset": "kr_monk_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_monk_a3.json"
+    },
+    {
+      "asset": "kr_monk_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_monk_a4.json"
+    },
+    {
+      "asset": "kr_mount_horseman_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_horseman_a2.json"
+    },
+    {
+      "asset": "kr_mount_horseman_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_horseman_a3.json"
+    },
+    {
+      "asset": "kr_mount_horseman_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_horseman_a4.json"
+    },
+    {
+      "asset": "kr_mount_hwarang_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_hwarang_a2.json"
+    },
+    {
+      "asset": "kr_mount_hwarang_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_hwarang_a3.json"
+    },
+    {
+      "asset": "kr_mount_hwarang_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_hwarang_a4.json"
+    },
+    {
+      "asset": "kr_mount_lancer_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_lancer_a3.json"
+    },
+    {
+      "asset": "kr_mount_lancer_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_lancer_a4.json"
+    },
+    {
+      "asset": "kr_mount_scout_a1",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_scout_a1.json"
+    },
+    {
+      "asset": "kr_mount_scout_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_scout_a2.json"
+    },
+    {
+      "asset": "kr_mount_scout_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_scout_a3.json"
+    },
+    {
+      "asset": "kr_mount_scout_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_scout_a4.json"
+    },
+    {
+      "asset": "kr_mount_trader_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_trader_a2.json"
+    },
+    {
+      "asset": "kr_mount_trader_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_trader_a3.json"
+    },
+    {
+      "asset": "kr_mount_trader_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_mount_trader_a4.json"
+    },
+    {
+      "asset": "kr_righteous_army_monk_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_righteous_army_monk_a3.json"
+    },
+    {
+      "asset": "kr_righteous_army_monk_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_righteous_army_monk_a4.json"
+    },
+    {
+      "asset": "kr_scout_a1",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_scout_a1.json"
+    },
+    {
+      "asset": "kr_scout_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_scout_a2.json"
+    },
+    {
+      "asset": "kr_scout_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_scout_a3.json"
+    },
+    {
+      "asset": "kr_scout_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_scout_a4.json"
+    },
+    {
+      "asset": "kr_scout_female_a1",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_scout_female_a1.json"
+    },
+    {
+      "asset": "kr_scout_female_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_scout_female_a2.json"
+    },
+    {
+      "asset": "kr_scout_female_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_scout_female_a3.json"
+    },
+    {
+      "asset": "kr_scout_female_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_scout_female_a4.json"
+    },
+    {
+      "asset": "kr_seonbi_a1",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_seonbi_a1.json"
+    },
+    {
+      "asset": "kr_seonbi_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_seonbi_a3.json"
+    },
+    {
+      "asset": "kr_spearman_a1",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_spearman_a1.json"
+    },
+    {
+      "asset": "kr_spearman_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_spearman_a2.json"
+    },
+    {
+      "asset": "kr_spearman_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_spearman_a3.json"
+    },
+    {
+      "asset": "kr_spearman_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_spearman_a4.json"
+    },
+    {
+      "asset": "kr_tiger_hunter_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_tiger_hunter_a2.json"
+    },
+    {
+      "asset": "kr_tiger_hunter_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_tiger_hunter_a3.json"
+    },
+    {
+      "asset": "kr_tiger_hunter_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_tiger_hunter_a4.json"
+    },
+    {
+      "asset": "kr_trade_cargo_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trade_cargo_a2.json"
+    },
+    {
+      "asset": "kr_trade_cargo_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trade_cargo_a3.json"
+    },
+    {
+      "asset": "kr_trade_cargo_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trade_cargo_a4.json"
+    },
+    {
+      "asset": "kr_trader_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trader_a2.json"
+    },
+    {
+      "asset": "kr_trader_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trader_a3.json"
+    },
+    {
+      "asset": "kr_trader_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trader_a4.json"
+    },
+    {
+      "asset": "kr_trader_female_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trader_female_a2.json"
+    },
+    {
+      "asset": "kr_trader_female_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trader_female_a3.json"
+    },
+    {
+      "asset": "kr_trader_female_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_trader_female_a4.json"
+    },
+    {
+      "asset": "kr_villager_female_a1",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_villager_female_a1.json"
+    },
+    {
+      "asset": "kr_villager_female_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_villager_female_a2.json"
+    },
+    {
+      "asset": "kr_villager_female_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_villager_female_a3.json"
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_villager_female_a4.json"
+    },
+    {
+      "asset": "kr_villager_male_a1",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_villager_male_a1.json"
+    },
+    {
+      "asset": "kr_villager_male_a2",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_villager_male_a2.json"
+    },
+    {
+      "asset": "kr_villager_male_a3",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_villager_male_a3.json"
+    },
+    {
+      "asset": "kr_villager_male_a4",
+      "passed": true,
+      "report": "docs/update_013/unit-source-comparisons/kr_villager_male_a4.json"
+    }
+  ],
+  "status": "all_72_source_native_comparisons_passed",
+  "notes": [
+    "Native LOD parts aggregated by decoded palette, not counted as separate LODs.",
+    "Four exports use explicit FBX triangulation; three triangle losses were fixed.",
+    "Single cargo UV delta was 0.000918, within the native half-float pre-projection bound for source V > 1; no source UV change was needed."
+  ]
+}

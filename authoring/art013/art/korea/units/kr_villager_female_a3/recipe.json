@@ -1,0 +1,10 @@
+{
+  "id": "kr_villager_female_a3",
+  "family": "villager_female",
+  "age": 3,
+  "donor": "art/civilizations/chinese/humans/chi_villager_female_age03/chi_villager_female_age03.rgm",
+  "design": "longer medieval jeogori, chima wrap skirt, tied hair; no late short jacket",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "source repair applied; final build held by owner",
+  "unit_resources": 72,
+  "combined_cavalry_resources": 16,
+  "mask_consumers": 98,
+  "native_changed": 242,
+  "native_added": 51,
+  "native_added_bytes": 878761,
+  "native_total_bytes": 235710820,
+  "release_sha256_unchanged": "d97df7034df3f73ad98cd4acedfdf6cb06528553b61976fe3f4c6d638f7c78e2",
+  "protected_files_verified": 2361,
+  "source_only": true,
+  "cook_archive_zip_install_push_performed": false
+}

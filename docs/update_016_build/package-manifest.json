@@ -1,0 +1,41 @@
+{
+  "schema": "garrison.mod/v1",
+  "bundle_key": "korea",
+  "members": [
+    {
+      "mod_key": "korea",
+      "role": "civilization",
+      "path": "korea.sga",
+      "sha256": "ddf6d4c2658747e9aa5be3138eaa9d65afb901089c6a5d1b406d512aca345005"
+    }
+  ],
+  "details": {
+    "id": "korea",
+    "name": "Koreans",
+    "version": "0.1.6",
+    "summary": "Literature, Scholars, Foreign Technologies.",
+    "description": "Koreans turn scholarship into military strength. Scholars and Seowons support Literature income and Korean research, opening access to foreign technologies. Transform eligible archers and horsemen, field Hwacha barrages, and choose specialized landmarks to build a flexible economy and army.",
+    "author": "hosein81 and chilly5",
+    "updated": "2026-11-01",
+    "min_garrison": "0.1.9",
+    "content_types": [
+      "civilization"
+    ],
+    "cover": "cover.png",
+    "changelog": "0.1.6: restore extensive dynamic player colour and cavalry skin bindings; fix Gapsa duplicate spear by restoring its shield; correct Korean research prices, book tooltips and refunds. Native match acceptance pending.",
+    "civilization": {
+      "period": "Three Kingdoms to Joseon",
+      "difficulty": 3,
+      "tagline": "Literature, Scholars, Foreign Technologies",
+      "bonuses": [
+        "Literature and Scholars: Seowons generate Literature from nearby trees. Each garrisoned Seonbi Scholar increases the Seowon's base Literature income by 25%; Hangul Script raises this to 40%. Nearby Outposts and Keeps provide additional Literature.",
+        "Foreign Technologies: Begin with 2 research allowances. Use Literature and allowances to acquire foreign technologies through the Korean research system. Seon Deok Observatory grants 2 more allowances and 4 distinct foreign offers once, then refunds 15% of Literature actually paid for successful research.",
+        "Hwarang Adaptation: Transform eligible mounted and dismounted Hwarang to adapt your army. Bulguksa Temple trains Hwarang using Literature only. The two forms fill different mounted and infantry roles.",
+        "Korean Military: Field Gapsa infantry, Tiger Hunters and Hwacha. The Gyeongbok Palace landmark functions as a Keep and provides Hwacha access. Korean Keeps train supported Korean units with a 30% Literature discount.",
+        "Stone Pagoda: Receive one free Villager for each completed technology, up to 8 Villagers. This reward requires the Stone Pagoda landmark.",
+        "Righteous Army: Gate of Reverence deploys autonomous Righteous Army Monks. These landmark troops act independently rather than following ordinary player unit commands.",
+        "Hall of Worthies: Issue decrees for 300 Literature. Each lasts 60 seconds with a 120-second cooldown; different decrees can be active together. These commands require the Hall of Worthies landmark."
+      ]
+    }
+  }
+}

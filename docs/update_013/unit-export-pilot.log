@@ -1,0 +1,9 @@
+00:01.969  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a1\kr_villager_male_a1.blend"
+PILOT_SOURCE 73 bones [('kr_villager_male_a1_LOD0', 1013, 1210), ('kr_villager_male_a1_LOD1', 538, 505), ('kr_villager_male_a1_LOD2', 269, 192)]
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\export\\villager_pilot\\model.fbx'
+export finished in 0.1121 sec.
+PILOT_EXPORTED F:\aoe_4_temp\New_custom_civilization\aoe4-korea\output\art-current\export\villager_pilot
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

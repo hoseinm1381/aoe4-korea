@@ -1,0 +1,62 @@
+{
+  "schema": "garrison.essence-run/v1",
+  "status": "succeeded",
+  "started_at_utc": "2026-10-31T09:03:58.047039Z",
+  "editor": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools\\EssenceEditor.exe",
+    "sha256": "df563dcdab31e0b772b9239da2c6058f86aa0063ec2359a0847e5057fae4efab",
+    "size_bytes": 10242872,
+    "profile": null,
+    "accepted_by": "capability-probe"
+  },
+  "mod": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\k013.aoe4mod",
+    "namespace": "http://schemas.datacontract.org/2004/07/Essence.Editor.Modding",
+    "mod_id": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "mod_type": "Extension",
+    "data_generic_path": "source\\",
+    "data_intermediate_path": "cache",
+    "locdb_path": "locdb\\k013.locdb",
+    "burn_project_path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\source\\_default.burnproj"
+  },
+  "run_root": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-cargo-triangulated",
+  "command": [
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools\\EssenceEditor.exe",
+    "-rtm",
+    "--safe_settings",
+    "--do_not_restore",
+    "--quiet_crash_report",
+    "--no_source_control",
+    "--log_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-cargo-triangulated\\logs",
+    "--build_mod",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\k013.aoe4mod",
+    "--no_burn_window",
+    "--burn_verbose_log_level",
+    "--burn_cache_type",
+    "Local",
+    "--burn_max_threads",
+    "1",
+    "--build_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-cargo-triangulated\\output"
+  ],
+  "working_directory": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools",
+  "timeout_seconds": 600.0,
+  "intermediate_mode": "mod",
+  "generated_write_scope": [
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project\\cache",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\library\\Mods\\k013\\project"
+  ],
+  "finished_at_utc": "2026-10-31T09:05:11.305430Z",
+  "duration_seconds": 73.259,
+  "raw_exit_code": 0,
+  "exit_code": 0,
+  "timed_out": false,
+  "diagnostics": [],
+  "logs": {
+    "application_directory": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-cargo-triangulated\\logs",
+    "burn": null,
+    "stdout": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-cargo-triangulated\\logs\\stdout.log",
+    "stderr": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-cargo-triangulated\\logs\\stderr.log"
+  }
+}

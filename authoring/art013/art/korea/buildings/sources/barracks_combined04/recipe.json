@@ -1,0 +1,34 @@
+{
+  "family": "barracks",
+  "age": 4,
+  "variant": "combined",
+  "recipe": {
+    "roof_rise_scale": 0.78,
+    "eave_spread": 0.06,
+    "tip_calm": 0.12,
+    "direction": "Utilitarian timber guard compound with low giwa sheds; stock military yard equipment remains."
+  },
+  "anchors": {
+    "has_roof": true,
+    "eave_z": 2.48828125,
+    "center": [
+      -0.044921875,
+      -3.400390625,
+      2.48828125
+    ],
+    "half_xy": [
+      3.962890625,
+      4.458984375
+    ],
+    "rise": 2.44921875
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\barracks_combined04\\52910fad6b1066efeeec\\decoded-static.json"
+}

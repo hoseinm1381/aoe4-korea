@@ -1,0 +1,4459 @@
+{
+  "schema": "korea.art013-integration-plan/v1",
+  "next_version": "0.1.3",
+  "current_playable_version": "0.1.2",
+  "assets": [
+    {
+      "asset": "kr_villager_male_a1",
+      "blend": "authoring/art013/art/korea/units/kr_villager_male_a1/kr_villager_male_a1.blend",
+      "family": "villager_male",
+      "age": 1,
+      "consumers": [
+        {
+          "name": "kr_unit_villager_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json",
+          "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "villager_axe",
+        "villager_pick",
+        "villager_hammer",
+        "villager_hunting_spear",
+        "villager_hunting_bow",
+        "villager_sickle",
+        "villager_crook",
+        "villager_basket"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_villager_male_a2",
+      "blend": "authoring/art013/art/korea/units/kr_villager_male_a2/kr_villager_male_a2.blend",
+      "family": "villager_male",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_villager_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json",
+          "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "villager_axe",
+        "villager_pick",
+        "villager_hammer",
+        "villager_hunting_spear",
+        "villager_hunting_bow",
+        "villager_sickle",
+        "villager_crook",
+        "villager_basket"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_villager_male_a3",
+      "blend": "authoring/art013/art/korea/units/kr_villager_male_a3/kr_villager_male_a3.blend",
+      "family": "villager_male",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_villager_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json",
+          "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "villager_axe",
+        "villager_pick",
+        "villager_hammer",
+        "villager_hunting_spear",
+        "villager_hunting_bow",
+        "villager_sickle",
+        "villager_crook",
+        "villager_basket"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_villager_male_a4",
+      "blend": "authoring/art013/art/korea/units/kr_villager_male_a4/kr_villager_male_a4.blend",
+      "family": "villager_male",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_villager_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json",
+          "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "villager_axe",
+        "villager_pick",
+        "villager_hammer",
+        "villager_hunting_spear",
+        "villager_hunting_bow",
+        "villager_sickle",
+        "villager_crook",
+        "villager_basket"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_villager_female_a1",
+      "blend": "authoring/art013/art/korea/units/kr_villager_female_a1/kr_villager_female_a1.blend",
+      "family": "villager_female",
+      "age": 1,
+      "consumers": [
+        {
+          "name": "kr_unit_villager_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json",
+          "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "villager_axe",
+        "villager_pick",
+        "villager_hammer",
+        "villager_hunting_spear",
+        "villager_hunting_bow",
+        "villager_sickle",
+        "villager_crook",
+        "villager_basket"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_villager_female_a2",
+      "blend": "authoring/art013/art/korea/units/kr_villager_female_a2/kr_villager_female_a2.blend",
+      "family": "villager_female",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_villager_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json",
+          "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "villager_axe",
+        "villager_pick",
+        "villager_hammer",
+        "villager_hunting_spear",
+        "villager_hunting_bow",
+        "villager_sickle",
+        "villager_crook",
+        "villager_basket"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_villager_female_a3",
+      "blend": "authoring/art013/art/korea/units/kr_villager_female_a3/kr_villager_female_a3.blend",
+      "family": "villager_female",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_villager_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json",
+          "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "villager_axe",
+        "villager_pick",
+        "villager_hammer",
+        "villager_hunting_spear",
+        "villager_hunting_bow",
+        "villager_sickle",
+        "villager_crook",
+        "villager_basket"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "blend": "authoring/art013/art/korea/units/kr_villager_female_a4/kr_villager_female_a4.blend",
+      "family": "villager_female",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_villager_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd.json",
+          "sha256": "fed215107352e6f71c3d8d495b5b668eb3a2cefc965ffa0c2fcdb5dfc7fb1bbd"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "villager_axe",
+        "villager_pick",
+        "villager_hammer",
+        "villager_hunting_spear",
+        "villager_hunting_bow",
+        "villager_sickle",
+        "villager_crook",
+        "villager_basket"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_scout_a1",
+      "blend": "authoring/art013/art/korea/units/kr_scout_a1/kr_scout_a1.blend",
+      "family": "scout",
+      "age": 1,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_scout_a2",
+      "blend": "authoring/art013/art/korea/units/kr_scout_a2/kr_scout_a2.blend",
+      "family": "scout",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_scout_a3",
+      "blend": "authoring/art013/art/korea/units/kr_scout_a3/kr_scout_a3.blend",
+      "family": "scout",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_scout_a4",
+      "blend": "authoring/art013/art/korea/units/kr_scout_a4/kr_scout_a4.blend",
+      "family": "scout",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trader_a2",
+      "blend": "authoring/art013/art/korea/units/kr_trader_a2/kr_trader_a2.blend",
+      "family": "trader",
+      "age": 2,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trader_a3",
+      "blend": "authoring/art013/art/korea/units/kr_trader_a3/kr_trader_a3.blend",
+      "family": "trader",
+      "age": 3,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trader_a4",
+      "blend": "authoring/art013/art/korea/units/kr_trader_a4/kr_trader_a4.blend",
+      "family": "trader",
+      "age": 4,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_seonbi_a1",
+      "blend": "authoring/art013/art/korea/units/kr_seonbi_a1/kr_seonbi_a1.blend",
+      "family": "seonbi",
+      "age": 1,
+      "consumers": [
+        {
+          "name": "kr_unit_militia_cru",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_militia_cru.rgd.json",
+          "sha256": "64af8228f68479be7fe0bea5f4949e7afdd82a9a935c2f8b4838be870761c441"
+        },
+        {
+          "name": "kr_unit_official_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_official_1_chi_ha_01.rgd.json",
+          "sha256": "d2d60d72a84bec7cc983245508909ee7ae5213d9f454c67cda8625443d69cdb7"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "seonbi_book"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_seonbi_a3",
+      "blend": "authoring/art013/art/korea/units/kr_seonbi_a3/kr_seonbi_a3.blend",
+      "family": "seonbi",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_militia_cru",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_militia_cru.rgd.json",
+          "sha256": "64af8228f68479be7fe0bea5f4949e7afdd82a9a935c2f8b4838be870761c441"
+        },
+        {
+          "name": "kr_unit_official_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_official_1_chi_ha_01.rgd.json",
+          "sha256": "d2d60d72a84bec7cc983245508909ee7ae5213d9f454c67cda8625443d69cdb7"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "seonbi_book"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_monk_a3",
+      "blend": "authoring/art013/art/korea/units/kr_monk_a3/kr_monk_a3.blend",
+      "family": "monk",
+      "age": 3,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock sbps/races/chinese_ha_01/unit_monk_3_chi_ha_01 reached through Korean monastery"
+      ],
+      "equipment_candidates": [
+        "monk_staff"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_monk_a4",
+      "blend": "authoring/art013/art/korea/units/kr_monk_a4/kr_monk_a4.blend",
+      "family": "monk",
+      "age": 4,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock sbps/races/chinese_ha_01/unit_monk_3_chi_ha_01 reached through Korean monastery"
+      ],
+      "equipment_candidates": [
+        "monk_staff"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_spearman_a1",
+      "blend": "authoring/art013/art/korea/units/kr_spearman_a1/kr_spearman_a1.blend",
+      "family": "spearman",
+      "age": 1,
+      "consumers": [
+        {
+          "name": "kr_unit_spearman_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_1_chi_ha_01.rgd.json",
+          "sha256": "3f1bbd89da7d84bcdaaab2b1fd85cb7b0303515591d12f97cc67b135ba937d4e"
+        },
+        {
+          "name": "kr_unit_spearman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_2_chi_ha_01.rgd.json",
+          "sha256": "90227c0c5d6e91d0d3db28e8c4ba4188e69d4832ce6b079598d1d8562a97400d"
+        },
+        {
+          "name": "kr_unit_spearman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_3_chi_ha_01.rgd.json",
+          "sha256": "f9247e0093d25e80db8becef9f02598770d3dbcf885938b46579cacaef8cf132"
+        },
+        {
+          "name": "kr_unit_spearman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_4_chi_ha_01.rgd.json",
+          "sha256": "f1c5a8e46f8c679e9b05a4c4e624d36195a3705df7d8fd7c79e0edbfd0dcb55e"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "jangchang_plain",
+        "jangchang_tassel"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_spearman_a2",
+      "blend": "authoring/art013/art/korea/units/kr_spearman_a2/kr_spearman_a2.blend",
+      "family": "spearman",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_spearman_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_1_chi_ha_01.rgd.json",
+          "sha256": "3f1bbd89da7d84bcdaaab2b1fd85cb7b0303515591d12f97cc67b135ba937d4e"
+        },
+        {
+          "name": "kr_unit_spearman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_2_chi_ha_01.rgd.json",
+          "sha256": "90227c0c5d6e91d0d3db28e8c4ba4188e69d4832ce6b079598d1d8562a97400d"
+        },
+        {
+          "name": "kr_unit_spearman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_3_chi_ha_01.rgd.json",
+          "sha256": "f9247e0093d25e80db8becef9f02598770d3dbcf885938b46579cacaef8cf132"
+        },
+        {
+          "name": "kr_unit_spearman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_4_chi_ha_01.rgd.json",
+          "sha256": "f1c5a8e46f8c679e9b05a4c4e624d36195a3705df7d8fd7c79e0edbfd0dcb55e"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "jangchang_plain",
+        "jangchang_tassel"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_spearman_a3",
+      "blend": "authoring/art013/art/korea/units/kr_spearman_a3/kr_spearman_a3.blend",
+      "family": "spearman",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_spearman_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_1_chi_ha_01.rgd.json",
+          "sha256": "3f1bbd89da7d84bcdaaab2b1fd85cb7b0303515591d12f97cc67b135ba937d4e"
+        },
+        {
+          "name": "kr_unit_spearman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_2_chi_ha_01.rgd.json",
+          "sha256": "90227c0c5d6e91d0d3db28e8c4ba4188e69d4832ce6b079598d1d8562a97400d"
+        },
+        {
+          "name": "kr_unit_spearman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_3_chi_ha_01.rgd.json",
+          "sha256": "f9247e0093d25e80db8becef9f02598770d3dbcf885938b46579cacaef8cf132"
+        },
+        {
+          "name": "kr_unit_spearman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_4_chi_ha_01.rgd.json",
+          "sha256": "f1c5a8e46f8c679e9b05a4c4e624d36195a3705df7d8fd7c79e0edbfd0dcb55e"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "jangchang_plain",
+        "jangchang_tassel"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_spearman_a4",
+      "blend": "authoring/art013/art/korea/units/kr_spearman_a4/kr_spearman_a4.blend",
+      "family": "spearman",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_spearman_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_1_chi_ha_01.rgd.json",
+          "sha256": "3f1bbd89da7d84bcdaaab2b1fd85cb7b0303515591d12f97cc67b135ba937d4e"
+        },
+        {
+          "name": "kr_unit_spearman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_2_chi_ha_01.rgd.json",
+          "sha256": "90227c0c5d6e91d0d3db28e8c4ba4188e69d4832ce6b079598d1d8562a97400d"
+        },
+        {
+          "name": "kr_unit_spearman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_3_chi_ha_01.rgd.json",
+          "sha256": "f9247e0093d25e80db8becef9f02598770d3dbcf885938b46579cacaef8cf132"
+        },
+        {
+          "name": "kr_unit_spearman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_spearman_4_chi_ha_01.rgd.json",
+          "sha256": "f1c5a8e46f8c679e9b05a4c4e624d36195a3705df7d8fd7c79e0edbfd0dcb55e"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "jangchang_plain",
+        "jangchang_tassel"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_gapsa_a3",
+      "blend": "authoring/art013/art/korea/units/kr_gapsa_a3/kr_gapsa_a3.blend",
+      "family": "gapsa",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_manatarms_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_manatarms_3_chi_ha_01.rgd.json",
+          "sha256": "5710f0306a2c1f2916805207e8f9111ff26c419ab8d4086c6534ca2fdbd3484f"
+        },
+        {
+          "name": "kr_unit_manatarms_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_manatarms_4_chi_ha_01.rgd.json",
+          "sha256": "39693ccbbe73373fa5ee1b9aa0066a1c9182e8442827689aecab86d6fe700387"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gapsa_long_spear",
+        "gapsa_heavy_spear"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_gapsa_a4",
+      "blend": "authoring/art013/art/korea/units/kr_gapsa_a4/kr_gapsa_a4.blend",
+      "family": "gapsa",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_manatarms_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_manatarms_3_chi_ha_01.rgd.json",
+          "sha256": "5710f0306a2c1f2916805207e8f9111ff26c419ab8d4086c6534ca2fdbd3484f"
+        },
+        {
+          "name": "kr_unit_manatarms_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_manatarms_4_chi_ha_01.rgd.json",
+          "sha256": "39693ccbbe73373fa5ee1b9aa0066a1c9182e8442827689aecab86d6fe700387"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gapsa_long_spear",
+        "gapsa_heavy_spear"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_archer_a2",
+      "blend": "authoring/art013/art/korea/units/kr_archer_a2/kr_archer_a2.blend",
+      "family": "archer",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_archer_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_2_chi_ha_01.rgd.json",
+          "sha256": "4e3d3bbfd04f23a53d12ae5e380f2b9ea6d0f472ef86d5eb3cce2527a4e3af31"
+        },
+        {
+          "name": "kr_unit_archer_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_3_chi_ha_01.rgd.json",
+          "sha256": "327809e78788626c3e1b7e7624d4b277bfe126d218952130450f845908869f3a"
+        },
+        {
+          "name": "kr_unit_archer_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_4_chi_ha_01.rgd.json",
+          "sha256": "139145710e163808d39af69fc7e34830617c196d71cf50e09c4ba57dc605de1d"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_archer"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_archer_a3",
+      "blend": "authoring/art013/art/korea/units/kr_archer_a3/kr_archer_a3.blend",
+      "family": "archer",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_archer_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_2_chi_ha_01.rgd.json",
+          "sha256": "4e3d3bbfd04f23a53d12ae5e380f2b9ea6d0f472ef86d5eb3cce2527a4e3af31"
+        },
+        {
+          "name": "kr_unit_archer_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_3_chi_ha_01.rgd.json",
+          "sha256": "327809e78788626c3e1b7e7624d4b277bfe126d218952130450f845908869f3a"
+        },
+        {
+          "name": "kr_unit_archer_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_4_chi_ha_01.rgd.json",
+          "sha256": "139145710e163808d39af69fc7e34830617c196d71cf50e09c4ba57dc605de1d"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_archer"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_archer_a4",
+      "blend": "authoring/art013/art/korea/units/kr_archer_a4/kr_archer_a4.blend",
+      "family": "archer",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_archer_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_2_chi_ha_01.rgd.json",
+          "sha256": "4e3d3bbfd04f23a53d12ae5e380f2b9ea6d0f472ef86d5eb3cce2527a4e3af31"
+        },
+        {
+          "name": "kr_unit_archer_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_3_chi_ha_01.rgd.json",
+          "sha256": "327809e78788626c3e1b7e7624d4b277bfe126d218952130450f845908869f3a"
+        },
+        {
+          "name": "kr_unit_archer_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_4_chi_ha_01.rgd.json",
+          "sha256": "139145710e163808d39af69fc7e34830617c196d71cf50e09c4ba57dc605de1d"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_archer"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_tiger_hunter_a2",
+      "blend": "authoring/art013/art/korea/units/kr_tiger_hunter_a2/kr_tiger_hunter_a2.blend",
+      "family": "tiger_hunter",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_militia_cmp_chi",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_militia_cmp_chi.rgd.json",
+          "sha256": "3b2448beebbfabd89033be2613a6c36a2e602095e380f67efbe37db39ba2f965"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd.json",
+          "sha256": "08ba08400090c8f7a9849d7575e3f243649bbfb74877dbcaccaf183174b346cd"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd.json",
+          "sha256": "7e5c2397aa4590378be3abe90137593d2b023a37b73b10384d8cd4e6d5689c01"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd.json",
+          "sha256": "046b908f168b6c79aaa565d3ed2faca84b0070842ddf0c4f0bf2d0caa5755355"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_tiger_hunter"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_tiger_hunter_a3",
+      "blend": "authoring/art013/art/korea/units/kr_tiger_hunter_a3/kr_tiger_hunter_a3.blend",
+      "family": "tiger_hunter",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_militia_cmp_chi",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_militia_cmp_chi.rgd.json",
+          "sha256": "3b2448beebbfabd89033be2613a6c36a2e602095e380f67efbe37db39ba2f965"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd.json",
+          "sha256": "08ba08400090c8f7a9849d7575e3f243649bbfb74877dbcaccaf183174b346cd"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd.json",
+          "sha256": "7e5c2397aa4590378be3abe90137593d2b023a37b73b10384d8cd4e6d5689c01"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd.json",
+          "sha256": "046b908f168b6c79aaa565d3ed2faca84b0070842ddf0c4f0bf2d0caa5755355"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_tiger_hunter"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_tiger_hunter_a4",
+      "blend": "authoring/art013/art/korea/units/kr_tiger_hunter_a4/kr_tiger_hunter_a4.blend",
+      "family": "tiger_hunter",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_militia_cmp_chi",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_militia_cmp_chi.rgd.json",
+          "sha256": "3b2448beebbfabd89033be2613a6c36a2e602095e380f67efbe37db39ba2f965"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd.json",
+          "sha256": "08ba08400090c8f7a9849d7575e3f243649bbfb74877dbcaccaf183174b346cd"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd.json",
+          "sha256": "7e5c2397aa4590378be3abe90137593d2b023a37b73b10384d8cd4e6d5689c01"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd.json",
+          "sha256": "046b908f168b6c79aaa565d3ed2faca84b0070842ddf0c4f0bf2d0caa5755355"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_tiger_hunter"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_crossbowman_a3",
+      "blend": "authoring/art013/art/korea/units/kr_crossbowman_a3/kr_crossbowman_a3.blend",
+      "family": "crossbowman",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_crossbowman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_crossbowman_3_chi_ha_01.rgd.json",
+          "sha256": "01fc22844cbd9e3fdf9ecf69b258f287830efcbb2cc5deec932d6911aa208941"
+        },
+        {
+          "name": "kr_unit_crossbowman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_crossbowman_4_chi_ha_01.rgd.json",
+          "sha256": "1b31309cefa14193186d17513d2074df39f77a80f36593057d0778a5d1861f13"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd.json",
+          "sha256": "08ba08400090c8f7a9849d7575e3f243649bbfb74877dbcaccaf183174b346cd"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd.json",
+          "sha256": "7e5c2397aa4590378be3abe90137593d2b023a37b73b10384d8cd4e6d5689c01"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd.json",
+          "sha256": "046b908f168b6c79aaa565d3ed2faca84b0070842ddf0c4f0bf2d0caa5755355"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "crossbow"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_crossbowman_a4",
+      "blend": "authoring/art013/art/korea/units/kr_crossbowman_a4/kr_crossbowman_a4.blend",
+      "family": "crossbowman",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_crossbowman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_crossbowman_3_chi_ha_01.rgd.json",
+          "sha256": "01fc22844cbd9e3fdf9ecf69b258f287830efcbb2cc5deec932d6911aa208941"
+        },
+        {
+          "name": "kr_unit_crossbowman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_crossbowman_4_chi_ha_01.rgd.json",
+          "sha256": "1b31309cefa14193186d17513d2074df39f77a80f36593057d0778a5d1861f13"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd.json",
+          "sha256": "08ba08400090c8f7a9849d7575e3f243649bbfb74877dbcaccaf183174b346cd"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd.json",
+          "sha256": "7e5c2397aa4590378be3abe90137593d2b023a37b73b10384d8cd4e6d5689c01"
+        },
+        {
+          "name": "kr_unit_repeater_crossbowman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd.json",
+          "sha256": "046b908f168b6c79aaa565d3ed2faca84b0070842ddf0c4f0bf2d0caa5755355"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "crossbow"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_handcannoneer_a4",
+      "blend": "authoring/art013/art/korea/units/kr_handcannoneer_a4/kr_handcannoneer_a4.blend",
+      "family": "handcannoneer",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_handcannon_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_handcannon_4_chi_ha_01.rgd.json",
+          "sha256": "a7ae6c75d29b1a877dea29620eb1e21c2635ff0eb0980ba70dcf71c62704cb53"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "hand_chongtong"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_horseman_a2",
+      "blend": "authoring/art013/art/korea/units/kr_horseman_a2/kr_horseman_a2.blend",
+      "family": "horseman",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd.json",
+          "sha256": "774e7e1ebc5245ea0cda6b2a5115dcf32e039f56accad0491b25ee212e1e259e"
+        },
+        {
+          "name": "kr_unit_horseman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd.json",
+          "sha256": "26cb140d9f3516b6a6fbb4abe3887fc47bd6ff7a920028fac81b714a5cb96f1e"
+        },
+        {
+          "name": "kr_unit_horseman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd.json",
+          "sha256": "d51712bb34dda56a6d36c2a4c09288829f90ecd112392d582bd147f6d08f0d6b"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "cavalry_spear"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_horseman_a3",
+      "blend": "authoring/art013/art/korea/units/kr_horseman_a3/kr_horseman_a3.blend",
+      "family": "horseman",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd.json",
+          "sha256": "774e7e1ebc5245ea0cda6b2a5115dcf32e039f56accad0491b25ee212e1e259e"
+        },
+        {
+          "name": "kr_unit_horseman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd.json",
+          "sha256": "26cb140d9f3516b6a6fbb4abe3887fc47bd6ff7a920028fac81b714a5cb96f1e"
+        },
+        {
+          "name": "kr_unit_horseman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd.json",
+          "sha256": "d51712bb34dda56a6d36c2a4c09288829f90ecd112392d582bd147f6d08f0d6b"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "cavalry_spear"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_horseman_a4",
+      "blend": "authoring/art013/art/korea/units/kr_horseman_a4/kr_horseman_a4.blend",
+      "family": "horseman",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd.json",
+          "sha256": "774e7e1ebc5245ea0cda6b2a5115dcf32e039f56accad0491b25ee212e1e259e"
+        },
+        {
+          "name": "kr_unit_horseman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd.json",
+          "sha256": "26cb140d9f3516b6a6fbb4abe3887fc47bd6ff7a920028fac81b714a5cb96f1e"
+        },
+        {
+          "name": "kr_unit_horseman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd.json",
+          "sha256": "d51712bb34dda56a6d36c2a4c09288829f90ecd112392d582bd147f6d08f0d6b"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "cavalry_spear"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_lancer_a3",
+      "blend": "authoring/art013/art/korea/units/kr_lancer_a3/kr_lancer_a3.blend",
+      "family": "lancer",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_knight_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_knight_3_chi_ha_01.rgd.json",
+          "sha256": "975d68bb544324dc6b8a3ac28cb1c4f1b65080e562d71bbecdea18e117f88fab"
+        },
+        {
+          "name": "kr_unit_knight_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_knight_4_chi_ha_01.rgd.json",
+          "sha256": "a808a9280a83307992df6aead11886e9c6bacd5926ef71af00072ee2eca3b4df"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "lancer_lance",
+        "lancer_polearm_upgrade"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_lancer_a4",
+      "blend": "authoring/art013/art/korea/units/kr_lancer_a4/kr_lancer_a4.blend",
+      "family": "lancer",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_knight_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_knight_3_chi_ha_01.rgd.json",
+          "sha256": "975d68bb544324dc6b8a3ac28cb1c4f1b65080e562d71bbecdea18e117f88fab"
+        },
+        {
+          "name": "kr_unit_knight_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_knight_4_chi_ha_01.rgd.json",
+          "sha256": "a808a9280a83307992df6aead11886e9c6bacd5926ef71af00072ee2eca3b4df"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "lancer_lance",
+        "lancer_polearm_upgrade"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a2",
+      "blend": "authoring/art013/art/korea/units/kr_hwarang_mounted_a2/kr_hwarang_mounted_a2.blend",
+      "family": "hwarang_mounted",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_ayy.rgd.json",
+          "sha256": "40e775ccda474d56cbcb1b6ad8be9a95b37175906e72f6873520de293460bc98"
+        },
+        {
+          "name": "kr_unit_horseman_3_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_ayy.rgd.json",
+          "sha256": "0d5d82d5223af9213ad9e4849fe071912938710d01aaf3daf1d23ff9381956b7"
+        },
+        {
+          "name": "kr_unit_horseman_4_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_ayy.rgd.json",
+          "sha256": "b05f0aa6087448b85cde228355c1456283fccc47408c81b24dcc1674fcb1a42e"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_hwarang"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "blend": "authoring/art013/art/korea/units/kr_hwarang_mounted_a3/kr_hwarang_mounted_a3.blend",
+      "family": "hwarang_mounted",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_ayy.rgd.json",
+          "sha256": "40e775ccda474d56cbcb1b6ad8be9a95b37175906e72f6873520de293460bc98"
+        },
+        {
+          "name": "kr_unit_horseman_3_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_ayy.rgd.json",
+          "sha256": "0d5d82d5223af9213ad9e4849fe071912938710d01aaf3daf1d23ff9381956b7"
+        },
+        {
+          "name": "kr_unit_horseman_4_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_ayy.rgd.json",
+          "sha256": "b05f0aa6087448b85cde228355c1456283fccc47408c81b24dcc1674fcb1a42e"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_hwarang"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "blend": "authoring/art013/art/korea/units/kr_hwarang_mounted_a4/kr_hwarang_mounted_a4.blend",
+      "family": "hwarang_mounted",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_ayy.rgd.json",
+          "sha256": "40e775ccda474d56cbcb1b6ad8be9a95b37175906e72f6873520de293460bc98"
+        },
+        {
+          "name": "kr_unit_horseman_3_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_ayy.rgd.json",
+          "sha256": "0d5d82d5223af9213ad9e4849fe071912938710d01aaf3daf1d23ff9381956b7"
+        },
+        {
+          "name": "kr_unit_horseman_4_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_ayy.rgd.json",
+          "sha256": "b05f0aa6087448b85cde228355c1456283fccc47408c81b24dcc1674fcb1a42e"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "gakgung_hwarang"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a2",
+      "blend": "authoring/art013/art/korea/units/kr_hwarang_dismounted_a2/kr_hwarang_dismounted_a2.blend",
+      "family": "hwarang_dismounted",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_archer_2_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_2_ayy.rgd.json",
+          "sha256": "17f4e898166d160a6424ebdd623e0bddce58669461986c903c11675c742751a6"
+        },
+        {
+          "name": "kr_unit_archer_3_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_3_ayy.rgd.json",
+          "sha256": "a5b9ad53e2f1169304dc91b3333bebf619329ad7dd4a62793e11c6892280b96e"
+        },
+        {
+          "name": "kr_unit_archer_4_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_4_ayy.rgd.json",
+          "sha256": "4cf19bb11c4cc2cf33f7a3c706c75b1fa174cebd53e7128d8fd4600d2ce3e83d"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "hwarang_sword"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a3",
+      "blend": "authoring/art013/art/korea/units/kr_hwarang_dismounted_a3/kr_hwarang_dismounted_a3.blend",
+      "family": "hwarang_dismounted",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_archer_2_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_2_ayy.rgd.json",
+          "sha256": "17f4e898166d160a6424ebdd623e0bddce58669461986c903c11675c742751a6"
+        },
+        {
+          "name": "kr_unit_archer_3_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_3_ayy.rgd.json",
+          "sha256": "a5b9ad53e2f1169304dc91b3333bebf619329ad7dd4a62793e11c6892280b96e"
+        },
+        {
+          "name": "kr_unit_archer_4_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_4_ayy.rgd.json",
+          "sha256": "4cf19bb11c4cc2cf33f7a3c706c75b1fa174cebd53e7128d8fd4600d2ce3e83d"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "hwarang_sword"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a4",
+      "blend": "authoring/art013/art/korea/units/kr_hwarang_dismounted_a4/kr_hwarang_dismounted_a4.blend",
+      "family": "hwarang_dismounted",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_archer_2_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_2_ayy.rgd.json",
+          "sha256": "17f4e898166d160a6424ebdd623e0bddce58669461986c903c11675c742751a6"
+        },
+        {
+          "name": "kr_unit_archer_3_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_3_ayy.rgd.json",
+          "sha256": "a5b9ad53e2f1169304dc91b3333bebf619329ad7dd4a62793e11c6892280b96e"
+        },
+        {
+          "name": "kr_unit_archer_4_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_archer_4_ayy.rgd.json",
+          "sha256": "4cf19bb11c4cc2cf33f7a3c706c75b1fa174cebd53e7128d8fd4600d2ce3e83d"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "hwarang_sword"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_righteous_army_monk_a3",
+      "blend": "authoring/art013/art/korea/units/kr_righteous_army_monk_a3/kr_righteous_army_monk_a3.blend",
+      "family": "righteous_army_monk",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_leader_baibars_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_leader_baibars_ayy.rgd.json",
+          "sha256": "7fc6794971690d8428ef0501c524d16436c52f1ad971b1eceed7459e1b3b086c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "righteous_monk_sword"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_righteous_army_monk_a4",
+      "blend": "authoring/art013/art/korea/units/kr_righteous_army_monk_a4/kr_righteous_army_monk_a4.blend",
+      "family": "righteous_army_monk",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_leader_baibars_ayy",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_leader_baibars_ayy.rgd.json",
+          "sha256": "7fc6794971690d8428ef0501c524d16436c52f1ad971b1eceed7459e1b3b086c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [
+        "righteous_monk_sword"
+      ],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_scout_female_a1",
+      "blend": "authoring/art013/art/korea/units/kr_scout_female_a1/kr_scout_female_a1.blend",
+      "family": "scout",
+      "age": 1,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_scout_female_a2",
+      "blend": "authoring/art013/art/korea/units/kr_scout_female_a2/kr_scout_female_a2.blend",
+      "family": "scout",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_scout_female_a3",
+      "blend": "authoring/art013/art/korea/units/kr_scout_female_a3/kr_scout_female_a3.blend",
+      "family": "scout",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_scout_female_a4",
+      "blend": "authoring/art013/art/korea/units/kr_scout_female_a4/kr_scout_female_a4.blend",
+      "family": "scout",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trader_female_a2",
+      "blend": "authoring/art013/art/korea/units/kr_trader_female_a2/kr_trader_female_a2.blend",
+      "family": "trader",
+      "age": 2,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trader_female_a3",
+      "blend": "authoring/art013/art/korea/units/kr_trader_female_a3/kr_trader_female_a3.blend",
+      "family": "trader",
+      "age": 3,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trader_female_a4",
+      "blend": "authoring/art013/art/korea/units/kr_trader_female_a4/kr_trader_female_a4.blend",
+      "family": "trader",
+      "age": 4,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_scout_a1",
+      "blend": "authoring/art013/art/korea/units/kr_mount_scout_a1/kr_mount_scout_a1.blend",
+      "family": "mount_scout",
+      "age": 1,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_scout_a2",
+      "blend": "authoring/art013/art/korea/units/kr_mount_scout_a2/kr_mount_scout_a2.blend",
+      "family": "mount_scout",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_scout_a3",
+      "blend": "authoring/art013/art/korea/units/kr_mount_scout_a3/kr_mount_scout_a3.blend",
+      "family": "mount_scout",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_scout_a4",
+      "blend": "authoring/art013/art/korea/units/kr_mount_scout_a4/kr_mount_scout_a4.blend",
+      "family": "mount_scout",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_scout_1_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd.json",
+          "sha256": "ab8c334f64b95802400d2271389bab7d3743dcc0c86b91db5776cf4ef443679c"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_horseman_a2",
+      "blend": "authoring/art013/art/korea/units/kr_mount_horseman_a2/kr_mount_horseman_a2.blend",
+      "family": "mount_horseman",
+      "age": 2,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd.json",
+          "sha256": "774e7e1ebc5245ea0cda6b2a5115dcf32e039f56accad0491b25ee212e1e259e"
+        },
+        {
+          "name": "kr_unit_horseman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd.json",
+          "sha256": "26cb140d9f3516b6a6fbb4abe3887fc47bd6ff7a920028fac81b714a5cb96f1e"
+        },
+        {
+          "name": "kr_unit_horseman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd.json",
+          "sha256": "d51712bb34dda56a6d36c2a4c09288829f90ecd112392d582bd147f6d08f0d6b"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_horseman_a3",
+      "blend": "authoring/art013/art/korea/units/kr_mount_horseman_a3/kr_mount_horseman_a3.blend",
+      "family": "mount_horseman",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd.json",
+          "sha256": "774e7e1ebc5245ea0cda6b2a5115dcf32e039f56accad0491b25ee212e1e259e"
+        },
+        {
+          "name": "kr_unit_horseman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd.json",
+          "sha256": "26cb140d9f3516b6a6fbb4abe3887fc47bd6ff7a920028fac81b714a5cb96f1e"
+        },
+        {
+          "name": "kr_unit_horseman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd.json",
+          "sha256": "d51712bb34dda56a6d36c2a4c09288829f90ecd112392d582bd147f6d08f0d6b"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_horseman_a4",
+      "blend": "authoring/art013/art/korea/units/kr_mount_horseman_a4/kr_mount_horseman_a4.blend",
+      "family": "mount_horseman",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_horseman_2_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd.json",
+          "sha256": "774e7e1ebc5245ea0cda6b2a5115dcf32e039f56accad0491b25ee212e1e259e"
+        },
+        {
+          "name": "kr_unit_horseman_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd.json",
+          "sha256": "26cb140d9f3516b6a6fbb4abe3887fc47bd6ff7a920028fac81b714a5cb96f1e"
+        },
+        {
+          "name": "kr_unit_horseman_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd.json",
+          "sha256": "d51712bb34dda56a6d36c2a4c09288829f90ecd112392d582bd147f6d08f0d6b"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_hwarang_a2",
+      "blend": "authoring/art013/art/korea/units/kr_mount_hwarang_a2/kr_mount_hwarang_a2.blend",
+      "family": "mount_hwarang",
+      "age": 2,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_hwarang_a3",
+      "blend": "authoring/art013/art/korea/units/kr_mount_hwarang_a3/kr_mount_hwarang_a3.blend",
+      "family": "mount_hwarang",
+      "age": 3,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_hwarang_a4",
+      "blend": "authoring/art013/art/korea/units/kr_mount_hwarang_a4/kr_mount_hwarang_a4.blend",
+      "family": "mount_hwarang",
+      "age": 4,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_lancer_a3",
+      "blend": "authoring/art013/art/korea/units/kr_mount_lancer_a3/kr_mount_lancer_a3.blend",
+      "family": "mount_lancer",
+      "age": 3,
+      "consumers": [
+        {
+          "name": "kr_unit_knight_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_knight_3_chi_ha_01.rgd.json",
+          "sha256": "975d68bb544324dc6b8a3ac28cb1c4f1b65080e562d71bbecdea18e117f88fab"
+        },
+        {
+          "name": "kr_unit_knight_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_knight_4_chi_ha_01.rgd.json",
+          "sha256": "a808a9280a83307992df6aead11886e9c6bacd5926ef71af00072ee2eca3b4df"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_lancer_a4",
+      "blend": "authoring/art013/art/korea/units/kr_mount_lancer_a4/kr_mount_lancer_a4.blend",
+      "family": "mount_lancer",
+      "age": 4,
+      "consumers": [
+        {
+          "name": "kr_unit_knight_3_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_knight_3_chi_ha_01.rgd.json",
+          "sha256": "975d68bb544324dc6b8a3ac28cb1c4f1b65080e562d71bbecdea18e117f88fab"
+        },
+        {
+          "name": "kr_unit_knight_4_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_unit_knight_4_chi_ha_01.rgd.json",
+          "sha256": "a808a9280a83307992df6aead11886e9c6bacd5926ef71af00072ee2eca3b4df"
+        }
+      ],
+      "unresolved_source_consumer_notes": [],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_trader_a2",
+      "blend": "authoring/art013/art/korea/units/kr_mount_trader_a2/kr_mount_trader_a2.blend",
+      "family": "mount_trader",
+      "age": 2,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_trader_a3",
+      "blend": "authoring/art013/art/korea/units/kr_mount_trader_a3/kr_mount_trader_a3.blend",
+      "family": "mount_trader",
+      "age": 3,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_mount_trader_a4",
+      "blend": "authoring/art013/art/korea/units/kr_mount_trader_a4/kr_mount_trader_a4.blend",
+      "family": "mount_trader",
+      "age": 4,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trade_cargo_a2",
+      "blend": "authoring/art013/art/korea/units/kr_trade_cargo_a2/kr_trade_cargo_a2.blend",
+      "family": "trade_cargo",
+      "age": 2,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trade_cargo_a3",
+      "blend": "authoring/art013/art/korea/units/kr_trade_cargo_a3/kr_trade_cargo_a3.blend",
+      "family": "trade_cargo",
+      "age": 3,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "kr_trade_cargo_a4",
+      "blend": "authoring/art013/art/korea/units/kr_trade_cargo_a4/kr_trade_cargo_a4.blend",
+      "family": "trade_cargo",
+      "age": 4,
+      "consumers": [],
+      "unresolved_source_consumer_notes": [
+        "stock trader reached through inherited Korean market production; private visual isolation required later"
+      ],
+      "equipment_candidates": [],
+      "status": "not bound; native rig/palette/attachments and LOD qualification required"
+    },
+    {
+      "asset": "stone_pagoda",
+      "blend": "authoring/art013/art/korea/unique/stone_pagoda/stone_pagoda.blend",
+      "name": "Stone Pagoda",
+      "consumers": [
+        {
+          "name": "kr_building_landmark_age1_prefecture_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_landmark_age1_prefecture_chi_ha_01.rgd.json",
+          "sha256": "6b34ea9afaac2a532dbd5b6b2bcfbf8db8ccf7d88150ef7908ffb3bd03a9fb39"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "bulguksa_temple",
+      "blend": "authoring/art013/art/korea/unique/bulguksa_temple/bulguksa_temple.blend",
+      "name": "Bulguksa Temple",
+      "consumers": [
+        {
+          "name": "kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main",
+          "table": "source/tables/attrib/ebps/korea/kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main.rgd.json",
+          "sha256": "cbcb3f29375028592d85dd0ffe919103c197d197286fb51fb092d8a59a3f6f81"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "seon_deok_observatory",
+      "blend": "authoring/art013/art/korea/unique/seon_deok_observatory/seon_deok_observatory.blend",
+      "name": "Seon_deok Observatory",
+      "consumers": [
+        {
+          "name": "kr_building_landmark_age2_white_deer_grotto_control_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_landmark_age2_white_deer_grotto_control_chi_ha_01.rgd.json",
+          "sha256": "674cb395989a56bedaa6ad37cc6a4c74f2a7a684b11435034f204726afa08ea3"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "gate_of_reverence",
+      "blend": "authoring/art013/art/korea/unique/gate_of_reverence/gate_of_reverence.blend",
+      "name": "Gate of Reverence",
+      "consumers": [
+        {
+          "name": "kr_building_landmark_age2_shaolin_temple_control_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_landmark_age2_shaolin_temple_control_chi_ha_01.rgd.json",
+          "sha256": "e2ad1084cb758a25fbc327b21d2dc13559fe9b346d4634a8172c9ed53ae0e2b6"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "gyeongbok_palace",
+      "blend": "authoring/art013/art/korea/unique/gyeongbok_palace/gyeongbok_palace.blend",
+      "name": "Gyeongbok Palace",
+      "consumers": [
+        {
+          "name": "kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01.rgd.json",
+          "sha256": "e7cd51c6b08414c26f6086060492b1915ebe98e0a98bf6da469b5798b8b10dd8"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "hall_of_worthies",
+      "blend": "authoring/art013/art/korea/unique/hall_of_worthies/hall_of_worthies.blend",
+      "name": "Hall of Worthies",
+      "consumers": [
+        {
+          "name": "kr_building_landmark_age3_library_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_landmark_age3_library_chi_ha_01.rgd.json",
+          "sha256": "156173db56939e4cb6e2b04afdab96c1ffa3354fd7cb064bed32be47d27cc989"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "seowon_academy",
+      "blend": "authoring/art013/art/korea/unique/seowon_academy/seowon_academy.blend",
+      "name": "Seowon Academy",
+      "consumers": [
+        {
+          "name": "kr_building_landmark_age1_meditation_gardens_control_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_landmark_age1_meditation_gardens_control_chi_ha_01.rgd.json",
+          "sha256": "9a024545b21af22bc96047a851b546681b64666b62021e8ebb96ba833b03aa29"
+        },
+        {
+          "name": "kr_building_dynasty_pagoda_control_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_dynasty_pagoda_control_chi_ha_01.rgd.json",
+          "sha256": "04e820dd089541e23ef000997caf6e1e4b94861b541d8637dbaa574d9dd7da50"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "mountain_fortress",
+      "blend": "authoring/art013/art/korea/unique/mountain_fortress/mountain_fortress.blend",
+      "name": "Mountain Fortress",
+      "consumers": [
+        {
+          "name": "kr_building_defense_keep_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_defense_keep_chi_ha_01.rgd.json",
+          "sha256": "586ecd8deef2509bb458a6771ed7f655290caf5d73f7ca7b564559f9fb3eb141"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "hwangnyongsa",
+      "blend": "authoring/art013/art/korea/unique/hwangnyongsa/hwangnyongsa.blend",
+      "name": "Hwangnyongsa",
+      "consumers": [
+        {
+          "name": "kr_building_wonder_age4_forbidden_control_chi_ha_01",
+          "table": "source/tables/attrib/ebps/korea/kr_building_wonder_age4_forbidden_control_chi_ha_01.rgd.json",
+          "sha256": "5bfb5af78df72fe60e772c2accd2512276234d43c9e0ff522cb13251eca016db"
+        }
+      ],
+      "status": "not bound; private lifecycle/stamp/repair/LOD integration required"
+    },
+    {
+      "asset": "Korea_archery_range02",
+      "blend": "authoring/art013/art/korea/buildings/sources/archery_range02/Korea_archery_range02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "archery_range",
+        "age": 2,
+        "variant": "",
+        "key": "archery_range02",
+        "logical_path": "art/civilizations/chinese/structures/archery_range/chi_archery_range_control_age02/chi_archery_range_control_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\archery_range02\\e9ed733a9173bb6554f8\\decoded-static.json",
+        "manifest_sha256": "bffbaa8a9fc4101acd2a12a0262fa2897c7b8b0426b369e03073800a846ff921",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "main",
+          "roof",
+          "extra"
+        ],
+        "all_state_triangles": 42418,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/archery_range02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/archery_range02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_archery_range03",
+      "blend": "authoring/art013/art/korea/buildings/sources/archery_range03/Korea_archery_range03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "archery_range",
+        "age": 3,
+        "variant": "",
+        "key": "archery_range03",
+        "logical_path": "art/civilizations/chinese/structures/archery_range/chi_archery_range_control_age03/chi_archery_range_control_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\archery_range03\\4a77f02f7fb2e1c900a2\\decoded-static.json",
+        "manifest_sha256": "9deebc8239d8684f7d94d3cc4fff5a4894c482e6440105df6ca6b7c494072e96",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "main",
+          "roof",
+          "extra"
+        ],
+        "all_state_triangles": 42324,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/archery_range03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/archery_range03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_archery_range04",
+      "blend": "authoring/art013/art/korea/buildings/sources/archery_range04/Korea_archery_range04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "archery_range",
+        "age": 4,
+        "variant": "",
+        "key": "archery_range04",
+        "logical_path": "art/civilizations/chinese/structures/archery_range/chi_archery_range_control_age04/chi_archery_range_control_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\archery_range04\\e61995d242ac2bd72e68\\decoded-static.json",
+        "manifest_sha256": "c01485ed5b66cac34015639bf69ec4304113da89a356ced089a4e6c33bcb6b6f",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "extra",
+          "extra",
+          "extra",
+          "extra",
+          "roof",
+          "roof",
+          "main",
+          "main"
+        ],
+        "all_state_triangles": 68322,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/archery_range04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/archery_range04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_barracks_combined01",
+      "blend": "authoring/art013/art/korea/buildings/sources/barracks_combined01/Korea_barracks_combined01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "barracks",
+        "age": 1,
+        "variant": "combined",
+        "key": "barracks_combined01",
+        "logical_path": "art/civilizations/chinese/structures/barracks/chi_barracks_combined_age01/chi_barracks_combined_age01.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\barracks_combined01\\b58ffef1654b4dbcd301\\decoded-static.json",
+        "manifest_sha256": "8463c8d0385f3733f43cf55e5f17ff6d611a54562a40ca4d428ea942896b69f8",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "roof",
+          "main",
+          "control_roof",
+          "control_main",
+          "control_main"
+        ],
+        "all_state_triangles": 42550
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/barracks_combined01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/barracks_combined01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_barracks_combined02",
+      "blend": "authoring/art013/art/korea/buildings/sources/barracks_combined02/Korea_barracks_combined02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "barracks",
+        "age": 2,
+        "variant": "combined",
+        "key": "barracks_combined02",
+        "logical_path": "art/civilizations/chinese/structures/barracks/chi_barracks_combined_age02/chi_barracks_combined_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\barracks_combined02\\767f92bba5ecd049c2e3\\decoded-static.json",
+        "manifest_sha256": "8e6089be1ba3d4988cc23afa743171a0bc0f1324f79030a984b688be83922e07",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "control_main",
+          "control_main",
+          "roof",
+          "main",
+          "main",
+          "control_extra",
+          "control_roof"
+        ],
+        "all_state_triangles": 61161
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/barracks_combined02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/barracks_combined02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_barracks_combined03",
+      "blend": "authoring/art013/art/korea/buildings/sources/barracks_combined03/Korea_barracks_combined03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "barracks",
+        "age": 3,
+        "variant": "combined",
+        "key": "barracks_combined03",
+        "logical_path": "art/civilizations/chinese/structures/barracks/chi_barracks_combined_age03/chi_barracks_combined_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\barracks_combined03\\733f0c646ee0a6058716\\decoded-static.json",
+        "manifest_sha256": "916c101ace926b47e8dc8a694f573ef561b46a471a432515fa63708d74adb016",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "control_main",
+          "control_main",
+          "roof",
+          "main",
+          "main",
+          "control_extra",
+          "control_roof"
+        ],
+        "all_state_triangles": 61027
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/barracks_combined03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/barracks_combined03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_barracks_combined04",
+      "blend": "authoring/art013/art/korea/buildings/sources/barracks_combined04/Korea_barracks_combined04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "barracks",
+        "age": 4,
+        "variant": "combined",
+        "key": "barracks_combined04",
+        "logical_path": "art/civilizations/chinese/structures/barracks/chi_barracks_combined_age04/chi_barracks_combined_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\barracks_combined04\\52910fad6b1066efeeec\\decoded-static.json",
+        "manifest_sha256": "b46e6e062507cdd0a3e5cbcf2185ad86ca820e090c1d05693895ad4df18f9ce5",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "main",
+          "control_main",
+          "control_main",
+          "roof",
+          "control_extra",
+          "control_roof"
+        ],
+        "all_state_triangles": 72877
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/barracks_combined04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/barracks_combined04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_blacksmith02",
+      "blend": "authoring/art013/art/korea/buildings/sources/blacksmith02/Korea_blacksmith02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "blacksmith",
+        "age": 2,
+        "variant": "",
+        "key": "blacksmith02",
+        "logical_path": "art/civilizations/chinese/structures/blacksmith/chi_blacksmith_control_age02/chi_blacksmith_control_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\blacksmith02\\1d82df7e2deea274bee6\\decoded-static.json",
+        "manifest_sha256": "8cfcea707acc54e152f753ff65372b98e599e3690f4a3420d0713c7bd941f59f",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main",
+          "extra"
+        ],
+        "all_state_triangles": 24885,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/blacksmith02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/blacksmith02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_blacksmith03",
+      "blend": "authoring/art013/art/korea/buildings/sources/blacksmith03/Korea_blacksmith03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "blacksmith",
+        "age": 3,
+        "variant": "",
+        "key": "blacksmith03",
+        "logical_path": "art/civilizations/chinese/structures/blacksmith/chi_blacksmith_control_age03/chi_blacksmith_control_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\blacksmith03\\fe18b7e2eb79ec55340b\\decoded-static.json",
+        "manifest_sha256": "49ebbe642b8033e99352b4f445e7358972cefc772912ab79f68e8bc77f94d768",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "extra",
+          "main"
+        ],
+        "all_state_triangles": 24427,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/blacksmith03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/blacksmith03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_blacksmith04",
+      "blend": "authoring/art013/art/korea/buildings/sources/blacksmith04/Korea_blacksmith04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "blacksmith",
+        "age": 4,
+        "variant": "",
+        "key": "blacksmith04",
+        "logical_path": "art/civilizations/chinese/structures/blacksmith/chi_blacksmith_control_age04/chi_blacksmith_control_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\blacksmith04\\4cb9188d803ef4cbc931\\decoded-static.json",
+        "manifest_sha256": "876399c684069fdc9d871c543e7062182df3f2a8cb34a2c31e02c5539b299772",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "extra",
+          "extra",
+          "roof"
+        ],
+        "all_state_triangles": 35888,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/blacksmith04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/blacksmith04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_dock02",
+      "blend": "authoring/art013/art/korea/buildings/sources/dock02/Korea_dock02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "dock",
+        "age": 2,
+        "variant": "",
+        "key": "dock02",
+        "logical_path": "art/civilizations/chinese/structures/dock/chi_dock_control_age02/chi_dock_control_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\dock02\\bed48062ff8b0029ba81\\decoded-static.json",
+        "manifest_sha256": "518e2fb54c2d19eeca5707d714d12117439d6ea107458c6c1d7507a5cf870847",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "main",
+          "extra",
+          "roof",
+          "misc"
+        ],
+        "all_state_triangles": 69348,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/dock02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/dock02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_dock03",
+      "blend": "authoring/art013/art/korea/buildings/sources/dock03/Korea_dock03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "dock",
+        "age": 3,
+        "variant": "",
+        "key": "dock03",
+        "logical_path": "art/civilizations/chinese/structures/dock/chi_dock_control_age03/chi_dock_control_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\dock03\\ff007f66f6e7d7be7b0d\\decoded-static.json",
+        "manifest_sha256": "8e3e434eda8387dc6409fabecffa84d0b118bbc894a209b035e8c83dbcce5d12",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "extra",
+          "roof",
+          "main",
+          "main",
+          "misc"
+        ],
+        "all_state_triangles": 68100,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/dock03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/dock03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_dock04",
+      "blend": "authoring/art013/art/korea/buildings/sources/dock04/Korea_dock04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "dock",
+        "age": 4,
+        "variant": "",
+        "key": "dock04",
+        "logical_path": "art/civilizations/chinese/structures/dock/chi_dock_control_age04/chi_dock_control_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\dock04\\0ebb271100dce5a5e180\\decoded-static.json",
+        "manifest_sha256": "74d9a56def7ac35dbbf2b3735902f961d5946efd3ad9c0871c7c38014350079d",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "extra",
+          "extra",
+          "main",
+          "main",
+          "misc"
+        ],
+        "all_state_triangles": 69355,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/dock04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/dock04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_gristmill01",
+      "blend": "authoring/art013/art/korea/buildings/sources/gristmill01/Korea_gristmill01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "gristmill",
+        "age": 1,
+        "variant": "",
+        "key": "gristmill01",
+        "logical_path": "art/civilizations/chinese/structures/gristmill/chi_gristmill_control_age01/chi_gristmill_control_age01.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\gristmill01\\18c2c387ae7e1bcaee39\\decoded-static.json",
+        "manifest_sha256": "ff055a8e2c54b846c52d303ea4922cc1948fc47e7afb4314c7c4ed63e9861374",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "extra",
+          "roof"
+        ],
+        "all_state_triangles": 14674,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/gristmill01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/gristmill01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_housea01",
+      "blend": "authoring/art013/art/korea/buildings/sources/housea01/Korea_housea01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 1,
+        "variant": "a",
+        "key": "housea01",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_a_age01/chi_house_control_a_age01.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housea01\\6fb42bd10ade73dcbd69\\decoded-static.json",
+        "manifest_sha256": "fe6da5030b64d0963c7583650d3fdae3ad6efa52644b261840c791a0696ae6ff",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 10471,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/housea01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/housea01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_housea02",
+      "blend": "authoring/art013/art/korea/buildings/sources/housea02/Korea_housea02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 2,
+        "variant": "a",
+        "key": "housea02",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_a_age02/chi_house_control_a_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housea02\\53bb36a24c380277231d\\decoded-static.json",
+        "manifest_sha256": "9ee3fd6d4b2d036c64e0cbb6a58508ec029eaf2bac25e68f78028358cd20dd88",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 12066,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/housea02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/housea02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_housea03",
+      "blend": "authoring/art013/art/korea/buildings/sources/housea03/Korea_housea03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 3,
+        "variant": "a",
+        "key": "housea03",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_a_age03/chi_house_control_a_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housea03\\5334fc3f6924cf5684d8\\decoded-static.json",
+        "manifest_sha256": "57725ec966d526d952c6f6243d06217aba5ce722241ddb3390996c34a04b28a3",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 12104,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/housea03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/housea03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_housea04",
+      "blend": "authoring/art013/art/korea/buildings/sources/housea04/Korea_housea04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 4,
+        "variant": "a",
+        "key": "housea04",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_a_age04/chi_house_control_a_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housea04\\86421fa6718330fe7199\\decoded-static.json",
+        "manifest_sha256": "fe5aecef63e13bf2d53af440d17e929fb74552c2417e1c4e4d298a73d49cdfa1",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "extra",
+          "main"
+        ],
+        "all_state_triangles": 25200,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/housea04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/housea04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_houseb01",
+      "blend": "authoring/art013/art/korea/buildings/sources/houseb01/Korea_houseb01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 1,
+        "variant": "b",
+        "key": "houseb01",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_b_age01/chi_house_control_b_age01.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\houseb01\\2eef5bd44b56b58e4ca5\\decoded-static.json",
+        "manifest_sha256": "b6cabf78b72078a6e723f41173b52c7530fae05726c3fa350b427c2115479b35",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 10008,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/houseb01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/houseb01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_houseb02",
+      "blend": "authoring/art013/art/korea/buildings/sources/houseb02/Korea_houseb02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 2,
+        "variant": "b",
+        "key": "houseb02",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_b_age02/chi_house_control_b_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\houseb02\\1b92e2317fb6a5a3b029\\decoded-static.json",
+        "manifest_sha256": "34d45e1d670703c24e36c14a329a9ef71d10bfa84e14e4c49535b1e2c472bd5c",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 10424,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/houseb02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/houseb02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_houseb03",
+      "blend": "authoring/art013/art/korea/buildings/sources/houseb03/Korea_houseb03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 3,
+        "variant": "b",
+        "key": "houseb03",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_b_age03/chi_house_control_b_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\houseb03\\7640d96a44c12d3b79b5\\decoded-static.json",
+        "manifest_sha256": "00f4efabc2d604593e060fc480dcb9fe6c5f97b1d0cd499338e8d2a8f16af8fd",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 10550,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/houseb03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/houseb03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_houseb04",
+      "blend": "authoring/art013/art/korea/buildings/sources/houseb04/Korea_houseb04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 4,
+        "variant": "b",
+        "key": "houseb04",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_b_age04/chi_house_control_b_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\houseb04\\82e5f04a6fa5f5cf5e32\\decoded-static.json",
+        "manifest_sha256": "5b4c4e40b50fc2bf10ebe373f15a0b119dbcddc0683edd2d586949552e037b39",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "extra",
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 27444,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/houseb04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/houseb04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_housec01",
+      "blend": "authoring/art013/art/korea/buildings/sources/housec01/Korea_housec01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 1,
+        "variant": "c",
+        "key": "housec01",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_c_age01/chi_house_control_c_age01.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housec01\\6c1044ad9d7c33d8985a\\decoded-static.json",
+        "manifest_sha256": "00cf469e1dc67eb75640cfcaf26a84087596ef1787f05f0bc73c71cf7f2275f8",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 10255,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/housec01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/housec01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_housec02",
+      "blend": "authoring/art013/art/korea/buildings/sources/housec02/Korea_housec02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 2,
+        "variant": "c",
+        "key": "housec02",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_c_age02/chi_house_control_c_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housec02\\7edd7770e734a414ea2d\\decoded-static.json",
+        "manifest_sha256": "2db9655db44e783cf1e8f0152b272955f1edad43dfdf1c7933f52d2e456bce57",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "roof"
+        ],
+        "all_state_triangles": 11796,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/housec02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/housec02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_housec03",
+      "blend": "authoring/art013/art/korea/buildings/sources/housec03/Korea_housec03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 3,
+        "variant": "c",
+        "key": "housec03",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_c_age03/chi_house_control_c_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housec03\\736e919264c8ff449f42\\decoded-static.json",
+        "manifest_sha256": "cbf79a89caed82e23532174493c03da4289835a4dc4bd569e8fecfaac8e25667",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "roof"
+        ],
+        "all_state_triangles": 11586,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/housec03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/housec03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_housec04",
+      "blend": "authoring/art013/art/korea/buildings/sources/housec04/Korea_housec04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "house",
+        "age": 4,
+        "variant": "c",
+        "key": "housec04",
+        "logical_path": "art/civilizations/chinese/structures/house/chi_house_control_c_age04/chi_house_control_c_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housec04\\f345f51597276b7bf672\\decoded-static.json",
+        "manifest_sha256": "e3917322d904583daf06f5858c24fccbcae94300bc6b84f659df3197ff7455de",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "extra",
+          "extra",
+          "roof",
+          "main",
+          "extra",
+          "extra",
+          "main",
+          "main",
+          "main",
+          "main",
+          "extra",
+          "roof",
+          "extra",
+          "main",
+          "extra",
+          "extra",
+          "main",
+          "main",
+          "extra",
+          "main",
+          "main",
+          "extra",
+          "main",
+          "main",
+          "main",
+          "roof",
+          "main",
+          "main",
+          "main",
+          "roof",
+          "extra",
+          "main",
+          "main",
+          "roof",
+          "main",
+          "extra",
+          "main",
+          "extra",
+          "main",
+          "extra",
+          "main",
+          "main",
+          "main",
+          "main",
+          "roof",
+          "extra",
+          "roof",
+          "extra",
+          "roof",
+          "roof",
+          "main",
+          "main",
+          "extra",
+          "main",
+          "roof",
+          "main",
+          "extra",
+          "extra",
+          "roof",
+          "extra",
+          "main",
+          "roof",
+          "main",
+          "main",
+          "roof",
+          "main",
+          "extra",
+          "roof",
+          "main",
+          "main"
+        ],
+        "all_state_triangles": 17704,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": false
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/housec04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/housec04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_lumber_camp01",
+      "blend": "authoring/art013/art/korea/buildings/sources/lumber_camp01/Korea_lumber_camp01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "lumber_camp",
+        "age": 1,
+        "variant": "",
+        "key": "lumber_camp01",
+        "logical_path": "art/civilizations/common/structures/lumber_camp/com_lumber_camp_crane_age01/com_lumber_camp_crane_age01.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\lumber_camp01\\26dde30bd7927e8c6c86\\decoded-static.json",
+        "manifest_sha256": "df80577df7596736c75ef64372462be8a19a1c0f2b7e25b857561dddf45c0430",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "crane",
+          "foundation",
+          "crane"
+        ],
+        "all_state_triangles": 2740,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": false
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/lumber_camp01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/lumber_camp01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_market02",
+      "blend": "authoring/art013/art/korea/buildings/sources/market02/Korea_market02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "market",
+        "age": 2,
+        "variant": "",
+        "key": "market02",
+        "logical_path": "art/civilizations/chinese/structures/market/chi_market_control_age02/chi_market_control_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\market02\\cee658e95e30a078647c\\decoded-static.json",
+        "manifest_sha256": "8af218911798bd9cd4a2feb003f534d6f4dbd909c69420eeb07a430cd91e3fd6",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 26553,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/market02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/market02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_market03",
+      "blend": "authoring/art013/art/korea/buildings/sources/market03/Korea_market03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "market",
+        "age": 3,
+        "variant": "",
+        "key": "market03",
+        "logical_path": "art/civilizations/chinese/structures/market/chi_market_control_age03/chi_market_control_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\market03\\e800303ea380ee2565dd\\decoded-static.json",
+        "manifest_sha256": "367e7bca26cdfac8746bc3f0501e4bc3f422a0b971f824f91edf65a0e4660b60",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 26157,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/market03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/market03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_market04",
+      "blend": "authoring/art013/art/korea/buildings/sources/market04/Korea_market04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "market",
+        "age": 4,
+        "variant": "",
+        "key": "market04",
+        "logical_path": "art/civilizations/chinese/structures/market/chi_market_control_age04/chi_market_control_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\market04\\100c122138f68deaa534\\decoded-static.json",
+        "manifest_sha256": "c5d355e8be843ab08c2131194490dee2e65bf301ca5442c3c5443fc6a4eece2f",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "extra",
+          "extra",
+          "roof",
+          "main"
+        ],
+        "all_state_triangles": 26938,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/market04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/market04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_mining_camp01",
+      "blend": "authoring/art013/art/korea/buildings/sources/mining_camp01/Korea_mining_camp01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "mining_camp",
+        "age": 1,
+        "variant": "",
+        "key": "mining_camp01",
+        "logical_path": "art/civilizations/common/structures/mining_camp/com_mining_camp_combined/com_mining_camp_combined.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\mining_camp01\\1885bb321776a76cd0c4\\decoded-static.json",
+        "manifest_sha256": "dbe5cd95958dfdfd93ad826248f553156c8c072d3e63000e71bbe5dcfd5fb9a3",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "mining_furnace",
+          "mining_crane"
+        ],
+        "all_state_triangles": 6998,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/mining_camp01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/mining_camp01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_monastery03",
+      "blend": "authoring/art013/art/korea/buildings/sources/monastery03/Korea_monastery03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "monastery",
+        "age": 3,
+        "variant": "",
+        "key": "monastery03",
+        "logical_path": "art/civilizations/chinese/structures/monastery/chi_monastery_control_age03/chi_monastery_control_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\monastery03\\84566f37258a55d976ba\\decoded-static.json",
+        "manifest_sha256": "66d26b81f2ba7eb9d9178fbde21f023f0b33b396545d355605813cbbe7159835",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "roof",
+          "extra"
+        ],
+        "all_state_triangles": 41306,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/monastery03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/monastery03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_monastery04",
+      "blend": "authoring/art013/art/korea/buildings/sources/monastery04/Korea_monastery04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "monastery",
+        "age": 4,
+        "variant": "",
+        "key": "monastery04",
+        "logical_path": "art/civilizations/chinese/structures/monastery/chi_monastery_control_age04/chi_monastery_control_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\monastery04\\18688a2ca6c67be42808\\decoded-static.json",
+        "manifest_sha256": "a49139a0076e574512de07723e168d612a327c81e1da55fc4974f5fc94291611",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "extra",
+          "extra",
+          "main"
+        ],
+        "all_state_triangles": 48116,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/monastery04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/monastery04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_outpost01",
+      "blend": "authoring/art013/art/korea/buildings/sources/outpost01/Korea_outpost01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "outpost",
+        "age": 1,
+        "variant": "",
+        "key": "outpost01",
+        "logical_path": "art/civilizations/chinese/structures/outpost/chi_outpost_control_age01/chi_outpost_control_age01.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\outpost01\\ba0a853a007b07d00713\\decoded-static.json",
+        "manifest_sha256": "e63080d36a4c1309a3fd9ed934998f0f439ba8668269009d4470207903058d78",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "main",
+          "misc"
+        ],
+        "all_state_triangles": 19046,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/outpost01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/outpost01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_outpost_stone01",
+      "blend": "authoring/art013/art/korea/buildings/sources/outpost_stone01/Korea_outpost_stone01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "outpost_stone",
+        "age": 1,
+        "variant": "",
+        "key": "outpost_stone01",
+        "logical_path": "art/civilizations/chinese/structures/outpost/chi_outpost_control_age01_upgrade_stone/chi_outpost_control_age01_upgrade_stone.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\outpost_stone01\\cb686f764b562cb8ce3c\\decoded-static.json",
+        "manifest_sha256": "b056d7c8497e858c976becf0548d56e64dedab2583235beb5169e96470434d23",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "misc",
+          "roof"
+        ],
+        "all_state_triangles": 33138,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/outpost_stone01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/outpost_stone01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_siege_workshop03",
+      "blend": "authoring/art013/art/korea/buildings/sources/siege_workshop03/Korea_siege_workshop03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "siege_workshop",
+        "age": 3,
+        "variant": "",
+        "key": "siege_workshop03",
+        "logical_path": "art/civilizations/chinese/structures/siege_workshop/chi_siege_workshop_control_age03/chi_siege_workshop_control_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\siege_workshop03\\0c44254a0b4ab285e753\\decoded-static.json",
+        "manifest_sha256": "b426b466f4f979e38caa0d434ce3299a5bb0c0ac31e6ecd519aafbb14f4afc93",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "extra",
+          "main",
+          "main",
+          "roof",
+          "roof",
+          "roof"
+        ],
+        "all_state_triangles": 42546,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/siege_workshop03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/siege_workshop03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_siege_workshop04",
+      "blend": "authoring/art013/art/korea/buildings/sources/siege_workshop04/Korea_siege_workshop04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "siege_workshop",
+        "age": 4,
+        "variant": "",
+        "key": "siege_workshop04",
+        "logical_path": "art/civilizations/chinese/structures/siege_workshop/chi_siege_workshop_control_age04/chi_siege_workshop_control_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\siege_workshop04\\ba95a9c3569fe954640f\\decoded-static.json",
+        "manifest_sha256": "4642f04b22877a08a06fdc040953f9926c80f34f3281c7a5c94e71e3223fab3c",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "roof",
+          "roof",
+          "extra",
+          "main",
+          "main"
+        ],
+        "all_state_triangles": 55836,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/siege_workshop04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/siege_workshop04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_stable02",
+      "blend": "authoring/art013/art/korea/buildings/sources/stable02/Korea_stable02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "stable",
+        "age": 2,
+        "variant": "",
+        "key": "stable02",
+        "logical_path": "art/civilizations/chinese/structures/stable/chi_stable_control_age02/chi_stable_control_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\stable02\\6922bf4812c92fb5d86a\\decoded-static.json",
+        "manifest_sha256": "5ed6c169f20fb63d12f1c160ff781768862c45326d167b9e44af14bdd2ee24f2",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "roof",
+          "extra"
+        ],
+        "all_state_triangles": 28767,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/stable02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/stable02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_stable03",
+      "blend": "authoring/art013/art/korea/buildings/sources/stable03/Korea_stable03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "stable",
+        "age": 3,
+        "variant": "",
+        "key": "stable03",
+        "logical_path": "art/civilizations/chinese/structures/stable/chi_stable_control_age03/chi_stable_control_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\stable03\\0dac8c206fed616e0ab7\\decoded-static.json",
+        "manifest_sha256": "27bf19af63286bb106db3d09c343c2511aeeb019f977975b54124b3e34a562c0",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "extra",
+          "roof"
+        ],
+        "all_state_triangles": 28911,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/stable03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/stable03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_stable04",
+      "blend": "authoring/art013/art/korea/buildings/sources/stable04/Korea_stable04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "stable",
+        "age": 4,
+        "variant": "",
+        "key": "stable04",
+        "logical_path": "art/civilizations/chinese/structures/stable/chi_stable_control_age04/chi_stable_control_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\stable04\\722c171d4c4578fb78bc\\decoded-static.json",
+        "manifest_sha256": "d70eeaaeceeccf426155f4f606f239be54ec7aee7ca1f032001fe315db6504f4",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "main",
+          "main",
+          "roof",
+          "extra"
+        ],
+        "all_state_triangles": 48276,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/stable04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/stable04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_stone_tower02",
+      "blend": "authoring/art013/art/korea/buildings/sources/stone_tower02/Korea_stone_tower02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "stone_tower",
+        "age": 2,
+        "variant": "",
+        "key": "stone_tower02",
+        "logical_path": "art/civilizations/chinese/structures/stonewall/chi_stonewall_tower/chi_stonewall_tower.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\stone_tower02\\32a31bfc42750de98843\\decoded-static.json",
+        "manifest_sha256": "637ddc2d719c6eba3003e69a311da685ebf6cf671f875d43e4bccf8c695bfefc",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "misc",
+          "main"
+        ],
+        "all_state_triangles": 26365,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/stone_tower02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/stone_tower02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_towncenter_combined01",
+      "blend": "authoring/art013/art/korea/buildings/sources/towncenter_combined01/Korea_towncenter_combined01.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "towncenter",
+        "age": 1,
+        "variant": "combined",
+        "key": "towncenter_combined01",
+        "logical_path": "art/civilizations/chinese/structures/towncenter/chi_towncenter_combined_age01/chi_towncenter_combined_age01.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\towncenter_combined01\\e7673f970f8188014248\\decoded-static.json",
+        "manifest_sha256": "257af99f63812cac138685d22928d7dc6dc35b95d98c2c59c24cab563d4e5d67",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "control_misc",
+          "control_misc",
+          "gate_main",
+          "shed_main",
+          "control_extra",
+          "roof",
+          "control_main",
+          "main",
+          "gate_roof",
+          "control_roof",
+          "shed_roof"
+        ],
+        "all_state_triangles": 58977
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/towncenter_combined01/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/towncenter_combined01/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_towncenter_combined02",
+      "blend": "authoring/art013/art/korea/buildings/sources/towncenter_combined02/Korea_towncenter_combined02.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "towncenter",
+        "age": 2,
+        "variant": "combined",
+        "key": "towncenter_combined02",
+        "logical_path": "art/civilizations/chinese/structures/towncenter/chi_towncenter_combined_age02/chi_towncenter_combined_age02.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\towncenter_combined02\\f51b3285af839b7bb902\\decoded-static.json",
+        "manifest_sha256": "8381c6272f4cc070bb43b2424164a95112e5cbc951a160f5a1733ea98fbd2d48",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "control_misc",
+          "control_misc",
+          "control_misc",
+          "gate_roof",
+          "control_extra",
+          "control_extra",
+          "main",
+          "roof",
+          "roof",
+          "control_main",
+          "shed_roof",
+          "control_roof",
+          "gate_main",
+          "shed_main"
+        ],
+        "all_state_triangles": 68339
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/towncenter_combined02/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/towncenter_combined02/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_towncenter_combined03",
+      "blend": "authoring/art013/art/korea/buildings/sources/towncenter_combined03/Korea_towncenter_combined03.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "towncenter",
+        "age": 3,
+        "variant": "combined",
+        "key": "towncenter_combined03",
+        "logical_path": "art/civilizations/chinese/structures/towncenter/chi_towncenter_combined_age03/chi_towncenter_combined_age03.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\towncenter_combined03\\7639aca4e6d6a33e7166\\decoded-static.json",
+        "manifest_sha256": "7599b53f351b53ff8d37bd4cfbfc20f682de597c86d99ceaa6bcebf1d6245aeb",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "control_misc",
+          "control_misc",
+          "control_misc",
+          "gate_roof",
+          "main",
+          "control_extra",
+          "control_extra",
+          "control_main",
+          "roof",
+          "roof",
+          "shed_roof",
+          "shed_main",
+          "control_roof",
+          "gate_main"
+        ],
+        "all_state_triangles": 69269
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/towncenter_combined03/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/towncenter_combined03/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_towncenter_combined04",
+      "blend": "authoring/art013/art/korea/buildings/sources/towncenter_combined04/Korea_towncenter_combined04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "towncenter",
+        "age": 4,
+        "variant": "combined",
+        "key": "towncenter_combined04",
+        "logical_path": "art/civilizations/chinese/structures/towncenter/chi_towncenter_combined_age04/chi_towncenter_combined_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\towncenter_combined04\\6dc70d25ad983213e04e\\decoded-static.json",
+        "manifest_sha256": "37d49e8b1daf68e99a6a8d0e975a8efed990794592c4289f10a7cde92ae3f788",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "control_misc",
+          "control_misc",
+          "roof",
+          "main",
+          "control_main",
+          "gate_extra",
+          "gate_main",
+          "control_extra",
+          "gate_roof",
+          "control_roof",
+          "shed_main",
+          "shed_roof"
+        ],
+        "all_state_triangles": 90473
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/towncenter_combined04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/towncenter_combined04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_university04",
+      "blend": "authoring/art013/art/korea/buildings/sources/university04/Korea_university04.blend",
+      "group": "Ordinary buildings",
+      "native_donor": {
+        "family": "university",
+        "age": 4,
+        "variant": "",
+        "key": "university04",
+        "logical_path": "art/civilizations/chinese/structures/university/chi_university_control_age04/chi_university_control_age04.rgm",
+        "status": "decoded",
+        "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\university04\\e80c053f4a7fadb77359\\decoded-static.json",
+        "manifest_sha256": "8f037e4f3bc1fd9938e7e18ef6667d7d187b66e924bbfdaf2c95bd1ec7f63cee",
+        "blockers": [],
+        "warnings": [],
+        "materials": [
+          "extra",
+          "extra",
+          "main",
+          "roof"
+        ],
+        "all_state_triangles": 42829,
+        "native_state_names": [
+          "construct_00",
+          "construct_05",
+          "construct_10",
+          "construct_15",
+          "construct_20",
+          "construct_25",
+          "construct_30",
+          "construct_35",
+          "construct_40",
+          "construct_45",
+          "construct_50",
+          "construct_55",
+          "construct_60",
+          "construct_65",
+          "construct_70",
+          "construct_75",
+          "construct_80",
+          "construct_85",
+          "construct_90",
+          "construct_95",
+          "damage_1",
+          "damage_2",
+          "damage_3",
+          "damage_4",
+          "damage_5",
+          "healthy",
+          "preview",
+          "ruins",
+          "targeting"
+        ],
+        "source_mapping_verified": true
+      },
+      "state_contract": "authoring/art013/art/korea/buildings/sources/university04/native-state-contract.json",
+      "recipe": "authoring/art013/art/korea/buildings/sources/university04/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_cavalry_spear",
+      "blend": "authoring/art013/art/korea/equipment/sources/cavalry_spear/Korea_cavalry_spear.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/melee/spear_cavalry_charge/spear_cavalry_charge.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/cavalry_spear/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_crossbow",
+      "blend": "authoring/art013/art/korea/equipment/sources/crossbow/Korea_crossbow.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/ranged/bow_cross/bow_cross.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/crossbow/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_gakgung_archer",
+      "blend": "authoring/art013/art/korea/equipment/sources/gakgung_archer/Korea_gakgung_archer.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/ranged/bow_recurve_short/bow_recurve_short.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/gakgung_archer/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_gakgung_hwarang",
+      "blend": "authoring/art013/art/korea/equipment/sources/gakgung_hwarang/Korea_gakgung_hwarang.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/ranged/bow_recurve_gold_short/bow_recurve_gold_short.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/gakgung_hwarang/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_gakgung_tiger_hunter",
+      "blend": "authoring/art013/art/korea/equipment/sources/gakgung_tiger_hunter/Korea_gakgung_tiger_hunter.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/ranged/bow_recurve/bow_recurve.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/gakgung_tiger_hunter/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_gapsa_heavy_spear",
+      "blend": "authoring/art013/art/korea/equipment/sources/gapsa_heavy_spear/Korea_gapsa_heavy_spear.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/templar/weapons/tem_spear_heavy_spearman_age03/tem_spear_heavy_spearman_age03.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/gapsa_heavy_spear/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_gapsa_long_spear",
+      "blend": "authoring/art013/art/korea/equipment/sources/gapsa_long_spear/Korea_gapsa_long_spear.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/japanese/weapons/jpn_spear_yari_jumonji/jpn_spear_yari_jumonji.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/gapsa_long_spear/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_hand_chongtong",
+      "blend": "authoring/art013/art/korea/equipment/sources/hand_chongtong/Korea_hand_chongtong.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/ranged/cannon_hand/cannon_hand.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/hand_chongtong/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_hwarang_sword",
+      "blend": "authoring/art013/art/korea/equipment/sources/hwarang_sword/Korea_hwarang_sword.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/japanese/weapons/jpn_sword_katana/jpn_sword_katana.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/hwarang_sword/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_jangchang_plain",
+      "blend": "authoring/art013/art/korea/equipment/sources/jangchang_plain/Korea_jangchang_plain.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/melee/spear_basic/spear_basic.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/jangchang_plain/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_jangchang_tassel",
+      "blend": "authoring/art013/art/korea/equipment/sources/jangchang_tassel/Korea_jangchang_tassel.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/melee/spear_tassle/spear_tassle.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/jangchang_tassel/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_lancer_lance",
+      "blend": "authoring/art013/art/korea/equipment/sources/lancer_lance/Korea_lancer_lance.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/melee/lance_tassle/lance_tassle.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/lancer_lance/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_lancer_polearm_upgrade",
+      "blend": "authoring/art013/art/korea/equipment/sources/lancer_polearm_upgrade/Korea_lancer_polearm_upgrade.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/japanese/weapons/jpn_bugeisha_naginata/jpn_bugeisha_naginata.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/lancer_polearm_upgrade/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_monk_staff",
+      "blend": "authoring/art013/art/korea/equipment/sources/monk_staff/Korea_monk_staff.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/chinese/weapons/chi_staff_khakkhara_1/chi_staff_khakkhara_1.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/monk_staff/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_righteous_monk_sword",
+      "blend": "authoring/art013/art/korea/equipment/sources/righteous_monk_sword/Korea_righteous_monk_sword.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/chinese/weapons/chi_sword_dao/chi_sword_dao.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/righteous_monk_sword/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_seonbi_book",
+      "blend": "authoring/art013/art/korea/equipment/sources/seonbi_book/Korea_seonbi_book.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/melee/book_closed/book_closed.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/seonbi_book/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_shared_torch",
+      "blend": "authoring/art013/art/korea/equipment/sources/shared_torch/Korea_shared_torch.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/tools/torch/torch.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/shared_torch/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_villager_axe",
+      "blend": "authoring/art013/art/korea/equipment/sources/villager_axe/Korea_villager_axe.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/tools/axe_2hand/axe_2hand.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/villager_axe/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_villager_basket",
+      "blend": "authoring/art013/art/korea/equipment/sources/villager_basket/Korea_villager_basket.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/tools/basket_berries/basket_berries.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/villager_basket/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_villager_crook",
+      "blend": "authoring/art013/art/korea/equipment/sources/villager_crook/Korea_villager_crook.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/tools/crook_shepherd/crook_shepherd.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/villager_crook/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_villager_hammer",
+      "blend": "authoring/art013/art/korea/equipment/sources/villager_hammer/Korea_villager_hammer.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/tools/hammer_construction/hammer_construction.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/villager_hammer/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_villager_hunting_bow",
+      "blend": "authoring/art013/art/korea/equipment/sources/villager_hunting_bow/Korea_villager_hunting_bow.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/ranged/bow_short/bow_short.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/villager_hunting_bow/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_villager_hunting_spear",
+      "blend": "authoring/art013/art/korea/equipment/sources/villager_hunting_spear/Korea_villager_hunting_spear.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/melee/spear_villager/spear_villager.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/villager_hunting_spear/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_villager_pick",
+      "blend": "authoring/art013/art/korea/equipment/sources/villager_pick/Korea_villager_pick.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/tools/axe_pick/axe_pick.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/villager_pick/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    },
+    {
+      "asset": "Korea_villager_sickle",
+      "blend": "authoring/art013/art/korea/equipment/sources/villager_sickle/Korea_villager_sickle.blend",
+      "group": "Weapons and equipment",
+      "native_donor": "art/civilizations/common/weapons/tools/sickle_farming/sickle_farming.rgm",
+      "state_contract": null,
+      "recipe": "authoring/art013/art/korea/equipment/sources/villager_sickle/recipe.json",
+      "status": "not bound; preserve exact native owner, selectors, sockets and private references"
+    }
+  ],
+  "all_bindings_pending": true,
+  "source_owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d"
+}

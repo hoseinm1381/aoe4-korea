@@ -5760,7 +5760,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier2_tech_unit_melee_control_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_vf5c9b7241ccebf9"
                             },
                             {
                               "key": "$PBGMAP",
@@ -5923,7 +5923,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier3_tech_unit_melee_control_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v08ff595e12397cc"
                             },
                             {
                               "key": "$PBGMAP",
@@ -6086,7 +6086,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier4_tech_unit_melee_control_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v2a67e68449cc460"
                             },
                             {
                               "key": "$PBGMAP",

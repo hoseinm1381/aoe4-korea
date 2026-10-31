@@ -1,0 +1,19 @@
+{
+  "step": "complete",
+  "triangles": 3081,
+  "skeleton_bones": [
+    "bone_master_rotation",
+    "bone_master_translation",
+    "bone_root",
+    "bone_wheel_left",
+    "bone_wheel_right"
+  ],
+  "native_animation_owner": "cannon_single_axle",
+  "new_animation_clips": false,
+  "platform_to_chassis_overlap_m": 0.06,
+  "rack_bottom_z": 1.03,
+  "post_top_z": 1.44,
+  "post_rack_overlap_m": 0.41,
+  "rocket_count": 100,
+  "runtime_acceptance": "pending"
+}

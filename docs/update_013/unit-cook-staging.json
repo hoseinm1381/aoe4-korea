@@ -1,0 +1,800 @@
+{
+  "assets": 72,
+  "prefix": "art/kr013/units/",
+  "source_only_models": true,
+  "generated_actors_and_clips_excluded_from_final_integration": true,
+  "export_receipts": [
+    {
+      "asset": "kr_archer_a2",
+      "source_sha256": "e5b4a47fa59fdf12073680db72dfa2ccb32fa8fca5999ccd42da8e1040e1708a",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1444,
+        708,
+        271
+      ]
+    },
+    {
+      "asset": "kr_archer_a3",
+      "source_sha256": "2432c1506d9918fe2fcb07e395e1973ce4581e4fa71e402b12abb56ce5e0a382",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1400,
+        711,
+        273
+      ]
+    },
+    {
+      "asset": "kr_archer_a4",
+      "source_sha256": "72bd0a915a42d589c0d218de9ec9c809b16223c96d60bc99d7cd59410d4cee68",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1354,
+        700,
+        281
+      ]
+    },
+    {
+      "asset": "kr_crossbowman_a3",
+      "source_sha256": "b535ccb19f33bfa6f7c42d457a608b3689e024f267abff40a04d0da18ebcd48e",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1512,
+        710,
+        313
+      ]
+    },
+    {
+      "asset": "kr_crossbowman_a4",
+      "source_sha256": "0e6c63898801f28643ee7f3aa8700ee65765e0fc92f1d7a12f63597b2548dcd4",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1609,
+        729,
+        351
+      ]
+    },
+    {
+      "asset": "kr_gapsa_a3",
+      "source_sha256": "147bd8507c9ec9e8e654b045fa4d14db163505d246dbd20fb0ead4c6172aab48",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1454,
+        630,
+        294
+      ]
+    },
+    {
+      "asset": "kr_gapsa_a4",
+      "source_sha256": "71c3085a52b57e98e50ccf47ce695016ad01e0baa8d1c15b1776a38f09887cf2",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1584,
+        669,
+        339
+      ]
+    },
+    {
+      "asset": "kr_handcannoneer_a4",
+      "source_sha256": "8b1ab53ec0ede713af7a80174a25f7b115681afa34c3c95cc2e582178a7f8c7d",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1408,
+        675,
+        292
+      ]
+    },
+    {
+      "asset": "kr_horseman_a2",
+      "source_sha256": "70103e958a7094578e736f5b806c0600304b8df71770a09c5543f7dca1a6a1e3",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1443,
+        674,
+        284
+      ]
+    },
+    {
+      "asset": "kr_horseman_a3",
+      "source_sha256": "5bcd34ac01bd39310be2252bfa4d4721feff7925029fe0e458e94342fbedfd7f",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1477,
+        696,
+        282
+      ]
+    },
+    {
+      "asset": "kr_horseman_a4",
+      "source_sha256": "a52911dcc43f24e40979d24a8a300c48ee76bdccd3db40954a62f92bda110c67",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1645,
+        657,
+        306
+      ]
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a2",
+      "source_sha256": "eed5fa78180e78d71aa9b3608ce3286cbd0a36662a32ce4870da4b5a67c1ccc4",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1528,
+        656,
+        294
+      ]
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a3",
+      "source_sha256": "96fa52e4dc9d471b05aabc74505be81b6da22de5e390246be79ea30fe56c9663",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1558,
+        680,
+        306
+      ]
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a4",
+      "source_sha256": "91fa9305a63ec911a27254c661410514df7e36f4aca554a5a34fb80e1cf92721",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1608,
+        631,
+        325
+      ]
+    },
+    {
+      "asset": "kr_hwarang_mounted_a2",
+      "source_sha256": "dc12bb14a65f3fcd1856a15c1b603695074554e424b206a3c6f0ff2021ddf549",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1371,
+        648,
+        302
+      ]
+    },
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "source_sha256": "3979fe75e226ee6af331047d6da7ed6a850fc149bdd3ff2767673306752d300d",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1433,
+        693,
+        312
+      ]
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "source_sha256": "a22ab4406693c0c7751e5eb9b3084ef19f1ac99fd94eb4d0fa77be8aae3624bc",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1649,
+        661,
+        320
+      ]
+    },
+    {
+      "asset": "kr_lancer_a3",
+      "source_sha256": "4af1b638d1105816951d8f72d9a19eaf5479ae56c2e1b6e9aa6d357233c30b89",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1663,
+        683,
+        358
+      ]
+    },
+    {
+      "asset": "kr_lancer_a4",
+      "source_sha256": "165fdb2de25d61d2e4c90f1d63395b8f89930a1b9942917ef340a5c50c7e1d4e",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1653,
+        588,
+        294
+      ]
+    },
+    {
+      "asset": "kr_monk_a3",
+      "source_sha256": "f4bdd165bdeb1ae0521e71ab5e16c3ed989f9f2f37d934b3db32547d13a6581c",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1324,
+        628,
+        363
+      ]
+    },
+    {
+      "asset": "kr_monk_a4",
+      "source_sha256": "73cced70241dbe0acc35321cca9e9bd7e61abf9e635de3f5193378399acea45a",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1292,
+        644,
+        340
+      ]
+    },
+    {
+      "asset": "kr_mount_horseman_a2",
+      "source_sha256": "84c5b6ff26aaeeab6740d41c608fe1df164c2e1c33c7710f5c134a139f5f4018",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1848,
+        656,
+        224
+      ]
+    },
+    {
+      "asset": "kr_mount_horseman_a3",
+      "source_sha256": "9f1d0c7585cd0f9c3e9fa70c65f156cc0116c149751b27ebc2382aeaebc5b949",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2136,
+        741,
+        248
+      ]
+    },
+    {
+      "asset": "kr_mount_horseman_a4",
+      "source_sha256": "0104de90c163da68b6288409ade2c63bad0df9d2b9229c6c8ec2c28a0156a8f4",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2314,
+        706,
+        262
+      ]
+    },
+    {
+      "asset": "kr_mount_hwarang_a2",
+      "source_sha256": "28b629010623b495de56e633cad6b8b282c3f273c6d36cc4cd6d36dce0c6a9cb",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1848,
+        656,
+        224
+      ]
+    },
+    {
+      "asset": "kr_mount_hwarang_a3",
+      "source_sha256": "74078d711a0d6842b766f6e1d6e12bb45292099367b4086b5fa3ab169e3ccb4f",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2136,
+        741,
+        248
+      ]
+    },
+    {
+      "asset": "kr_mount_hwarang_a4",
+      "source_sha256": "6170c8f5fa6ba91d1ab83b6c2562691970c082c27567be6b8650d8ff3c372a65",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2314,
+        706,
+        262
+      ]
+    },
+    {
+      "asset": "kr_mount_lancer_a3",
+      "source_sha256": "944d43bb6d8686252f33be3770ce039ea855c7cb865e869571a14582b982e6fb",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2223,
+        744,
+        308
+      ]
+    },
+    {
+      "asset": "kr_mount_lancer_a4",
+      "source_sha256": "4d1f6b80cc06b49d64d45c4f661b12df41e830005c890f5cfcef8ecf21421b81",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        3000,
+        704,
+        338
+      ]
+    },
+    {
+      "asset": "kr_mount_scout_a1",
+      "source_sha256": "2a7e5a588633900bc61d629636138248727e0af6cfcb1ca8841b248182f4683f",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1920,
+        672,
+        232
+      ]
+    },
+    {
+      "asset": "kr_mount_scout_a2",
+      "source_sha256": "5c06b05e5d62ff3fdd3754656f88a93133b3a05e66493e8a7297e6745f900c11",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1920,
+        672,
+        232
+      ]
+    },
+    {
+      "asset": "kr_mount_scout_a3",
+      "source_sha256": "b644870d44f5dec51ebcf987caaf51c25400c66aa5eb096965d1c46f6000d1eb",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1920,
+        672,
+        232
+      ]
+    },
+    {
+      "asset": "kr_mount_scout_a4",
+      "source_sha256": "64121d85a2adfe70687fe29231b68efe780a8ec7932fcb4c6f8aece195814167",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1920,
+        672,
+        232
+      ]
+    },
+    {
+      "asset": "kr_mount_trader_a2",
+      "source_sha256": "99549fa1324a1b3125f14a5a3ed91f37eb7c4ba82c66cd4439144a6e47173885",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2226,
+        761,
+        294
+      ]
+    },
+    {
+      "asset": "kr_mount_trader_a3",
+      "source_sha256": "9bb0701ea370a87f83590d7eff2d1072428906ccc916ef6dfdbc881daea3d9b6",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2256,
+        769,
+        298
+      ]
+    },
+    {
+      "asset": "kr_mount_trader_a4",
+      "source_sha256": "f71295538661fa157fef8eab3a104f1cadd581da2356fa349213391558420a8c",
+      "bones": 86,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2310,
+        809,
+        468
+      ]
+    },
+    {
+      "asset": "kr_righteous_army_monk_a3",
+      "source_sha256": "82e5f47c4cec4e07d7771f7477d4744bc4457c448a1ff91377dd6c20278853f1",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1380,
+        642,
+        363
+      ]
+    },
+    {
+      "asset": "kr_righteous_army_monk_a4",
+      "source_sha256": "a376adaa04da3d22a70cbf8d635b130e0d350347abf32d8643797e140a7a3a06",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1324,
+        654,
+        346
+      ]
+    },
+    {
+      "asset": "kr_scout_a1",
+      "source_sha256": "c925aa3c08a317ea8f23b00314130c118b519140885967224b1251b63702c795",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1430,
+        605,
+        260
+      ]
+    },
+    {
+      "asset": "kr_scout_a2",
+      "source_sha256": "f6dbd6b57236caf91ec86ab59d4ef1040e020da3091d99ad7932ca77f300f4c7",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1501,
+        662,
+        274
+      ]
+    },
+    {
+      "asset": "kr_scout_a3",
+      "source_sha256": "9b45be0df4d40f1618f38ace7864e6c5cb1a1ca1092ec1f795ae31180982cc07",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1603,
+        660,
+        312
+      ]
+    },
+    {
+      "asset": "kr_scout_a4",
+      "source_sha256": "cfc36df3621c316f6a38a8428fd9702de479b4a7257515399e6e79f7f628d526",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1642,
+        676,
+        312
+      ]
+    },
+    {
+      "asset": "kr_scout_female_a1",
+      "source_sha256": "279475f8da7edf73db642ae81fb1862da73ad5ee9a8b7d9d52051f75657e057a",
+      "bones": 71,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1429,
+        595,
+        278
+      ]
+    },
+    {
+      "asset": "kr_scout_female_a2",
+      "source_sha256": "4613279bc69f56e3a6e51d464dc8ff4ada915bbf09059d8101e24bf9110d9da9",
+      "bones": 71,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1545,
+        678,
+        289
+      ]
+    },
+    {
+      "asset": "kr_scout_female_a3",
+      "source_sha256": "ba9268e1a2bcc7fd9e2c43885393189d677371854213ce31c372a1d673b34c46",
+      "bones": 71,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1651,
+        688,
+        329
+      ]
+    },
+    {
+      "asset": "kr_scout_female_a4",
+      "source_sha256": "461e8024a825c3d62154a2e397bce04b0b08c891a5f00c114837d884a9d3a9ff",
+      "bones": 71,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1651,
+        688,
+        329
+      ]
+    },
+    {
+      "asset": "kr_seonbi_a1",
+      "source_sha256": "f694d6d7338bd9988e466e9fff8e341830e4f2c9afdaf7a899a3b3db70585334",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1372,
+        626,
+        300
+      ]
+    },
+    {
+      "asset": "kr_seonbi_a3",
+      "source_sha256": "a772354d9dad44bd10a0419da6b07f616b1e30027ee028f1bfbb3e5cb952bcb9",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1388,
+        635,
+        299
+      ]
+    },
+    {
+      "asset": "kr_spearman_a1",
+      "source_sha256": "d991fdeddffe7fa3c4a882ef9930a61bbd6223efe5e6d82707e3dd42d172a2bd",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1358,
+        676,
+        260
+      ]
+    },
+    {
+      "asset": "kr_spearman_a2",
+      "source_sha256": "20c1193d79af05fc8f86935eb972bd0c372af4f47552d10625af61133a6fe2ea",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1386,
+        646,
+        264
+      ]
+    },
+    {
+      "asset": "kr_spearman_a3",
+      "source_sha256": "b0948c93cfdfeb51e33033e8c5247946f31404d7c177d94465071b291981bde7",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1344,
+        588,
+        289
+      ]
+    },
+    {
+      "asset": "kr_spearman_a4",
+      "source_sha256": "4de48dfa20c56925966c3ada36779c118b65f2437be8127240abd9b9014edb5b",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1385,
+        628,
+        286
+      ]
+    },
+    {
+      "asset": "kr_tiger_hunter_a2",
+      "source_sha256": "bfec698b944c7e4a9efe2e3e3884d6e31b286863a7e19691635a584a3568dd9c",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1474,
+        646,
+        308
+      ]
+    },
+    {
+      "asset": "kr_tiger_hunter_a3",
+      "source_sha256": "112097ba6e622a305a7bec45677072ad658dcf5fff5b032c81850be7a4e53910",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1474,
+        646,
+        308
+      ]
+    },
+    {
+      "asset": "kr_tiger_hunter_a4",
+      "source_sha256": "d3789d30c6e7d05141a8bd3611f94c9d8b785136d89f07426218aaf4edede828",
+      "bones": 48,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1608,
+        685,
+        353
+      ]
+    },
+    {
+      "asset": "kr_trade_cargo_a2",
+      "source_sha256": "b50b286ac41fe3af86f42dd9e79ec1e196964eca2de3fbf0bf3d812e87990c2f",
+      "bones": 120,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        1925,
+        790,
+        308
+      ]
+    },
+    {
+      "asset": "kr_trade_cargo_a3",
+      "source_sha256": "50d11a2b914d2ad10176fded191232b4491f312d4c41e942c7145483580e8783",
+      "bones": 120,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2095,
+        850,
+        342
+      ]
+    },
+    {
+      "asset": "kr_trade_cargo_a4",
+      "source_sha256": "97a1baa5fcf4a8feedfa75e40c121fe0886f4104010356825163920cb92224d7",
+      "bones": 120,
+      "rig_mode": "exact_full_native_skeleton_all_lods_pending_palette_and_runtime_cost_readback",
+      "lod_triangles": [
+        2697,
+        1078,
+        500
+      ]
+    },
+    {
+      "asset": "kr_trader_a2",
+      "source_sha256": "f14d3b0b595903774896ca0efd506229050a91d9d2311e41a3620290853593db",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1362,
+        606,
+        250
+      ]
+    },
+    {
+      "asset": "kr_trader_a3",
+      "source_sha256": "eae2bbb81f46c50f1925b0fd8c2f37aba97150905b1b1d7cab49fb603f7613ae",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1409,
+        638,
+        278
+      ]
+    },
+    {
+      "asset": "kr_trader_a4",
+      "source_sha256": "77755cc6ca443c9c9d78cc26636d6e4fbfb2841de7234141c074c3b5db4784f9",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1482,
+        696,
+        300
+      ]
+    },
+    {
+      "asset": "kr_trader_female_a2",
+      "source_sha256": "23c4dfc20d89277af40eb48215e79f86e6484041b7325a0256f4fc468d6fa5c9",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1504,
+        572,
+        288
+      ]
+    },
+    {
+      "asset": "kr_trader_female_a3",
+      "source_sha256": "50276c6e7fbc7e4db09f80fdd3ba08763fb101952e311859a58d5d7b18573336",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1435,
+        616,
+        263
+      ]
+    },
+    {
+      "asset": "kr_trader_female_a4",
+      "source_sha256": "a6697afb5f62885ef4e4fe3a05f7217af39e3dc04109859d953c712d06268818",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1509,
+        656,
+        284
+      ]
+    },
+    {
+      "asset": "kr_villager_female_a1",
+      "source_sha256": "b2bbd4e0de6ab0e5f426840dbd3024a924168807510f6490ca12477dab418151",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1226,
+        522,
+        258
+      ]
+    },
+    {
+      "asset": "kr_villager_female_a2",
+      "source_sha256": "78e52da21d7412ec323593efedcb71936f72f63d0f014c055df13168b55797f3",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1226,
+        522,
+        258
+      ]
+    },
+    {
+      "asset": "kr_villager_female_a3",
+      "source_sha256": "411c170e7d68c767e5f03385216f5b50a55a16444c2fb1883f93ea5e5754c599",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1313,
+        592,
+        239
+      ]
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "source_sha256": "d0827522f6331347c13a2bc4485e9aade5457dd12720bebc88f1df600b86b645",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1395,
+        632,
+        260
+      ]
+    },
+    {
+      "asset": "kr_villager_male_a1",
+      "source_sha256": "af04fafef851e14d7dca3ed27a901a4e522a8507d71974c792b3770628468543",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1362,
+        606,
+        250
+      ]
+    },
+    {
+      "asset": "kr_villager_male_a2",
+      "source_sha256": "a61c1189f18de9676932d64a587bec66d3f3516662f29617341cac6aff637aaf",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1362,
+        606,
+        250
+      ]
+    },
+    {
+      "asset": "kr_villager_male_a3",
+      "source_sha256": "770c68d775c3e0779adc716954a811f11b65b1d7c5f19cf9f9feadb0ed1edb61",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1438,
+        638,
+        278
+      ]
+    },
+    {
+      "asset": "kr_villager_male_a4",
+      "source_sha256": "65ff17cad99abc0f09663df0ff8e454c39dab1ff222d5bcb4e610fcc04851fee",
+      "bones": 73,
+      "rig_mode": "documented_73_bone_partitions",
+      "lod_triangles": [
+        1482,
+        712,
+        308
+      ]
+    }
+  ]
+}

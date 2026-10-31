@@ -1,0 +1,23 @@
+{
+  "id": "lancer_polearm_upgrade",
+  "donor": "art/civilizations/japanese/weapons/jpn_bugeisha_naginata/jpn_bugeisha_naginata.rgm",
+  "kind": "polearm",
+  "design": "Existing Iron Flails upgrade actually selects a polearm; keep polearm rather than inventing flail motion",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\lancer_polearm_upgrade\\895512d0903269c99a7b\\decoded-static.json",
+  "manifest_sha256": "b59d10638ac4b1cbc2505203e3ad3be562622ff6a119b93f7bb20f26a6213870",
+  "bounds": {
+    "min": [
+      -0.205078125,
+      -0.07147216796875,
+      -0.6767578125
+    ],
+    "max": [
+      0.10223388671875,
+      0.07269287109375,
+      2.341796875
+    ]
+  },
+  "native_triangles": 350,
+  "bones": 0
+}

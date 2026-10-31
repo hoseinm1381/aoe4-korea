@@ -1,0 +1,24 @@
+{
+  "version": "0.1.4",
+  "zip_bytes": 106756745,
+  "zip_sha256": "761736f2e6d43726bb2468cff62b8bc179a222080f59f36b49a87197758fc88c",
+  "archive_bytes": 247575748,
+  "archive_sha256": "263ffc7cb1b846079d0e2ae85a4491a9d2f62812a73603a0325f3d3789bddb15",
+  "zip_increase_vs_013": 11601185,
+  "zip_increase_vs_accepted_011": 102322113,
+  "packaged_additional_art_input_bytes": 232076890,
+  "texture_mip_block_bytes_logical_paths": 158522760,
+  "texture_rgba8_mip_bytes_logical_paths": 758476416,
+  "texture_unique_content_mip_block_bytes": 158522760,
+  "texture_unique_content_rgba8_mip_bytes": 758476416,
+  "texture_formats": {
+    "BC3_UNORM_SRGB": 35,
+    "BC1_UNORM_SRGB": 149,
+    "BC3_UNORM": 310
+  },
+  "texture_count": 494,
+  "textures_with_mips": 494,
+  "zip_budget_600000000_passed": true,
+  "additional_art_budget_300000000_passed": true,
+  "runtime_texture_residency_frame_time_lod_switching": "not measured; encoded mip/geometry byte counts are not live VRAM or performance proof"
+}

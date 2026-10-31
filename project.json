@@ -4,7 +4,7 @@
   "race": "korea",
   "bundle_key": "korea",
   "name": "Koreans",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "dispatcher": "scar/garrison/korea/dispatcher.scar",
   "shared_entities": [
     "building_alpha",
@@ -275,7 +275,17 @@
     "wpn_siege_walltower_springald"
   ],
   "source_baseline": "d58326f447b6444332e9a15c42c7496d57fb26be",
-  "native_game_acceptance": "pending",
-  "publication": "source-only GitHub upload authorized 2026-10-31; player release and native acceptance pending",
-  "codex_mode": "reviewed_012"
+  "native_game_acceptance": "0.1.6 source/native corrections assembled locally; fresh-match visual and research acceptance pending",
+  "publication": "Local 0.1.6 test ZIP authorized; no push, tag, publication or installation authorized",
+  "codex_mode": "reviewed_012",
+  "update_policy": "source/update-016-policy.json",
+  "baseline_members": "docs/update_016_build/baseline-members.json.gz",
+  "build_stage": "art016-current",
+  "rollback_folder": "archives/art016-baseline",
+  "excluded_tables": {
+    "attrib/resource_type_info/merc_byz.rgd": {
+      "sha256": "662e49589873ed47001c6e4286e451ebf458c2dd571fd4a0f6a7412590d3e7c4",
+      "reason": "Retained editable tuning-pack reference only. Additive standalone must use the installed RT_Merc_Byz descriptor, not register it again."
+    }
+  }
 }

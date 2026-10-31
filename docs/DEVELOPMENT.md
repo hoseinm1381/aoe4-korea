@@ -1,3 +1,63 @@
+# Korea 0.1.6 ZIP built - 2026-11-01
+
+The duplicate Gapsa spear is fixed by restoring its left-hand shield. The verified
+0.1.6 ZIP also includes the pending colour, cavalry and research payment/UI repairs.
+Read [the release handoff](UPDATE_016_RELEASE.md) and `docs/update_016_build`.
+The owner explicitly resumed building, superseding the historical hold below for
+this release. Native fresh-match acceptance remains pending. No push or install.
+
+---
+
+# Korea 016 source repair, final build held - 2026-10-31
+
+The owner reports 015 gameplay runs, but unit colour and cavalry animation failed.
+The current source restores broad dynamic owner masks and combined cavalry skin
+bindings. Read docs/UPDATE_016.md and docs/update_016. The release ZIP remains 015.
+Do not cook, assemble or package while the owner is playing; project.json enforces
+the build hold. Native acceptance of the source repair awaits later packaging
+and fresh-match tests. Preserve current originals, releases and rollback inputs.
+
+---
+
+# Korea 0.1.5 repair, 2026-10-31
+
+The owner resumed the latest Korea missing-model/landmark/Hwacha-crash repair.
+Read docs/UPDATE_015.md and docs/update_015 receipts. Version 0.1.4 failed native
+visual/barrage acceptance; its package checks remain historical. The new local
+candidate requires fresh-match testing. Preserve sources, identity, editable art,
+native inputs and exact 0.1.3/0.1.4 rollback ZIPs. No push or installation.
+Owner requests cleanup of this task's generated E:/F: files after verification.
+
+---
+
+# Korea 0.1.4 current handoff
+
+Read [UPDATE_014.md](UPDATE_014.md). The maintained build consumes indexed current
+native inputs and `source/update-014-policy.json`. Full fresh model preview
+projection is limited by the installed decoder's animation-discovery timeout;
+source, native contract, archive integrity and actual game acceptance are separate.
+Earlier development milestones below retain their historical scope.
+
+---
+
+# Korean art 0.1.3
+
+Read [the current art/build handoff](UPDATE_013.md). The maintained build now
+consumes the qualified private Korean media and exact 0.1.3 policy.
+Older development milestones below retain their historical scope.
+
+---
+
+# Current Korean art preparation, 2026-10-31
+
+Read [UPDATE_013.md](UPDATE_013.md) before art builds. The playable version remains
+0.1.2; the new 152-asset source set is prepared for 0.1.3, with native integration
+blocked by unsupported model tools. Existing `tools/build.py` rebuilds 0.1.2.
+Packed art013 images have been consolidated into local relative shared files.
+Older development notes below retain their historical scope.
+
+---
+
 # Current 0.1.1 development update
 
 Read UPDATE_011.md first. Use `python -B tools/build.py --replace-current`

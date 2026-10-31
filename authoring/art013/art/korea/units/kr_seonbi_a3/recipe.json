@@ -1,0 +1,10 @@
+{
+  "id": "kr_seonbi_a3",
+  "family": "seonbi",
+  "age": 3,
+  "donor": "art/civilizations/chinese/humans/chi_villager_tax_official_age03/chi_villager_tax_official_age03.rgm",
+  "design": "Goryeo scholar round collar robe; early Joseon dopo and modest headwear",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces"
+  }
+}

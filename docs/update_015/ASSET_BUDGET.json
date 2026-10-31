@@ -1,0 +1,27 @@
+{
+  "version": "0.1.5",
+  "zip_bytes": 106753957,
+  "zip_sha256": "d97df7034df3f73ad98cd4acedfdf6cb06528553b61976fe3f4c6d638f7c78e2",
+  "archive_bytes": 247470084,
+  "archive_sha256": "6c93e8dd842bb56bb151171edc297693beed9291b7c9324a3322fdafcfe1a957",
+  "zip_increase_vs_013": 11598397,
+  "zip_increase_vs_accepted_011": 102319325,
+  "packaged_additional_art_input_bytes": 231970999,
+  "texture_mip_block_bytes_logical_paths": 158522760,
+  "texture_rgba8_mip_bytes_logical_paths": 758476416,
+  "texture_unique_content_mip_block_bytes": 158522760,
+  "texture_unique_content_rgba8_mip_bytes": 758476416,
+  "texture_formats": {
+    "BC3_UNORM_SRGB": 35,
+    "BC1_UNORM_SRGB": 149,
+    "BC3_UNORM": 310
+  },
+  "texture_count": 494,
+  "textures_with_mips": 494,
+  "zip_budget_600000000_passed": true,
+  "additional_art_budget_300000000_passed": true,
+  "runtime_texture_residency_frame_time_lod_switching": "not measured; encoded mip/geometry byte counts are not live VRAM or performance proof",
+  "zip_increase_vs_014": -2788,
+  "texture_accounting": "Exact 014 compressed textures and dimensions unchanged; all current whole-file hashes verified by builder",
+  "archive_delta_vs_014": -105664
+}

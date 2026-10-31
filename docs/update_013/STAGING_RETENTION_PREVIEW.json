@@ -1,0 +1,31 @@
+{
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "version": "0.1.3",
+  "mode": "preview",
+  "targets": [
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\package\\prepared",
+      "files": 495,
+      "logical_bytes": 12382971
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\package\\delivery",
+      "files": 5,
+      "logical_bytes": 329960977
+    },
+    {
+      "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\art-current",
+      "files": 3150,
+      "logical_bytes": 1161570765
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\tools\\__pycache__",
+      "files": 1,
+      "logical_bytes": 7376
+    }
+  ],
+  "logical_bytes": 1503922089,
+  "zip_sha256_before": "e2f7022f11ee07d6a6a573de000a9ae54ed7fb67c44b3d4a719f17d9f1368d83",
+  "native_inputs_and_master_indexes_unchanged": true,
+  "release_and_source_inputs": "preserved"
+}

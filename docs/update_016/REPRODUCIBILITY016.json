@@ -1,0 +1,6 @@
+{
+  "regenerated_native_files_match": 293,
+  "recipe": "maintained tools/art016/repair.py stage",
+  "existing_source_only_zip_unchanged": true,
+  "no_build_or_cook": true
+}

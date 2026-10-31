@@ -1,0 +1,310 @@
+00:00.641  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\archery_range02\Korea_archery_range02.blend"
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\verify_blends.py:42: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if m.use_nodes:
+COLD_VERIFIED 1 152 Korea_archery_range02
+00:01.422  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\archery_range03\Korea_archery_range03.blend"
+COLD_VERIFIED 2 152 Korea_archery_range03
+00:02.203  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\archery_range04\Korea_archery_range04.blend"
+COLD_VERIFIED 3 152 Korea_archery_range04
+00:03.172  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\barracks_combined01\Korea_barracks_combined01.blend"
+COLD_VERIFIED 4 152 Korea_barracks_combined01
+00:04.000  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\barracks_combined02\Korea_barracks_combined02.blend"
+COLD_VERIFIED 5 152 Korea_barracks_combined02
+00:04.906  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\barracks_combined03\Korea_barracks_combined03.blend"
+COLD_VERIFIED 6 152 Korea_barracks_combined03
+00:05.859  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\barracks_combined04\Korea_barracks_combined04.blend"
+COLD_VERIFIED 7 152 Korea_barracks_combined04
+00:06.875  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\blacksmith02\Korea_blacksmith02.blend"
+COLD_VERIFIED 8 152 Korea_blacksmith02
+00:07.531  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\blacksmith03\Korea_blacksmith03.blend"
+COLD_VERIFIED 9 152 Korea_blacksmith03
+00:08.125  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\blacksmith04\Korea_blacksmith04.blend"
+COLD_VERIFIED 10 152 Korea_blacksmith04
+00:08.891  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\dock02\Korea_dock02.blend"
+COLD_VERIFIED 11 152 Korea_dock02
+00:10.172  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\dock03\Korea_dock03.blend"
+COLD_VERIFIED 12 152 Korea_dock03
+00:11.406  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\dock04\Korea_dock04.blend"
+COLD_VERIFIED 13 152 Korea_dock04
+00:12.609  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\gristmill01\Korea_gristmill01.blend"
+COLD_VERIFIED 14 152 Korea_gristmill01
+00:13.188  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housea01\Korea_housea01.blend"
+COLD_VERIFIED 15 152 Korea_housea01
+00:13.609  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housea02\Korea_housea02.blend"
+COLD_VERIFIED 16 152 Korea_housea02
+00:14.016  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housea03\Korea_housea03.blend"
+COLD_VERIFIED 17 152 Korea_housea03
+00:14.406  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housea04\Korea_housea04.blend"
+COLD_VERIFIED 18 152 Korea_housea04
+00:15.063  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\houseb01\Korea_houseb01.blend"
+COLD_VERIFIED 19 152 Korea_houseb01
+00:15.438  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\houseb02\Korea_houseb02.blend"
+COLD_VERIFIED 20 152 Korea_houseb02
+00:15.813  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\houseb03\Korea_houseb03.blend"
+COLD_VERIFIED 21 152 Korea_houseb03
+00:16.250  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\houseb04\Korea_houseb04.blend"
+COLD_VERIFIED 22 152 Korea_houseb04
+00:16.813  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housec01\Korea_housec01.blend"
+COLD_VERIFIED 23 152 Korea_housec01
+00:17.188  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housec02\Korea_housec02.blend"
+COLD_VERIFIED 24 152 Korea_housec02
+00:17.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housec03\Korea_housec03.blend"
+COLD_VERIFIED 25 152 Korea_housec03
+00:18.016  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\housec04\Korea_housec04.blend"
+COLD_VERIFIED 26 152 Korea_housec04
+00:18.516  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\lumber_camp01\Korea_lumber_camp01.blend"
+COLD_VERIFIED 27 152 Korea_lumber_camp01
+00:18.828  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\market02\Korea_market02.blend"
+COLD_VERIFIED 28 152 Korea_market02
+00:19.406  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\market03\Korea_market03.blend"
+COLD_VERIFIED 29 152 Korea_market03
+00:20.000  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\market04\Korea_market04.blend"
+COLD_VERIFIED 30 152 Korea_market04
+00:20.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\mining_camp01\Korea_mining_camp01.blend"
+COLD_VERIFIED 31 152 Korea_mining_camp01
+00:21.016  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\monastery03\Korea_monastery03.blend"
+COLD_VERIFIED 32 152 Korea_monastery03
+00:21.781  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\monastery04\Korea_monastery04.blend"
+COLD_VERIFIED 33 152 Korea_monastery04
+00:22.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\outpost01\Korea_outpost01.blend"
+COLD_VERIFIED 34 152 Korea_outpost01
+00:23.188  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\outpost_stone01\Korea_outpost_stone01.blend"
+COLD_VERIFIED 35 152 Korea_outpost_stone01
+00:23.953  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\siege_workshop03\Korea_siege_workshop03.blend"
+COLD_VERIFIED 36 152 Korea_siege_workshop03
+00:24.750  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\siege_workshop04\Korea_siege_workshop04.blend"
+COLD_VERIFIED 37 152 Korea_siege_workshop04
+00:25.688  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\stable02\Korea_stable02.blend"
+COLD_VERIFIED 38 152 Korea_stable02
+00:26.313  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\stable03\Korea_stable03.blend"
+COLD_VERIFIED 39 152 Korea_stable03
+00:26.953  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\stable04\Korea_stable04.blend"
+COLD_VERIFIED 40 152 Korea_stable04
+00:27.828  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\stone_tower02\Korea_stone_tower02.blend"
+COLD_VERIFIED 41 152 Korea_stone_tower02
+00:28.484  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\towncenter_combined01\Korea_towncenter_combined01.blend"
+COLD_VERIFIED 42 152 Korea_towncenter_combined01
+00:29.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\towncenter_combined02\Korea_towncenter_combined02.blend"
+COLD_VERIFIED 43 152 Korea_towncenter_combined02
+00:30.797  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\towncenter_combined03\Korea_towncenter_combined03.blend"
+COLD_VERIFIED 44 152 Korea_towncenter_combined03
+00:31.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\towncenter_combined04\Korea_towncenter_combined04.blend"
+COLD_VERIFIED 45 152 Korea_towncenter_combined04
+00:33.313  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\buildings\sources\university04\Korea_university04.blend"
+COLD_VERIFIED 46 152 Korea_university04
+00:34.031  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\cavalry_spear\Korea_cavalry_spear.blend"
+COLD_VERIFIED 47 152 Korea_cavalry_spear
+00:34.047  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\crossbow\Korea_crossbow.blend"
+COLD_VERIFIED 48 152 Korea_crossbow
+00:34.063  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_archer\Korea_gakgung_archer.blend"
+COLD_VERIFIED 49 152 Korea_gakgung_archer
+00:34.078  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_hwarang\Korea_gakgung_hwarang.blend"
+COLD_VERIFIED 50 152 Korea_gakgung_hwarang
+00:34.094  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gakgung_tiger_hunter\Korea_gakgung_tiger_hunter.blend"
+COLD_VERIFIED 51 152 Korea_gakgung_tiger_hunter
+00:34.109  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gapsa_heavy_spear\Korea_gapsa_heavy_spear.blend"
+COLD_VERIFIED 52 152 Korea_gapsa_heavy_spear
+00:34.125  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\gapsa_long_spear\Korea_gapsa_long_spear.blend"
+COLD_VERIFIED 53 152 Korea_gapsa_long_spear
+00:34.141  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\hand_chongtong\Korea_hand_chongtong.blend"
+COLD_VERIFIED 54 152 Korea_hand_chongtong
+00:34.172  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\hwarang_sword\Korea_hwarang_sword.blend"
+COLD_VERIFIED 55 152 Korea_hwarang_sword
+00:34.188  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\jangchang_plain\Korea_jangchang_plain.blend"
+COLD_VERIFIED 56 152 Korea_jangchang_plain
+00:34.203  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\jangchang_tassel\Korea_jangchang_tassel.blend"
+COLD_VERIFIED 57 152 Korea_jangchang_tassel
+00:34.234  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\lancer_lance\Korea_lancer_lance.blend"
+COLD_VERIFIED 58 152 Korea_lancer_lance
+00:34.250  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\lancer_polearm_upgrade\Korea_lancer_polearm_upgrade.blend"
+COLD_VERIFIED 59 152 Korea_lancer_polearm_upgrade
+00:34.266  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\monk_staff\Korea_monk_staff.blend"
+COLD_VERIFIED 60 152 Korea_monk_staff
+00:34.281  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\righteous_monk_sword\Korea_righteous_monk_sword.blend"
+COLD_VERIFIED 61 152 Korea_righteous_monk_sword
+00:34.297  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\seonbi_book\Korea_seonbi_book.blend"
+COLD_VERIFIED 62 152 Korea_seonbi_book
+00:34.313  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\shared_torch\Korea_shared_torch.blend"
+COLD_VERIFIED 63 152 Korea_shared_torch
+00:34.328  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_axe\Korea_villager_axe.blend"
+COLD_VERIFIED 64 152 Korea_villager_axe
+00:34.344  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_basket\Korea_villager_basket.blend"
+COLD_VERIFIED 65 152 Korea_villager_basket
+00:34.359  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_crook\Korea_villager_crook.blend"
+COLD_VERIFIED 66 152 Korea_villager_crook
+00:34.391  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hammer\Korea_villager_hammer.blend"
+COLD_VERIFIED 67 152 Korea_villager_hammer
+00:34.406  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hunting_bow\Korea_villager_hunting_bow.blend"
+COLD_VERIFIED 68 152 Korea_villager_hunting_bow
+00:34.422  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_hunting_spear\Korea_villager_hunting_spear.blend"
+COLD_VERIFIED 69 152 Korea_villager_hunting_spear
+00:34.438  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_pick\Korea_villager_pick.blend"
+COLD_VERIFIED 70 152 Korea_villager_pick
+00:34.469  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\equipment\sources\villager_sickle\Korea_villager_sickle.blend"
+COLD_VERIFIED 71 152 Korea_villager_sickle
+00:34.500  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\bulguksa_temple\bulguksa_temple.blend"
+COLD_VERIFIED 72 152 bulguksa_temple
+00:34.906  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\gate_of_reverence\gate_of_reverence.blend"
+COLD_VERIFIED 73 152 gate_of_reverence
+00:35.188  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\gyeongbok_palace\gyeongbok_palace.blend"
+COLD_VERIFIED 74 152 gyeongbok_palace
+00:35.484  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\hall_of_worthies\hall_of_worthies.blend"
+COLD_VERIFIED 75 152 hall_of_worthies
+00:35.750  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\hwangnyongsa\hwangnyongsa.blend"
+COLD_VERIFIED 76 152 hwangnyongsa
+00:36.203  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\mountain_fortress\mountain_fortress.blend"
+COLD_VERIFIED 77 152 mountain_fortress
+00:36.484  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\seon_deok_observatory\seon_deok_observatory.blend"
+COLD_VERIFIED 78 152 seon_deok_observatory
+00:36.688  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\seowon_academy\seowon_academy.blend"
+COLD_VERIFIED 79 152 seowon_academy
+00:36.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\stone_pagoda\stone_pagoda.blend"
+COLD_VERIFIED 80 152 stone_pagoda
+00:37.094  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a2\kr_archer_a2.blend"
+COLD_VERIFIED 81 152 kr_archer_a2
+00:37.125  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a3\kr_archer_a3.blend"
+COLD_VERIFIED 82 152 kr_archer_a3
+00:37.156  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_archer_a4\kr_archer_a4.blend"
+COLD_VERIFIED 83 152 kr_archer_a4
+00:37.203  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_crossbowman_a3\kr_crossbowman_a3.blend"
+COLD_VERIFIED 84 152 kr_crossbowman_a3
+00:37.250  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_crossbowman_a4\kr_crossbowman_a4.blend"
+COLD_VERIFIED 85 152 kr_crossbowman_a4
+00:37.313  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_gapsa_a3\kr_gapsa_a3.blend"
+COLD_VERIFIED 86 152 kr_gapsa_a3
+00:37.359  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_gapsa_a4\kr_gapsa_a4.blend"
+COLD_VERIFIED 87 152 kr_gapsa_a4
+00:37.391  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_handcannoneer_a4\kr_handcannoneer_a4.blend"
+COLD_VERIFIED 88 152 kr_handcannoneer_a4
+00:37.438  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a2\kr_horseman_a2.blend"
+COLD_VERIFIED 89 152 kr_horseman_a2
+00:37.484  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a3\kr_horseman_a3.blend"
+COLD_VERIFIED 90 152 kr_horseman_a3
+00:37.547  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_horseman_a4\kr_horseman_a4.blend"
+COLD_VERIFIED 91 152 kr_horseman_a4
+00:37.594  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a2\kr_hwarang_dismounted_a2.blend"
+COLD_VERIFIED 92 152 kr_hwarang_dismounted_a2
+00:37.641  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a3\kr_hwarang_dismounted_a3.blend"
+COLD_VERIFIED 93 152 kr_hwarang_dismounted_a3
+00:37.688  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_dismounted_a4\kr_hwarang_dismounted_a4.blend"
+COLD_VERIFIED 94 152 kr_hwarang_dismounted_a4
+00:37.719  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a2\kr_hwarang_mounted_a2.blend"
+COLD_VERIFIED 95 152 kr_hwarang_mounted_a2
+00:37.766  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a3\kr_hwarang_mounted_a3.blend"
+COLD_VERIFIED 96 152 kr_hwarang_mounted_a3
+00:37.813  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_hwarang_mounted_a4\kr_hwarang_mounted_a4.blend"
+COLD_VERIFIED 97 152 kr_hwarang_mounted_a4
+00:37.844  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_lancer_a3\kr_lancer_a3.blend"
+COLD_VERIFIED 98 152 kr_lancer_a3
+00:37.891  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_lancer_a4\kr_lancer_a4.blend"
+COLD_VERIFIED 99 152 kr_lancer_a4
+00:37.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_monk_a3\kr_monk_a3.blend"
+COLD_VERIFIED 100 152 kr_monk_a3
+00:37.984  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_monk_a4\kr_monk_a4.blend"
+COLD_VERIFIED 101 152 kr_monk_a4
+00:38.031  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a2\kr_mount_horseman_a2.blend"
+COLD_VERIFIED 102 152 kr_mount_horseman_a2
+00:38.063  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a3\kr_mount_horseman_a3.blend"
+COLD_VERIFIED 103 152 kr_mount_horseman_a3
+00:38.109  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_horseman_a4\kr_mount_horseman_a4.blend"
+COLD_VERIFIED 104 152 kr_mount_horseman_a4
+00:38.172  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a2\kr_mount_hwarang_a2.blend"
+COLD_VERIFIED 105 152 kr_mount_hwarang_a2
+00:38.234  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a3\kr_mount_hwarang_a3.blend"
+COLD_VERIFIED 106 152 kr_mount_hwarang_a3
+00:38.281  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_hwarang_a4\kr_mount_hwarang_a4.blend"
+COLD_VERIFIED 107 152 kr_mount_hwarang_a4
+00:38.328  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_lancer_a3\kr_mount_lancer_a3.blend"
+COLD_VERIFIED 108 152 kr_mount_lancer_a3
+00:38.375  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_lancer_a4\kr_mount_lancer_a4.blend"
+COLD_VERIFIED 109 152 kr_mount_lancer_a4
+00:38.438  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a1\kr_mount_scout_a1.blend"
+COLD_VERIFIED 110 152 kr_mount_scout_a1
+00:38.484  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a2\kr_mount_scout_a2.blend"
+COLD_VERIFIED 111 152 kr_mount_scout_a2
+00:38.531  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a3\kr_mount_scout_a3.blend"
+COLD_VERIFIED 112 152 kr_mount_scout_a3
+00:38.563  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_scout_a4\kr_mount_scout_a4.blend"
+COLD_VERIFIED 113 152 kr_mount_scout_a4
+00:38.609  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a2\kr_mount_trader_a2.blend"
+COLD_VERIFIED 114 152 kr_mount_trader_a2
+00:38.688  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a3\kr_mount_trader_a3.blend"
+COLD_VERIFIED 115 152 kr_mount_trader_a3
+00:38.734  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_mount_trader_a4\kr_mount_trader_a4.blend"
+COLD_VERIFIED 116 152 kr_mount_trader_a4
+00:38.781  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_righteous_army_monk_a3\kr_righteous_army_monk_a3.blend"
+COLD_VERIFIED 117 152 kr_righteous_army_monk_a3
+00:38.813  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_righteous_army_monk_a4\kr_righteous_army_monk_a4.blend"
+COLD_VERIFIED 118 152 kr_righteous_army_monk_a4
+00:38.859  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a1\kr_scout_a1.blend"
+COLD_VERIFIED 119 152 kr_scout_a1
+00:38.906  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a2\kr_scout_a2.blend"
+COLD_VERIFIED 120 152 kr_scout_a2
+00:38.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a3\kr_scout_a3.blend"
+COLD_VERIFIED 121 152 kr_scout_a3
+00:38.969  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_a4\kr_scout_a4.blend"
+COLD_VERIFIED 122 152 kr_scout_a4
+00:39.016  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a1\kr_scout_female_a1.blend"
+COLD_VERIFIED 123 152 kr_scout_female_a1
+00:39.047  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a2\kr_scout_female_a2.blend"
+COLD_VERIFIED 124 152 kr_scout_female_a2
+00:39.094  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a3\kr_scout_female_a3.blend"
+COLD_VERIFIED 125 152 kr_scout_female_a3
+00:39.125  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_scout_female_a4\kr_scout_female_a4.blend"
+COLD_VERIFIED 126 152 kr_scout_female_a4
+00:39.172  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_seonbi_a1\kr_seonbi_a1.blend"
+COLD_VERIFIED 127 152 kr_seonbi_a1
+00:39.234  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_seonbi_a3\kr_seonbi_a3.blend"
+COLD_VERIFIED 128 152 kr_seonbi_a3
+00:39.266  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a1\kr_spearman_a1.blend"
+COLD_VERIFIED 129 152 kr_spearman_a1
+00:39.313  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a2\kr_spearman_a2.blend"
+COLD_VERIFIED 130 152 kr_spearman_a2
+00:39.344  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a3\kr_spearman_a3.blend"
+COLD_VERIFIED 131 152 kr_spearman_a3
+00:39.375  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_spearman_a4\kr_spearman_a4.blend"
+COLD_VERIFIED 132 152 kr_spearman_a4
+00:39.406  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a2\kr_tiger_hunter_a2.blend"
+COLD_VERIFIED 133 152 kr_tiger_hunter_a2
+00:39.453  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a3\kr_tiger_hunter_a3.blend"
+COLD_VERIFIED 134 152 kr_tiger_hunter_a3
+00:39.484  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_tiger_hunter_a4\kr_tiger_hunter_a4.blend"
+COLD_VERIFIED 135 152 kr_tiger_hunter_a4
+00:39.531  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a2\kr_trade_cargo_a2.blend"
+COLD_VERIFIED 136 152 kr_trade_cargo_a2
+00:39.547  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a3\kr_trade_cargo_a3.blend"
+COLD_VERIFIED 137 152 kr_trade_cargo_a3
+00:39.578  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trade_cargo_a4\kr_trade_cargo_a4.blend"
+COLD_VERIFIED 138 152 kr_trade_cargo_a4
+00:39.625  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a2\kr_trader_a2.blend"
+COLD_VERIFIED 139 152 kr_trader_a2
+00:39.656  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a3\kr_trader_a3.blend"
+COLD_VERIFIED 140 152 kr_trader_a3
+00:39.688  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_a4\kr_trader_a4.blend"
+COLD_VERIFIED 141 152 kr_trader_a4
+00:39.734  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a2\kr_trader_female_a2.blend"
+COLD_VERIFIED 142 152 kr_trader_female_a2
+00:39.797  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a3\kr_trader_female_a3.blend"
+COLD_VERIFIED 143 152 kr_trader_female_a3
+00:39.844  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_trader_female_a4\kr_trader_female_a4.blend"
+COLD_VERIFIED 144 152 kr_trader_female_a4
+00:39.906  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a1\kr_villager_female_a1.blend"
+COLD_VERIFIED 145 152 kr_villager_female_a1
+00:39.938  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a2\kr_villager_female_a2.blend"
+COLD_VERIFIED 146 152 kr_villager_female_a2
+00:39.969  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a3\kr_villager_female_a3.blend"
+COLD_VERIFIED 147 152 kr_villager_female_a3
+00:40.000  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_female_a4\kr_villager_female_a4.blend"
+COLD_VERIFIED 148 152 kr_villager_female_a4
+00:40.031  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a1\kr_villager_male_a1.blend"
+COLD_VERIFIED 149 152 kr_villager_male_a1
+00:40.063  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a2\kr_villager_male_a2.blend"
+COLD_VERIFIED 150 152 kr_villager_male_a2
+00:40.094  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a3\kr_villager_male_a3.blend"
+COLD_VERIFIED 151 152 kr_villager_male_a3
+00:40.141  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\units\kr_villager_male_a4\kr_villager_male_a4.blend"
+COLD_VERIFIED 152 152 kr_villager_male_a4
+ALL_SOURCES_COLD_VERIFIED 152
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

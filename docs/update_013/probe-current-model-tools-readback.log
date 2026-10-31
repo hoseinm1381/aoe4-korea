@@ -1,0 +1,61 @@
+{
+  "schema": "korea.art013-native-model-readback/v1",
+  "archive": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\probe-current-model-tools\\output\\extension\\k013\\k013.sga",
+  "archive_sha256": "6b68b61319f5d15b3dc199684cb242fc0ce976d5549c20fa71964c6ed32598c1",
+  "archive_bytes": 437142,
+  "namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "archive_verified": true,
+  "native_model_resources": [
+    {
+      "path": "art/kr013/vma1/model.rgm",
+      "bytes": 40633
+    },
+    {
+      "path": "art/kr013/vma1/model.rgo",
+      "bytes": 283
+    },
+    {
+      "path": "art/kr013/vma1/model.rrgeom",
+      "bytes": 195792
+    },
+    {
+      "path": "art/kr013/vma1/model.rrmaterial",
+      "bytes": 619
+    }
+  ],
+  "manifest": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\readback\\probe-current-model-tools\\decoded\\067fa8582782c82d1aba\\decoded-static.json",
+  "manifest_sha256": "203a009d318646fa1e9d5f0afef992669e795cfadaf69cded581710e88395fb6",
+  "decoded_top_level_fields": [
+    "schema",
+    "status",
+    "mode",
+    "request",
+    "companion_policy",
+    "cache_root",
+    "decoder_fingerprint",
+    "provider_contract",
+    "geometry",
+    "material",
+    "textures",
+    "missing_textures",
+    "non_file_texture_sentinels",
+    "resources",
+    "structure_collection_contract",
+    "structure_collection_contract_status",
+    "structure_collection_contract_error",
+    "structure_collection_partition_bound",
+    "skeleton",
+    "skeleton_error",
+    "rig_palette_binding",
+    "rig_projection",
+    "animation_projection",
+    "completeness",
+    "warnings",
+    "encoder_contract",
+    "entity_binding",
+    "building_boundary_binding",
+    "blockers",
+    "animated_asset_import_plan"
+  ],
+  "status": "native_decoded_pending_contract_comparison"
+}

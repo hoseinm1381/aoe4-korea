@@ -1,0 +1,34 @@
+{
+  "version": "0.1.6",
+  "focused_tests": 34,
+  "all_member_readback_sha256": true,
+  "native_crc_sha1": true,
+  "zip_crc": true,
+  "members": 1785,
+  "changed_members": 336,
+  "added_members": 52,
+  "removed_members": [
+    "attrib/resource_type_info/merc_byz.rgd"
+  ],
+  "preserved_baseline_members": 1397,
+  "native_archive_namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "zip_name": "Koreans-Garrison-0.1.6.zip",
+  "zip_bytes": 107644580,
+  "zip_sha256": "e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788",
+  "rollback_015_verified": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\art016-baseline\\d97df7034df3\\Koreans-Garrison-0.1.5.zip",
+  "duplicate_spear": "12 left-palm shield references restored to exact official age-specific shield; right-hand combat weapon and gameplay unchanged.",
+  "includes_pending_repairs": [
+    "player colour",
+    "combined cavalry skin binding",
+    "research variant prices",
+    "book tooltips",
+    "refund handling"
+  ],
+  "new_Content_Editor_geometry_cook": false,
+  "supported_native_civilization_assembly": true,
+  "native_game_visual_payment_animation": "pending owner fresh-match test",
+  "multiplayer_save_ai_performance": "not qualified",
+  "push_publish_install": "not performed",
+  "cleanup": "complete; see CLEANUP.json",
+  "task_generated_bytes_removed": 1605759447
+}

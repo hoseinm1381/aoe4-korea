@@ -1,0 +1,41 @@
+STATIC_NATIVE_READBACK 1 36 Korea_mining_camp01 PASS
+STATIC_NATIVE_READBACK 2 36 Korea_cavalry_spear PASS
+STATIC_NATIVE_READBACK 3 36 Korea_lumber_camp01 PASS
+STATIC_NATIVE_READBACK 4 36 Korea_gakgung_archer PASS
+STATIC_NATIVE_READBACK 5 36 Korea_crossbow PASS
+STATIC_NATIVE_READBACK 6 36 Korea_gakgung_hwarang PASS
+STATIC_NATIVE_READBACK 7 36 Korea_gakgung_tiger_hunter PASS
+STATIC_NATIVE_READBACK 8 36 Korea_gapsa_heavy_spear PASS
+STATIC_NATIVE_READBACK 9 36 Korea_gapsa_long_spear PASS
+STATIC_NATIVE_READBACK 10 36 Korea_hand_chongtong PASS
+STATIC_NATIVE_READBACK 11 36 Korea_hwarang_sword PASS
+STATIC_NATIVE_READBACK 12 36 Korea_jangchang_plain PASS
+STATIC_NATIVE_READBACK 13 36 Korea_jangchang_tassel PASS
+STATIC_NATIVE_READBACK 14 36 Korea_lancer_lance PASS
+STATIC_NATIVE_READBACK 15 36 Korea_lancer_polearm_upgrade PASS
+STATIC_NATIVE_READBACK 16 36 Korea_monk_staff PASS
+STATIC_NATIVE_READBACK 17 36 Korea_righteous_monk_sword PASS
+STATIC_NATIVE_READBACK 18 36 Korea_seonbi_book PASS
+STATIC_NATIVE_READBACK 19 36 Korea_shared_torch PASS
+STATIC_NATIVE_READBACK 20 36 Korea_villager_axe PASS
+STATIC_NATIVE_READBACK 21 36 Korea_villager_basket PASS
+STATIC_NATIVE_READBACK 22 36 Korea_villager_crook PASS
+STATIC_NATIVE_READBACK 23 36 Korea_villager_hammer PASS
+STATIC_NATIVE_READBACK 24 36 Korea_villager_hunting_bow PASS
+STATIC_NATIVE_READBACK 25 36 Korea_villager_hunting_spear PASS
+STATIC_NATIVE_READBACK 26 36 Korea_villager_pick PASS
+STATIC_NATIVE_READBACK 27 36 Korea_villager_sickle PASS
+STATIC_NATIVE_READBACK 28 36 gate_of_reverence PASS
+STATIC_NATIVE_READBACK 29 36 gyeongbok_palace PASS
+STATIC_NATIVE_READBACK 30 36 bulguksa_temple PASS
+STATIC_NATIVE_READBACK 31 36 hwangnyongsa ('hwangnyongsa', 23576, 226004)
+STATIC_NATIVE_READBACK 32 36 hall_of_worthies PASS
+STATIC_NATIVE_READBACK 33 36 seon_deok_observatory PASS
+STATIC_NATIVE_READBACK 34 36 mountain_fortress PASS
+STATIC_NATIVE_READBACK 35 36 stone_pagoda PASS
+STATIC_NATIVE_READBACK 36 36 seowon_academy PASS
+Traceback (most recent call last):
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\readback_static.py", line 35, in <module>
+    assert not any('error' in x for x in records)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

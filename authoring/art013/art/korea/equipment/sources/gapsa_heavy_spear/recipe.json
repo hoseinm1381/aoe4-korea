@@ -1,0 +1,23 @@
+{
+  "id": "gapsa_heavy_spear",
+  "donor": "art/civilizations/templar/weapons/tem_spear_heavy_spearman_age03/tem_spear_heavy_spearman_age03.rgm",
+  "kind": "spear",
+  "design": "Existing Templar heavy-spear upgrade silhouette, Korean spearhead and bindings; no invented weapon class",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\gapsa_heavy_spear\\66c5f23a75a41b88e1e7\\decoded-static.json",
+  "manifest_sha256": "0d3b0966f2b5611e5323dafd5937b356b8bf6a16210f957ff0bccc510bae5da8",
+  "bounds": {
+    "min": [
+      -0.10516357421875,
+      -0.0726318359375,
+      -0.80810546875
+    ],
+    "max": [
+      0.10516357421875,
+      0.0726318359375,
+      2.7578125
+    ]
+  },
+  "native_triangles": 90,
+  "bones": 0
+}

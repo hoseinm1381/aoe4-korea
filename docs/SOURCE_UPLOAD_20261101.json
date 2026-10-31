@@ -1,0 +1,13 @@
+{
+  "owner_request": "Push all four current custom civilization sources now; defer minor fixes.",
+  "repository": "https://github.com/hoseinm1381/aoe4-korea",
+  "branch": "main",
+  "previous_head": "9d524e9dc46a0943b1945180cad8c6cd1bb499d0",
+  "source_scope": "Complete current editable/native inputs, tools and compact provenance; local player ZIPs, rollback archives and caches excluded.",
+  "required_native_files": 1275,
+  "required_editable_files": 1904,
+  "native_acceptance": "Not established by source upload; previous per-release evidence retained.",
+  "filename_inventory_corrections": [],
+  "gameplay_art_audio_bytes_changed_for_upload": false,
+  "korea_includes": "0.1.6 art/unit/research repairs and verified local build receipts"
+}

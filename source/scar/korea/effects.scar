@@ -131,7 +131,10 @@ local function stopBarrage(entity, record)
         EGroup_Destroy(group)
     else
         local squad = Entity_GetSquad(entity)
-        if Squad_GetActiveCommand(squad) ~= SCMD_Attack then return end
+        -- No Squad_GetActiveCommand API exists in the official ScarDoc/runtime.
+        -- Respect an interrupted barrage, moving squad or newly accepted order.
+        if not Squad_HasActiveCommand(squad) or Squad_IsMoving(squad)
+            or Squad_HasAcceptedCommands(squad) then return end
         local group = SGroup_CreateUnique()
         SGroup_Add(group, squad)
         LocalCommand_Squad(record.player.id, group, SCMD_Stop, false)

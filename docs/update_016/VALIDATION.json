@@ -1,0 +1,21 @@
+{
+  "status": "source-only repair complete; build held; native retest pending",
+  "focused_native_tests": 11,
+  "other_current_source_tests": 4,
+  "historical_update_tests_passed": 24,
+  "applicable_tests_passed_across_runs": 39,
+  "unchanged_lua_tests_not_rerun": "lupa is absent after earlier cleanup; all SCAR bytes preserved; no Lua behavior changed",
+  "native_inputs_verified": 1275,
+  "editable_inputs_verified": 1904,
+  "regenerated_native_files_match": 293,
+  "release_version_unchanged": "0.1.5",
+  "release_sha256_unchanged": "d97df7034df3f73ad98cd4acedfdf6cb06528553b61976fe3f4c6d638f7c78e2",
+  "new_final_zip_built": false,
+  "content_editor_cook": false,
+  "archive_assembly": false,
+  "installation_or_game_manipulation": false,
+  "native_appearance_animation_acceptance": "pending later package and fresh-match tests",
+  "task_temporary_E_F_data": "none created or left by this source-only repair; Temp_aoe4 remains empty; current sources and compact rollback evidence retained",
+  "observed_repair_process_memory_MiB": 57.5,
+  "memory_note": "single observation, not a recorded peak"
+}

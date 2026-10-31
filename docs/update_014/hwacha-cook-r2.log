@@ -1,0 +1,64 @@
+{
+  "schema": "garrison.essence-run/v1",
+  "status": "succeeded",
+  "started_at_utc": "2026-10-31T14:16:43.260012Z",
+  "editor": {
+    "path": "E:\\aoe4_korea_014_model_tools\\EssenceEditor.exe",
+    "sha256": "df563dcdab31e0b772b9239da2c6058f86aa0063ec2359a0847e5057fae4efab",
+    "size_bytes": 10242872,
+    "profile": null,
+    "accepted_by": "capability-probe"
+  },
+  "mod": {
+    "path": "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-project\\k013.aoe4mod",
+    "namespace": "http://schemas.datacontract.org/2004/07/Essence.Editor.Modding",
+    "mod_id": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "mod_type": "Extension",
+    "data_generic_path": "source\\",
+    "data_intermediate_path": "cache",
+    "locdb_path": "locdb\\k013.locdb",
+    "burn_project_path": "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-project\\source\\_default.burnproj"
+  },
+  "run_root": "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2",
+  "command": [
+    "E:\\aoe4_korea_014_model_tools\\EssenceEditor.exe",
+    "-rtm",
+    "--safe_settings",
+    "--do_not_restore",
+    "--quiet_crash_report",
+    "--no_source_control",
+    "--log_path",
+    "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2\\logs",
+    "--build_mod",
+    "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-project\\k013.aoe4mod",
+    "--no_burn_window",
+    "--burn_verbose_log_level",
+    "--burn_cache_type",
+    "Local",
+    "--burn_max_threads",
+    "1",
+    "--build_path",
+    "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2\\output",
+    "--intermediate_path",
+    "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2\\intermediate"
+  ],
+  "working_directory": "E:\\aoe4_korea_014_model_tools",
+  "timeout_seconds": 600.0,
+  "intermediate_mode": "isolated-run",
+  "generated_write_scope": [
+    "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2\\intermediate",
+    "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2\\output"
+  ],
+  "finished_at_utc": "2026-10-31T14:16:55.658776Z",
+  "duration_seconds": 12.373,
+  "raw_exit_code": 0,
+  "exit_code": 0,
+  "timed_out": false,
+  "diagnostics": [],
+  "logs": {
+    "application_directory": "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2\\logs",
+    "burn": null,
+    "stdout": "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2\\logs\\stdout.log",
+    "stderr": "F:\\aoe_4_temp\\Temp_aoe4\\hwacha-cook-r2\\logs\\stderr.log"
+  }
+}

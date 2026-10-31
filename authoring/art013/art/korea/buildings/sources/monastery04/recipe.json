@@ -1,0 +1,34 @@
+{
+  "family": "monastery",
+  "age": 4,
+  "variant": "",
+  "recipe": {
+    "roof_rise_scale": 0.79,
+    "eave_spread": 0.055,
+    "tip_calm": 0.12,
+    "direction": "Restrained Goryeo Buddhist hall proportions informed by Sudeoksa/Bongjeongsa; not a copy of a single temple."
+  },
+  "anchors": {
+    "has_roof": true,
+    "eave_z": 4.453125,
+    "center": [
+      0.0048828125,
+      2.4613378906249963,
+      4.453125
+    ],
+    "half_xy": [
+      3.8056640625,
+      2.7254980468749963
+    ],
+    "rise": 2.7992578125000023
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\monastery04\\18688a2ca6c67be42808\\decoded-static.json"
+}

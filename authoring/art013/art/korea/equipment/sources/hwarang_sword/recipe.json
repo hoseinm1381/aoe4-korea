@@ -1,0 +1,23 @@
+{
+  "id": "hwarang_sword",
+  "donor": "art/civilizations/japanese/weapons/jpn_sword_katana/jpn_sword_katana.rgm",
+  "kind": "sword",
+  "design": "Existing dismounted curved sword role, restrained Korean hilt and iron blade finish; source interpretation",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\hwarang_sword\\96ab60d3059aa9c70691\\decoded-static.json",
+  "manifest_sha256": "c99889a7c208ce5f436a8a105caaae9a55b6a5642a69957384c312b777996e91",
+  "bounds": {
+    "min": [
+      -0.1181640625,
+      -0.11737060546875,
+      -0.418701171875
+    ],
+    "max": [
+      0.117919921875,
+      0.11492919921875,
+      1.2421875
+    ]
+  },
+  "native_triangles": 181,
+  "bones": 0
+}

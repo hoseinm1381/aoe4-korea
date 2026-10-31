@@ -1,0 +1,63 @@
+{
+  "archive": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-triangulated\\output\\extension\\k013\\k013.sga",
+  "archive_sha256": "35f5d5bf4fce828c87186f05b4e6d77295987aad4cca1c7fc3a0dd6cb98ca027",
+  "assets": [
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\triangulated-readbacks\\kr_hwarang_mounted_a3\\decoded\\e4fcc9ad7e40f5afade1\\decoded-static.json",
+      "manifest_sha256": "8fe98300f3400a013ecff09bd66363eaefb917b8eb760ef714f927701c37e4da",
+      "native_lod_triangles": [
+        1433,
+        693,
+        312
+      ],
+      "expected_lod_triangles": [
+        1433,
+        693,
+        312
+      ],
+      "native_bones": 73,
+      "blockers": [],
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\triangulated-readbacks\\kr_hwarang_mounted_a4\\decoded\\a7f5d3e23aa95663a756\\decoded-static.json",
+      "manifest_sha256": "501f787bbbdd0322da05528dcd3f070010b2a7281f37521382362e0321b5b180",
+      "native_lod_triangles": [
+        1649,
+        661,
+        320
+      ],
+      "expected_lod_triangles": [
+        1649,
+        661,
+        320
+      ],
+      "native_bones": 73,
+      "blockers": [],
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\triangulated-readbacks\\kr_villager_female_a4\\decoded\\0dfcb4d38d33a39fe999\\decoded-static.json",
+      "manifest_sha256": "893cf18c33a061c5c398949b535a3f24fa43bc6ce9c06e93b4a37df8f7122890",
+      "native_lod_triangles": [
+        1395,
+        632,
+        260
+      ],
+      "expected_lod_triangles": [
+        1395,
+        632,
+        260
+      ],
+      "native_bones": 73,
+      "blockers": [],
+      "warnings": [],
+      "passed": true
+    }
+  ]
+}

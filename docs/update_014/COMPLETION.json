@@ -1,0 +1,29 @@
+{
+  "version": "0.1.4",
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "source_tests": 29,
+  "real_before_source_tables_checked": 494,
+  "exact_official_unit_skeleton_payloads": 72,
+  "qualified_static_geometry_retained": 36,
+  "shader_bound_RGB_masks_checked": 108,
+  "fresh_native_unit_static_cook_models": 108,
+  "fresh_hwacha_native_cook": true,
+  "archive_member_byte_readback_count": 1734,
+  "archive_and_zip_integrity_passed": true,
+  "rollback_013_verified": true,
+  "zip_name": "Koreans-Garrison-0.1.4.zip",
+  "zip_bytes": 106756745,
+  "zip_sha256": "761736f2e6d43726bb2468cff62b8bc179a222080f59f36b49a87197758fc88c",
+  "full_fresh_model_projection": "not completed: installed 0.1.9 decoder stalls at optional animation_discovery after texture/geometry decode. Exact native skeletons and retained qualified geometry checked separately; timeout evidence retained.",
+  "native_game_appearance_animations_lifecycle": "pending owner test",
+  "ai_save_load_multiplayer_performance": "not qualified",
+  "github_push_tag_publication_installation": "not performed",
+  "static_trial_result": "Unskinned shader trial rejected by native projection; prior qualified one-root geometry retained with corrected material references.",
+  "temporary_cleanup": "completed after explicit owner storage approval; editable/native inputs and ZIP/rollback hashes reverified",
+  "final_test_run": {
+    "tests": 29,
+    "seconds": 56.919,
+    "result": "OK"
+  },
+  "cleanup_logical_bytes_removed": 6325032096
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kr_scout_female_a4",
+  "family": "scout",
+  "sex": "female",
+  "age": 4,
+  "donor": "art/civilizations/chinese/humans/chi_cavalry_scout_female_age04/chi_cavalry_scout_female_age04.rgm",
+  "design": "Female native variant; same Korean role garment with female donor weighted anatomy",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces",
+    "compact_authored_sections": true,
+    "LOD0_budget": 1663,
+    "reason": "Remove unnecessary native prop/limb cuts; reduce authored cloth/helmet sections, hidden headbands and lamellar rows while retaining silhouette",
+    "contact_policy": "Match coat sectors; bounded waist support-plane sash over completed coat/native waist; lower closure/tie face-interior clearance"
+  }
+}

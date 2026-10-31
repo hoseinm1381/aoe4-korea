@@ -5293,7 +5293,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier3_monk_shaolin_chi_ha_01"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_vc70e9e7fbe4cdf4"
                             },
                             {
                               "key": "$PBGMAP",
@@ -5456,7 +5456,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier4_monk_shaolin_chi_ha_01"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v7ffbd207540def3"
                             },
                             {
                               "key": "$PBGMAP",
@@ -9241,7 +9241,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier1_leader_baibars_ayy"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v297dd93030bd004"
                             },
                             {
                               "key": "$PBGMAP",

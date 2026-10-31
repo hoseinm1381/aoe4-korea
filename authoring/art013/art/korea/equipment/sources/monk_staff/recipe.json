@@ -1,0 +1,23 @@
+{
+  "id": "monk_staff",
+  "donor": "art/civilizations/chinese/weapons/chi_staff_khakkhara_1/chi_staff_khakkhara_1.rgm",
+  "kind": "staff",
+  "design": "Buddhist ring staff with restrained patinated bronze and wood; existing native role retained",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\monk_staff\\87b3350f1d3d158013db\\decoded-static.json",
+  "manifest_sha256": "51976638c4d146dd6c482805cbd31c1f8972fcad1ee4e8710119fa6b55c03346",
+  "bounds": {
+    "min": [
+      -0.204345703125,
+      -0.124755859375,
+      -0.833984375
+    ],
+    "max": [
+      0.204345703125,
+      0.12451171875,
+      1.5048828125
+    ]
+  },
+  "native_triangles": 1150,
+  "bones": 1
+}

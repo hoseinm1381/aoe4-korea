@@ -1,0 +1,3714 @@
+{
+  "assets": [
+    {
+      "asset": "Korea_lumber_camp01",
+      "kind": "camp_module",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/buildings/sources/lumber_camp01/Korea_lumber_camp01.blend",
+      "source_sha256": "8f991ba907b0d019995d0b4e346a4874dddebab32f00f869ad97ad80568ee1c3",
+      "lod_triangles": {
+        "healthy_lod0": 1010
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_lumber_camp01_korea_camp_rough_granite",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\art\\korea\\buildings\\sources\\lumber_camp01\\..\\..\\..\\..\\..\\textures\\e5ff0d65ac3f7f97fc3f7a9a75551dc9dadd6b4490fc9b9ab434c7696b25beda.png"
+          }
+        },
+        {
+          "name": "kr014_korea_lumber_camp01_korea_camp_weathered_timber",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\art\\korea\\buildings\\sources\\lumber_camp01\\..\\..\\..\\..\\..\\textures\\8172bab915b95e5d140f4599a9e63b869d7bced210291ae7967ae10b6cf0506b.png"
+          }
+        },
+        {
+          "name": "kr014_korea_lumber_camp01_korea_camp_reed_thatch",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\art\\korea\\buildings\\sources\\lumber_camp01\\..\\..\\..\\..\\..\\textures\\aebeefe0c2ec710beb091c3d48061f3c0e93233f7afd61353ea82c07250b7591.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "c957bb13029f3f92e2c18951683cf2693059a9062510768a31c3d199ab45d7e9",
+        "model.rgo": "885b7b46ea6ed74daa081c2086fc7574ce286ea673614c4aaee9ae7a5f31e7ab",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_mining_camp01",
+      "kind": "camp_module",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/buildings/sources/mining_camp01/Korea_mining_camp01.blend",
+      "source_sha256": "3b2fcbd768ec4336a23ad25027b4c39c96bd2439fb4746f16ae1bea0f2e4740b",
+      "lod_triangles": {
+        "healthy_lod0": 1010
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_mining_camp01_korea_camp_rough_granite",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\art\\korea\\buildings\\sources\\mining_camp01\\..\\..\\..\\..\\..\\textures\\e5ff0d65ac3f7f97fc3f7a9a75551dc9dadd6b4490fc9b9ab434c7696b25beda.png"
+          }
+        },
+        {
+          "name": "kr014_korea_mining_camp01_korea_camp_weathered_timber",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\art\\korea\\buildings\\sources\\mining_camp01\\..\\..\\..\\..\\..\\textures\\8172bab915b95e5d140f4599a9e63b869d7bced210291ae7967ae10b6cf0506b.png"
+          }
+        },
+        {
+          "name": "kr014_korea_mining_camp01_korea_camp_reed_thatch",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\art\\korea\\buildings\\sources\\mining_camp01\\..\\..\\..\\..\\..\\textures\\aebeefe0c2ec710beb091c3d48061f3c0e93233f7afd61353ea82c07250b7591.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "cba0d6998dde31ad413a0aaaf688e9a2f5a3ca5fe60dfa892352f304cbd81dc8",
+        "model.rgo": "885b7b46ea6ed74daa081c2086fc7574ce286ea673614c4aaee9ae7a5f31e7ab",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_cavalry_spear",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/cavalry_spear/Korea_cavalry_spear.blend",
+      "source_sha256": "ec2d9d42a532bc4544701ca00342b5869a2386a4040dfcc1fa590f376824742f",
+      "lod_triangles": {
+        "healthy_lod0": 30,
+        "healthy_lod1": 30,
+        "healthy_lod2": 30
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_cavalry_spear_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "69cba7b607764772292471fcc46b1b3899ea63dfb9a6c8d4d9f0e964a6dc2993",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_crossbow",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/crossbow/Korea_crossbow.blend",
+      "source_sha256": "ef6c3628991336cb637347279853920b3436dad599182e0dbd60e43df5b35205",
+      "lod_triangles": {
+        "healthy_lod0": 440,
+        "healthy_lod1": 240,
+        "healthy_lod2": 138
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_crossbow_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "998b6dacce0e73b7436ff021793ebb83d46c0f1c15eebe86390192f6c68222b8",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_gakgung_archer",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/gakgung_archer/Korea_gakgung_archer.blend",
+      "source_sha256": "82b32bd39198ac9298c07c46e3be43b5a60dd33f976c496e6cb73aa8cd40d7e3",
+      "lod_triangles": {
+        "healthy_lod0": 148,
+        "healthy_lod1": 108,
+        "healthy_lod2": 80
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_gakgung_archer_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "bb668ca8afe0e137ef3abaebf69bd5e02561c475ab292deb6a692e26d55b7cde",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_gakgung_hwarang",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/gakgung_hwarang/Korea_gakgung_hwarang.blend",
+      "source_sha256": "1f16dfaf39916020bff7160ba56b466cde017d6bb89f2d1cb8508568489314ae",
+      "lod_triangles": {
+        "healthy_lod0": 148,
+        "healthy_lod1": 108,
+        "healthy_lod2": 80
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_gakgung_hwarang_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "b0d502395a641047f9e76913d44620c032f9058599dbbb2428272e131915cb27",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_gakgung_tiger_hunter",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/gakgung_tiger_hunter/Korea_gakgung_tiger_hunter.blend",
+      "source_sha256": "5f51e21201363d7e2553f8ddadc20cfad06eb6286685e4d9b247a504dbee7e48",
+      "lod_triangles": {
+        "healthy_lod0": 148,
+        "healthy_lod1": 108,
+        "healthy_lod2": 80
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_gakgung_tiger_hunter_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "96f2e6d9926245c3d4b7bca1772ecefcc3f0f9b15a61f7424232fb573b0e1111",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_gapsa_heavy_spear",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/gapsa_heavy_spear/Korea_gapsa_heavy_spear.blend",
+      "source_sha256": "0db500a5a9775061f995980a8613fe27c558ba24377e7023784b31db0f6dcb7f",
+      "lod_triangles": {
+        "healthy_lod0": 30,
+        "healthy_lod1": 30,
+        "healthy_lod2": 30
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_gapsa_heavy_spear_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "3081ebcdf0b810a88813d4fb30217f854a3ade89be6ecb57ab8cc8a2df54ee65",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_gapsa_long_spear",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/gapsa_long_spear/Korea_gapsa_long_spear.blend",
+      "source_sha256": "6a04a78283a48341dea1832d490dd88c2be7e1ecc0891ee1497b279050e84728",
+      "lod_triangles": {
+        "healthy_lod0": 232,
+        "healthy_lod1": 232,
+        "healthy_lod2": 232
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_gapsa_long_spear_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "b79703242eb576a102de8ba347518eb896cbcf57d4c1f88e1d6f3c0b819a08ae",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_hand_chongtong",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/hand_chongtong/Korea_hand_chongtong.blend",
+      "source_sha256": "4c3c7fc8822f7815e226ebc7e8ac25bb91edfebd63b35715f0e9bf8fd19e6ab9",
+      "lod_triangles": {
+        "healthy_lod0": 96,
+        "healthy_lod1": 96,
+        "healthy_lod2": 52
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_hand_chongtong_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "b7653939812f3b67b8330a3c27c2fbcb5740788cb6a9125f5bda786155db92bc",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_hwarang_sword",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/hwarang_sword/Korea_hwarang_sword.blend",
+      "source_sha256": "60c296317d07a2235fa16f35634980756387c4a6b17907ea9d2498214cc193bc",
+      "lod_triangles": {
+        "healthy_lod0": 274,
+        "healthy_lod1": 163,
+        "healthy_lod2": 84
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_hwarang_sword_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "821c67660b57f9e7ee650e885f47c49d6433efd4efbd3b549c5f368bc71c6c21",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_jangchang_plain",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/jangchang_plain/Korea_jangchang_plain.blend",
+      "source_sha256": "46e5ebf7f0eb75974061e8cd1bd32155cbe556c865ee24b7ef8c88601d539ff3",
+      "lod_triangles": {
+        "healthy_lod0": 30,
+        "healthy_lod1": 30,
+        "healthy_lod2": 30
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_jangchang_plain_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "d5078a16eb2eaf12c2adc9a0d7f56840df294b82effd45ff7f20b79ca7453a59",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_jangchang_tassel",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/jangchang_tassel/Korea_jangchang_tassel.blend",
+      "source_sha256": "2b8682da4f41e8a9fa1746c7d1819b67194b83b15470b547c7aaad31f3387468",
+      "lod_triangles": {
+        "healthy_lod0": 184,
+        "healthy_lod1": 90,
+        "healthy_lod2": 66
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_jangchang_tassel_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "9de52416c996cedd7e316c79dfced75bd24e0bc6946808c536b793a18b700077",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_lancer_lance",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/lancer_lance/Korea_lancer_lance.blend",
+      "source_sha256": "fb278d6e8b6ec65020a426ffc19e6a5fff3042760afa109e0988d88bd077602f",
+      "lod_triangles": {
+        "healthy_lod0": 186,
+        "healthy_lod1": 128,
+        "healthy_lod2": 80
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_lancer_lance_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "34099f175dffd67e5c8ec3ff4558dcd98f78549e223f46d6276231d0cd361cd0",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_lancer_polearm_upgrade",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/lancer_polearm_upgrade/Korea_lancer_polearm_upgrade.blend",
+      "source_sha256": "e32b021272aaebe6ee92e9e5d4737e9d228b24b152d8ac7f0a01f97316fc03ce",
+      "lod_triangles": {
+        "healthy_lod0": 190,
+        "healthy_lod1": 102,
+        "healthy_lod2": 58
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_lancer_polearm_upgrade_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "c8e1058f5a6ad9ba125909bd4eef575f3b8c7c45216d830347557006c8de65f4",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_monk_staff",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/monk_staff/Korea_monk_staff.blend",
+      "source_sha256": "930a5917c6207b453d00580515c1737ce4e8a70d3da8d92d466a854b95b44aee",
+      "lod_triangles": {
+        "healthy_lod0": 542,
+        "healthy_lod1": 462,
+        "healthy_lod2": 146
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_monk_staff_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "789ddf5bf7ca68bb71adfbe05bcdbab1788321d654fa5f58b20f9a82abf1486b",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_righteous_monk_sword",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/righteous_monk_sword/Korea_righteous_monk_sword.blend",
+      "source_sha256": "cd43405dbdb63a76536e045d8258eb2ae4c680576ff9c34c5446cb028355a89e",
+      "lod_triangles": {
+        "healthy_lod0": 97,
+        "healthy_lod1": 97,
+        "healthy_lod2": 97
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_righteous_monk_sword_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "8a6fb393003d8b54c6344cce8f33c292d02b610847fc4716b15e9586b8643ab6",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_seonbi_book",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/seonbi_book/Korea_seonbi_book.blend",
+      "source_sha256": "17fff79e1330e93997c737fef7b4ed009de708eacdd8a23fdfb3c66dbfaa69ec",
+      "lod_triangles": {
+        "healthy_lod0": 28,
+        "healthy_lod1": 28,
+        "healthy_lod2": 28
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_seonbi_book_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "564cb9c480dfb5b055581357f9564990a9e6f3ba5401d40fa9fb1560107a4216",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_shared_torch",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/shared_torch/Korea_shared_torch.blend",
+      "source_sha256": "dc8410d1799d2476f23603e1b2e16e39e7017c789ba31e4f1170eed510081828",
+      "lod_triangles": {
+        "healthy_lod0": 28,
+        "healthy_lod1": 18,
+        "healthy_lod2": 8
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_shared_torch_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "fc1249f912e2022c1f60bd8c41e38671239c58ef3703aaeca3d9c0aa7669bdea",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_villager_axe",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/villager_axe/Korea_villager_axe.blend",
+      "source_sha256": "209ac4892ef7a9464342c5bcc781ad84fd6aa45c84f57c9b4f68bfa88056388f",
+      "lod_triangles": {
+        "healthy_lod0": 64,
+        "healthy_lod1": 54,
+        "healthy_lod2": 32
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_villager_axe_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "f5aaa41cf10b7ff7337415a7450b450ef2af6952fc3f8f13c778f83f34b2afad",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_villager_basket",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/villager_basket/Korea_villager_basket.blend",
+      "source_sha256": "4bd1db30c381a4785d086ceec0b896285fcb5ddb721385110b8848e6c9c0530d",
+      "lod_triangles": {
+        "healthy_lod0": 804,
+        "healthy_lod1": 480,
+        "healthy_lod2": 256
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_villager_basket_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "b5eef3055e029fb251270cec3ca99d56484d4e7bdedeba0c61ef7b54121c05dd",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_villager_crook",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/villager_crook/Korea_villager_crook.blend",
+      "source_sha256": "f0e0b20d1c8299d95488592255969b439ed0f04b09f313e198d0629e5677ae55",
+      "lod_triangles": {
+        "healthy_lod0": 88,
+        "healthy_lod1": 76,
+        "healthy_lod2": 56
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_villager_crook_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "2ddd4d97ee35a41c6ed79425aa7c1c9c69575ccd6bbcd61368546ce450f8a096",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_villager_hammer",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/villager_hammer/Korea_villager_hammer.blend",
+      "source_sha256": "bcc1deeb01cd8b006432bb197043f048dfd362fab19572af5f29f59a42ef796f",
+      "lod_triangles": {
+        "healthy_lod0": 32,
+        "healthy_lod1": 32,
+        "healthy_lod2": 24
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_villager_hammer_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "7e1e277f1cf23aa36c89b16eb0df8f58ae99a9d9eb1b07d282f5cdc0870b288c",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_villager_hunting_bow",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/villager_hunting_bow/Korea_villager_hunting_bow.blend",
+      "source_sha256": "c8aab4a4a821d1adfe998b7ff7bffcd9c08af5f4e5ef6be639351369c0f20abc",
+      "lod_triangles": {
+        "healthy_lod0": 84,
+        "healthy_lod1": 76,
+        "healthy_lod2": 50
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_villager_hunting_bow_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "3fe4603c6ea8d53fb9ea9e261208b737b9cdd17daf244dc5e027d1901a47ac1e",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_villager_hunting_spear",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/villager_hunting_spear/Korea_villager_hunting_spear.blend",
+      "source_sha256": "ab4b9461bcc6e3ac8ffa70127d3bc130a27b0de26e874fc32bc9ddfe5f96592c",
+      "lod_triangles": {
+        "healthy_lod0": 50,
+        "healthy_lod1": 50,
+        "healthy_lod2": 50
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_villager_hunting_spear_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "5fbc3400d89960295ec37df0a268ee71782ced234446764c106f2e4a4228e14d",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_villager_pick",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/villager_pick/Korea_villager_pick.blend",
+      "source_sha256": "c1ef387a09559443d89a0851e765fb6ee6e67f288c7fcb24697e4b55ac1b4321",
+      "lod_triangles": {
+        "healthy_lod0": 92,
+        "healthy_lod1": 56,
+        "healthy_lod2": 20
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_villager_pick_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "116b625cf5247b1eee2d896c51a841a68e1a960505e1f47bcee2fa8c6e011e10",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "Korea_villager_sickle",
+      "kind": "equipment",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/equipment/sources/villager_sickle/Korea_villager_sickle.blend",
+      "source_sha256": "ee03361de96bfb7ce5e0df63e625febeaa1db6084e6be2e44caa480c2c4f1f20",
+      "lod_triangles": {
+        "healthy_lod0": 80,
+        "healthy_lod1": 60,
+        "healthy_lod2": 38
+      },
+      "selectors": [
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "damage_1",
+            "damage_2",
+            "damage_3",
+            "damage_4",
+            "damage_5"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_korea_villager_sickle_korea equipment shared source atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\5e9b2b33d4a5a74ee74bec6f1c159413da1833047e5e2cabe25298795723f892.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d18487a5a6e56d135c2e7d6610d3ff69d18c2e37217cd755feb02f548590415c.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\cd821d893ca8fba8bbfc70b5316ee51db6f90102fbafae4b92ed11bb07f0148f.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\c5d353a2d88dad5ce82da9c2b841dd59bdead9c734eb9bf4cf0dfc7371920c1a.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\d22deb07048f57fcbd12e9c4e9a92cfc34290d8752731abe6a899dbfa191b2bf.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "9f477e6f068db6bd8d3717415b4498c7a0aef0aa7c919936ae568ca35959e132",
+        "model.rgo": "41aa72b1fee6fe8dd934905428c3a16ce7b1473c919c0078c2d0ec60a1b92b90",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "bulguksa_temple",
+      "kind": "unique",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/unique/bulguksa_temple/bulguksa_temple.blend",
+      "source_sha256": "7cb7daae3430ccd3bade9b24b7f496cced79066afb1b76831a3864620c00fecf",
+      "lod_triangles": {
+        "construction_0_lod0": 36,
+        "construction_25_lod0": 7504,
+        "construction_50_lod0": 16812,
+        "construction_75_lod0": 22052,
+        "damage_25_lod0": 21944,
+        "damage_50_lod0": 19580,
+        "damage_75_lod0": 19520,
+        "healthy_lod0": 22052,
+        "healthy_lod1": 13176,
+        "healthy_lod2": 6276,
+        "ruins_lod0": 5260
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_bulguksa_temple_korea_unique_shared_atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "f75796976af8bf1df9cbef8f883f212ce69e41a34780699fa36959bc1e7a3c0f",
+        "model.rgo": "e54b64472e76ad43b2d2859da54f6069886ba605e161b9c8d7416fe4014636f6",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "gate_of_reverence",
+      "kind": "unique",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/unique/gate_of_reverence/gate_of_reverence.blend",
+      "source_sha256": "cf45e15b9b33745f644b756ac4e7a2d678feef79cbc6d8294892319deb59b125",
+      "lod_triangles": {
+        "construction_0_lod0": 12,
+        "construction_25_lod0": 5644,
+        "construction_50_lod0": 11484,
+        "construction_75_lod0": 15852,
+        "damage_25_lod0": 14640,
+        "damage_50_lod0": 13428,
+        "damage_75_lod0": 12204,
+        "healthy_lod0": 15852,
+        "healthy_lod1": 7980,
+        "healthy_lod2": 3724,
+        "ruins_lod0": 4076
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_gate_of_reverence_korea_unique_shared_atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "bffdf9c3465b86c62e778bb82bb2dcbc10c90fb9b2e242ade01518649b55a5c5",
+        "model.rgo": "e54b64472e76ad43b2d2859da54f6069886ba605e161b9c8d7416fe4014636f6",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "gyeongbok_palace",
+      "kind": "unique",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/unique/gyeongbok_palace/gyeongbok_palace.blend",
+      "source_sha256": "6ba9ae411fd3b61102851e1883c7d2c441858ac1737124f2247dc2c88f5fdc4f",
+      "lod_triangles": {
+        "construction_0_lod0": 12,
+        "construction_25_lod0": 1236,
+        "construction_50_lod0": 9784,
+        "construction_75_lod0": 17108,
+        "damage_25_lod0": 15608,
+        "damage_50_lod0": 13100,
+        "damage_75_lod0": 11588,
+        "healthy_lod0": 17108,
+        "healthy_lod1": 11404,
+        "healthy_lod2": 4928,
+        "ruins_lod0": 1684
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_gyeongbok_palace_korea_unique_shared_atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "990ee9e60cdce56bce805ee0d79db9daea566f05f8534096904812e234eb1947",
+        "model.rgo": "e54b64472e76ad43b2d2859da54f6069886ba605e161b9c8d7416fe4014636f6",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "hall_of_worthies",
+      "kind": "unique",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/unique/hall_of_worthies/hall_of_worthies.blend",
+      "source_sha256": "7fabc772a2e109f7794c4624c70a3ffcb9e23e2f22a5e13c45fa5c2a89a5b81f",
+      "lod_triangles": {
+        "construction_0_lod0": 12,
+        "construction_25_lod0": 1116,
+        "construction_50_lod0": 8388,
+        "construction_75_lod0": 13832,
+        "damage_25_lod0": 13192,
+        "damage_50_lod0": 11056,
+        "damage_75_lod0": 10416,
+        "healthy_lod0": 13832,
+        "healthy_lod1": 9888,
+        "healthy_lod2": 4236,
+        "ruins_lod0": 1564
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_hall_of_worthies_korea_unique_shared_atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "8a7e5fac8908ea18e1f0eaa5af21b13758ee36a0132d3b4b2d450e9f9a30330b",
+        "model.rgo": "e54b64472e76ad43b2d2859da54f6069886ba605e161b9c8d7416fe4014636f6",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "hwangnyongsa",
+      "kind": "unique",
+      "static_contract": 5,
+      "source": "authoring/art013/art/korea/unique/hwangnyongsa/hwangnyongsa.blend",
+      "source_sha256": "ff6cfbf725322f886724917fb34d46f15bc93e3b969cf2dfb0c4208525caec74",
+      "lod_triangles": {
+        "construction_0_lod0": 36,
+        "construction_25_lod0": 1796,
+        "construction_50_lod0": 19536,
+        "construction_75_lod0": 38988,
+        "damage_25_lod0": 35628,
+        "damage_50_lod0": 27932,
+        "damage_75_lod0": 24572,
+        "healthy_lod0": 38988,
+        "healthy_lod1": 24508,
+        "healthy_lod2": 11812,
+        "ruins_lod0": 2208
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0_part0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25_part0"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50_part0",
+            "mesh_construction_50_part1"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75_part0",
+            "mesh_construction_75_part1",
+            "mesh_construction_75_part2",
+            "mesh_construction_75_part3"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25_part0",
+            "mesh_damage_25_part1",
+            "mesh_damage_25_part2"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50_part0",
+            "mesh_damage_50_part1",
+            "mesh_damage_50_part2"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75_part0",
+            "mesh_damage_75_part1",
+            "mesh_damage_75_part2"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy_part0",
+            "mesh_healthy_part1",
+            "mesh_healthy_part2",
+            "mesh_healthy_part3"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins_part0"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_0_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_25_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_50_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_50_part1",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_75_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_75_part1",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_75_part2",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_construction_75_part3",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_25_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_25_part1",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_25_part2",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_50_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_50_part1",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_50_part2",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_75_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_75_part1",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_damage_75_part2",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_healthy_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_healthy_part1",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_healthy_part2",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_healthy_part3",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        },
+        {
+          "name": "kr014_hwangnyongsa_korea_unique_shared_atlas_mesh_ruins_part0",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": true,
+      "files": {
+        "model.fbx": "3745453ff4029d8c1def0fea223da5e58ba52202888446a5914c9b88aafca847",
+        "model.rgo": "6202e85330a6b711a4d3369dbd2480c33a9cebe42c3e4f8f9c1a423723c7ff25",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "mountain_fortress",
+      "kind": "unique",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/unique/mountain_fortress/mountain_fortress.blend",
+      "source_sha256": "b714ceaeb005f8dc31ebbc30189580a5e4e959b996fecf0ad900a0e282943a4f",
+      "lod_triangles": {
+        "construction_0_lod0": 28,
+        "construction_25_lod0": 8016,
+        "construction_50_lod0": 12896,
+        "construction_75_lod0": 15448,
+        "damage_25_lod0": 15228,
+        "damage_50_lod0": 13972,
+        "damage_75_lod0": 13740,
+        "healthy_lod0": 15448,
+        "healthy_lod1": 6464,
+        "healthy_lod2": 3312,
+        "ruins_lod0": 2000
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_mountain_fortress_korea_unique_shared_atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "10197c806d995d7c9d374601248c29875a3deb096974030118f9cfd6d2637e9a",
+        "model.rgo": "e54b64472e76ad43b2d2859da54f6069886ba605e161b9c8d7416fe4014636f6",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "seon_deok_observatory",
+      "kind": "unique",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/unique/seon_deok_observatory/seon_deok_observatory.blend",
+      "source_sha256": "799b83a1d7b0640321a3d445fde400a9acffe175bbd281ecf18107434fb5b96d",
+      "lod_triangles": {
+        "construction_0_lod0": 24,
+        "construction_25_lod0": 2592,
+        "construction_50_lod0": 5308,
+        "construction_75_lod0": 5368,
+        "damage_25_lod0": 5368,
+        "damage_50_lod0": 3796,
+        "damage_75_lod0": 3160,
+        "healthy_lod0": 5368,
+        "healthy_lod1": 4700,
+        "healthy_lod2": 4016,
+        "ruins_lod0": 1432
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_seon_deok_observatory_korea_unique_shared_atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "dc3c641dfaf1ff38df91d17c9dd1a003067942a511558eebdd7d4c69f6033b1d",
+        "model.rgo": "e54b64472e76ad43b2d2859da54f6069886ba605e161b9c8d7416fe4014636f6",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "seowon_academy",
+      "kind": "unique",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/unique/seowon_academy/seowon_academy.blend",
+      "source_sha256": "f67eab6c9aaa478fc2f8066eb9b0d547db308391a1f6f7c5313f32dd561e5a39",
+      "lod_triangles": {
+        "construction_0_lod0": 12,
+        "construction_25_lod0": 1224,
+        "construction_50_lod0": 8700,
+        "construction_75_lod0": 14536,
+        "damage_25_lod0": 13656,
+        "damage_50_lod0": 11408,
+        "damage_75_lod0": 10528,
+        "healthy_lod0": 14536,
+        "healthy_lod1": 10416,
+        "healthy_lod2": 4576,
+        "ruins_lod0": 1672
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_seowon_academy_korea_unique_shared_atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "09141d6c9c8bc8c76bb2cb2ceadfda637c4d4fe87bb7acd3ef6474953a3023ba",
+        "model.rgo": "e54b64472e76ad43b2d2859da54f6069886ba605e161b9c8d7416fe4014636f6",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    },
+    {
+      "asset": "stone_pagoda",
+      "kind": "unique",
+      "static_contract": 3,
+      "source": "authoring/art013/art/korea/unique/stone_pagoda/stone_pagoda.blend",
+      "source_sha256": "7c29335cdab66737d9a8cc43538c2d34d14aa40a169607a0387573c9ed467786",
+      "lod_triangles": {
+        "construction_0_lod0": 60,
+        "construction_25_lod0": 432,
+        "construction_50_lod0": 1612,
+        "construction_75_lod0": 1840,
+        "damage_25_lod0": 1840,
+        "damage_50_lod0": 1392,
+        "damage_75_lod0": 872,
+        "healthy_lod0": 1840,
+        "healthy_lod1": 1144,
+        "healthy_lod2": 924,
+        "ruins_lod0": 780
+      },
+      "selectors": [
+        [
+          "sel_construction_0",
+          [
+            "mesh_construction_0"
+          ],
+          [
+            "construct_00",
+            "construct_05",
+            "construct_10",
+            "construct_15",
+            "construct_20"
+          ]
+        ],
+        [
+          "sel_construction_25",
+          [
+            "mesh_construction_25"
+          ],
+          [
+            "construct_25",
+            "construct_30",
+            "construct_35",
+            "construct_40",
+            "construct_45"
+          ]
+        ],
+        [
+          "sel_construction_50",
+          [
+            "mesh_construction_50"
+          ],
+          [
+            "construct_50",
+            "construct_55",
+            "construct_60",
+            "construct_65",
+            "construct_70"
+          ]
+        ],
+        [
+          "sel_construction_75",
+          [
+            "mesh_construction_75"
+          ],
+          [
+            "construct_75",
+            "construct_80",
+            "construct_85",
+            "construct_90",
+            "construct_95"
+          ]
+        ],
+        [
+          "sel_damage_25",
+          [
+            "mesh_damage_25"
+          ],
+          [
+            "damage_1",
+            "damage_2"
+          ]
+        ],
+        [
+          "sel_damage_50",
+          [
+            "mesh_damage_50"
+          ],
+          [
+            "damage_3"
+          ]
+        ],
+        [
+          "sel_damage_75",
+          [
+            "mesh_damage_75"
+          ],
+          [
+            "damage_4",
+            "damage_5"
+          ]
+        ],
+        [
+          "sel_healthy",
+          [
+            "mesh_healthy"
+          ],
+          [
+            "healthy",
+            "preview",
+            "targeting"
+          ]
+        ],
+        [
+          "sel_ruins",
+          [
+            "mesh_ruins"
+          ],
+          [
+            "ruins"
+          ]
+        ]
+      ],
+      "materials": [
+        {
+          "name": "kr014_stone_pagoda_korea_unique_shared_atlas",
+          "textures": {
+            "albedo": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\02d6dc75a6b1a8ef7b8acd39c4e65cc3262ff027cf9180b6c54f43c311ce4ed5.png",
+            "normal": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\ccff57172b06146405a0e7d4c63baa640c76d24bd818fbd566f3b734a5688e8f.png",
+            "roughness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\dd6aeb2cac3cfa898ffd1668d248b2d0f726573631b6e24e25ade865b521eeef.png",
+            "metalness": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\3fa6aade622f69818317b9e9b78e26cb190872c049c628cf3fc8770f8827c629.png",
+            "pattern": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\art013\\textures\\0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.png"
+          }
+        }
+      ],
+      "animated": false,
+      "native_static_root_bones": 0,
+      "root_record": [
+        {
+          "name": "metarig_root",
+          "parent_name": null,
+          "global_reference_transform": {
+            "quaternion_xyzw": [
+              -0.7071067690849304,
+              -0.0,
+              0.0,
+              0.7071067690849304
+            ],
+            "translation_xyz": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "scale_xyz": [
+              1.0,
+              1.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lossless_render_partition": false,
+      "files": {
+        "model.fbx": "b596c8024e9b26e68bbbc8eb9e98d77e48b5360204bdcc5d7d0d6ec25c738b00",
+        "model.rgo": "e54b64472e76ad43b2d2859da54f6069886ba605e161b9c8d7416fe4014636f6",
+        "model.rgotemplate": "de4ef1e0f56292ddb8f66ec799e45241be500d01f19657e2dea6d64a36891dc3"
+      }
+    }
+  ],
+  "source_files_unchanged": true
+}

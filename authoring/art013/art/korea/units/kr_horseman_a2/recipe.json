@@ -1,0 +1,10 @@
+{
+  "id": "kr_horseman_a2",
+  "family": "horseman",
+  "age": 2,
+  "donor": "art/civilizations/chinese/humans/chi_cavalry_light_age02/chi_cavalry_light_age02.rgm",
+  "design": "split riding coat, baji trousers, Korean saddle and bridle accents",
+  "source_policy": {
+    "garment_plane_scope": "eligible_cloth_faces"
+  }
+}

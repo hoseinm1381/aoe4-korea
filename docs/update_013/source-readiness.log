@@ -1,0 +1,4 @@
+INPUTS_VERIFIED native=55 editable=1844
+KOREAN_ART_SOURCE_VERIFIED assets=152 files=1465 runtime_baseline_unchanged=456
+GARRISON_MODEL_TOOLS unsupported
+KOREA_013_NATIVE_BUILD_BLOCKED: this Essence Editor build is not supported yet (editor df563dcdab31, core e2149a216e28)

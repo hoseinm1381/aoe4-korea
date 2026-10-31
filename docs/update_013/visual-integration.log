@@ -1,0 +1,12 @@
+VISUAL_GRAPH 10 110 private_lists 8 stamps 9
+VISUAL_GRAPH 20 110 private_lists 20 stamps 28
+VISUAL_GRAPH 30 110 private_lists 29 stamps 37
+VISUAL_GRAPH 40 110 private_lists 29 stamps 37
+VISUAL_GRAPH 50 110 private_lists 39 stamps 47
+VISUAL_GRAPH 60 110 private_lists 47 stamps 55
+VISUAL_GRAPH 70 110 private_lists 58 stamps 55
+VISUAL_GRAPH 80 110 private_lists 70 stamps 55
+VISUAL_GRAPH 90 110 private_lists 82 stamps 55
+VISUAL_GRAPH 100 110 private_lists 89 stamps 55
+VISUAL_GRAPH 110 110 private_lists 101 stamps 55
+VISUAL_GRAPH_STAGED 101 55 61 69

@@ -1,0 +1,45 @@
+STATIC_REUSED 1 36 Korea_lumber_camp01
+STATIC_REUSED 2 36 Korea_mining_camp01
+STATIC_REUSED 3 36 Korea_cavalry_spear
+STATIC_REUSED 4 36 Korea_crossbow
+STATIC_REUSED 5 36 Korea_gakgung_archer
+STATIC_REUSED 6 36 Korea_gakgung_hwarang
+STATIC_REUSED 7 36 Korea_gakgung_tiger_hunter
+STATIC_REUSED 8 36 Korea_gapsa_heavy_spear
+STATIC_REUSED 9 36 Korea_gapsa_long_spear
+STATIC_REUSED 10 36 Korea_hand_chongtong
+STATIC_REUSED 11 36 Korea_hwarang_sword
+STATIC_REUSED 12 36 Korea_jangchang_plain
+STATIC_REUSED 13 36 Korea_jangchang_tassel
+STATIC_REUSED 14 36 Korea_lancer_lance
+STATIC_REUSED 15 36 Korea_lancer_polearm_upgrade
+STATIC_REUSED 16 36 Korea_monk_staff
+STATIC_REUSED 17 36 Korea_righteous_monk_sword
+STATIC_REUSED 18 36 Korea_seonbi_book
+STATIC_REUSED 19 36 Korea_shared_torch
+STATIC_REUSED 20 36 Korea_villager_axe
+STATIC_REUSED 21 36 Korea_villager_basket
+STATIC_REUSED 22 36 Korea_villager_crook
+STATIC_REUSED 23 36 Korea_villager_hammer
+STATIC_REUSED 24 36 Korea_villager_hunting_bow
+STATIC_REUSED 25 36 Korea_villager_hunting_spear
+STATIC_REUSED 26 36 Korea_villager_pick
+STATIC_REUSED 27 36 Korea_villager_sickle
+STATIC_REUSED 28 36 bulguksa_temple
+STATIC_REUSED 29 36 gate_of_reverence
+STATIC_REUSED 30 36 gyeongbok_palace
+STATIC_REUSED 31 36 hall_of_worthies
+00:00.687  blend            | Read blend: "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\authoring\art013\art\korea\unique\hwangnyongsa\hwangnyongsa.blend"
+F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\art013\export_static.py:128: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  cm=bpy.data.materials.new(name);cm.use_nodes=False;clean[name]=cm
+
+FBX export starting... 'F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\art-current\\static-exports\\hwangnyongsa\\model.fbx'
+export finished in 0.7393 sec.
+STATIC_EXPORTED 32 36 hwangnyongsa {'construction_0_lod0': 36, 'construction_25_lod0': 1796, 'construction_50_lod0': 19536, 'construction_75_lod0': 38988, 'damage_25_lod0': 35628, 'damage_50_lod0': 27932, 'damage_75_lod0': 24572, 'healthy_lod0': 38988, 'healthy_lod1': 24508, 'healthy_lod2': 11812, 'ruins_lod0': 2208}
+STATIC_REUSED 33 36 mountain_fortress
+STATIC_REUSED 34 36 seon_deok_observatory
+STATIC_REUSED 35 36 seowon_academy
+STATIC_REUSED 36 36 stone_pagoda
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

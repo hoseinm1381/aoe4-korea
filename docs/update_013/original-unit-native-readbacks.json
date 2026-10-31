@@ -1,0 +1,2704 @@
+{
+  "schema": "korea.art013-unit-native-readback/v1",
+  "archive": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook-cargo-triangulated\\output\\extension\\k013\\k013.sga",
+  "archive_sha256": "61d4fb12de6076a3d02387db2fa624a40eca1069aa78c7f732fe7e70d025b3d1",
+  "archive_bytes": 16075418,
+  "namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "archive_integrity_passed": true,
+  "expected_assets": 72,
+  "completed": 72,
+  "assets": [
+    {
+      "asset": "kr_archer_a2",
+      "exit_code": 0,
+      "source_sha256": "e5b4a47fa59fdf12073680db72dfa2ccb32fa8fca5999ccd42da8e1040e1708a",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1444,
+        708,
+        271
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_archer_a2\\decoded\\54eb9b813042816f16f5\\decoded-static.json",
+      "manifest_sha256": "2a44834d5b4205fa3899c083bfcedba325a318a31662a9fa663196edff71697d",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1444,
+        708,
+        271
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1444,
+        708,
+        271
+      ]
+    },
+    {
+      "asset": "kr_archer_a3",
+      "exit_code": 0,
+      "source_sha256": "2432c1506d9918fe2fcb07e395e1973ce4581e4fa71e402b12abb56ce5e0a382",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1400,
+        711,
+        273
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_archer_a3\\decoded\\e877f1647a5c8f02bebb\\decoded-static.json",
+      "manifest_sha256": "e671b9a551119a56a31c22db3dadcbe049895c834156a65687c648a1df33d8ca",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1400,
+        711,
+        273
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1400,
+        711,
+        273
+      ]
+    },
+    {
+      "asset": "kr_archer_a4",
+      "exit_code": 0,
+      "source_sha256": "72bd0a915a42d589c0d218de9ec9c809b16223c96d60bc99d7cd59410d4cee68",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1354,
+        700,
+        281
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_archer_a4\\decoded\\a0914b7968c50b4d039a\\decoded-static.json",
+      "manifest_sha256": "1ed6f34f41b10e1089753b95cd1d0b9627c9d662dc296a0a58f29a160cb51b67",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1354,
+        700,
+        281
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1354,
+        700,
+        281
+      ]
+    },
+    {
+      "asset": "kr_crossbowman_a3",
+      "exit_code": 0,
+      "source_sha256": "b535ccb19f33bfa6f7c42d457a608b3689e024f267abff40a04d0da18ebcd48e",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1512,
+        710,
+        313
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_crossbowman_a3\\decoded\\12fff1cd25a786239842\\decoded-static.json",
+      "manifest_sha256": "c188949de6221b270669bf924306335a4aeb92c9b7a45a2818ddeb20db0204b0",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1512,
+        710,
+        313
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1512,
+        710,
+        313
+      ]
+    },
+    {
+      "asset": "kr_crossbowman_a4",
+      "exit_code": 0,
+      "source_sha256": "0e6c63898801f28643ee7f3aa8700ee65765e0fc92f1d7a12f63597b2548dcd4",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1609,
+        729,
+        351
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_crossbowman_a4\\decoded\\db3a81db6f4dc8047088\\decoded-static.json",
+      "manifest_sha256": "1d15da384362a895804f0bb7e85fb8176cf9da1236b821eefa40d6c9ffa96df7",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1609,
+        729,
+        351
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1609,
+        729,
+        351
+      ]
+    },
+    {
+      "asset": "kr_gapsa_a3",
+      "exit_code": 0,
+      "source_sha256": "147bd8507c9ec9e8e654b045fa4d14db163505d246dbd20fb0ead4c6172aab48",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1454,
+        630,
+        294
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_gapsa_a3\\decoded\\f8bf6e9506d6bae60bc3\\decoded-static.json",
+      "manifest_sha256": "343668096b3a4f78d9017fa1b401f98d85b764f06d5fce80123bee6c0f974397",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1454,
+        630,
+        294
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1454,
+        630,
+        294
+      ]
+    },
+    {
+      "asset": "kr_gapsa_a4",
+      "exit_code": 0,
+      "source_sha256": "71c3085a52b57e98e50ccf47ce695016ad01e0baa8d1c15b1776a38f09887cf2",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1584,
+        669,
+        339
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_gapsa_a4\\decoded\\fba490dd9ac8a7a8d04c\\decoded-static.json",
+      "manifest_sha256": "ca9e676a67f71412e54e6cd5cb761b7f7ef9e66db3205b443020832d8b1cdf7d",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1584,
+        669,
+        339
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1584,
+        669,
+        339
+      ]
+    },
+    {
+      "asset": "kr_handcannoneer_a4",
+      "exit_code": 0,
+      "source_sha256": "8b1ab53ec0ede713af7a80174a25f7b115681afa34c3c95cc2e582178a7f8c7d",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1408,
+        675,
+        292
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_handcannoneer_a4\\decoded\\90709a87344e2314f084\\decoded-static.json",
+      "manifest_sha256": "68ffe0e1a5569929fe1dbfa81c33f93a3089ca1ba103f91157379340b0bb5892",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1408,
+        675,
+        292
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1408,
+        675,
+        292
+      ]
+    },
+    {
+      "asset": "kr_horseman_a2",
+      "exit_code": 0,
+      "source_sha256": "70103e958a7094578e736f5b806c0600304b8df71770a09c5543f7dca1a6a1e3",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1443,
+        674,
+        284
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_horseman_a2\\decoded\\3a79ed6e4ae1abef930f\\decoded-static.json",
+      "manifest_sha256": "f7b8a2c5d5aa112ab97372764e5cd581aae98ba5d110bb275ecbc014bad28bb3",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1443,
+        674,
+        284
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1443,
+        674,
+        284
+      ]
+    },
+    {
+      "asset": "kr_horseman_a3",
+      "exit_code": 0,
+      "source_sha256": "5bcd34ac01bd39310be2252bfa4d4721feff7925029fe0e458e94342fbedfd7f",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1477,
+        696,
+        282
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_horseman_a3\\decoded\\ad93e601e80e22f8e59e\\decoded-static.json",
+      "manifest_sha256": "ced395932679f4772effee9089cb97fd7ca8992f3e88f7d2b9ddb319e0033766",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1477,
+        696,
+        282
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1477,
+        696,
+        282
+      ]
+    },
+    {
+      "asset": "kr_horseman_a4",
+      "exit_code": 0,
+      "source_sha256": "a52911dcc43f24e40979d24a8a300c48ee76bdccd3db40954a62f92bda110c67",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1645,
+        657,
+        306
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_horseman_a4\\decoded\\3a20693d26484d2ac15e\\decoded-static.json",
+      "manifest_sha256": "ff75bb3699187bf2ee463f57b789a9b8e7a22fead5a678ed7ab9da196bf03516",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1645,
+        657,
+        306
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1645,
+        657,
+        306
+      ]
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a2",
+      "exit_code": 0,
+      "source_sha256": "eed5fa78180e78d71aa9b3608ce3286cbd0a36662a32ce4870da4b5a67c1ccc4",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1528,
+        656,
+        294
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_hwarang_dismounted_a2\\decoded\\1fc61c56326a482b0ad0\\decoded-static.json",
+      "manifest_sha256": "5f6c3f70abe59f495f003951de1620042fef648643f14d9e44a86d4257fd6881",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1528,
+        656,
+        294
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1528,
+        656,
+        294
+      ]
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a3",
+      "exit_code": 0,
+      "source_sha256": "96fa52e4dc9d471b05aabc74505be81b6da22de5e390246be79ea30fe56c9663",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1558,
+        680,
+        306
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_hwarang_dismounted_a3\\decoded\\acc102cbf24d2085f661\\decoded-static.json",
+      "manifest_sha256": "649fee3b1afb81a5a68c7586f9a978ceac9aa27de4a50d3fc30f505220c25c99",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1558,
+        680,
+        306
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1558,
+        680,
+        306
+      ]
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a4",
+      "exit_code": 0,
+      "source_sha256": "91fa9305a63ec911a27254c661410514df7e36f4aca554a5a34fb80e1cf92721",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1608,
+        631,
+        325
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_hwarang_dismounted_a4\\decoded\\b18e7225dd9c99de602d\\decoded-static.json",
+      "manifest_sha256": "590343242feda9d07f1e0b356b75b01464b36a53c666895b796a4efa1191e9e5",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1608,
+        631,
+        325
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1608,
+        631,
+        325
+      ]
+    },
+    {
+      "asset": "kr_hwarang_mounted_a2",
+      "exit_code": 0,
+      "source_sha256": "dc12bb14a65f3fcd1856a15c1b603695074554e424b206a3c6f0ff2021ddf549",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1371,
+        648,
+        302
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_hwarang_mounted_a2\\decoded\\469a3eb811bd605605fc\\decoded-static.json",
+      "manifest_sha256": "eecc680cac5a9e581e3aa0bbe933e4d75790b4a0e92ef37d24e412f11df0e7c8",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1371,
+        648,
+        302
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1371,
+        648,
+        302
+      ]
+    },
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "exit_code": 0,
+      "source_sha256": "3979fe75e226ee6af331047d6da7ed6a850fc149bdd3ff2767673306752d300d",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1433,
+        693,
+        312
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\triangulated-readbacks\\kr_hwarang_mounted_a3\\decoded\\e4fcc9ad7e40f5afade1\\decoded-static.json",
+      "manifest_sha256": "8fe98300f3400a013ecff09bd66363eaefb917b8eb760ef714f927701c37e4da",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1433,
+        693,
+        312
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "previous_manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_hwarang_mounted_a3\\decoded\\399d9ce89a517aed1e44\\decoded-static.json",
+      "explicit_fbx_triangulation_fixed_native_geometry": true,
+      "native_mesh_part_triangles": [
+        1433,
+        693,
+        312
+      ]
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "exit_code": 0,
+      "source_sha256": "a22ab4406693c0c7751e5eb9b3084ef19f1ac99fd94eb4d0fa77be8aae3624bc",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1649,
+        661,
+        320
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\triangulated-readbacks\\kr_hwarang_mounted_a4\\decoded\\a7f5d3e23aa95663a756\\decoded-static.json",
+      "manifest_sha256": "501f787bbbdd0322da05528dcd3f070010b2a7281f37521382362e0321b5b180",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1649,
+        661,
+        320
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "previous_manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_hwarang_mounted_a4\\decoded\\a038fd7564cea05d0dad\\decoded-static.json",
+      "explicit_fbx_triangulation_fixed_native_geometry": true,
+      "native_mesh_part_triangles": [
+        1649,
+        661,
+        320
+      ]
+    },
+    {
+      "asset": "kr_lancer_a3",
+      "exit_code": 0,
+      "source_sha256": "4af1b638d1105816951d8f72d9a19eaf5479ae56c2e1b6e9aa6d357233c30b89",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1663,
+        683,
+        358
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_lancer_a3\\decoded\\7d7bf4e952d1f73ab39a\\decoded-static.json",
+      "manifest_sha256": "cf25a1e1f282a831ec85a82083cbfe5349e1eaccbe8d594e8083cc74b6a14161",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1663,
+        683,
+        358
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1663,
+        683,
+        358
+      ]
+    },
+    {
+      "asset": "kr_lancer_a4",
+      "exit_code": 0,
+      "source_sha256": "165fdb2de25d61d2e4c90f1d63395b8f89930a1b9942917ef340a5c50c7e1d4e",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1653,
+        588,
+        294
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_lancer_a4\\decoded\\0232dd0fbc919c84b50e\\decoded-static.json",
+      "manifest_sha256": "00d89ee21ac9e9608cd14cf398b6ec7bd84450b2075bf2fba39aef4f0e70836f",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1653,
+        588,
+        294
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1653,
+        588,
+        294
+      ]
+    },
+    {
+      "asset": "kr_monk_a3",
+      "exit_code": 0,
+      "source_sha256": "f4bdd165bdeb1ae0521e71ab5e16c3ed989f9f2f37d934b3db32547d13a6581c",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1324,
+        628,
+        363
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_monk_a3\\decoded\\612abf4229498c8a5c2e\\decoded-static.json",
+      "manifest_sha256": "c3ec60f0e20af506495fc644504d9b5fd6f83a72ec68cff079841a7b506e2a91",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1324,
+        628,
+        363
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1324,
+        628,
+        363
+      ]
+    },
+    {
+      "asset": "kr_monk_a4",
+      "exit_code": 0,
+      "source_sha256": "73cced70241dbe0acc35321cca9e9bd7e61abf9e635de3f5193378399acea45a",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1292,
+        644,
+        340
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_monk_a4\\decoded\\dfd268df5eba06ad8cc7\\decoded-static.json",
+      "manifest_sha256": "a212cdd1d9a6c2360b0d520f2ea81e511bdd953ba67ee0e03d4660eee1163974",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1292,
+        644,
+        340
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1292,
+        644,
+        340
+      ]
+    },
+    {
+      "asset": "kr_mount_horseman_a2",
+      "exit_code": 0,
+      "source_sha256": "84c5b6ff26aaeeab6740d41c608fe1df164c2e1c33c7710f5c134a139f5f4018",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        1848,
+        656,
+        224
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_horseman_a2\\decoded\\1928a5e9978414eca91c\\decoded-static.json",
+      "manifest_sha256": "77def50602130be0be2ab0496f9c91e5c2adbdea2584af1a00010e74fdaf2cf9",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        1848,
+        656,
+        224
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1593,
+        255,
+        656,
+        224
+      ]
+    },
+    {
+      "asset": "kr_mount_horseman_a3",
+      "exit_code": 0,
+      "source_sha256": "9f1d0c7585cd0f9c3e9fa70c65f156cc0116c149751b27ebc2382aeaebc5b949",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        2136,
+        741,
+        248
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_horseman_a3\\decoded\\0c42e627a23ae011085c\\decoded-static.json",
+      "manifest_sha256": "eef74581c93f23b3cf026e04300666ef5fd7e19c6b0b81bc8c107557735344ac",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        2136,
+        741,
+        248
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1637,
+        499,
+        741,
+        248
+      ]
+    },
+    {
+      "asset": "kr_mount_horseman_a4",
+      "exit_code": 0,
+      "source_sha256": "0104de90c163da68b6288409ade2c63bad0df9d2b9229c6c8ec2c28a0156a8f4",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        2314,
+        706,
+        262
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_horseman_a4\\decoded\\d6d2a76e4ac5dd2b4c34\\decoded-static.json",
+      "manifest_sha256": "2cab026007a24aa2991ce4a4413c3820472b9376f0924a565aa4fd762b07f809",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        2314,
+        706,
+        262
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1826,
+        488,
+        706,
+        262
+      ]
+    },
+    {
+      "asset": "kr_mount_hwarang_a2",
+      "exit_code": 0,
+      "source_sha256": "28b629010623b495de56e633cad6b8b282c3f273c6d36cc4cd6d36dce0c6a9cb",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        1848,
+        656,
+        224
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_hwarang_a2\\decoded\\3c27a78380227099a21f\\decoded-static.json",
+      "manifest_sha256": "0b142c058a7d0b478c8dcfc85a3dde0bde752ff75446f044632c9ce5dbfba646",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        1848,
+        656,
+        224
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1593,
+        255,
+        656,
+        224
+      ]
+    },
+    {
+      "asset": "kr_mount_hwarang_a3",
+      "exit_code": 0,
+      "source_sha256": "74078d711a0d6842b766f6e1d6e12bb45292099367b4086b5fa3ab169e3ccb4f",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        2136,
+        741,
+        248
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_hwarang_a3\\decoded\\147c72d734f6544f6eae\\decoded-static.json",
+      "manifest_sha256": "aceedfcd54492973b14b680bc234a0c9bb54025b11d11915ee7bd618ccc45ce3",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        2136,
+        741,
+        248
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1637,
+        499,
+        741,
+        248
+      ]
+    },
+    {
+      "asset": "kr_mount_hwarang_a4",
+      "exit_code": 0,
+      "source_sha256": "6170c8f5fa6ba91d1ab83b6c2562691970c082c27567be6b8650d8ff3c372a65",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        2314,
+        706,
+        262
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_hwarang_a4\\decoded\\c6962b9f0e53495a430f\\decoded-static.json",
+      "manifest_sha256": "55ca48d5180a49a894831654adbe02f3cc61f110615a019c8574c148790ec4fc",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        2314,
+        706,
+        262
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1826,
+        488,
+        706,
+        262
+      ]
+    },
+    {
+      "asset": "kr_mount_lancer_a3",
+      "exit_code": 0,
+      "source_sha256": "944d43bb6d8686252f33be3770ce039ea855c7cb865e869571a14582b982e6fb",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        2223,
+        744,
+        308
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_lancer_a3\\decoded\\d7caab042092578a4fb3\\decoded-static.json",
+      "manifest_sha256": "faad97c2b4b1aede9fb21648b5648a75e17948bc4351164c39f475ad06f35bc9",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        2223,
+        744,
+        308
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1717,
+        506,
+        744,
+        308
+      ]
+    },
+    {
+      "asset": "kr_mount_lancer_a4",
+      "exit_code": 0,
+      "source_sha256": "4d1f6b80cc06b49d64d45c4f661b12df41e830005c890f5cfcef8ecf21421b81",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        3000,
+        704,
+        338
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_lancer_a4\\decoded\\50b33b5c8a87c0146043\\decoded-static.json",
+      "manifest_sha256": "c8454212892a1da35dc2ab1d6ebf8a6b8a3a4ce0425042ccd4cd1e162a3a31e4",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        3000,
+        704,
+        338
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        2290,
+        710,
+        704,
+        338
+      ]
+    },
+    {
+      "asset": "kr_mount_scout_a1",
+      "exit_code": 0,
+      "source_sha256": "2a7e5a588633900bc61d629636138248727e0af6cfcb1ca8841b248182f4683f",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        1920,
+        672,
+        232
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_scout_a1\\decoded\\218dd8b9bd85fe7d88da\\decoded-static.json",
+      "manifest_sha256": "84da9f810958bc930b7a036f39b7ee47592178325bd5fd410b7b9a3f8bf7304a",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        1920,
+        672,
+        232
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1665,
+        255,
+        672,
+        232
+      ]
+    },
+    {
+      "asset": "kr_mount_scout_a2",
+      "exit_code": 0,
+      "source_sha256": "5c06b05e5d62ff3fdd3754656f88a93133b3a05e66493e8a7297e6745f900c11",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        1920,
+        672,
+        232
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_scout_a2\\decoded\\f38d329279e235273dc3\\decoded-static.json",
+      "manifest_sha256": "12f3fee85179a34f6403c42d6143c9ca7d97476234cedc289c81d707de46aa61",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        1920,
+        672,
+        232
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1665,
+        255,
+        672,
+        232
+      ]
+    },
+    {
+      "asset": "kr_mount_scout_a3",
+      "exit_code": 0,
+      "source_sha256": "b644870d44f5dec51ebcf987caaf51c25400c66aa5eb096965d1c46f6000d1eb",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        1920,
+        672,
+        232
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_scout_a3\\decoded\\f3d9156888736f1c4ecf\\decoded-static.json",
+      "manifest_sha256": "916793b694f4787e56276a5a14d6d65f19769c1e96a468ea01d3cace8758df7c",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        1920,
+        672,
+        232
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1665,
+        255,
+        672,
+        232
+      ]
+    },
+    {
+      "asset": "kr_mount_scout_a4",
+      "exit_code": 0,
+      "source_sha256": "64121d85a2adfe70687fe29231b68efe780a8ec7932fcb4c6f8aece195814167",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        1920,
+        672,
+        232
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_scout_a4\\decoded\\2538035abbbe342eb544\\decoded-static.json",
+      "manifest_sha256": "514bf2d55abde482a9712a989031635edf3913772116cd57a907d945187f9bc1",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        1920,
+        672,
+        232
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1665,
+        255,
+        672,
+        232
+      ]
+    },
+    {
+      "asset": "kr_mount_trader_a2",
+      "exit_code": 0,
+      "source_sha256": "99549fa1324a1b3125f14a5a3ed91f37eb7c4ba82c66cd4439144a6e47173885",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        2226,
+        761,
+        294
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_trader_a2\\decoded\\09bd72e7854497a5a37a\\decoded-static.json",
+      "manifest_sha256": "0ba71696afeed9b66cb59e38db5edc45c3a317bd51ac9711df676912c43b000c",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        2226,
+        761,
+        294
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1663,
+        563,
+        761,
+        294
+      ]
+    },
+    {
+      "asset": "kr_mount_trader_a3",
+      "exit_code": 0,
+      "source_sha256": "9bb0701ea370a87f83590d7eff2d1072428906ccc916ef6dfdbc881daea3d9b6",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        2256,
+        769,
+        298
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_trader_a3\\decoded\\12e587b314957818844a\\decoded-static.json",
+      "manifest_sha256": "9ad3abf127adfd3e885eb688a1031bc34d38fab811ea683ddf34e086142190bf",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        2256,
+        769,
+        298
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1693,
+        563,
+        769,
+        298
+      ]
+    },
+    {
+      "asset": "kr_mount_trader_a4",
+      "exit_code": 0,
+      "source_sha256": "f71295538661fa157fef8eab3a104f1cadd581da2356fa349213391558420a8c",
+      "expected_bones": 86,
+      "expected_lod_triangles": [
+        2310,
+        809,
+        468
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_mount_trader_a4\\decoded\\e3ae61e0434577c3f8a7\\decoded-static.json",
+      "manifest_sha256": "2fa63f363c9cce000fe668fd53f9e61b8b023630afee05dca52cc27f1bb7dedb",
+      "native_bones": 86,
+      "native_lod_triangles": [
+        2310,
+        809,
+        468
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1751,
+        559,
+        809,
+        468
+      ]
+    },
+    {
+      "asset": "kr_righteous_army_monk_a3",
+      "exit_code": 0,
+      "source_sha256": "82e5f47c4cec4e07d7771f7477d4744bc4457c448a1ff91377dd6c20278853f1",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1380,
+        642,
+        363
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_righteous_army_monk_a3\\decoded\\d3d63a1887b443756b70\\decoded-static.json",
+      "manifest_sha256": "1831aa7a841d1cadcdffa1c32ae860bfe4df0bf84aeb625c0d749bc0b428c911",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1380,
+        642,
+        363
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1380,
+        642,
+        363
+      ]
+    },
+    {
+      "asset": "kr_righteous_army_monk_a4",
+      "exit_code": 0,
+      "source_sha256": "a376adaa04da3d22a70cbf8d635b130e0d350347abf32d8643797e140a7a3a06",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1324,
+        654,
+        346
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_righteous_army_monk_a4\\decoded\\043d9649675604f9d2e0\\decoded-static.json",
+      "manifest_sha256": "460869416c4ee441b7eeea782133f159e380592b3688cf598e790dad7927eb86",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1324,
+        654,
+        346
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1324,
+        654,
+        346
+      ]
+    },
+    {
+      "asset": "kr_scout_a1",
+      "exit_code": 0,
+      "source_sha256": "c925aa3c08a317ea8f23b00314130c118b519140885967224b1251b63702c795",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1430,
+        605,
+        260
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_scout_a1\\decoded\\d77e3dc64635f1269c9d\\decoded-static.json",
+      "manifest_sha256": "6aa2a24c61ab3f765e0bf3ccd302519263f63b280794d475ef564bea72bdcad9",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1430,
+        605,
+        260
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1430,
+        605,
+        260
+      ]
+    },
+    {
+      "asset": "kr_scout_a2",
+      "exit_code": 0,
+      "source_sha256": "f6dbd6b57236caf91ec86ab59d4ef1040e020da3091d99ad7932ca77f300f4c7",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1501,
+        662,
+        274
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_scout_a2\\decoded\\f4471c4884d1e0013bec\\decoded-static.json",
+      "manifest_sha256": "220364f6389f9d1458df1242696862153c12ec2136d4456345307795161e3c90",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1501,
+        662,
+        274
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1501,
+        662,
+        274
+      ]
+    },
+    {
+      "asset": "kr_scout_a3",
+      "exit_code": 0,
+      "source_sha256": "9b45be0df4d40f1618f38ace7864e6c5cb1a1ca1092ec1f795ae31180982cc07",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1603,
+        660,
+        312
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_scout_a3\\decoded\\e0f6bb37a43dc39301b6\\decoded-static.json",
+      "manifest_sha256": "1264be434756d1859a30c8d570b530fc75aab6ad44070b6fba7d3c8248824fa1",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1603,
+        660,
+        312
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1603,
+        660,
+        312
+      ]
+    },
+    {
+      "asset": "kr_scout_a4",
+      "exit_code": 0,
+      "source_sha256": "cfc36df3621c316f6a38a8428fd9702de479b4a7257515399e6e79f7f628d526",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1642,
+        676,
+        312
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_scout_a4\\decoded\\2f09b78426f436f9c8ea\\decoded-static.json",
+      "manifest_sha256": "4d0a947518e7918416a39cbbcec11a632307033e975cc5345715c3dc1239ef80",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1642,
+        676,
+        312
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1642,
+        676,
+        312
+      ]
+    },
+    {
+      "asset": "kr_scout_female_a1",
+      "exit_code": 0,
+      "source_sha256": "279475f8da7edf73db642ae81fb1862da73ad5ee9a8b7d9d52051f75657e057a",
+      "expected_bones": 71,
+      "expected_lod_triangles": [
+        1429,
+        595,
+        278
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_scout_female_a1\\decoded\\a295a1bccd3e5c0a67e0\\decoded-static.json",
+      "manifest_sha256": "76289eae8e5ee6fdd63b6da9a5eb2f3f5ec1a3e1c0da3a573722f315b4ff362c",
+      "native_bones": 71,
+      "native_lod_triangles": [
+        1429,
+        595,
+        278
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1429,
+        595,
+        278
+      ]
+    },
+    {
+      "asset": "kr_scout_female_a2",
+      "exit_code": 0,
+      "source_sha256": "4613279bc69f56e3a6e51d464dc8ff4ada915bbf09059d8101e24bf9110d9da9",
+      "expected_bones": 71,
+      "expected_lod_triangles": [
+        1545,
+        678,
+        289
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_scout_female_a2\\decoded\\34f8207dd38abfa6a31e\\decoded-static.json",
+      "manifest_sha256": "42255367a3a684cc52b676ca79a8a6c17cb16dddaae050acdf43d94fd0441da6",
+      "native_bones": 71,
+      "native_lod_triangles": [
+        1545,
+        678,
+        289
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1545,
+        678,
+        289
+      ]
+    },
+    {
+      "asset": "kr_scout_female_a3",
+      "exit_code": 0,
+      "source_sha256": "ba9268e1a2bcc7fd9e2c43885393189d677371854213ce31c372a1d673b34c46",
+      "expected_bones": 71,
+      "expected_lod_triangles": [
+        1651,
+        688,
+        329
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_scout_female_a3\\decoded\\b0ed4a4a4539901b4a1f\\decoded-static.json",
+      "manifest_sha256": "d5ac1d78dce0cbb7193331e236d6f9920bec872efe75122751706a21e0d96266",
+      "native_bones": 71,
+      "native_lod_triangles": [
+        1651,
+        688,
+        329
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1651,
+        688,
+        329
+      ]
+    },
+    {
+      "asset": "kr_scout_female_a4",
+      "exit_code": 0,
+      "source_sha256": "461e8024a825c3d62154a2e397bce04b0b08c891a5f00c114837d884a9d3a9ff",
+      "expected_bones": 71,
+      "expected_lod_triangles": [
+        1651,
+        688,
+        329
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_scout_female_a4\\decoded\\3cde447b906c949deeed\\decoded-static.json",
+      "manifest_sha256": "472b0cce873332c41dbd6ae32427fcedf59b96da69962037bd784905058d61e5",
+      "native_bones": 71,
+      "native_lod_triangles": [
+        1651,
+        688,
+        329
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1651,
+        688,
+        329
+      ]
+    },
+    {
+      "asset": "kr_seonbi_a1",
+      "exit_code": 0,
+      "source_sha256": "f694d6d7338bd9988e466e9fff8e341830e4f2c9afdaf7a899a3b3db70585334",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1372,
+        626,
+        300
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_seonbi_a1\\decoded\\8975eb6a1616d2f2db6f\\decoded-static.json",
+      "manifest_sha256": "c45fa812933b1b54b0120bd3effd21023507b6790140932381da317b1f28897e",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1372,
+        626,
+        300
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1372,
+        626,
+        300
+      ]
+    },
+    {
+      "asset": "kr_seonbi_a3",
+      "exit_code": 0,
+      "source_sha256": "a772354d9dad44bd10a0419da6b07f616b1e30027ee028f1bfbb3e5cb952bcb9",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1388,
+        635,
+        299
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_seonbi_a3\\decoded\\a208e24b5fb145d706ca\\decoded-static.json",
+      "manifest_sha256": "2343b1a8160d468b5b2e42a81391fe1e0a8ff36a3d85748c3faf0056a437f602",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1388,
+        635,
+        299
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1388,
+        635,
+        299
+      ]
+    },
+    {
+      "asset": "kr_spearman_a1",
+      "exit_code": 0,
+      "source_sha256": "d991fdeddffe7fa3c4a882ef9930a61bbd6223efe5e6d82707e3dd42d172a2bd",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1358,
+        676,
+        260
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_spearman_a1\\decoded\\1482fb350e78a7ca37d6\\decoded-static.json",
+      "manifest_sha256": "fa3fb3771cfdfd4541a96457631e24b430b288c1961a91b81e053f2c87586e20",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1358,
+        676,
+        260
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1358,
+        676,
+        260
+      ]
+    },
+    {
+      "asset": "kr_spearman_a2",
+      "exit_code": 0,
+      "source_sha256": "20c1193d79af05fc8f86935eb972bd0c372af4f47552d10625af61133a6fe2ea",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1386,
+        646,
+        264
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_spearman_a2\\decoded\\08cdc02594da93303627\\decoded-static.json",
+      "manifest_sha256": "6e21da66309f933a859b8b7d3a25e262735013ef5252bd62b1c91215c084f669",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1386,
+        646,
+        264
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1386,
+        646,
+        264
+      ]
+    },
+    {
+      "asset": "kr_spearman_a3",
+      "exit_code": 0,
+      "source_sha256": "b0948c93cfdfeb51e33033e8c5247946f31404d7c177d94465071b291981bde7",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1344,
+        588,
+        289
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_spearman_a3\\decoded\\cda00e25df5d13f04035\\decoded-static.json",
+      "manifest_sha256": "c54b5f9a143108cedc16b3dbf1e0d499e582117f8560eba254a24fc9640d2272",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1344,
+        588,
+        289
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1344,
+        588,
+        289
+      ]
+    },
+    {
+      "asset": "kr_spearman_a4",
+      "exit_code": 0,
+      "source_sha256": "4de48dfa20c56925966c3ada36779c118b65f2437be8127240abd9b9014edb5b",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1385,
+        628,
+        286
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_spearman_a4\\decoded\\926d93310ff00c610cd5\\decoded-static.json",
+      "manifest_sha256": "298a09bbf994c72804e95b6da2489456c0b046278e6802e9a051488164dfd9ca",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1385,
+        628,
+        286
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1385,
+        628,
+        286
+      ]
+    },
+    {
+      "asset": "kr_tiger_hunter_a2",
+      "exit_code": 0,
+      "source_sha256": "bfec698b944c7e4a9efe2e3e3884d6e31b286863a7e19691635a584a3568dd9c",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1474,
+        646,
+        308
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_tiger_hunter_a2\\decoded\\03509f275e6b9d842ea7\\decoded-static.json",
+      "manifest_sha256": "8968c7cdcc7305a4ef31af4d6b2f604dbe16de90d2895c2a7df2c09b7ba4eda9",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1474,
+        646,
+        308
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1474,
+        646,
+        308
+      ]
+    },
+    {
+      "asset": "kr_tiger_hunter_a3",
+      "exit_code": 0,
+      "source_sha256": "112097ba6e622a305a7bec45677072ad658dcf5fff5b032c81850be7a4e53910",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1474,
+        646,
+        308
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_tiger_hunter_a3\\decoded\\8a9369e5e6253d795aa8\\decoded-static.json",
+      "manifest_sha256": "0d88a807c9a2bf9c206c3632b0aa73cafa3d97fc9c1e24a7c25ac7e79e2a5943",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1474,
+        646,
+        308
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1474,
+        646,
+        308
+      ]
+    },
+    {
+      "asset": "kr_tiger_hunter_a4",
+      "exit_code": 0,
+      "source_sha256": "d3789d30c6e7d05141a8bd3611f94c9d8b785136d89f07426218aaf4edede828",
+      "expected_bones": 48,
+      "expected_lod_triangles": [
+        1608,
+        685,
+        353
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_tiger_hunter_a4\\decoded\\6251f52974fe624b9781\\decoded-static.json",
+      "manifest_sha256": "3cdaf5b10a19b1059ac4656e7989ac1261fa0723bc748702e7c7c43688317f20",
+      "native_bones": 48,
+      "native_lod_triangles": [
+        1608,
+        685,
+        353
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1608,
+        685,
+        353
+      ]
+    },
+    {
+      "asset": "kr_trade_cargo_a2",
+      "exit_code": 0,
+      "source_sha256": "b50b286ac41fe3af86f42dd9e79ec1e196964eca2de3fbf0bf3d812e87990c2f",
+      "expected_bones": 120,
+      "expected_lod_triangles": [
+        1925,
+        790,
+        308
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trade_cargo_a2\\decoded\\37ca717579e90c0f03f3\\decoded-static.json",
+      "manifest_sha256": "d778681caa646b7e782b0494636669ae6a1af4666e57e0d351ebfc40b9023803",
+      "native_bones": 120,
+      "native_lod_triangles": [
+        1925,
+        790,
+        308
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1925,
+        790,
+        308
+      ]
+    },
+    {
+      "asset": "kr_trade_cargo_a3",
+      "exit_code": 0,
+      "source_sha256": "50d11a2b914d2ad10176fded191232b4491f312d4c41e942c7145483580e8783",
+      "expected_bones": 120,
+      "expected_lod_triangles": [
+        2095,
+        850,
+        342
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trade_cargo_a3\\decoded\\50f8eb858398a9fc6179\\decoded-static.json",
+      "manifest_sha256": "f329cff41ec4ef09dd39036d4211c19b38d1599470fb2393564cd36b51518eaa",
+      "native_bones": 120,
+      "native_lod_triangles": [
+        2095,
+        850,
+        342
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        2095,
+        850,
+        342
+      ]
+    },
+    {
+      "asset": "kr_trade_cargo_a4",
+      "exit_code": 0,
+      "source_sha256": "97a1baa5fcf4a8feedfa75e40c121fe0886f4104010356825163920cb92224d7",
+      "expected_bones": 120,
+      "expected_lod_triangles": [
+        2697,
+        1078,
+        500
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\cargo-triangulated-readback\\decoded\\29cb8f16eae4f785dc99\\decoded-static.json",
+      "manifest_sha256": "59b2a22b2dfdc2679a5dbcc859ab74e5f4ee9691ba448de6bcb9cb83c2ef91a5",
+      "native_bones": 120,
+      "native_lod_triangles": [
+        2697,
+        1078,
+        500
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        2697,
+        1078,
+        500
+      ],
+      "previous_manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trade_cargo_a4\\decoded\\64e2890a83f9627067e9\\decoded-static.json",
+      "explicit_fbx_triangulation_for_uv": true
+    },
+    {
+      "asset": "kr_trader_a2",
+      "exit_code": 0,
+      "source_sha256": "f14d3b0b595903774896ca0efd506229050a91d9d2311e41a3620290853593db",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1362,
+        606,
+        250
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trader_a2\\decoded\\04208139e80534515066\\decoded-static.json",
+      "manifest_sha256": "0ab7a0c092d9ce01884ae85dde4764356b061f379f2ad7f3601fd8dfa68248c9",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1362,
+        606,
+        250
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1362,
+        606,
+        250
+      ]
+    },
+    {
+      "asset": "kr_trader_a3",
+      "exit_code": 0,
+      "source_sha256": "eae2bbb81f46c50f1925b0fd8c2f37aba97150905b1b1d7cab49fb603f7613ae",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1409,
+        638,
+        278
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trader_a3\\decoded\\bbb9235a22e5b76a8bee\\decoded-static.json",
+      "manifest_sha256": "be0d32f65b450d789232a4018ec79f32603a071ed0fab0e751fd41e30edc8ede",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1409,
+        638,
+        278
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1409,
+        638,
+        278
+      ]
+    },
+    {
+      "asset": "kr_trader_a4",
+      "exit_code": 0,
+      "source_sha256": "77755cc6ca443c9c9d78cc26636d6e4fbfb2841de7234141c074c3b5db4784f9",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1482,
+        696,
+        300
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trader_a4\\decoded\\0e0cfd1742bcec0474c7\\decoded-static.json",
+      "manifest_sha256": "63a0cf99f8144752e8568e7bac1c4fc9177f3acc6e0ad59417770ea3ab2918c8",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1482,
+        696,
+        300
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1482,
+        696,
+        300
+      ]
+    },
+    {
+      "asset": "kr_trader_female_a2",
+      "exit_code": 0,
+      "source_sha256": "23c4dfc20d89277af40eb48215e79f86e6484041b7325a0256f4fc468d6fa5c9",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1504,
+        572,
+        288
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trader_female_a2\\decoded\\62de6ab677e177212da6\\decoded-static.json",
+      "manifest_sha256": "9cacbfb946bbafe5c72121e72bd0f1a6fbbcb77efc04142117c4f40fbbaec564",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1504,
+        572,
+        288
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1504,
+        572,
+        288
+      ]
+    },
+    {
+      "asset": "kr_trader_female_a3",
+      "exit_code": 0,
+      "source_sha256": "50276c6e7fbc7e4db09f80fdd3ba08763fb101952e311859a58d5d7b18573336",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1435,
+        616,
+        263
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trader_female_a3\\decoded\\f82905a4ae2aa52b6e96\\decoded-static.json",
+      "manifest_sha256": "850c27af5b2fb603d55fe0a676b0ee2f774b91eeaa5db9985343634e564482b5",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1435,
+        616,
+        263
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1435,
+        616,
+        263
+      ]
+    },
+    {
+      "asset": "kr_trader_female_a4",
+      "exit_code": 0,
+      "source_sha256": "a6697afb5f62885ef4e4fe3a05f7217af39e3dc04109859d953c712d06268818",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1509,
+        656,
+        284
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_trader_female_a4\\decoded\\fc5b209dfbc767e729a6\\decoded-static.json",
+      "manifest_sha256": "ccbf7410f8879482b09fa9756a07f6a6fbe3d927a2c8b26c7111fd05ea8e3088",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1509,
+        656,
+        284
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1509,
+        656,
+        284
+      ]
+    },
+    {
+      "asset": "kr_villager_female_a1",
+      "exit_code": 0,
+      "source_sha256": "b2bbd4e0de6ab0e5f426840dbd3024a924168807510f6490ca12477dab418151",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1226,
+        522,
+        258
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_villager_female_a1\\decoded\\4c5121d6564bfb19c797\\decoded-static.json",
+      "manifest_sha256": "42110715e98f80079c226bd189257387b64a3c0a010fbe20e22a85ce6c496d4d",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1226,
+        522,
+        258
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1226,
+        522,
+        258
+      ]
+    },
+    {
+      "asset": "kr_villager_female_a2",
+      "exit_code": 0,
+      "source_sha256": "78e52da21d7412ec323593efedcb71936f72f63d0f014c055df13168b55797f3",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1226,
+        522,
+        258
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_villager_female_a2\\decoded\\9bcfffecd3dc3e55ec53\\decoded-static.json",
+      "manifest_sha256": "d6ecf61b8749985366842960ca392a13e5d03e54f7f2ec02faee5e384d9b0f0c",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1226,
+        522,
+        258
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1226,
+        522,
+        258
+      ]
+    },
+    {
+      "asset": "kr_villager_female_a3",
+      "exit_code": 0,
+      "source_sha256": "411c170e7d68c767e5f03385216f5b50a55a16444c2fb1883f93ea5e5754c599",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1313,
+        592,
+        239
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_villager_female_a3\\decoded\\87dff04487d3cdc86601\\decoded-static.json",
+      "manifest_sha256": "5e39d860e23660d18d796fa747aae02c2eb0fbba2448f26199765ff77fb232c7",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1313,
+        592,
+        239
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1313,
+        592,
+        239
+      ]
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "exit_code": 0,
+      "source_sha256": "d0827522f6331347c13a2bc4485e9aade5457dd12720bebc88f1df600b86b645",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1395,
+        632,
+        260
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\triangulated-readbacks\\kr_villager_female_a4\\decoded\\0dfcb4d38d33a39fe999\\decoded-static.json",
+      "manifest_sha256": "893cf18c33a061c5c398949b535a3f24fa43bc6ce9c06e93b4a37df8f7122890",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1395,
+        632,
+        260
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "previous_manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_villager_female_a4\\decoded\\9dce34ac198691343b98\\decoded-static.json",
+      "explicit_fbx_triangulation_fixed_native_geometry": true,
+      "native_mesh_part_triangles": [
+        1395,
+        632,
+        260
+      ]
+    },
+    {
+      "asset": "kr_villager_male_a1",
+      "exit_code": 0,
+      "source_sha256": "af04fafef851e14d7dca3ed27a901a4e522a8507d71974c792b3770628468543",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1362,
+        606,
+        250
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_villager_male_a1\\decoded\\14118fe517c2b9beb058\\decoded-static.json",
+      "manifest_sha256": "96264e34235d03eb13e4bf61da257b8c70b8ae651b4eda75b278e1b83393a230",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1362,
+        606,
+        250
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1362,
+        606,
+        250
+      ]
+    },
+    {
+      "asset": "kr_villager_male_a2",
+      "exit_code": 0,
+      "source_sha256": "a61c1189f18de9676932d64a587bec66d3f3516662f29617341cac6aff637aaf",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1362,
+        606,
+        250
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_villager_male_a2\\decoded\\df20e31b80e1584bd7a7\\decoded-static.json",
+      "manifest_sha256": "6b7412ccd8aee6e5a266c32ccde9cb84182f176f202eba43477c0aa9d913ae82",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1362,
+        606,
+        250
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1362,
+        606,
+        250
+      ]
+    },
+    {
+      "asset": "kr_villager_male_a3",
+      "exit_code": 0,
+      "source_sha256": "770c68d775c3e0779adc716954a811f11b65b1d7c5f19cf9f9feadb0ed1edb61",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1438,
+        638,
+        278
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_villager_male_a3\\decoded\\d4950a627d8764bec304\\decoded-static.json",
+      "manifest_sha256": "46bbe0bb18abe86ead3550a4fba99d96e29a4c085abf04675156f29ebcea2271",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1438,
+        638,
+        278
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1438,
+        638,
+        278
+      ]
+    },
+    {
+      "asset": "kr_villager_male_a4",
+      "exit_code": 0,
+      "source_sha256": "65ff17cad99abc0f09663df0ff8e454c39dab1ff222d5bcb4e610fcc04851fee",
+      "expected_bones": 73,
+      "expected_lod_triangles": [
+        1482,
+        712,
+        308
+      ],
+      "manifest": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-readbacks\\kr_villager_male_a4\\decoded\\42f6d91f855dcf2715ff\\decoded-static.json",
+      "manifest_sha256": "88e04f1a3741592e6212f4b1a93331803f19fb73f2a58e3f037b61d55933a36f",
+      "native_bones": 73,
+      "native_lod_triangles": [
+        1482,
+        712,
+        308
+      ],
+      "blockers": [],
+      "warnings": [],
+      "completeness": {
+        "status": "complete",
+        "decoded_textures": 4,
+        "unsupported_textures": 0,
+        "missing_texture_references": 0,
+        "non_file_texture_sentinels": 1,
+        "rig_projection_status": "complete",
+        "unresolved_rig_groups": 0,
+        "animation_projection_status": "binding_plan_not_attached"
+      },
+      "basic_native_contract_passed": true,
+      "native_mesh_part_triangles": [
+        1482,
+        712,
+        308
+      ]
+    }
+  ],
+  "source_corner_comparisons": "pending",
+  "elapsed_seconds": 99.91,
+  "original_archive_before_triangulation": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\unit-model-cook\\output\\extension\\k013\\k013.sga",
+  "mesh_parts_grouped_by": "decoded native rig_projection.lod_palette.name",
+  "status": "all_72_native_skeleton_lod_texture_contracts_passed"
+}

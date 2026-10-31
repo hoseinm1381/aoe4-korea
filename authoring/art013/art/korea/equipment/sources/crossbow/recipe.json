@@ -1,0 +1,23 @@
+{
+  "id": "crossbow",
+  "donor": "art/civilizations/common/weapons/ranged/bow_cross/bow_cross.rgm",
+  "kind": "crossbow",
+  "design": "Wooden crossbow with iron working parts and textile stock binding; no repeating-magazine substitution",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\crossbow\\43c289f454091c6e7ab3\\decoded-static.json",
+  "manifest_sha256": "b62a2d94f5818e8b8b87c7f5008357cb687f02988aa84060a24c3648f5236df5",
+  "bounds": {
+    "min": [
+      -0.62841796875,
+      -0.49560546875,
+      -0.099853515625
+    ],
+    "max": [
+      0.662109375,
+      0.4970703125,
+      0.12481689453125
+    ]
+  },
+  "native_triangles": 818,
+  "bones": 5
+}

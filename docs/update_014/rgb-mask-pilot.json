@@ -1,0 +1,118 @@
+{
+  "asset": "kr_archer_a2",
+  "native": {
+    "schema": "garrison.decoded-rrtex/v1",
+    "source": {
+      "path": "F:\\aoe_4_temp\\Temp_aoe4\\cooked014\\art\\kr014\\patterns\\d0c131f1e45aa3d59db176207e8fc19a33c7de0b4df9589f0d301ebb06b56a5b.rrtex",
+      "size": 7384,
+      "sha256": "1ce43610034fac7aba6eaa989a67622c4d9aa50ba6813c28d679693bd2ed565e"
+    },
+    "texture_name": "art/kr014/patterns/d0c131f1e45aa3d59db176207e8fc19a33c7de0b4df9589f0d301ebb06b56a5b",
+    "width": 512,
+    "height": 512,
+    "depth": 1,
+    "texture_type": 2,
+    "internal_format": 22,
+    "manifest_version": 6,
+    "stream_version": 6,
+    "container": "DXTC/TMAN/TDAT",
+    "stream_validation": "validated",
+    "colour_space_confidence": "edf_and_format_qualified",
+    "mip_count": 10,
+    "mips": [
+      {
+        "level": 0,
+        "width": 512,
+        "height": 512,
+        "size": 262144,
+        "source_encoding": "zlib+5-members",
+        "sha256": "fd91fd28e2571bd0cb55bbd2caf2b0e48d7dccafcfe36fd36c9c48da24ae2e24"
+      },
+      {
+        "level": 1,
+        "width": 256,
+        "height": 256,
+        "size": 65536,
+        "source_encoding": "zlib+2-members",
+        "sha256": "9c01c10e77214a782bed00d073b939a9a69d4a4d53e88f48b7bc59e870abff72"
+      },
+      {
+        "level": 2,
+        "width": 128,
+        "height": 128,
+        "size": 16384,
+        "source_encoding": "zlib",
+        "sha256": "2a269517acfea41024eb23c8e6b492ef374120da09944769e50e3c0f26864414"
+      },
+      {
+        "level": 3,
+        "width": 64,
+        "height": 64,
+        "size": 4096,
+        "source_encoding": "zlib",
+        "sha256": "3383aa4bbeeba03073ad746a8d494125ad6b9767b21ec47fcbeb17469b2f3179"
+      },
+      {
+        "level": 4,
+        "width": 32,
+        "height": 32,
+        "size": 1024,
+        "source_encoding": "zlib",
+        "sha256": "032d01518d5f1090b5202aba8fd10260be3cdc3b8851b7ab263c3fb4f9858219"
+      },
+      {
+        "level": 5,
+        "width": 16,
+        "height": 16,
+        "size": 256,
+        "source_encoding": "zlib",
+        "sha256": "83bab129e088e5c4c9b684abd6199ba344b755ea8909e27b60c00f544f81a566"
+      },
+      {
+        "level": 6,
+        "width": 8,
+        "height": 8,
+        "size": 64,
+        "source_encoding": "zlib",
+        "sha256": "7860e5d86c3488c1c89258b40c360cd9880517089e927e85e59f16d72774c67f"
+      },
+      {
+        "level": 7,
+        "width": 4,
+        "height": 4,
+        "size": 16,
+        "source_encoding": "zlib",
+        "sha256": "0cbf0cd19671dbd498a8a1e0e7c739bb6f3407bea8da7f746b3cea42f8a16703"
+      },
+      {
+        "level": 8,
+        "width": 2,
+        "height": 2,
+        "size": 16,
+        "source_encoding": "zlib",
+        "sha256": "2cb7ef7d8cb32935f745a1fa47e29e55fe497c77003606d86ef2346007980cfe"
+      },
+      {
+        "level": 9,
+        "width": 1,
+        "height": 1,
+        "size": 16,
+        "source_encoding": "zlib",
+        "sha256": "2c38b9d3e0a7cb7d51f9cd49e4857df4045d9445de713c67098bb1b764ca6f8c"
+      }
+    ],
+    "projection": {
+      "path": "F:\\aoe_4_temp\\Temp_aoe4\\rgb-mask.dds",
+      "format": "BC3_UNORM",
+      "dxgi_format": 77,
+      "size": 349680,
+      "sha256": "2d4ca74cea78d613eba2d0e49f0f1169bf94b8c23fe472f5be4ba63c09c0f4bc"
+    }
+  },
+  "rgba_average": [
+    3.5894393920898438,
+    13.937519073486328,
+    4.0533447265625,
+    255.0
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "family": "house",
+  "age": 2,
+  "variant": "c",
+  "recipe": {
+    "roof_rise_scale": 0.78,
+    "eave_spread": 0.06,
+    "tip_calm": 0.1,
+    "direction": "Lower choga/giwajip mass; wider quiet eaves; stock household yard and age progression retained."
+  },
+  "anchors": {
+    "has_roof": true,
+    "eave_z": 1.80859375,
+    "center": [
+      0.248046875,
+      -0.0556640625,
+      1.80859375
+    ],
+    "half_xy": [
+      1.935546875,
+      2.4990234375
+    ],
+    "rise": 1.837890625
+  },
+  "anatomy": [
+    "native footprint and base",
+    "native timber frame and functional yard",
+    "Korean low broad roof envelope",
+    "stone/timber connection seats",
+    "existing construction and damage fragments",
+    "native team-colour and texture masks"
+  ],
+  "source_manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\buildings\\donors\\housec02\\7edd7770e734a414ea2d\\decoded-static.json"
+}

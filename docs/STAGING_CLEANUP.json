@@ -1,42 +1,27 @@
 {
   "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "mode": "applied",
   "targets": [
     {
       "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current\\prepared",
-      "files": 386,
-      "logical_bytes": 11421759
+      "files": 495,
+      "logical_bytes": 12387001
     },
     {
       "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current\\delivery",
-      "files": 6,
-      "logical_bytes": 23294336
+      "files": 5,
+      "logical_bytes": 357088819
     },
     {
-      "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\current",
-      "files": 1375,
-      "logical_bytes": 90503391
-    },
-    {
-      "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\package-current",
-      "files": 4,
-      "logical_bytes": 14509413
-    },
-    {
-      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\tools\\__pycache__",
-      "files": 3,
-      "logical_bytes": 45122
-    },
-    {
-      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\tests\\__pycache__",
-      "files": 3,
-      "logical_bytes": 28648
+      "path": "F:\\aoe_4_temp\\Temp_aoe4\\k16\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\art016-current",
+      "files": 3576,
+      "logical_bytes": 1234757976
     }
   ],
-  "logical_bytes": 139802669,
-  "zip_sha256_before": "a1361fec9636dbd08f5bbf404bc73543d869259ccc265082977d84ef0178e2fa",
+  "logical_bytes": 1604233796,
+  "zip_sha256_before": "e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788",
   "native_inputs_and_master_indexes_unchanged": true,
   "release_and_source_inputs": "preserved",
-  "zip_sha256_after": "a1361fec9636dbd08f5bbf404bc73543d869259ccc265082977d84ef0178e2fa"
+  "zip_sha256_after": "e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788"
 }

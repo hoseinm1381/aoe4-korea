@@ -1,0 +1,23 @@
+{
+  "id": "gapsa_long_spear",
+  "donor": "art/civilizations/japanese/weapons/jpn_spear_yari_jumonji/jpn_spear_yari_jumonji.rgm",
+  "kind": "spear",
+  "design": "Gapsa native long spear silhouette retained; Korean finish; cross point is an existing gameplay visual compromise",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\gapsa_long_spear\\643d81df56b56354eb35\\decoded-static.json",
+  "manifest_sha256": "07823b02d27dcc02f4fedb1a1ee7bfd3f1f0703889369e7a39c31f509973e3e4",
+  "bounds": {
+    "min": [
+      -0.17333984375,
+      -0.17333984375,
+      -0.81201171875
+    ],
+    "max": [
+      0.17333984375,
+      0.17333984375,
+      3.392578125
+    ]
+  },
+  "native_triangles": 696,
+  "bones": 0
+}

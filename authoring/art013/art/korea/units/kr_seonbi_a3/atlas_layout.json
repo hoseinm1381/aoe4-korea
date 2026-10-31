@@ -1,0 +1,10 @@
+{
+  "native_u_domain": 1.9892578125,
+  "native_u_scale": 0.3719980363279332,
+  "working_resolution": 512,
+  "master_resolution": 1024,
+  "native_albedo_resolution": [
+    256,
+    256
+  ]
+}

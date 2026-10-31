@@ -1,0 +1,418 @@
+{
+  "source_regression_passed": true,
+  "original_tables_checked": 494,
+  "source_changes": [
+    {
+      "file": "source/tables/attrib/attachments/attachment_lists/garrison/korea/kr013_v70b6b364f86c880.rgd.json",
+      "changed_scalar_paths": [
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/$REF",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/add_to_pathfinding",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/attach_data/$REF",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/attach_data/game_object_attachment_type",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/attach_data/marker_name_parent",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/attach_data/parent_rigidbody_target_name",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/inventory_item_category",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/is_selectable",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_skin_attachment/$REF",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_skin_attachment/animator",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_skin_attachment/inventory_item_category",
+        "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_skin_attachment/is_selectable",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/$REF",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/add_to_pathfinding",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/attach_data/$REF",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/attach_data/game_object_attachment_type",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/attach_data/marker_name_parent",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/attach_data/parent_rigidbody_target_name",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/inventory_item_category",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/is_selectable",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_skin_attachment/$REF",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_skin_attachment/animator",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_skin_attachment/inventory_item_category",
+        "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_skin_attachment/is_selectable"
+      ]
+    },
+    {
+      "file": "source/tables/attrib/ebps/korea/kr_building_town_center_capital_chi_ha_01.rgd.json",
+      "changed_scalar_paths": [
+        "default/construction_ext/on_construction_complete_state_tree_refs/on_construction_complete_entity_state_tree_ref"
+      ]
+    },
+    {
+      "file": "source/tables/attrib/ebps/korea/kr_unit_nest_of_bees_4_chi_ha_01.rgd.json",
+      "changed_scalar_paths": [
+        "default/tier_ext/tier_group_list/tier_group/tier/attachments/$PBGNAME"
+      ]
+    }
+  ],
+  "unit_exact_native_rig_checks": 72,
+  "units": [
+    {
+      "asset": "kr_archer_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "b6a53aa5d47b5994eb49b753120fc1088e9ea868dc49b99bbf585b8891293121"
+    },
+    {
+      "asset": "kr_archer_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "bd7e91fddd62af050257babe4090610e8e638de96f213076f676e2255c1ffccb"
+    },
+    {
+      "asset": "kr_archer_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "969d324751c2eec46fd69b482031e3efd60a2e4431a3ae1dbbdae6748a1ceeff"
+    },
+    {
+      "asset": "kr_crossbowman_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "5243dd82e18de838a956cd8681d37e70eaaf53ed0c63e1d96890ad1161661fa5"
+    },
+    {
+      "asset": "kr_crossbowman_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "3f0701a96b93f762905cdf42bde99fbcae13b1e153375fa89aa7a629e7fffd43"
+    },
+    {
+      "asset": "kr_gapsa_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "32432c9eab2f39c44a721592a676ae7f0ba842984c1b2959ee003ff62bc3d6df"
+    },
+    {
+      "asset": "kr_gapsa_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "0fe63edd9274c5e1061700dc0d34ed72beea3dfafa1ad2b67373ad5857327640"
+    },
+    {
+      "asset": "kr_handcannoneer_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "f855ab19f19bcfe1925a16c3bdb0ee9a41cd9551be2a6a22838f50a0335ac03a"
+    },
+    {
+      "asset": "kr_horseman_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "81439a24a87bb26e93df83637d2e53035ddef2cf77515b4129ef1df1f4c6f734"
+    },
+    {
+      "asset": "kr_horseman_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "78f2474ab7894fa7a5a8831fb4e9b252517f6b051089fafb072d53ded8b8944b"
+    },
+    {
+      "asset": "kr_horseman_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "660df544046746179dabb997606c06a7eb986d93cd5b9b2c6bcfe6c9f9bf747c"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "5d6cbc8c4be75803214d4d8fe9c418f62024011cbd289b0bd58eda5fec479936"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "fd8a98142bf1e8d5ecc44ed72620cb4aaaddb2895c5acc6ee5242531540aed5e"
+    },
+    {
+      "asset": "kr_hwarang_dismounted_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "1b6bd802237ee2e0ee64e35ad448395c9fbaf5c29052543aa18a362921b82e63"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "23e9520b4e532edc3bf0de705da3157a3155cd82fa9d87638308e4a720e239e2"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "ed1bffd79793d569ca4240dd2240cf5b56d5d4b0508e3033d06db8f813fb885d"
+    },
+    {
+      "asset": "kr_hwarang_mounted_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "94c973783b7cf571d4eec47ee07ac7f262ee89f7c5672e942f397b647b85372a"
+    },
+    {
+      "asset": "kr_lancer_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "7a1368a5248ce1d5c086ffe52b16253dbc83d3140b7d9bf056923607228a7f15"
+    },
+    {
+      "asset": "kr_lancer_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "bb6cd96a000431b78cd782284c2212f132167e84608171240b8f232f92075728"
+    },
+    {
+      "asset": "kr_monk_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "59aa42e5563827396b08e2da1cf60426db74cf5565c22f1a0dc017b507edc434"
+    },
+    {
+      "asset": "kr_monk_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "32ab0aa367f3d48455351327611b987f30937807e79cfd3705197437258df65e"
+    },
+    {
+      "asset": "kr_mount_horseman_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "b1c8ac64e5e21ef1cb83f6603adb3a30c3717785c786125b53e4ae0a1c3f7a18"
+    },
+    {
+      "asset": "kr_mount_horseman_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "21170f33d97dce9aae35f723098b8dc55c0c5eda2197ac3e501c8b30e9c0712c"
+    },
+    {
+      "asset": "kr_mount_horseman_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "0c245fe71140d00492a7bf67beb30b6d3e9409004b93d30c91e4161addd03ff7"
+    },
+    {
+      "asset": "kr_mount_hwarang_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "10a35506768151482300056a6216b1b26cd44164d030068eff6710312b351cba"
+    },
+    {
+      "asset": "kr_mount_hwarang_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "455312fd0ab73605ecb7de1e46153e0e0a5d252c154ba65c8371d8e475c007bb"
+    },
+    {
+      "asset": "kr_mount_hwarang_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "bd13651722f4c000b0145d9a7b54a1660533bf3d6912dd28ec278b3eb94b57c3"
+    },
+    {
+      "asset": "kr_mount_lancer_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "ef3c9fe0e870d03bf91bcd58b83052ac4419df417cbcf2ba75ccbcc4655007da"
+    },
+    {
+      "asset": "kr_mount_lancer_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "526ce35a0104d78fbd52f702fae6ea117fee2e607c403151a03ef35201faaf27"
+    },
+    {
+      "asset": "kr_mount_scout_a1",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "4be9ccde8f795afa8a19189e69bb617321ddcf035ea490fae2e378c390424c90"
+    },
+    {
+      "asset": "kr_mount_scout_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "83bbba2d8e702a34aa606120b8c6e19843cf4c81a7ae5f3a50e70e9725a15b61"
+    },
+    {
+      "asset": "kr_mount_scout_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "3d3b8592db48c9f3abae7b62e6984ab595488af234d7e5bafce4ed91830b8011"
+    },
+    {
+      "asset": "kr_mount_scout_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "de778194b5bef0ab1623a0c4644e0a522015bcb82fd4662f8e676008faa1b9d9"
+    },
+    {
+      "asset": "kr_mount_trader_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "4f5c6b0f4d631e318f7cbe4abc21d4152cf55865d10e10a11a1d83d83dfb7e9a"
+    },
+    {
+      "asset": "kr_mount_trader_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "1480f3b14868dbe36c2ce32a1c3b2039b29beec08ed8f155a6300f65094a586a"
+    },
+    {
+      "asset": "kr_mount_trader_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "600e54aca9cb43b6d7426f724dc284d8a385bdaab8c76160732f79abd594be32"
+    },
+    {
+      "asset": "kr_righteous_army_monk_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "a4e3be358d6eb2e97f2ff544a2dc93b3f1b1b5241c68ae5ccf5781049156640a"
+    },
+    {
+      "asset": "kr_righteous_army_monk_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "f7040293814cb225bf62579d77091b8f13108b5c97a3f5081cd2392b7018125f"
+    },
+    {
+      "asset": "kr_scout_a1",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "5a89557908c289662988d772477e707d2bf06fde592e989eeebaebfbde2c5e24"
+    },
+    {
+      "asset": "kr_scout_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "c75003ed94e7354a0c5bca616e4ada6bc43f3370bfe9a7bbd1cbb3a4fe40fb24"
+    },
+    {
+      "asset": "kr_scout_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "23449c1cc98ac76094d318b42e15b16fe1ac77009622a1ea80ff3da59cfc1be2"
+    },
+    {
+      "asset": "kr_scout_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "84a34eb290b853b599c347af985c01277c77e74bbba690618b53341f769bd119"
+    },
+    {
+      "asset": "kr_scout_female_a1",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "3dd5342f9426ea066e4f6e48998fd81394d181fb99f714890c594ed1b95bf60a"
+    },
+    {
+      "asset": "kr_scout_female_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "b9d47feaad1b8b2d5d4a7e640f63efa432fded6bb1a306474bd270c675674844"
+    },
+    {
+      "asset": "kr_scout_female_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "5a1d2d07ef2be89fbf9d34657f87e75f64fc5199b77af1f5847e49becd41ceb6"
+    },
+    {
+      "asset": "kr_scout_female_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "4a2194a84334d74d608fd874bab999d6140e5a9945df2a9fbe98742087716805"
+    },
+    {
+      "asset": "kr_seonbi_a1",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "b71505f669df4826d71b4c8f179b2404e83eccf5a086093e8aa53a30d6075460"
+    },
+    {
+      "asset": "kr_seonbi_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "8d07eb18aff0032788068435c63d15a366e67273620dc85a9adcbf03417c6d56"
+    },
+    {
+      "asset": "kr_spearman_a1",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "9d0fb58fbbc721e3875a2122a93940b216f7af9d53ebf1d224442337e91b1068"
+    },
+    {
+      "asset": "kr_spearman_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "b93c5844576b108db3337adaf83a27f59ee81b6cf5baea843c87fc43e654d00f"
+    },
+    {
+      "asset": "kr_spearman_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "2b3dcb2cd53bb20dd94daec5380ff74fbba9c67315e448f8ed176b904dc26c80"
+    },
+    {
+      "asset": "kr_spearman_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "076a6fade9c65081080f3dc6a573063ed857fa3b45714b5c6b99f98e423a135f"
+    },
+    {
+      "asset": "kr_tiger_hunter_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "a63bbd8fa324ba6c924662085a1d65c748cab95afea08247bd6dceee2d2a4ecc"
+    },
+    {
+      "asset": "kr_tiger_hunter_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "25472489650523e7b5abcf90d4e20d51147f6a3029f6534439df55ba11af02fb"
+    },
+    {
+      "asset": "kr_tiger_hunter_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "52841550310f9b9a31f934908d3f2bd3db32648723c56c6074bf5d4a7a4fc152"
+    },
+    {
+      "asset": "kr_trade_cargo_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "671df48c983d0a93fbbd34d6c0f5968fa4cf3bb5916bd8464a76f3632dffb39d"
+    },
+    {
+      "asset": "kr_trade_cargo_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "b73230775d2e940627bcb31e5ec59ecfed1c19cab88e4f8c24ed8ca4a5f46812"
+    },
+    {
+      "asset": "kr_trade_cargo_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "b4501a082c7cad26573bc11cc28b7c2c55ece91378fe389a9e68b44ea5a55a56"
+    },
+    {
+      "asset": "kr_trader_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "90d61799eb65b3885555a7403a96ffee7b7cb8142dc3b3612414cc6aaba02f81"
+    },
+    {
+      "asset": "kr_trader_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "6bcf75681c73e629919d22661d4792f30e81573fcf877b0e3067e61b09a21efc"
+    },
+    {
+      "asset": "kr_trader_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "e243cc604cc84a4e2f34a11a24b926d750b99140ebb5c604de6f7458968a6e4b"
+    },
+    {
+      "asset": "kr_trader_female_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "e335fff57bc8a19f27e9ca4babbfa41a342a3a6757430d8a3bc4cf76c89fca12"
+    },
+    {
+      "asset": "kr_trader_female_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "d9c1d81b77e219825fbb90f01c12e79910be355c0d1c2d87d07f15a42ed24f62"
+    },
+    {
+      "asset": "kr_trader_female_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "f28cbdb79329e8548662ddde40ef6344914937f3eddd2cfcdc24d27cb27b6c13"
+    },
+    {
+      "asset": "kr_villager_female_a1",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "e47bc1192b2bdae1dcb8aaf124b21a9a8008d5c1071ddaff0777464b2f64ede3"
+    },
+    {
+      "asset": "kr_villager_female_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "a981d00dc7d2a791a3993a6f8189a05b0506d6178618b8453644ee980904d3a3"
+    },
+    {
+      "asset": "kr_villager_female_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "b5f286d1a06c7c0de7167061626c3233bed4cf705eb5f91edbef90810eb72578"
+    },
+    {
+      "asset": "kr_villager_female_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "fee8b3d09646e11fdff746e921933d9f63823675a435a71f94221d2adb731cf9"
+    },
+    {
+      "asset": "kr_villager_male_a1",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "ea845c91a55293e49c47c0cdc3060198ee3d0bac9efb38b0cf7843e00bbc1ca3"
+    },
+    {
+      "asset": "kr_villager_male_a2",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "3f5a8c5842bf1e194569a25bc46419a3ab05630f3353c37650db1ec328123484"
+    },
+    {
+      "asset": "kr_villager_male_a3",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "3abef3bbe7b67c420331ecdf7f0b6cd58e24febb1eb0969dd49e075095b23dfa"
+    },
+    {
+      "asset": "kr_villager_male_a4",
+      "exact_official_skeleton_and_bind_payload": true,
+      "model_sha256": "a23b385637e721f1ba359bc96e725f058a9f8fdf6674e88b692f505c41ec9196"
+    }
+  ],
+  "static_original_geometry_preserved": 36,
+  "actual_bound_rgb_mask_materials_checked": 108,
+  "native_members_changed": 233,
+  "native_members_added": 161,
+  "native_game_appearance_animation_and_performance": "pending",
+  "full_unit_preview_decode": "times out in optional animation_discovery at 94 percent; not promoted to a pass"
+}

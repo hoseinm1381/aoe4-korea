@@ -1,0 +1,23 @@
+{
+  "id": "hand_chongtong",
+  "donor": "art/civilizations/common/weapons/ranged/cannon_hand/cannon_hand.rgm",
+  "kind": "firearm",
+  "design": "Handgonne interpreted with cast-bronze Korean firearm vocabulary; native handcannon grip, not matchlock motion",
+  "status": "decoded",
+  "manifest": "F:\\aoe_4_temp\\Temp_before_github_push\\art\\korea\\equipment\\donors\\hand_chongtong\\b4595da7ba1848cf4858\\decoded-static.json",
+  "manifest_sha256": "686a69ba54616e1d4ecfd029c6b4e9f3c115a82984e2896cbea354f7c7be4ac4",
+  "bounds": {
+    "min": [
+      -0.970703125,
+      -0.1484375,
+      -0.1298828125
+    ],
+    "max": [
+      1.1005859375,
+      0.1484375,
+      0.1298828125
+    ]
+  },
+  "native_triangles": 196,
+  "bones": 1
+}

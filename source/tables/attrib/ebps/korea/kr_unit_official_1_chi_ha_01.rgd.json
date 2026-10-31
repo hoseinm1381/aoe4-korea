@@ -4915,7 +4915,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier1_official_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v26cb069cf1f61a9"
                             },
                             {
                               "key": "$PBGMAP",
@@ -5078,7 +5078,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier2_official_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v820b2efdbc597b4"
                             },
                             {
                               "key": "$PBGMAP",
@@ -5241,7 +5241,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier3_official_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_va87428048a7f7c5"
                             },
                             {
                               "key": "$PBGMAP",
@@ -5404,7 +5404,7 @@
                               "key": "$PBGNAME",
                               "hash": 5464984021694833596,
                               "kind": "CString",
-                              "value": "tier4_official_chi"
+                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_v89d8b50741f2366"
                             },
                             {
                               "key": "$PBGMAP",

@@ -1,0 +1,72 @@
+{
+  "schema": "garrison.essence-run/v1",
+  "status": "failed",
+  "started_at_utc": "2026-10-31T09:48:52.235156Z",
+  "editor": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools\\EssenceEditor.exe",
+    "sha256": "df563dcdab31e0b772b9239da2c6058f86aa0063ec2359a0847e5057fae4efab",
+    "size_bytes": 10242872,
+    "profile": null,
+    "accepted_by": "capability-probe"
+  },
+  "mod": {
+    "path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-project\\k013.aoe4mod",
+    "namespace": "http://schemas.datacontract.org/2004/07/Essence.Editor.Modding",
+    "mod_id": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "mod_type": "Extension",
+    "data_generic_path": "source\\",
+    "data_intermediate_path": "cache",
+    "locdb_path": "locdb\\k013.locdb",
+    "burn_project_path": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-project\\source\\_default.burnproj"
+  },
+  "run_root": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook",
+  "command": [
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools\\EssenceEditor.exe",
+    "-rtm",
+    "--safe_settings",
+    "--do_not_restore",
+    "--quiet_crash_report",
+    "--no_source_control",
+    "--log_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\logs",
+    "--build_mod",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-project\\k013.aoe4mod",
+    "--no_burn_window",
+    "--burn_verbose_log_level",
+    "--burn_cache_type",
+    "Local",
+    "--burn_max_threads",
+    "1",
+    "--burn_log_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\logs\\burn.log",
+    "--build_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\output",
+    "--intermediate_path",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\intermediate"
+  ],
+  "working_directory": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\experimental-current-model-tools",
+  "timeout_seconds": 1200.0,
+  "intermediate_mode": "isolated-run",
+  "generated_write_scope": [
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\intermediate",
+    "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\output"
+  ],
+  "finished_at_utc": "2026-10-31T09:49:07.330241Z",
+  "duration_seconds": 15.093,
+  "raw_exit_code": 4294967293,
+  "exit_code": -3,
+  "timed_out": false,
+  "diagnostics": [
+    {
+      "code": "unclassified-editor-failure",
+      "message": "Inspect the captured application, burn, stdout, and stderr logs.",
+      "evidence": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\logs"
+    }
+  ],
+  "logs": {
+    "application_directory": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\logs",
+    "burn": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\logs\\burn.log",
+    "stdout": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\logs\\stdout.log",
+    "stderr": "C:\\Users\\RS\\AppData\\Local\\Temp\\k13\\static-model-cook\\logs\\stderr.log"
+  }
+}
