@@ -47,9 +47,10 @@ local function valid(r)
         and Squad_GetBlueprint(r.squad)==r.blueprint
 end
 
-local function speak(r,event,world)
+local function speak(r,event,world,task)
     if not S.running or not r then return false end
     local now=World_GetGameTime()
+    task=task or event
     local stockEffort=bank.stock_efforts and (event=="death" or event=="pain_light" or event=="pain_heavy")
     if stockEffort then
         if event=="death" then
@@ -59,12 +60,7 @@ local function speak(r,event,world)
         if now<S.busyUntil then return false end
         if event=="under_attack" then
             if now<(r.attackUntil or 0) then return false end
-        else
-            if now<(r.replyUntil or 0) then return false end
-            -- DefaultAction does not expose a verified target classification.
-            -- Give generic acknowledgements the conservative movement limit too.
-            if (event=="move" or event=="sail" or event=="acknowledge") and now<(r.moveUntil or 0) then return false end
-        end
+        elseif now<(r.replyUntil[task] or 0) then return false end
     end
     if not stockEffort and valid(r) then r.age=playerAge(Squad_GetPlayerOwner(r.squad)) end
     local ages=bank.clips[r.role]
@@ -113,10 +109,7 @@ local function speak(r,event,world)
     else
         S.busyUntil=now+clip[2]+.15
         if event=="under_attack" then r.attackUntil=now+15
-        else
-            r.replyUntil=now+5
-            if event=="move" or event=="sail" or event=="acknowledge" then r.moveUntil=now+8 end
-        end
+        else r.replyUntil[task]=now+5 end
     end
     return true
 end
@@ -163,7 +156,7 @@ local function track(squad)
         return old
     end
     if old then untrack(old) end
-    local r={id=id,squad=squad,blueprint=bp,role=role,age=age,stock_speaker=stockSpeaker,position=Squad_GetPosition(squad),hp=Squad_GetHealth(squad)}
+    local r={id=id,squad=squad,blueprint=bp,role=role,age=age,stock_speaker=stockSpeaker,position=Squad_GetPosition(squad),hp=Squad_GetHealth(squad),replyUntil={}}
     S.actors[id]=r
     if KoreaDiag024_Mark then KoreaDiag024_Mark("voice.register_callback.before",id) end -- KOREA024_DIAGNOSTIC
     Rule_AddSquadEvent(KoreaVoice_OnCommand,squad,GE_SquadCommandIssued,r)
@@ -188,6 +181,18 @@ local function eventFor(r,event)
     if event=="food" then return "food" end
     if event=="gather" then return "acknowledge" end
     return event
+end
+
+local function replyToTask(r,task)
+    S.pendingReply=nil
+    local now=World_GetGameTime()
+    if now<(r.replyUntil[task] or 0) then return end
+    if now<S.busyUntil then
+        -- Keep the newest order while a line finishes. Never stack replies.
+        S.pendingReply={actor=r,task=task}
+    else
+        speak(r,eventFor(r,task),false,task)
+    end
 end
 
 function KoreaVoice_OnCommand(context,r)
@@ -217,9 +222,13 @@ function KoreaVoice_OnCommand(context,r)
         r.commandActivity=event
         -- A gather order does not expose a verified resource target. Wait for
         -- the observed resource activity, then give the matching work reply.
-        if event=="gather" then r.pendingWork=true;return end
+        if event=="gather" then
+            S.pendingReply=nil
+            r.pendingWork=true
+            return
+        end
         r.pendingWork=nil
-        speak(r,eventFor(r,event),false)
+        replyToTask(r,event)
     end
 end
 
@@ -309,7 +318,12 @@ function KoreaVoice_Tick()
     end
     for id in pairs(S.selected) do if not selected[id] then changed=true end end
     S.selected=selected;S.leader=first and first.id or nil
-    if changed and first then speak(first,"select",false) end
+    local pending=S.pendingReply
+    if pending then
+        if pending.actor~=first then S.pendingReply=nil
+        elseif now>=S.busyUntil then replyToTask(first,pending.task) end
+    end
+    if changed and first and not S.pendingReply then speak(first,"select",false) end
     if trace then print("KOREA022_VOICE t="..tostring(second).." phase=reactions") end
     if KoreaDiag024_Mark then KoreaDiag024_Mark("voice.reactions.before",nil) end -- KOREA024_DIAGNOSTIC
     for id,r in pairs(S.actors) do
@@ -330,7 +344,7 @@ function KoreaVoice_Tick()
                 local current=activity(r.squad)
                 if KoreaDiag024_Mark then KoreaDiag024_Mark("voice.activity.after",id) end -- KOREA024_DIAGNOSTIC
                 if r.activity and current~=r.activity and current~="idle" then
-                    if not commandEcho(r,current) then speak(r,eventFor(r,current),false) end
+                    if not commandEcho(r,current) then replyToTask(r,current) end
                 end
                 r.activity=current
             else r.activity=nil end
@@ -356,7 +370,7 @@ function KoreaVoice_Start(civilizations)
     end
     if S.running or not bank.complete then return end
     S.running=true;S.civilizations=civilizations or {};S.actors={};S.selected={};S.variants={}
-    S.busyUntil=0;S.effortBusyUntil=0;S.deathBusyUntil=0;S.nextScan=0;S.leader=nil;S.lastClip=nil
+    S.busyUntil=0;S.effortBusyUntil=0;S.deathBusyUntil=0;S.nextScan=0;S.leader=nil;S.lastClip=nil;S.pendingReply=nil
     S.group=SGroup_CreateUnique("korea_voice_020")
     S.sent=0;S.sendFailures=0;S.loggedRoles={}
     S.traceStart=World_GetGameTime();S.traceSecond=nil
@@ -372,7 +386,7 @@ function KoreaVoice_Stop()
     Rule_Remove(KoreaVoice_Tick)
     Rule_RemoveGlobalEvent(KoreaVoice_OnLocalPlayerChanged)
     for _,r in pairs(S.actors) do untrack(r) end
-    S.actors={};S.selected={};S.variants={};S.leader=nil
+    S.actors={};S.selected={};S.variants={};S.leader=nil;S.pendingReply=nil
     if S.group then SGroup_Destroy(S.group);S.group=nil end
     audio.stop()
 end

@@ -1844,7 +1844,7 @@
                   "key": "help_text",
                   "hash": 8188688946990289687,
                   "kind": "LocString",
-                  "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:12187"
+                  "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:12603"
                 },
                 {
                   "key": "hotkey_name",
@@ -1862,7 +1862,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": ""
+                  "value": "BuildingUpgradeDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -3314,7 +3314,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": ""
+                  "value": "BuildingUpgradeDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",

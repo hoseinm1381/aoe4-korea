@@ -81,8 +81,55 @@ class Voice020(unittest.TestCase):
   record=self.g.KoreaVoiceState.actors[10];self.g.actor.alive=False;self.g.actors[10]=None;self.g.now=20;self.g.KoreaVoice_OnKilled(self.lua.table(),record);self.assertEqual(self.g.clips[len(self.g.clips)],'death')
  def test_stop_destroys_only_owned_group_and_can_restart(self):
   self.g.KoreaVoice_Stop();self.g.KoreaVoice_Stop();self.assertEqual(self.g.destroyed,1);self.assertFalse(self.g.KoreaVoiceState.running);self.g.KoreaVoice_Start(self.lua.table());self.assertTrue(self.g.KoreaVoiceState.running)
- def test_cooldown_drops_rapid_commands(self):
-  count=len(self.g.clips);self.command(self.g.SCMD_Move);self.assertEqual(len(self.g.clips),count)
+ def test_each_task_has_its_own_five_second_cooldown(self):
+  self.g.now=1
+  self.command(self.g.SCMD_Move)
+  self.g.now=2
+  self.command(self.g.SCMD_Attack)
+  self.assertEqual(self.g.clips[3], 'VILLAGER_MA1attack')
+  self.g.now=5.99
+  self.command(self.g.SCMD_Move)
+  self.assertEqual(len(self.g.clips), 3)
+  self.g.now=6
+  self.command(self.g.SCMD_Move)
+  self.assertEqual(self.g.clips[4], 'VILLAGER_MA1move')
+
+ def test_build_replies_after_active_movement_line_without_echo(self):
+  self.g.now=1
+  self.command(self.g.SCMD_Move)
+  self.g.now=1.1
+  self.command(self.g.SCMD_BuildStructure)
+  self.assertEqual(len(self.g.clips), 2)
+  self.g.now=1.75
+  self.g.KoreaVoice_Tick()
+  self.assertEqual(self.g.clips[3], 'VILLAGER_MA1build')
+  self.lua.execute('function Squad_IsConstructing(s) return s.building==true end')
+  self.g.actor.building=True
+  self.g.now=8
+  self.g.KoreaVoice_Tick()
+  self.assertEqual(len(self.g.clips), 3)
+
+ def test_latest_order_replaces_pending_reply(self):
+  self.g.now=0.1
+  self.command(self.g.SCMD_Move)
+  self.g.now=0.2
+  self.command(self.g.SCMD_Attack)
+  self.g.now=0.75
+  self.g.KoreaVoice_Tick()
+  self.assertEqual(self.g.clips[2], 'VILLAGER_MA1attack')
+  self.g.now=2
+  self.g.KoreaVoice_Tick()
+  self.assertEqual(len(self.g.clips), 2)
+
+ def test_deselection_drops_pending_reply(self):
+  self.g.now=0.1
+  self.command(self.g.SCMD_Move)
+  self.g.selected=self.lua.table()
+  self.g.now=0.25
+  self.g.KoreaVoice_Tick()
+  self.g.now=1
+  self.g.KoreaVoice_Tick()
+  self.assertEqual(len(self.g.clips), 1)
  def test_unarmed_mixed_attack_order_uses_neutral_reply(self):
   self.lua.execute('KoreaVoiceBank.clips.SCHOLAR=KoreaVoiceBank.clips.VILLAGER_M;KoreaVoiceBank.units[actor.bp].role="SCHOLAR"')
   self.g.now=20;self.g.KoreaVoice_Tick();self.command(self.g.SCMD_AttackMove);self.assertEqual(self.g.clips[len(self.g.clips)],'VILLAGER_MA1ack1')

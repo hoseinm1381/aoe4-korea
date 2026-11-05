@@ -1,5 +1,5 @@
--- Ability costs are charged by native tuning. Only the queued upgrade is free;
--- the ledger records the effective Literature cost and settles it exactly once.
+-- The native ability charges the listed Literature and foreign-choice token.
+-- The underlying queued upgrade stays free, and the ledger settles each payment once.
 KoreaResearchRoutes = {}
 KoreaForeignPool = {}
 local resourceEnums = {food = RT_Food, wood = RT_Wood, gold = RT_Gold, stone = RT_Stone,
@@ -14,15 +14,16 @@ local function refund(player, costs)
     end
 end
 
--- Some native cost tables expose only the four common resource fields.
--- Retained catalogue fees match every ability variant; merc_byz/action have
--- no ability-cost modifier in the installed native resource descriptors.
+-- The engine cost API can omit custom resources. The catalog is verified
+-- against every native ability variant for Literature and the foreign token.
 local function paidCosts(player, route, ability)
     local paid = Player_GetAbilityBPCost(player.id, ability) or {}
     local costs = {}
     for resource, _ in pairs(resourceEnums) do
         local amount = paid[resource]
-        if amount == nil then amount = route.costs[resource] or 0 end
+        if resource == "merc_byz" or resource == "action" or amount == nil then
+            amount = route.costs[resource] or 0
+        end
         costs[resource] = amount
     end
     return costs
@@ -58,13 +59,13 @@ function KoreaResearch_Init(player)
         KoreaResearchRoutes[key(route.pbg)] = route
         if not targets[route.key] then
             targets[route.key] = true
+            Player_SetUpgradeAvailability(player.id, route.upgradePBG, ITEM_REMOVED)
             for _, resource in ipairs({"food", "wood", "gold", "stone", "merc_byz"}) do
                 Korea_PlayerModifier(player, MAT_Upgrade, "upgrade_cost_" .. resource .. "_modifier", MUT_Multiplication, 0, route.upgradePBG)
             end
         end
         if route.foreign then
             Player_SetAbilityAvailability(player.id, route.pbg, ITEM_REMOVED)
-            Player_SetUpgradeAvailability(player.id, route.upgradePBG, ITEM_REMOVED)
         end
     end
     if #KoreaForeignPool == 0 then
@@ -120,7 +121,10 @@ function KoreaResearch_Settle(player, upgrade, complete)
     if costs == nil then return end
     refund(player, costs)
     if not complete then
-        Player_SetAbilityAvailability(player.id, BP_GetAbilityBlueprint(transaction.ability), ITEM_DEFAULT)
+        local ability = BP_GetAbilityBlueprint(transaction.ability)
+        local route = KoreaResearchRoutes[key(ability)]
+        Player_SetUpgradeAvailability(player.id, route.upgradePBG, ITEM_REMOVED)
+        Player_SetAbilityAvailability(player.id, ability, ITEM_DEFAULT)
     end
     syncAllowances(player)
 end
@@ -134,21 +138,40 @@ function KoreaResearch_Completed(context)
     KoreaLandmarks_Research(player, context.upgrade)
 end
 
+local function deferCancellation(transaction)
+    -- Instant research can emit Cancelled and then Complete in the same
+    -- simulation tick. Give completion priority before refunding.
+    if transaction ~= nil and transaction.canceledAt == nil then
+        transaction.canceledAt = World_GetGameTime()
+    end
+end
+
 function KoreaResearch_Canceled(context)
     local player = Korea_EventPlayer(context)
-    if player ~= nil and context.upgrade ~= nil then KoreaResearch_Settle(player, key(context.upgrade), false) end
+    if player ~= nil and context.upgrade ~= nil then
+        deferCancellation(player.research.pending[key(context.upgrade)])
+    end
 end
 
 function KoreaResearch_EntityLost(entityID)
-    -- Native cancellation may arrive before or after death. Taking the pending
-    -- transaction out first makes either event order refund once.
     for _, index in ipairs(KoreaState.order) do
-        local player = KoreaState.players[index]
-        local names = {}
-        for name, transaction in pairs(player.research.pending) do
-            if transaction.actor == entityID then table.insert(names, name) end
+        for _, transaction in pairs(KoreaState.players[index].research.pending) do
+            if transaction.actor == entityID then deferCancellation(transaction) end
         end
-        table.sort(names)
-        for _, name in ipairs(names) do KoreaResearch_Settle(player, name, false) end
+    end
+end
+
+function KoreaResearch_Tick(player, now)
+    local canceled = {}
+    for name, transaction in pairs(player.research.pending) do
+        if transaction.canceledAt ~= nil and transaction.canceledAt < now then
+            table.insert(canceled, name)
+        end
+    end
+    table.sort(canceled)
+    for _, name in ipairs(canceled) do
+        local transaction = player.research.pending[name]
+        local route = KoreaResearchRoutes[key(BP_GetAbilityBlueprint(transaction.ability))]
+        KoreaResearch_Settle(player, name, Player_HasUpgrade(player.id, route.upgradePBG))
     end
 end

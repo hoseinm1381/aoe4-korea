@@ -2534,7 +2534,7 @@
               "key": "min_range",
               "hash": 6095418599823367234,
               "kind": "Float",
-              "value": 30.0
+              "value": 0.0
             },
             {
               "key": "can_use_ability_check_interval",
@@ -2667,33 +2667,7 @@
               "key": "requirements_target",
               "hash": 9214152916356941991,
               "kind": "List2",
-              "value": [
-                {
-                  "key": "required_can_see",
-                  "hash": 983716679902528261,
-                  "kind": "List",
-                  "value": [
-                    {
-                      "key": "$REF",
-                      "hash": 6998867517914059163,
-                      "kind": "CString",
-                      "value": "requirements\\required_can_see"
-                    },
-                    {
-                      "key": "ui_name",
-                      "hash": 10495630658248407649,
-                      "kind": "Int",
-                      "value": 11251747
-                    },
-                    {
-                      "key": "reason",
-                      "hash": 17331600663591462485,
-                      "kind": "CString",
-                      "value": "usage"
-                    }
-                  ]
-                }
-              ]
+              "value": []
             },
             {
               "key": "ui_mini_map_capture",
@@ -3453,7 +3427,7 @@
               "key": "range_ignore",
               "hash": 15520974463585257129,
               "kind": "Boolean",
-              "value": true
+              "value": false
             },
             {
               "key": "can_queue_passive_ability",
@@ -3465,7 +3439,7 @@
               "key": "range",
               "hash": 16597999082088934835,
               "kind": "Float",
-              "value": 0.0
+              "value": 58.0
             },
             {
               "key": "disable_combat",

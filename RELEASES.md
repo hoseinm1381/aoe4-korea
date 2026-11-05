@@ -1,3 +1,15 @@
+# Korea 0.3.0
+
+Korean units now have a five-second reply cooldown per unit and task. A different task can reply as soon as the current line finishes. Rapid orders leave at most one pending reply for the selected squad.
+
+- Import the player ZIP from GitHub Releases using Garrison 0.1.16 or newer. Select Korea in Standard Skirmish with Tuning Pack None and Standard Starting Resources.
+- This release carries forward the 0.2.13 Literature prices and refunds, keep barrage changes, stronger unique-building player colours and the larger Gyeongbok Palace.
+- The editable source includes the indexed art, audio and native inputs. See the development guide and build verification receipt. Voice timing still needs a fresh in-game listening check.
+
+Earlier entries describe historical builds.
+
+---
+
 # Korea 0.2.11
 
 The standalone Garrison release sets the native standard starting army to 200 food, 200 wood, and 100 gold. Korean unit dialogue and group Scholar Supervise are enabled. Korean upgrades use the stock tooltip layout, including Textiles and Wheelbarrow.

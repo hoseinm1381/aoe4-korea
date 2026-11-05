@@ -91,7 +91,7 @@ def build(out,prepare_only=False,replace_current=False):
             if digest(p)!=exclusion['sha256']:raise ValueError('Reviewed excluded table changed: '+member)
             continue
         tables[member]=rgd.read(import_table(read_json(p)))
-    if config['version'] in ('0.2.0','0.2.1','0.2.2','0.2.3','0.2.4','0.2.5','0.2.11'):
+    if config['version'] in ('0.2.0','0.2.1','0.2.2','0.2.3','0.2.4','0.2.5','0.2.11','0.2.12','0.2.13','0.3.0'):
         from voice020_release import retained_codex
         _,codex_report=retained_codex(tables,config)
     else:_,codex_report=build_codex(tables,config)
@@ -192,6 +192,9 @@ def finalize(out,config,expected,native,tables,source_fingerprint,previous,assem
     if config['version']=='0.2.4':details.update(updated='2026-11-02',min_garrison='0.1.13',changelog='0.2.4 diagnostic: bounded paired callback/subsystem and native-operation logging for the reported random 6:42 crash. All original gameplay statements, models, higher-quality voices and five starting sheep retained. No crash fix or Mounted Hwarang visual repair claimed; reproduce in a fresh single-player match and retain warnings.log.')
     if config['version']=='0.2.5':details.update(updated='2026-11-04',min_garrison='0.1.13',changelog='0.2.5 diagnostic: Korean voice controller disabled at startup. All voice scripts, helper and audio files remain packaged unchanged except the startup guard. Gameplay, art, tuning and 0.2.4 tracing retained. Crash isolation test; no crash fix claimed.')
     if config['version']=='0.2.11':details.update(updated='2026-11-05',min_garrison='0.1.13',changelog='Korea starts with 200 food, 200 wood and 100 gold. Includes Korean dialogue, stock research tooltips and group Scholar Supervise.')
+    if config['version']=='0.2.12':details.update(updated='2026-11-05',min_garrison='0.1.13',changelog='Fix Fortress barrage cleanup and Korean research payment/cancellation. Stock green research buttons, 50% larger fortress visuals, expanded dynamic player colour, and Korean voice controller enabled.')
+    if config['version']=='0.2.13':details.update(updated='2026-11-05',min_garrison='0.1.13',changelog='Native Literature prices and tooltips for Korean research, corrected completion and refund order, wider close-range keep barrage coverage, stronger unique building player colours, and a 50% larger Gyeongbok Palace model.')
+    if config['version']=='0.3.0':details.update(updated='2026-11-06',min_garrison='0.1.16',changelog='Korean orders repeat their own voice reply at most every five seconds per unit. A different task can reply right away, or after the current line finishes.')
     delivery=out/'delivery';package=delivery/(config['name']+'-Garrison-'+config['version']+'.zip')
     if not reuse_package:
         delivery.mkdir()

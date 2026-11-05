@@ -3443,7 +3443,7 @@
                   "key": "min",
                   "hash": 11713854759041707324,
                   "kind": "Float",
-                  "value": 4.0
+                  "value": 0.0
                 },
                 {
                   "key": "max_height",

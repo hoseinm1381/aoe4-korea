@@ -1,25 +1,33 @@
 {
-  "version": "0.2.11",
+  "race": "korea",
+  "version": "0.3.0",
   "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
-  "zip_name": "Koreans-Garrison-0.2.11.zip",
-  "zip_sha256": "736fb0772307e49fcb98e644218e99a488d8c9948e55b9f36abc70bdd8e1907f",
-  "zip_bytes": 199924550,
-  "archive_sha256": "421aae31b5fe9f81a7f181287e19ceca106b2db8305f96acdb7cf08ea4cce0f2",
-  "archive_bytes": 373315873,
-  "previous_archive_sha256": "2f38c02d245cb21abb012a0ed464b3d931f1ec7d8bf21a1785df2130cf90d554",
-  "changed_members_from_0210": [
-    "attrib/army/garrison/korea/korea_standard.rgd"
+  "source_fingerprint": "dda2597b3acf5d19af9e954a2acc5ca0cd1508b984fe651a9fc54ae329e02b73",
+  "tables": 527,
+  "members": 10282,
+  "archive_bytes": 373355212,
+  "archive_sha256": "5053ddda0dc928bb03e1d43614f3444bbf884a60e54c0084a6179e41afc0802c",
+  "zip_name": "Koreans-Garrison-0.3.0.zip",
+  "zip_bytes": 199759392,
+  "zip_sha256": "2e875ef1f5c3fbafd0d0dcbd25faa76c35202a4de0ad1668b0aebb7a3a7b41af",
+  "all_member_readback_sha256": true,
+  "native_crc_sha1": true,
+  "zip_crc": true,
+  "preserved_native_media_members": 9679,
+  "native_game_test": "pending",
+  "multiplayer_save_ai_performance": "not qualified",
+  "publication": "not performed",
+  "changed_members": [
+    "scar/korea/voices_020.scar"
   ],
-  "unchanged_inventory_rows": 10281,
-  "starting_resources": {
-    "food": 200.0,
-    "wood": 200.0,
-    "gold": 100.0
-  },
-  "variants": [
-    "default",
-    "campaign"
-  ],
-  "army_member_sha256": "32cc3d8e33aec6a6b1d9ecee4ec30076e47390adc915c1bac2e0294eaa8aab7c",
-  "native_match_tested": false
+  "added_members": [],
+  "preserved_baseline_members": 10281,
+  "native_codex_retest": "pending",
+  "removed_members": [],
+  "assembly_path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\temp\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\korea-030-current",
+  "baseline_zip_bytes": 199924550,
+  "audio_full_decode_verified": false,
+  "world_art_changed": false,
+  "native_input_manifest_sha256": "28834f62792dfe51a6b1dee2c51ef3a13feca94e672cabea4d791bad4a5370a5",
+  "editable_master_index_sha256": "a754a5c0adbd1d1889367f362d36a58926897e0a0569cc7cc694068034474b79"
 }

@@ -55,6 +55,7 @@ function KoreaLifecycle_Tick()
     phase("begin")
     for _, index in ipairs(KoreaState.order) do
         local player = KoreaState.players[index]
+        KoreaResearch_Tick(player, now)
         if Player_IsAlive(player.id) then
             phase("landmarks")
             KoreaLandmarks_Tick(player, now)

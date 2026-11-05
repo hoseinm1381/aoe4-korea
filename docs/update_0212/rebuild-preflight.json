@@ -1,0 +1,15 @@
+{
+  "native_tuning_preflight": "passed",
+  "tables": 527,
+  "verified_native_inputs": 9734,
+  "verified_editable_masters": 9613,
+  "exact_prepared_member_hash_matches": 10280,
+  "other_members": [
+    "SDK-generated owner declaration",
+    "SDK-wrapped dispatcher body"
+  ],
+  "lua_barrage_tests_passed": 6,
+  "lua_research_cases_passed": 9,
+  "voice_backend_probe_samples_played": 4,
+  "native_match_tested": false
+}

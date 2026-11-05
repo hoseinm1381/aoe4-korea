@@ -2107,7 +2107,7 @@
   },
   "art/kr013/static/gyeongbok_palace/model.rgm": {
     "bytes": 1105545,
-    "sha256": "25fe4cb94cdcf9a257baba4c7cf2bc0f3952aad523b871d835b1eeb069be3e0b",
+    "sha256": "1638454e2ba14141957be730bb1e2349320fe0821a72e1e3ade436bc4b5627f0",
     "toc": "data",
     "change": "Native all-OR lifecycle alternatives match two official current building donors"
   },
@@ -2119,7 +2119,7 @@
   },
   "art/kr013/static/gyeongbok_palace/model.rrgeom": {
     "bytes": 7619531,
-    "sha256": "54d3c2f122264ec673f01f3b9407f4907517af038e6ad73886ccb359e2f1c1a4",
+    "sha256": "7c61af3a0eef6665d6d6263010863a73650c1c422974fe64b837f5376af3ab07",
     "toc": "data",
     "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
   },
@@ -2827,9 +2827,9 @@
   },
   "art/kr013/static/mountain_fortress/model.rgm": {
     "bytes": 1177720,
-    "sha256": "eb76f4666dabd5105fcc4d21fb4741fed34c5cd8faa77021831e78279ace2707",
+    "sha256": "8e675876736422eb8815a2d60ca2bca56513f8e5fce1c84d263cbd0262b85c78",
     "toc": "data",
-    "change": "Native all-OR lifecycle alternatives match two official current building donors"
+    "change": "0.2.12 verified visual-only Mountain Fortress geometry or Korean unique owner colour"
   },
   "art/kr013/static/mountain_fortress/model.rgo": {
     "bytes": 696,
@@ -2839,9 +2839,9 @@
   },
   "art/kr013/static/mountain_fortress/model.rrgeom": {
     "bytes": 7261527,
-    "sha256": "6c4f838358a3d1a837eb1d692281143f0f7331506865872f1e3a3e230ff605ec",
+    "sha256": "c7846559790da9cc433be10d7d33a0a224aa218f8e1eacda62022745e57ae0ae",
     "toc": "data",
-    "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
+    "change": "0.2.12 verified visual-only Mountain Fortress geometry or Korean unique owner colour"
   },
   "art/kr013/static/mountain_fortress/model.rrmaterial": {
     "bytes": 730,
@@ -6378,10 +6378,10 @@
     "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
   },
   "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex": {
-    "bytes": 16222,
-    "sha256": "c4a95a55a83723c74616c121fc13ad49d2dc69daa99036a830f080bc28a15903",
+    "bytes": 23069,
+    "sha256": "540c7455f204cb7be3057c0170e3d1db79779cfec3e992944479c743139acbc2",
     "toc": "data",
-    "change": "Korea 014 native rig/material/rigid/Hwacha repair"
+    "change": "0.2.12 verified visual-only Mountain Fortress geometry or Korean unique owner colour"
   },
   "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex": {
     "bytes": 381,

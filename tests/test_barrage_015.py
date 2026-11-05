@@ -13,7 +13,11 @@ function Korea_Entity(id) if id==unit.id then return unit end end
 function Entity_GetPlayerOwner(e) return e.owner end
 function Entity_GetID(e) return e.id end
 function Entity_GetSquad(e) return e.squad end
-function Entity_GetActiveCommand(e) return e.command end
+function Entity_GetActiveCommand(e)
+    if e.command == nil then error('Entity does not have an active state') end
+    return e.command
+end
+function Entity_ActiveCommandIs(e, command) return e.command == command end
 function Korea_Functioning(e) return e.alive and not e.ruined end
 function Korea_BP(kind,name) return name end
 function World_GetGameTime() return now end
@@ -64,4 +68,10 @@ class Barrage015(unittest.TestCase):
         self.assertEqual(lua.globals().calls.stops,2);self.assertEqual(lua.globals().calls.removed,4)
         lua=self.engine(keep=True);lua.execute('now=6;KoreaEffects_Timers(now);now=7;KoreaEffects_Timers(now)')
         self.assertEqual(lua.globals().calls.stops,1);self.assertEqual(lua.globals().calls.removed,2)
+    def test_keep_cleanup_after_native_active_state_ended(self):
+        lua=self.engine(keep=True)
+        lua.execute('unit.command=nil;now=6;KoreaEffects_Timers(now);now=7;KoreaEffects_Timers(now)')
+        c=lua.globals().calls
+        self.assertEqual((c.stops,c.removed,c.groups,c.destroyed),(0,2,1,1))
+        self.assertTrue(lua.eval('next(KoreaState.barrages)==nil'))
 if __name__=='__main__':unittest.main()

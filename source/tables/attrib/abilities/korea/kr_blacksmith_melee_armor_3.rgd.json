@@ -846,6 +846,10 @@
     [
       12707670969574129071,
       "compare_to_value"
+    ],
+    [
+      8188688946990289687,
+      "help_text"
     ]
   ],
   "nodes": [
@@ -2464,7 +2468,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": ""
+                  "value": "BuildingUpgradeDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -2776,6 +2780,12 @@
                       "value": ""
                     }
                   ]
+                },
+                {
+                  "key": "help_text",
+                  "hash": 8188688946990289687,
+                  "kind": "LocString",
+                  "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:12666"
                 }
               ]
             },
@@ -3973,7 +3983,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": ""
+                  "value": "BuildingUpgradeDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",

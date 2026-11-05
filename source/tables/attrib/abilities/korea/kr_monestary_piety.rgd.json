@@ -1951,7 +1951,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": ""
+                  "value": "BuildingUpgradeDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -1967,8 +1967,8 @@
                     {
                       "key": "formatter",
                       "hash": 16764647726920512531,
-                      "kind": "Int",
-                      "value": 11156101
+                      "kind": "LocString",
+                      "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:12650"
                     },
                     {
                       "key": "formatter_arguments",
@@ -3422,7 +3422,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": ""
+                  "value": "BuildingUpgradeDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",

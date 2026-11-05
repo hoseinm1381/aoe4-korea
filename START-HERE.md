@@ -1,5 +1,5 @@
-# Koreans for Garrison 0.2.11
+# Koreans for Garrison 0.3.0
 
-Use the patched Race-only Garrison 0.1.15 loader with AoE IV 17.0.12260.0. Import the player ZIP and enable Korea. Select Korea in Standard Skirmish with Tuning Pack None and Standard Starting Resources.
+Import the player ZIP in Garrison 0.1.16 or newer, enable Korea, and use Play. Select Korea in Standard Skirmish with Tuning Pack None and Standard Starting Resources. The Garrison client needs to start its built-in audio backend for unit replies to play.
 
-Korea starts with 200 food, 200 wood, 100 gold, and 0 stone. Korean unit dialogue is enabled. Korean upgrades use stock tooltips, and selected scholars can Supervise together.
+Repeat the same order on one unit to hear the five-second cooldown. Switch a moving soldier to attack or assign a moving villager to construct a building to hear the new task. If a line is already playing, the latest order waits for that line to finish.

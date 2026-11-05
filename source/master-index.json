@@ -58051,6 +58051,17 @@
       "bytes": 17913896,
       "sha256": "6289cad8eab612345cc919910de7ed79c459dee35e3447fbc34568b986922d9a",
       "role": "Korean 0.2.0 editable recording source, original voice reference, lossless master or reproducible generation/validation receipt"
+    },
+    {
+      "path": "art0212/unique-owner-mask.png",
+      "sha256": "a4ab45e0e0681b08e495a9e66644dfa3a4d070a03d30690eeace6fc5f4ed7811",
+      "bytes": 21401,
+      "role": "Korean unique building dynamic owner-colour mask source for 0.2.12"
+    },
+    {
+      "path": "art0213/unique-owner-mask.png",
+      "bytes": 21454,
+      "sha256": "401d784869c976188c0e6f1685e33f0b04f0ceadf0e4ad53dcb0ad1803d2fd2d"
     }
   ],
   "audio": "Vietnam shipped Ogg clips are editable whole files under inputs/native/audio, not duplicated in authoring. Original WAV or voice-generation environments are not in the accepted combined GitHub snapshot.",

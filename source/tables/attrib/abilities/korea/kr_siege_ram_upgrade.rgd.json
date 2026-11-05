@@ -2038,7 +2038,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": "UniqueAbilityDataTemplate"
+                  "value": "BuildingUpgradeDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -2054,8 +2054,8 @@
                     {
                       "key": "formatter",
                       "hash": 16764647726920512531,
-                      "kind": "Int",
-                      "value": 11246349
+                      "kind": "LocString",
+                      "value": "$748d61b94d3e4cf3a506a9ac1f992d1d:12678"
                     },
                     {
                       "key": "formatter_arguments",
@@ -2448,7 +2448,7 @@
                   "key": "gold",
                   "hash": 7631488968183620829,
                   "kind": "Float",
-                  "value": 700.0
+                  "value": 0.0
                 },
                 {
                   "key": "militia_hre",
@@ -2472,7 +2472,7 @@
                   "key": "merc_byz",
                   "hash": 15228413151750088298,
                   "kind": "Float",
-                  "value": 0.0
+                  "value": 700.0
                 },
                 {
                   "key": "command",
@@ -3515,7 +3515,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": "UniqueAbilityDataTemplate"
+                  "value": "BuildingUpgradeDataTemplate"
                 },
                 {
                   "key": "help_text_formatter",
@@ -3826,7 +3826,7 @@
                   "key": "gold",
                   "hash": 7631488968183620829,
                   "kind": "Float",
-                  "value": 700.0
+                  "value": 0.0
                 },
                 {
                   "key": "militia_hre",
@@ -3850,7 +3850,7 @@
                   "key": "merc_byz",
                   "hash": 15228413151750088298,
                   "kind": "Float",
-                  "value": 0.0
+                  "value": 700.0
                 },
                 {
                   "key": "command",
