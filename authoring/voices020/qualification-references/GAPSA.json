@@ -1,0 +1,17 @@
+{
+  "profile": "GAPSA",
+  "file": "authoring\\voices020\\qualification-references\\GAPSA.wav",
+  "sha256": "6728ea1444664180f6cfd7018c077d15bb699e9d5880ac26581d2f0b0e1363d0",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.08,
+  "rms": 0.13625846803188324,
+  "raw_peak": 0.90625,
+  "generation_seconds": 33.771,
+  "seed": 2026110203,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Mature Korean man, dark bass-baritone, experienced armoured guard, dense rough timbre, restrained authority. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

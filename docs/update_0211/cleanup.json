@@ -1,0 +1,172 @@
+{
+  "removed_files": 54447.0,
+  "removed_bytes": 6804879369,
+  "removed": [
+    {
+      "relative": "output\\current",
+      "bytes": 595814612,
+      "files": 539
+    },
+    {
+      "relative": "output\\temp025",
+      "bytes": 1858062738,
+      "files": 20570
+    },
+    {
+      "relative": "output\\rebuild-check-0211",
+      "bytes": 21833271,
+      "files": 533
+    },
+    {
+      "relative": "output\\loading-repair-20261105\\korea-observer-package",
+      "bytes": 776109345,
+      "files": 10820
+    },
+    {
+      "relative": "output\\loading-repair-20261105\\observer-cook-source",
+      "bytes": 25287,
+      "files": 9
+    },
+    {
+      "relative": "output\\loading-repair-20261105\\observer-native-cook",
+      "bytes": 6305,
+      "files": 4
+    },
+    {
+      "relative": "output\\loading-repair-20261105\\observer-native-cook-verified",
+      "bytes": 97402,
+      "files": 12
+    },
+    {
+      "relative": "output\\loading-repair-20261105\\official-observer-template",
+      "bytes": 19258521,
+      "files": 4
+    },
+    {
+      "relative": "output\\loading-repair-20261105\\Koreans-Garrison-0.2.6-loading-test.zip",
+      "bytes": 199946372,
+      "files": 1
+    },
+    {
+      "relative": "output\\loading-repair-20261105\\loader-race-only\\garrison_agent.race-only.dll",
+      "bytes": 5337600,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\research-tooltips-029",
+      "bytes": 589921815,
+      "files": 283
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\starting-resources-0211",
+      "bytes": 373509682,
+      "files": 7
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\supervision-027",
+      "bytes": 776180618,
+      "files": 10815
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\textiles-40940",
+      "bytes": 999612853,
+      "files": 10825
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\voice-enabled-0210",
+      "bytes": 373519282,
+      "files": 8
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\agent-events-25672.jsonl",
+      "bytes": 323303,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\build_supervision_test.py",
+      "bytes": 9054,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\capture_native_hang.py",
+      "bytes": 2917,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\DataCRC000.txt",
+      "bytes": 32498,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\DataCRC001.txt",
+      "bytes": 33148,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\korea-hang-3732.dmp",
+      "bytes": 1375563,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\korea-hang-40940.dmp",
+      "bytes": 1043132,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\Koreans-Garrison-0.2.7-supervision-test.zip",
+      "bytes": 199939422,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\memory-samples-40940.jsonl",
+      "bytes": 38004,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\network.2026-11-05.11-44-45.txt",
+      "bytes": 26831,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\official-supervise.rgd",
+      "bytes": 38325,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\scarlog.2026-11-05.11-44-45.txt",
+      "bytes": 5914602,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\simmessages.2026-11-05.11-44-45.txt",
+      "bytes": 301958,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\warnings.2026-11-05.11-44-45.txt",
+      "bytes": 6238924,
+      "files": 1
+    },
+    {
+      "relative": "output\\hang-investigation-0309\\windows-hang-events.json",
+      "bytes": 1479,
+      "files": 1
+    },
+    {
+      "relative": "warnings.log",
+      "bytes": 324506,
+      "files": 1
+    }
+  ],
+  "release": "Koreans-Garrison-0.2.11.zip",
+  "protected_rollbacks": [
+    "0.2.4",
+    "0.2.5",
+    "0.2.10"
+  ],
+  "patched_loader_sha256": "1dfd4b6b2a815785ebb207a40d9392c25933f733c23111c892b02b5f75dde47c",
+  "private_evidence_bytes": 3212141,
+  "archived_historical_files": 78,
+  "archived_historical_bytes_removed": 16316801,
+  "archived_historical_zip_bytes": 4664083
+}

@@ -1,0 +1,78 @@
+-- Temporary crash-localization instrumentation. No gameplay writes or API patches.
+-- Imported after the gameplay/voice modules, before any registered Start callback.
+KoreaDiag024State = {installed=false, enabled=true, lines=0, sequence=0, calls=0,
+    stack={}, maxLines=100000, maxGameTime=1200, limited=false}
+local D=KoreaDiag024State
+
+local function primitive(value)
+    local kind=type(value)
+    if kind=="string" then return string.sub(string.gsub(value,"[\r\n]"," "),1,140) end
+    if kind=="number" or kind=="boolean" then return tostring(value) end
+    if kind=="nil" then return "nil" end
+    -- Do not dereference a native player/entity/squad/PBG merely to log it.
+    return "<"..kind..">"
+end
+
+local function emit(kind,site,call,parent,detail)
+    if not D.enabled or D.limited then return end
+    local now=World_GetGameTime()
+    if now>D.maxGameTime or D.lines>=D.maxLines then
+        if not D.limited then
+            D.limited=true
+            print("KOREA024 TRACE_LIMIT reached; later execution is not traced")
+        end
+        return
+    end
+    D.sequence=D.sequence+1;D.lines=D.lines+1
+    print("KOREA024 seq="..tostring(D.sequence).." t="..string.format("%.3f",now)
+        .." kind="..kind.." call="..tostring(call or 0).." parent="..tostring(parent or 0)
+        .." depth="..tostring(#D.stack).." site="..site.." detail="..primitive(detail))
+end
+
+function KoreaDiag024_Mark(site,detail)
+    emit("STEP",site,D.stack[#D.stack],D.stack[#D.stack-1],detail)
+end
+
+local function leave(token,...)
+    emit("EXIT",token.site,token.id,token.parent)
+    D.stack[#D.stack]=nil
+    return ...
+end
+
+local function wrap(name)
+    local original=_G[name]
+    assert(type(original)=="function","Missing diagnostic target: "..name)
+    _G[name]=function(...)
+        if D.limited or not D.enabled then return original(...) end
+        D.calls=D.calls+1
+        local token={id=D.calls,site=name,parent=D.stack[#D.stack] or 0}
+        D.stack[#D.stack+1]=token.id
+        emit("ENTER",name,token.id,token.parent)
+        -- Evaluate the real function before leave(). Preserve every return,
+        -- including nil holes, and allow its original errors to propagate.
+        -- No pcall retry, swallowed error or replacement simulation behavior.
+        return leave(token,original(...))
+    end
+end
+
+function KoreaDiag024_Install()
+    if D.installed then return end
+    D.installed=true
+    local names={
+        "KoreaLifecycle_Ability","KoreaLifecycle_Constructed","KoreaLifecycle_Killed",
+        "KoreaLifecycle_Tick","KoreaLifecycle_Start","KoreaLifecycle_Cleanup",
+        "Korea_Entities","Korea_Squads","Korea_PlayerModifier","Korea_EntityModifier","Korea_RemoveModifier",
+        "KoreaEconomy_Snapshot","KoreaEconomy_Tick",
+        "KoreaEffects_Start","KoreaEffects_Upgrade","KoreaEffects_Transform","KoreaEffects_Kill",
+        "KoreaEffects_Barrage","KoreaEffects_Decree","KoreaEffects_Tick","KoreaEffects_Timers",
+        "KoreaLandmarks_Snapshot","KoreaLandmarks_SpawnGuard","KoreaLandmarks_Research",
+        "KoreaLandmarks_Kill","KoreaLandmarks_Guards","KoreaLandmarks_Tick",
+        "KoreaResearch_Init","KoreaResearch_Observatory","KoreaResearch_Ability","KoreaResearch_Settle",
+        "KoreaResearch_Completed","KoreaResearch_Canceled","KoreaResearch_EntityLost",
+        "KoreaUI_Toggle","KoreaUI_Create","KoreaUI_Kills","KoreaUI_Update","KoreaUI_Cleanup",
+        "KoreaVoice_OnCommand","KoreaVoice_OnKilled","KoreaVoice_Tick",
+        "KoreaVoice_OnLocalPlayerChanged","KoreaVoice_Start","KoreaVoice_Stop"}
+    for _,name in ipairs(names) do wrap(name) end
+    print("KOREA024 DIAGNOSTIC_READY revision=0.2.4; gameplay/art/audio unchanged; trace <=1200 game seconds /100000 lines")
+end
+KoreaDiag024_Install()

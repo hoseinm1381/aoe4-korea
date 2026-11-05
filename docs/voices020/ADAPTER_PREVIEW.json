@@ -1,0 +1,15 @@
+{
+  "status": "preview_only; not active source or build input",
+  "adapted_from": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-vietnam\\source\\scar\\vietnam\\voices_084.scar",
+  "adapter": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\voices020\\scar\\korea\\voices_020.scar",
+  "bank_complete": false,
+  "private_squad_mappings": 43,
+  "engine_contracts": "Existing maintained Vietnam implementation; no new AoE4 API spelling introduced",
+  "pending": [
+    "complete Korean audio and historical-language policy",
+    "shared Scout/naval/siege private consumers and suppression",
+    "bank generation and coverage validation",
+    "start/restore/cleanup hooks into Korea dispatcher",
+    "final package/native listening acceptance"
+  ]
+}

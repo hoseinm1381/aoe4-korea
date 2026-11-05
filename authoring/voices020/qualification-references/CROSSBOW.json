@@ -1,0 +1,17 @@
+{
+  "profile": "CROSSBOW",
+  "file": "authoring\\voices020\\qualification-references\\CROSSBOW.wav",
+  "sha256": "cb8467e4366fb84406dd1fb1e619ef6e18a159110ff55a026030f0562896b69c",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 7.36,
+  "rms": 0.06515185534954071,
+  "raw_peak": 0.82421875,
+  "generation_seconds": 19.704,
+  "seed": 2026110202,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, measured low tenor, meticulous marksman, resonant nasal edge, patient deliberate cadence. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

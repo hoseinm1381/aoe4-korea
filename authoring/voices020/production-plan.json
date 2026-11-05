@@ -1,0 +1,353 @@
+{
+  "schema": "korea.voice-production-plan/v1",
+  "version_target": "0.2.0",
+  "utc": "2026-11-01T23:05:51.852108+00:00",
+  "state": "All recordings, codec finalization and automatic language checks complete; local candidate source promoted; historical/native listening pending",
+  "profiles": [
+    {
+      "id": "ARCHER",
+      "seed": 2026110200,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Young adult Korean man, focused upper tenor, quiet confidence, precise crisp words, very little breath noise. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "BOMBARD",
+      "seed": 2026110201,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Mature Korean man, deep cavernous bass, calm artillery master, slow powerful syllables and restrained force. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "CROSSBOW",
+      "seed": 2026110202,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, measured low tenor, meticulous marksman, resonant nasal edge, patient deliberate cadence. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "GAPSA",
+      "seed": 2026110203,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Mature Korean man, dark bass-baritone, experienced armoured guard, dense rough timbre, restrained authority. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "HANDCANNON",
+      "seed": 2026110204,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, smoky baritone, resolute gunner, energetic projected voice, clipped emphatic consonants. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "HORSEMAN",
+      "seed": 2026110205,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Young adult Korean man, open warm tenor, confident cavalry rider, brisk energetic breath support. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "HWACHA",
+      "seed": 2026110206,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, bright gritty tenor, meticulous rocket crew commander, confident compact rhythmic calls. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "HWARANG_FOOT",
+      "seed": 2026110207,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Young adult Korean man, lyrical clear tenor, proud educated elite warrior, flowing controlled rhythm. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "HWARANG_MOUNTED",
+      "seed": 2026110208,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, bright forward baritone, bold mounted elite, emphatic quick delivery and open vowels. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "LANCER",
+      "seed": 2026110209,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, ringing full baritone, aristocratic mounted warrior, formal disciplined declamation. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "MILITIA",
+      "seed": 2026110210,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, uneven rustic tenor, brave ordinary citizen defending his home, earnest breathy delivery. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "MONK",
+      "seed": 2026110211,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Mature Korean man, deep rounded mellow voice, peaceful Buddhist monk, soft deliberate speech and even breath. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "NAVAL_COMBAT_SHIP",
+      "seed": 2026110212,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, bold open baritone, disciplined light-warship captain, brisk ringing calls. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP",
+      "seed": 2026110213,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Older Korean man, imposing resonant bass-baritone, authoritative heavy-warship admiral, measured strength. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "NAVAL_FIRESHIP",
+      "seed": 2026110214,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Young adult Korean man, tense focused tenor, courageous fire-ship crew leader, urgent compact breath-supported calls. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "NAVAL_FISHING",
+      "seed": 2026110215,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Older Korean man, gentle sandy tenor, experienced coastal fisherman, relaxed wave-like phrasing. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "NAVAL_TRADE",
+      "seed": 2026110216,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Mature Korean man, rounded jovial tenor, maritime merchant, bright sociable delivery with clear rhythm. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "NAVAL_TRANSPORT",
+      "seed": 2026110217,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, low warm baritone, reliable ferry captain, reassuring steady broad vowels. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "NAVAL_TURTLE",
+      "seed": 2026110218,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Mature Korean man, rich sonorous middle baritone, resolute turtle-ship captain, iron composure and clear force. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "NAVAL_WAR_GALLEY",
+      "seed": 2026110219,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Mature Korean man, rasping upper baritone, seasoned galley commander, hard clipped projected words. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "RAM",
+      "seed": 2026110220,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, broad rough bass, strong siege crew chief, short practical calls, forceful steady delivery. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "RIGHTEOUS_MONK",
+      "seed": 2026110221,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Older Korean man, weathered chest baritone, determined warrior monk, calm conviction with a rough edge. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "SCHOLAR",
+      "seed": 2026110222,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Older Korean man, gentle light baritone, patient scholarly official, carefully articulated thoughtful cadence. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "SCOUT",
+      "seed": 2026110223,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Young adult Korean man, nimble light tenor, alert and observant, crisp short phrases, dry clear tone. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "SCOUT_F",
+      "seed": 2026110224,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Young adult Korean woman, clear bright mezzo, vigilant traveller, compact controlled phrases, slight airy edge. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "SPEARMAN",
+      "seed": 2026110225,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, firm middle baritone, disciplined foot soldier, steady chest voice and clean consonants. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "SPRINGALD",
+      "seed": 2026110226,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, dry wiry upper baritone, technical bolt-thrower crew leader, nimble matter-of-fact voice. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "TIGER_HUNTER",
+      "seed": 2026110227,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Mature Korean man, gravelly narrow tenor, seasoned mountain hunter, dry close voice and laconic cadence. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "TRADER",
+      "seed": 2026110228,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Middle-aged Korean man, smiling flexible tenor, experienced merchant, conversational lilting rhythm. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "TREBUCHET",
+      "seed": 2026110229,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Older Korean man, lean metallic baritone, experienced siege engineer, exact and deliberate articulation. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "VILLAGER_F",
+      "seed": 2026110230,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean woman, warm low mezzo voice, capable rural worker, direct practical delivery, light breath texture. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    },
+    {
+      "id": "VILLAGER_M",
+      "seed": 2026110231,
+      "voice_origin": "original fictional Qwen VoiceDesign persona; no real-person imitation",
+      "design_prompt": "Adult Korean man, earthy low-mid voice, friendly village worker, unhurried plain delivery, slightly grainy texture. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+      "qualification_reference_text": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+      "reference_language": "modern Korean technical qualification only, not a historical game line",
+      "reference_historical_acceptance": false
+    }
+  ],
+  "requested_ages": {
+    "A1": {
+      "period": "Silla / Old Korean through tenth century",
+      "confidence": "Low: sparse opaque textual evidence; inferred pronunciation requires explicit reconstruction"
+    },
+    "A2": {
+      "period": "Goryeo / Early Middle Korean",
+      "confidence": "Reconstruction informed by fragmentary Goryeo records and later alphabetic evidence"
+    },
+    "A3": {
+      "period": "Late Goryeo to early Joseon transition",
+      "confidence": "Game-age editorial bridge within Middle Korean, not an independent scholarly language period"
+    },
+    "A4": {
+      "period": "Joseon / fifteenth-sixteenth century Late Middle Korean",
+      "confidence": "Best documented stage; modern Korean TTS still does not prove historical sound values"
+    }
+  },
+  "variation_target": {
+    "alternatives_per_supported_context": 6,
+    "directed_takes_per_line": 3,
+    "take_directions": [
+      "calm acknowledgement",
+      "brisk purposeful acknowledgement",
+      "projected urgent acknowledgement"
+    ],
+    "constraint": "Independently synthesized takes, never pitch/filter copies or duplicate files masquerading as variation",
+    "budget_selected_takes": {
+      "preferred_target": "six lines x three takes",
+      "selected_lines_per_context": 6,
+      "selected_takes": 1,
+      "selection_takes": 3,
+      "movement_combat_work_takes": 2,
+      "reason": "Measured 2-second Vorbis minimum approximately 9169 bytes; 67,091,360-byte remaining civilization media budget. Keep phrase variation, add extra selection takes, preserve art and intelligibility."
+    }
+  },
+  "coverage_constraints": [
+    "Resolve shared Scout, free Villager, naval and siege consumers before claiming complete coverage",
+    "Verify every training/start/spawn/upgrade and human speech owner",
+    "Generate age banks for reachable ages using actual civ age, not unit tech tier alone",
+    "Never assign human speech to animals/unmanned objects; siege/naval human crews may respond",
+    "Generic default action has no verified target discriminator; do not invent repair/conversion commands"
+  ],
+  "release_gates": {
+    "successful_local_korean_inference": false,
+    "historical_script_and_pronunciation_policy_resolved": "candidate approximations explicitly documented; native/expert qualification pending",
+    "complete_voice_coverage": false,
+    "no_original_speech_overlap_source": false,
+    "all_audio_decodes_and_integrity": false,
+    "fresh_native_archive_and_zip": false,
+    "native_listening_acceptance": false
+  },
+  "owner_historical_policy": {
+    "choice": "Use researched approximations",
+    "confirmed_utc": "2026-11-02T02:28:11.746513+00:00",
+    "scope": "Proceed with 0.2.0 historical diction and explicit phonetic/model limits; this does not establish authentic Old/Middle Korean pronunciation or native-speaker acceptance."
+  }
+}

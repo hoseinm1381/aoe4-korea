@@ -563,7 +563,102 @@
                       "key": "$PBGNAME",
                       "hash": 5464984021694833596,
                       "kind": "CString",
-                      "value": "unit_scout_1_chi"
+                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep_black"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep_brown"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep_brown"
                     },
                     {
                       "key": "$PBGMAP",
@@ -801,6 +896,101 @@
                           "hash": 13942860475667539970,
                           "kind": "Float",
                           "value": -4.0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 1.5
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 1.7999999523162842
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.4000000059604645
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 2.0999999046325684
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.800000011920929
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 2.4000000953674316
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.800000011920929
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 2.4000000953674316
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 1.2000000476837158
                         }
                       ]
                     }
@@ -1125,7 +1315,7 @@
                   "key": "food",
                   "hash": 1642648486008160419,
                   "kind": "Float",
-                  "value": 150.0
+                  "value": 200.0
                 },
                 {
                   "key": "action",
@@ -1137,7 +1327,7 @@
                   "key": "gold",
                   "hash": 7631488968183620829,
                   "kind": "Float",
-                  "value": 50.0
+                  "value": 100.0
                 },
                 {
                   "key": "militia_hre",
@@ -1923,6 +2113,101 @@
                       "value": "sbps"
                     }
                   ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep_black"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep_brown"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
+                },
+                {
+                  "key": "squad",
+                  "hash": 530463969022191344,
+                  "kind": "List2",
+                  "value": [
+                    {
+                      "key": "$PBGNAME",
+                      "hash": 5464984021694833596,
+                      "kind": "CString",
+                      "value": "gaia_herdable_sheep_brown"
+                    },
+                    {
+                      "key": "$PBGMAP",
+                      "hash": 1238668035833122403,
+                      "kind": "CString",
+                      "value": "sbps"
+                    }
+                  ]
                 }
               ]
             },
@@ -2133,6 +2418,101 @@
                           "hash": 13942860475667539970,
                           "kind": "Float",
                           "value": -1.0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 1.5
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.0
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 1.7999999523162842
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.4000000059604645
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 2.0999999046325684
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.800000011920929
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 2.4000000953674316
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 0.800000011920929
+                        }
+                      ]
+                    },
+                    {
+                      "key": "position_offset",
+                      "hash": 9998246259385464743,
+                      "kind": "List",
+                      "value": [
+                        {
+                          "key": "y",
+                          "hash": 10278709587161705105,
+                          "kind": "Float",
+                          "value": 2.4000000953674316
+                        },
+                        {
+                          "key": "x",
+                          "hash": 13942860475667539970,
+                          "kind": "Float",
+                          "value": 1.2000000476837158
                         }
                       ]
                     }
@@ -2457,7 +2837,7 @@
                   "key": "food",
                   "hash": 1642648486008160419,
                   "kind": "Float",
-                  "value": 150.0
+                  "value": 200.0
                 },
                 {
                   "key": "action",
@@ -2469,7 +2849,7 @@
                   "key": "gold",
                   "hash": 7631488968183620829,
                   "kind": "Float",
-                  "value": 50.0
+                  "value": 100.0
                 },
                 {
                   "key": "militia_hre",

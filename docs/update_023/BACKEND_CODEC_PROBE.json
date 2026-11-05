@@ -1,0 +1,18 @@
+{
+  "backend": "C:\\Users\\RS\\AppData\\Local\\Garrison\\current\\garrison-audio-backend.exe",
+  "backend_sha256": "ba2df897f800e4c753f088fcb6a8ef2bf2baca8633fe64a273746131a24d0415",
+  "archive_sha256": "112e59cc32f0937cc00d47b846c0673c8d07a8ae2479c9d110bb5c2a63359867",
+  "dummy_process_id": 26916,
+  "game_attached": false,
+  "gain": 0,
+  "sample_paths": [
+    "audio/korea_023/23e10d30d5c9cd03bb4d1d83ed136dbfe0b88580601a1f6a51a10420f383ae8c.ogg",
+    "audio/korea_023/d04a5553242b73e7fc136541c51d4c02b5dba9f74905fbd90898360dd41bf1d8.ogg",
+    "audio/korea_020_efforts/494b48abe039086f2effa8a575d80058583ff91c7e422b746663a5f8a47c459e.ogg",
+    "audio/korea_020_efforts/8ee3da055868673c8b2ab99f577f60fecd9ae66c4f790f10da71fc1e5e02edb6.ogg"
+  ],
+  "played_log_count": 4,
+  "audible_qualified": false,
+  "all_samples_decoded": true,
+  "notes": "Installed normal backend with documented pipe protocol; own diagnostic PID only. No game/client/library edits. Does not qualify normal client backend startup."
+}

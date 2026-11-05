@@ -1,0 +1,17 @@
+{
+  "profile": "HWACHA",
+  "file": "authoring\\voices020\\qualification-references\\HWACHA.wav",
+  "sha256": "b7f5c1c282e1d8d8633ecbcd1a73bdd480f82b6295ed4ec736785460f435c33c",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 7.2,
+  "rms": 0.09392759203910828,
+  "raw_peak": 0.80078125,
+  "generation_seconds": 19.63,
+  "seed": 2026110206,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, bright gritty tenor, meticulous rocket crew commander, confident compact rhythmic calls. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

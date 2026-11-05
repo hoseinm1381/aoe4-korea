@@ -1,0 +1,250 @@
+[
+  {
+    "file": "source/scar/korea/blueprints.scar",
+    "sha256": "b27cd719442684c17e9d1a45e857f142eef10be3c1ff8f227155bba7a304791d",
+    "bytes": 10723,
+    "globals": [
+      "KoreaBlueprints_Available"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/catalog.scar",
+    "sha256": "0ccb2daf42b6ff0193f5b67bc7f4882ffd024c1c7871cff4c31e105072151309",
+    "bytes": 64604,
+    "globals": [],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/core.scar",
+    "sha256": "7deb2fbed3002feedff6bc346f3d60eb3e207716a0d652a299c8f24f83f0bd2a",
+    "bytes": 4216,
+    "globals": [
+      "Korea_Player",
+      "Korea_IsPlayer",
+      "Korea_Name",
+      "Korea_BP",
+      "Korea_Entity",
+      "Korea_Alive",
+      "Korea_Functioning",
+      "Korea_EventPlayer",
+      "Korea_PlayerModifier",
+      "Korea_EntityModifier",
+      "Korea_RemoveModifier",
+      "Korea_AddLiterature",
+      "Korea_Entities",
+      "Korea_Squads",
+      "Korea_HasUpgrade"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/economy.scar",
+    "sha256": "a0cbaf044dcd554a45a52277a903363abf5fd8b2830eb0f671d5e98260123d51",
+    "bytes": 6860,
+    "globals": [
+      "KoreaEconomy_Register",
+      "KoreaEconomy_Snapshot",
+      "KoreaEconomy_Tick"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/effect_catalog.scar",
+    "sha256": "94acec3b66dd72d1d191bbb1a799caba9c2f51b13b6ab02d5311956023e3c86b",
+    "bytes": 15215,
+    "globals": [],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/effects.scar",
+    "sha256": "2f4914822ffc62d15dff2742fbd12cd89471e91346f148c07283aec7dc49aeb8",
+    "bytes": 10141,
+    "globals": [
+      "KoreaEffects_Start",
+      "KoreaEffects_Upgrade",
+      "KoreaEffects_Damage",
+      "KoreaEffects_Transform",
+      "KoreaEffects_Kill",
+      "KoreaEffects_Barrage",
+      "KoreaEffects_Decree",
+      "KoreaEffects_Tick",
+      "KoreaEffects_Timers"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/landmarks.scar",
+    "sha256": "4b2235b24e00184063596f79c8b2350f1ca2464fe985e812fd7e921a21f1494d",
+    "bytes": 5171,
+    "globals": [
+      "KoreaLandmarks_Snapshot",
+      "KoreaLandmarks_SpawnGuard",
+      "KoreaLandmarks_Research",
+      "KoreaLandmarks_Kill",
+      "KoreaLandmarks_Guards",
+      "KoreaLandmarks_Tick"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/lifecycle.scar",
+    "sha256": "2d3beef2a1398a10d79ffc98de24a048ea3647c12895f677a92968efe1a52e8e",
+    "bytes": 7611,
+    "globals": [
+      "KoreaLifecycle_Ability",
+      "KoreaLifecycle_Constructed",
+      "KoreaLifecycle_Killed",
+      "KoreaLifecycle_Tick",
+      "KoreaLifecycle_Start",
+      "KoreaLifecycle_Cleanup"
+    ],
+    "imports": [],
+    "intervals": [
+      "KoreaLifecycle_Tick, 1)"
+    ],
+    "global_events": [
+      "KoreaLifecycle_Ability, GE_AbilityExecuted)",
+      "KoreaResearch_Completed, GE_UpgradeComplete)",
+      "KoreaResearch_Canceled, GE_UpgradeCancelled)",
+      "KoreaLifecycle_Constructed, GE_ConstructionComplete)",
+      "KoreaLifecycle_Killed, GE_EntityKilled)",
+      "KoreaEffects_Damage, GE_DamageReceived)"
+    ]
+  },
+  {
+    "file": "source/scar/korea/research.scar",
+    "sha256": "fe6646b3351af9a5fee0a4347560957dc265797a1fd3a3d4d2281c7afa550b05",
+    "bytes": 6111,
+    "globals": [
+      "KoreaResearch_Init",
+      "KoreaResearch_Observatory",
+      "KoreaResearch_Ability",
+      "KoreaResearch_Settle",
+      "KoreaResearch_Completed",
+      "KoreaResearch_Canceled",
+      "KoreaResearch_EntityLost"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/research_core.scar",
+    "sha256": "c74f3337500738fda1f472388e1e285d7688683a6cb0a6f80c45b183feea5e92",
+    "bytes": 2349,
+    "globals": [
+      "KoreaResearchCore.New",
+      "KoreaResearchCore.Offer",
+      "KoreaResearchCore.Observatory",
+      "KoreaResearchCore.Begin",
+      "KoreaResearchCore.Settle",
+      "KoreaResearchCore.SeowonIncome"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/ui.scar",
+    "sha256": "b4354db54d133f5ead85b13f6cd596be7f3d37c4db39ca3476e39d7a4dd044f3",
+    "bytes": 4599,
+    "globals": [
+      "KoreaUI_Toggle",
+      "KoreaUI_Create",
+      "KoreaUI_Kills",
+      "KoreaUI_Update",
+      "KoreaUI_Cleanup"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/initialization.scar",
+    "sha256": "211efd66197e2bb0fb2e115cffef07dd7e91b3b77e7fba86ee96cb2ce8a8830a",
+    "bytes": 2149,
+    "globals": [
+      "KoreaInitialization_Apply"
+    ],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/korea/voices_020.scar",
+    "sha256": "390e93a2f9fe083aa9331f9977454207eea8666abbc44af3185b58ff002910ac",
+    "bytes": 16315,
+    "globals": [
+      "KoreaVoice_OnCommand",
+      "KoreaVoice_OnKilled",
+      "KoreaVoice_Tick",
+      "KoreaVoice_OnLocalPlayerChanged",
+      "KoreaVoice_Start",
+      "KoreaVoice_Stop"
+    ],
+    "imports": [
+      "garrison/garrison.scar",
+      "korea/voice_bank_020.scar"
+    ],
+    "intervals": [
+      "KoreaVoice_Tick,.25)"
+    ],
+    "global_events": [
+      "KoreaVoice_OnLocalPlayerChanged,GE_LocalPlayerChanged)"
+    ]
+  },
+  {
+    "file": "source/scar/korea/voice_bank_020.scar",
+    "sha256": "4c1e0931e5354bbde7a775888c567a84682c3694c18b152bf89b7ea6ffdc0401",
+    "bytes": 1575601,
+    "globals": [],
+    "imports": [],
+    "intervals": [],
+    "global_events": []
+  },
+  {
+    "file": "source/scar/garrison/korea/dispatcher.scar",
+    "sha256": "660adf77b57ba1bb25d861ca153ed204b941484b3d3b73a2683254194847ab45",
+    "bytes": 2642,
+    "globals": [
+      "KoreaIndependent_OnGameSetup",
+      "KoreaIndependent_OnInit",
+      "KoreaIndependent_Start",
+      "KoreaIndependent_OnGameRestore",
+      "KoreaIndependent_OnGameOver"
+    ],
+    "imports": [
+      "cardinal.scar",
+      "korea/catalog.scar",
+      "korea/core.scar",
+      "korea/blueprints.scar",
+      "korea/initialization.scar",
+      "korea/research_core.scar",
+      "korea/research.scar",
+      "korea/effect_catalog.scar",
+      "korea/effects.scar",
+      "korea/economy.scar",
+      "korea/landmarks.scar",
+      "korea/ui.scar",
+      "korea/lifecycle.scar",
+      "korea/voices_020.scar"
+    ],
+    "intervals": [],
+    "global_events": []
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "profile": "NAVAL_FISHING",
+  "file": "authoring\\voices020\\qualification-references\\NAVAL_FISHING.wav",
+  "sha256": "f49d93669d0501024e27fbe3e7fe2656ec2787b152eaf7daef64719012ba2d8f",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.88,
+  "rms": 0.03450756147503853,
+  "raw_peak": 0.490234375,
+  "generation_seconds": 18.592,
+  "seed": 2026110215,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Older Korean man, gentle sandy tenor, experienced coastal fisherman, relaxed wave-like phrasing. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

@@ -1,0 +1,1083 @@
+{
+  "schema": "korea.shared-voice-isolation-preview/v1",
+  "status": "preview only; source/callers not promoted; no audio bank active",
+  "active_source_changed": false,
+  "files": [
+    {
+      "official_source": "sbps/races/chinese/unit_scout_1_chi",
+      "official_sha256": "4d41e23b98540d8ff281ffd0fa94dcf718c3e6d335e60a289d5755c04505d18f",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_59f30565666532.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532",
+      "native_roundtrip": true,
+      "candidate_sha256": "fbbeee2f8b70a9054f892228ca5864f176adbca7195178fa126a6bbe567e1e1f",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_59f30565666532",
+          "family": "sbps",
+          "source": "sbps/races/chinese/unit_scout_1_chi",
+          "file": "sbps/garrison/korea/kr020_voice_59f30565666532",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_scout_1_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5e2d291ae1bf01"
+        },
+        {
+          "operation": "private_loadout",
+          "path": "/cordoba/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_scout_1_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5e2d291ae1bf01"
+        },
+        {
+          "operation": "private_loadout",
+          "path": "/campaign/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_scout_1_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5e2d291ae1bf01"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/cordoba/squad_speech_ext"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/campaign/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese/units/unit_scout_1_chi",
+      "official_sha256": "504a6cae3f923e2892f411ac2ee5a1d2a02d9da1cbd505d9845f088c2eb6bb93",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_5e2d291ae1bf01.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5e2d291ae1bf01",
+      "native_roundtrip": true,
+      "candidate_sha256": "f3d571ff8610ca158467a6280f1e31aa411ae2499517dd652b8379930eb7e2b0",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_5e2d291ae1bf01",
+          "family": "ebps",
+          "source": "ebps/races/chinese/units/unit_scout_1_chi",
+          "file": "ebps/garrison/korea/kr020_voice_5e2d291ae1bf01",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5e2d291ae1bf01",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier1_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5bc9e46b080381"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier2_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_10a7eb6dc1fab1"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier3_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_4539323c88290f"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier4_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d59caa0e5bcb82"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/cordoba/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier1_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5bc9e46b080381"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/cordoba/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier2_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_10a7eb6dc1fab1"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/cordoba/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier3_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_4539323c88290f"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/cordoba/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier4_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d59caa0e5bcb82"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/campaign/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier1_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5bc9e46b080381"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/campaign/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier2_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_10a7eb6dc1fab1"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/campaign/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier3_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_4539323c88290f"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/campaign/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier4_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d59caa0e5bcb82"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/cordoba/speech_ext"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/campaign/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_scout_1_chi_ha_01",
+      "official_sha256": "fea31d907b45e9f27ca6e775874d292654ed2cfe80e075878179c2a652b5c991",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_6979f0a6ec6c93.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93",
+      "native_roundtrip": true,
+      "candidate_sha256": "cf09e8e203e8941f9266883e7cfd584c2ae9e1e66f30a1a08a8f0c35695c1f6f",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_6979f0a6ec6c93",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_scout_1_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_6979f0a6ec6c93",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_scout_1_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_781f9733cf5fc3"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_scout_1_chi_ha_01",
+      "official_sha256": "953139fc5ab6a3ed8cafc41d3c423e3bf819df30648a69cfcdbf32ac639534a0",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_781f9733cf5fc3.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_781f9733cf5fc3",
+      "native_roundtrip": true,
+      "candidate_sha256": "b040c2ee7d3b016ca1d7ac436457e59306e6bfd5667e938e3fda3abee6a5ad8e",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_781f9733cf5fc3",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_scout_1_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_781f9733cf5fc3",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_781f9733cf5fc3",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier1_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5bc9e46b080381"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier2_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_10a7eb6dc1fab1"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier3_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_4539323c88290f"
+        },
+        {
+          "operation": "private_speaker_attachment",
+          "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+          "before": "tier4_cavalry_scout_chi",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d59caa0e5bcb82"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_villager_free_chi_ha_01",
+      "official_sha256": "839a431d9bbe0ca683f16d95c7704d3b1b83366b4f9ef7ee1416727bc26a13d3",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_f2eec27e3c7c51.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51",
+      "native_roundtrip": true,
+      "candidate_sha256": "94b549e762ecaab391e1057847c9ddee76b76ebabd8826545e9d9ae7805779d0",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_f2eec27e3c7c51",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_villager_free_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_f2eec27e3c7c51",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_villager_free_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5d086f1bf5ec6f"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_villager_free_chi_ha_01",
+      "official_sha256": "5439c2799ec0ee7ecf48af5fb45fb54d0c611bf1c48f660cf1baceed5351cd43",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_5d086f1bf5ec6f.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5d086f1bf5ec6f",
+      "native_roundtrip": true,
+      "candidate_sha256": "3161f314c910b95b52dd5c5fac6d1774c277c33338ee1b57cf1103d2d34d4879",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_5d086f1bf5ec6f",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_villager_free_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_5d086f1bf5ec6f",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5d086f1bf5ec6f",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": []
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_naval_transport_ship_2_chi_ha_01",
+      "official_sha256": "212c7abcbcfe3edf4a5e6339a24005282a8c0acae31fdb0c8ce5c03069e03d28",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_6e7fdb8da5384f.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f",
+      "native_roundtrip": true,
+      "candidate_sha256": "973d8a4b03e978086fcb89b74d97a15b27085089f3dad185e5ec5217eb15e320",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_6e7fdb8da5384f",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_naval_transport_ship_2_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_6e7fdb8da5384f",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_naval_transport_ship_2_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_e85e11f54867f6"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_naval_transport_ship_2_chi_ha_01",
+      "official_sha256": "23511f73899c62aae25a572b36da776c99b6fb62f8f9a3838eb675006241ff98",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_e85e11f54867f6.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_e85e11f54867f6",
+      "native_roundtrip": true,
+      "candidate_sha256": "147e1f73fd9decbb8f761ab458e63e8eabcf1827435c75369c859d96be2eed4a",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_e85e11f54867f6",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_naval_transport_ship_2_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_e85e11f54867f6",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_e85e11f54867f6",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_naval_combat_ship_2_chi_ha_01",
+      "official_sha256": "66d1192ad481d7ce93bb6d7b1cd53fe8ec1c4a4a404dbe10df85dfceb3a3d886",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_32868d99f002a4.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4",
+      "native_roundtrip": true,
+      "candidate_sha256": "d3e8924ea2e1c8b86094fcb2d5eac7805c61916f01dfb497c13e9811581ded6c",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_32868d99f002a4",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_naval_combat_ship_2_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_32868d99f002a4",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_naval_combat_ship_3_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_9caca3672d497b"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_naval_combat_ship_3_chi_ha_01",
+      "official_sha256": "d86c370bbbdeddec21f2443b17dfde2bc763a7a0a9ae47fd2c6c04d06860595b",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_9caca3672d497b.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_9caca3672d497b",
+      "native_roundtrip": true,
+      "candidate_sha256": "48eabab596433bd66aadf970a142ba6561400e5f4196abfa6eaa675aded4dc1d",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_9caca3672d497b",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_naval_combat_ship_3_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_9caca3672d497b",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_9caca3672d497b",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_naval_combat_warship_4_chi_ha_01",
+      "official_sha256": "d09e2b0df8c9e58edb6aed4e5661e222821b66e3c4fe08c2c61a6eb216e4d381",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_2f9f9d13f16ad2.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2",
+      "native_roundtrip": true,
+      "candidate_sha256": "1aaedf8a3d996f3d81e34b110409d9cff7596cea7dcc9b49f599251c0e21278d",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_2f9f9d13f16ad2",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_naval_combat_warship_4_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_2f9f9d13f16ad2",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_naval_combat_warship_4_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_308f9361478b35"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_naval_combat_warship_4_chi_ha_01",
+      "official_sha256": "55c0e26700d8f28dd7588edee12532d86f3d39f69eef1bb7161d9856d95b8304",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_308f9361478b35.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_308f9361478b35",
+      "native_roundtrip": true,
+      "candidate_sha256": "50a1d1fdfefdde7bc1fe0a111671ae77edb1731599632411d0495c973e56c5ad",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_308f9361478b35",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_naval_combat_warship_4_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_308f9361478b35",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_308f9361478b35",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_naval_war_galley_3_chi_ha_01",
+      "official_sha256": "65d82913093b3ef1d807147c15b7f09aff8ee4e261695d22d9058b1077b1c01b",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_af468f11e92e3b.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b",
+      "native_roundtrip": true,
+      "candidate_sha256": "b8ecc331bb722ed68ae11a132df7cd5cff43546ad9616fc1e1542f029dc2440c",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_af468f11e92e3b",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_naval_war_galley_3_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_af468f11e92e3b",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_naval_war_galley_3_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_26ad2ddcc585bc"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_naval_war_galley_3_chi_ha_01",
+      "official_sha256": "3d6281400f869121485e540e70193b74ea06705e5e2c2d8dbe848c23234aa338",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_26ad2ddcc585bc.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_26ad2ddcc585bc",
+      "native_roundtrip": true,
+      "candidate_sha256": "c5812ddc428532c766e1a252243bcfa1272c5c3bebe96fe6021e0c2eaa257cec",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_26ad2ddcc585bc",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_naval_war_galley_3_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_26ad2ddcc585bc",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_26ad2ddcc585bc",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_naval_trade_ship_3_chi_ha_01",
+      "official_sha256": "3f97d3ee85d44cde979d15368d5c02cf033a85495fa35d3b86d132dff8baaaa4",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_a6ec658a2c33ce.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce",
+      "native_roundtrip": true,
+      "candidate_sha256": "2561be50123e381289edd39be42efd835435f51d3322fd8ddc4cee40e335583b",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_a6ec658a2c33ce",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_naval_trade_ship_3_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_a6ec658a2c33ce",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_naval_trade_ship_3_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_da360539313291"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_naval_trade_ship_3_chi_ha_01",
+      "official_sha256": "78cf3a474467d6708526bb969c22b3a513b97b78ac29b1044b2c68866a8135b9",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_da360539313291.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_da360539313291",
+      "native_roundtrip": true,
+      "candidate_sha256": "ac0d6b168921738d959286298b424c9ce1a0a92217a98141c5672cfeb5f6017a",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_da360539313291",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_naval_trade_ship_3_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_da360539313291",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_da360539313291",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_springald_3_chi_ha_01",
+      "official_sha256": "4074a2532aa3e29579d34fe535100bbb77a70602bfcd623002384b0a6ef589d2",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_d871be36142376.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376",
+      "native_roundtrip": true,
+      "candidate_sha256": "6bc1ec9aef29a6aeeebc74911a67b65a9bd13e6da0d7b9a32ee9c4bd47ab819d",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_d871be36142376",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_springald_3_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_d871be36142376",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_springald_3_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_c59525555fd516"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_springald_3_chi_ha_01",
+      "official_sha256": "03031f2a5c3ecc69a8555f7dad554237f55a168f9c8da5d0e38ae5cfa29e7c33",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_c59525555fd516.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_c59525555fd516",
+      "native_roundtrip": true,
+      "candidate_sha256": "b16d251b38ace9d19e3d75f357110795c0f60f652ea100b869a46fb38208c5bf",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_c59525555fd516",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_springald_3_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_c59525555fd516",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_c59525555fd516",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "sbps/races/chinese_ha_01/unit_bombard_4_chi_ha_01",
+      "official_sha256": "f0341b920f0336ed458fb66a22f9bc5272865c391a5df28f10ac7d4ce9c315b8",
+      "private_member": "attrib/sbps/garrison/korea/kr020_voice_0604e26e9c1721.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721",
+      "native_roundtrip": true,
+      "candidate_sha256": "fbc6458333f6e6d7b7c0eab37691dacbafb87b280ccd334f17524bf278d044c6",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_0604e26e9c1721",
+          "family": "sbps",
+          "source": "sbps/races/chinese_ha_01/unit_bombard_4_chi_ha_01",
+          "file": "sbps/garrison/korea/kr020_voice_0604e26e9c1721",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "before": "unit_bombard_4_chi_ha_01",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_215e03a4759b94"
+        },
+        {
+          "operation": "private_loadout",
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/unit_attachments/unit/type",
+          "before": "unit_siege_cart",
+          "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8c4ebd958bd27c"
+        },
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/squad_speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/chinese_ha_01/units/unit_bombard_4_chi_ha_01",
+      "official_sha256": "b47912dbfb7242f6c311051acc3209b7f3b4281395fc90c0fba5bf54c290c3f0",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_215e03a4759b94.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_215e03a4759b94",
+      "native_roundtrip": true,
+      "candidate_sha256": "69f453a4ff33407c000a8761598cf0446cf593fe9796630e751b4c06f2d4f8fb",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_215e03a4759b94",
+          "family": "ebps",
+          "source": "ebps/races/chinese_ha_01/units/unit_bombard_4_chi_ha_01",
+          "file": "ebps/garrison/korea/kr020_voice_215e03a4759b94",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_215e03a4759b94",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "remove_native_speech_table",
+          "path": "/default/speech_ext"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/dev/units/unit_siege_cart",
+      "official_sha256": "2fea59530bfed95a9c37b13af682ac3a4de74b19bb3736f6db8e1b62c1c50ef2",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_8c4ebd958bd27c.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8c4ebd958bd27c",
+      "native_roundtrip": true,
+      "candidate_sha256": "8c00991a5c0bf428333d87e711d86a1fc4ca5b79cebde9be7ad25b1e5bed939a",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_8c4ebd958bd27c",
+          "family": "ebps",
+          "source": "ebps/dev/units/unit_siege_cart",
+          "file": "ebps/garrison/korea/kr020_voice_8c4ebd958bd27c",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8c4ebd958bd27c",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": []
+    },
+    {
+      "official_source": "attachments/attachment_lists/civilizations/chinese/units/tier1_cavalry_scout_chi",
+      "official_sha256": "36cba7344075d97d0b6fb10ba4465778047619ae4e17c1e5be80bb470a093dc7",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_5bc9e46b080381.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5bc9e46b080381",
+      "native_roundtrip": true,
+      "candidate_sha256": "ebdc547f5d82388241a3457447baf374cf1a4e0c5e7ebf2e0da82785c864413d",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_5bc9e46b080381",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/chinese/units/tier1_cavalry_scout_chi",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_5bc9e46b080381",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5bc9e46b080381",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scoutFemale"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scoutFemale"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        }
+      ]
+    },
+    {
+      "official_source": "attachments/attachment_lists/civilizations/chinese/units/tier2_cavalry_scout_chi",
+      "official_sha256": "6a582b83802bab91c0a33e978436ed580c22521cde78287bdf6f52b5c451cfb6",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_10a7eb6dc1fab1.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_10a7eb6dc1fab1",
+      "native_roundtrip": true,
+      "candidate_sha256": "15dfb7cb29f1907ff39fe2bf97b1636170978b56ddc0d640027c0750e654e92b",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_10a7eb6dc1fab1",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/chinese/units/tier2_cavalry_scout_chi",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_10a7eb6dc1fab1",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_10a7eb6dc1fab1",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scoutFemale"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scoutFemale"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        }
+      ]
+    },
+    {
+      "official_source": "attachments/attachment_lists/civilizations/chinese/units/tier3_cavalry_scout_chi",
+      "official_sha256": "f131d990d399d31f2d9aba3210db1cce67dd0dbe466b67bf0cd82959cb57683b",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_4539323c88290f.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_4539323c88290f",
+      "native_roundtrip": true,
+      "candidate_sha256": "2e5ead104ace022481aba07ce4e55c18a9dee3258abeda98cd1861fead47c7cb",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_4539323c88290f",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/chinese/units/tier3_cavalry_scout_chi",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_4539323c88290f",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_4539323c88290f",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scoutFemale"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scoutFemale"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        }
+      ]
+    },
+    {
+      "official_source": "attachments/attachment_lists/civilizations/chinese/units/tier4_cavalry_scout_chi",
+      "official_sha256": "4e28c4a5dbbbeb8a22af2b37afab0990926b188fe1d98b94e99902cdddba0c24",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_d59caa0e5bcb82.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d59caa0e5bcb82",
+      "native_roundtrip": true,
+      "candidate_sha256": "a08b203654724604a60b6ba8edd037456c2e34abafb57546b5cd0bff09c03f24",
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_d59caa0e5bcb82",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/chinese/units/tier4_cavalry_scout_chi",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_d59caa0e5bcb82",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d59caa0e5bcb82",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "edits": [
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scoutFemale"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scoutFemale"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        },
+        {
+          "operation": "clear_attachment_speaker",
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "before": "scout"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "category": "ebps",
+      "original": "unit_bombard_4_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_215e03a4759b94"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_naval_combat_ship_3_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_9caca3672d497b"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_naval_combat_warship_4_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_308f9361478b35"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_naval_trade_ship_3_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_da360539313291"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_naval_transport_ship_2_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_e85e11f54867f6"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_naval_war_galley_3_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_26ad2ddcc585bc"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_scout_1_chi",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5e2d291ae1bf01"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_scout_1_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_781f9733cf5fc3"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_siege_cart",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8c4ebd958bd27c"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_springald_3_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_c59525555fd516"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_villager_free_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_5d086f1bf5ec6f"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_bombard_4_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_naval_combat_ship_2_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_naval_combat_warship_4_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_naval_trade_ship_3_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_naval_transport_ship_2_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_naval_war_galley_3_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_scout_1_chi",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_scout_1_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_springald_3_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
+    },
+    {
+      "category": "sbps",
+      "original": "unit_villager_free_chi_ha_01",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
+    }
+  ]
+}

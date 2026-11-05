@@ -1,0 +1,35 @@
+{
+  "version": "0.2.4",
+  "staging": {
+    "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "version": "0.2.4",
+    "mode": "applied",
+    "targets": [
+      {
+        "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current\\prepared",
+        "files": 528,
+        "logical_bytes": 13025526
+      },
+      {
+        "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current\\delivery",
+        "files": 5,
+        "logical_bytes": 574001999
+      },
+      {
+        "path": "F:\\aoe_4_temp\\Temp_aoe4\\k20\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\diagnostic024-current",
+        "files": 20570,
+        "logical_bytes": 1858061091
+      }
+    ],
+    "logical_bytes": 2445088616,
+    "zip_sha256_before": "b0544f10ac45604968502330c977f99cef735a67b086c976f321cfa98d2eab89",
+    "native_inputs_and_master_indexes_unchanged": true,
+    "release_and_source_inputs": "preserved",
+    "zip_sha256_after": "b0544f10ac45604968502330c977f99cef735a67b086c976f321cfa98d2eab89"
+  },
+  "extra_compacted_metadata_bytes": 8786453,
+  "logical_bytes_removed": 2453875069,
+  "player_and_rollback_zip_hashes_verified_after_cleanup": true,
+  "native_inputs_master_indexes_sources_audio_models_diagnostic_logs_and_recipes": "preserved",
+  "broad_cleanup": false
+}

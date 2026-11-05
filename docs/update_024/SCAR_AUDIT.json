@@ -1,0 +1,44 @@
+{
+  "scope": "Every current authored Korea SCAR file plus its unchanged packaged Garrison helper; literal data tables included in inventory and Lua compilation",
+  "root_cause_confirmed": false,
+  "crash_fixed": false,
+  "native_reproduction_performed": false,
+  "supplied_session": {
+    "mode": "Native Standard with Korean private owner and initialized gameplay/voices",
+    "owner_report": "Crash at game clock 6:42, random single player, no save/load",
+    "last_record": "23:28:26.326 Tick -- Adding 1775 ms extension to hang detection temporarily",
+    "fatal_scar_stack": "Absent",
+    "observed_hwarang_conversion": "Mounted Hwarang ability acknowledgement 23:25:25.586; foot Hwarang bound 23:25:25.871; later mounted Hwarang move recorded",
+    "interpretation": "Correct Korea evidence now exists, but tail does not identify an interrupted callback/native fault. Prior 45-second/20-voice print limits leave most of this run untraced."
+  },
+  "files_reviewed": {
+    "dispatcher.scar": "Imports/lifecycle/start/restore/game-over, owner and player gating. New diagnostic import is after definitions and before callbacks register. Standard remains army/victory owner.",
+    "core.scar": "Cached private BP lookup, valid-ID/life tests, entity/squad snapshots, event player resolution, persistent/timed modifier registration/removal. Borrowed Player_GetSquads observer is not destroyed. Snapshot and modifier native boundaries instrumented.",
+    "initialization.scar": "One-time Dark Age/native starting-army checks with spawned-only squad/entity enumeration. No delayed 402-second activity. Unchanged.",
+    "lifecycle.scar": "One 1-second interval, global ability/construction/kill/damage/upgrade callbacks, cleanup removal and player state. Definitions unchanged; paired wrappers register under the same final global callback identities.",
+    "economy.scar": "Seowon neutral scan/reward, academy and scholar snapshots, 15s academy income, 6s Hangul, 30s naval income, supervised dropoffs. Native handles and state reads/writes merit runtime localization; no specific failing handle proven. All timers/order retained.",
+    "landmarks.scar": "Full player entity snapshot, one-time guards/observatory, capped stone rewards, 20s guard spawning, 5s patrol, 10s kill income and Imperial palace death-position read. Palace/Jinju/Hall branches are lower-priority in the supplied Age-II screenshot, unless the test advanced farther.",
+    "effects.scar": "Per-upgrade guard precedes automatic follow-up completion. Damage debuffs, mounted/foot entity+squad conversion, barrage commands/timers and decrees reviewed. Existing conversion order has official chatcheats.scar analogue; no speculative rewrite. Native conversion, modifier and command boundaries instrumented.",
+    "research.scar": "Native paid costs, private routes, deterministic offers, queue, single-settlement/refund and lost-actor events. Existing receipt/duplicate-settlement guards preserved. Callback, queue and settlement markers identify re-entry or interruptions.",
+    "research_core.scar": "Pure deterministic policy functions, bounded candidate choice, pending/completed ledger and pure income formula. No engine calls, interval, event registration or wall-clock/local-player dependency. Unchanged.",
+    "ui.scar": "Local presentation, no direct gameplay grants; route/upgrade UI queries and periodic DataContext publication. Publication and BP-UI lookup bracketed to separate UI/native from simulation.",
+    "voices_020.scar": "0.25s local presentation and 1s roster refresh, cooldowns, PBG matching, recycled-ID/blueprint/owner checks, per-squad callback ownership and stop cleanup. Track/retire/register, selection, activity, pulse and submissions instrumented. Existing controller decisions unchanged.",
+    "blueprints.scar": "Literal prematch roster and bounded existence checks; no match-time production/timer loop. Unchanged.",
+    "catalog.scar": "Literal native identity/research fee/reference data. Unchanged and final native schema/reference validation required.",
+    "effect_catalog.scar": "Literal weapon/property/upgrade effect mappings. Unchanged; applied effects go through traced existing helpers.",
+    "voice_bank_020.scar": "Literal role/age/context/gender/PBG/clip data. Entire bank compiled; exact 0.2.3 bytes preserved. No new audio encoding/decoding changes.",
+    "resources/scar/garrison/garrison.scar": "Matching installed 0.1.13 helper SHA preserved; existing real MessagePack/session tests retained. Not wrapped or edited as an engine API.",
+    "diagnostics_024.scar": "New project-only wrappers plus primitive-safe STEP formatting, paired unique callback IDs/parent/depth and explicit hard cap. No engine globals patched, retries, swallowed errors, rules, commands or resource writes."
+  },
+  "priority_test_hypotheses": [
+    "Hwarang conversion -> native model/equipment transition and voice callback retirement/rebind; exercise mounted/foot cycles, move and attack",
+    "Seowon construction/production, scholar snapshot and 6s/15s income near deaths or newly spawned units; exercise training/loss near Seowon",
+    "Kill/research/construction native event re-entry, timed modifier expiry or barrage Stop; pair callbacks and native boundaries",
+    "UI/native or asynchronous model/render problem if final callbacks all close; missing-leg/extra-bow visuals remain deferred and are not excluded as a possible native asset factor"
+  ],
+  "no_unique_642_trigger_found": true,
+  "official_evidence": "MCP_API_EVIDENCE.json: exact World_GetGameTime and Entity_SetHealth contracts; entity-then-squad conversion used by official gameplay/chatcheats.scar:59-60. Existing low-use Player_GetEntitiesEGroup/Player_GetAbilityBPCost signatures and Rule_RemoveSquadEvent wrapper are retained in update_023/MCP_API_RESOLUTION.json.",
+  "static_warning_triage": "Lua and/or/not tokens are lexical false positives. Garrison audio calls are defined by unchanged imported helper. PLAYERS is supplied by dispatcher cardinal import. Player_GetSquads is engine-owned; destroying it would be incorrect. No unknown API was replaced by a guessed fallback.",
+  "validation": "56 current behavior/diagnostic/stress tests; complete 17-file Lua compile and static/MCP checks. Fresh native/package checks are recorded separately on build completion.",
+  "diagnostic_limits": "Logging adds overhead and may change timing; bounded at 1200 game seconds/100000 lines. Forty-five project functions and selected native boundaries are traced, not every individual engine getter. High-frequency unrelated global damage callbacks are not paired; qualifying Korean spear-debuff work is marked after its guards to bound spam. Unmatched ENTER/STEP or silence can reflect buffered output/native asynchronous failure and is not alone root-cause proof."
+}

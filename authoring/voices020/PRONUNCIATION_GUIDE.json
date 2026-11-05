@@ -1,0 +1,121 @@
+{
+  "schema": "korea.pronunciation-direction/v1",
+  "recording_manifest_sha256": "6289cad8eab612345cc919910de7ed79c459dee35e3447fbc34568b986922d9a",
+  "applies_to": "Every record in VOICE_SCRIPTS.json; per-record historical_target/synthesis_text/phonetic_respellings remain authoritative.",
+  "status": "Explicit modern-model approximation; historical/native review pending.",
+  "age_directions": {
+    "1": {
+      "period": "Silla / Old Korean game-age projection",
+      "text_confidence": "low",
+      "basis": [
+        "period_old",
+        "reconstruction_limits",
+        "nora",
+        "na_history"
+      ],
+      "limit": "Middle Korean-informed retrojection, not an attested Silla sentence or recovered Silla recording."
+    },
+    "2": {
+      "period": "Goryeo / Early Middle Korean projection",
+      "text_confidence": "low-to-moderate",
+      "basis": [
+        "period_middle",
+        "reconstruction_limits",
+        "nora"
+      ],
+      "limit": "Creative response sentences informed by later grammatical evidence; no exact Goryeo utterance attestation."
+    },
+    "3": {
+      "period": "Late Goryeo / early Joseon editorial transition",
+      "text_confidence": "moderate for cited lexemes; low for full-sentence dating",
+      "basis": [
+        "period_middle",
+        "nora",
+        "nireuda",
+        "gotida"
+      ],
+      "limit": "Game-age bridge, not a separately established linguistic stage."
+    },
+    "4": {
+      "period": "Joseon / Late Middle Korean-inspired game dialogue",
+      "text_confidence": "moderate for cited forms; original composed utterances",
+      "basis": [
+        "alphabet",
+        "nora",
+        "nireuda",
+        "gotida",
+        "wood_primary"
+      ],
+      "limit": "Full pitch accents, old clusters, precise araea and lost fricatives are not validated by modern Korean TTS."
+    }
+  },
+  "tts_respellings": [
+    {
+      "historical_written_target": "ᄒᆞ",
+      "synthesis_input": "허",
+      "direction": "Operational respelling for the modern Korean model; not a validated sound correspondence or recovered phoneme."
+    },
+    {
+      "historical_written_target": "ᄅᆞᆯ",
+      "synthesis_input": "럴",
+      "direction": "Operational respelling for the modern Korean model; not a validated sound correspondence or recovered phoneme."
+    },
+    {
+      "historical_written_target": "ᄅᆞ",
+      "synthesis_input": "러",
+      "direction": "Operational respelling for the modern Korean model; not a validated sound correspondence or recovered phoneme."
+    },
+    {
+      "historical_written_target": "ᄋᆞᆯ",
+      "synthesis_input": "얼",
+      "direction": "Operational respelling for the modern Korean model; not a validated sound correspondence or recovered phoneme."
+    },
+    {
+      "historical_written_target": "ᄋᆞ",
+      "synthesis_input": "어",
+      "direction": "Operational respelling for the modern Korean model; not a validated sound correspondence or recovered phoneme."
+    },
+    {
+      "historical_written_target": "ᄆᆞ",
+      "synthesis_input": "머",
+      "direction": "Operational respelling for the modern Korean model; not a validated sound correspondence or recovered phoneme."
+    },
+    {
+      "historical_written_target": "ᄊᆞᆷ",
+      "synthesis_input": "썸",
+      "direction": "Operational respelling for the modern Korean model; not a validated sound correspondence or recovered phoneme."
+    }
+  ],
+  "unqualified_features": [
+    "Full Old Korean phoneme inventory and sentence prosody",
+    "Exact araea quality and historical vowel contrasts",
+    "Lost fricatives including the historical pansios contrast",
+    "Middle Korean pitch accent and consonant-cluster realization",
+    "Complete original utterance dating; game lines are composed rather than quoted"
+  ],
+  "actor_direction": [
+    "Keep each fictional role/gender reference consistent across appearance variants.",
+    "Use clear Korean articulation; do not imitate a real actor or fabricate regional-historical authenticity.",
+    "Age progression is in diction and composed responses; it is not validated physiological voice aging.",
+    "Takes are independently sampled with punctuation cues; intended emotion requires listening review.",
+    "A starred first-age form is an uncertain retrojection, never an attested Silla command."
+  ],
+  "review_evidence": [
+    "language-screening.jsonl: all takes included in grouped modern language identification",
+    "transcription-samples.jsonl: three representative takes per profile/age, with modern ASR disagreements retained",
+    "docs/voices020/VOICE_REVIEW.html: local listening page generated after encoding finalization"
+  ],
+  "primary_source_locators": {
+    "period_old": "https://www.cambridge.org/core/books/abs/korean/historical-background/D9A158DD0C2CEB58F2CFF2CAC6926FBD",
+    "period_middle": "https://www.cambridge.org/core/books/abs/history-of-the-korean-language/early-middle-korean/FF9996225A244622289FABDB3810E592",
+    "reconstruction_limits": "https://assets.cambridge.org/97805216/61898/excerpt/9780521661898_excerpt.htm",
+    "nora": "https://www.korean.go.kr/nkview/nklife/1995_2/5_12.html",
+    "na_history": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002398451",
+    "nireuda": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=261&pageIndex=1&qna_seq=323140",
+    "gotida": "https://www.korean.go.kr/common/download.do?c_file_name=36d2c7f7-3b41-4633-8bbe-6d1f4a31e115_0.pdf&file_path=reportData&o_file_name=국어책임관 어떤일을하나_본문.pdf",
+    "alphabet": "https://m.hangeul.go.kr/lang/en/html/education/Hangeul.do",
+    "lost_z": "https://encykorea.aks.ac.kr/Article/E0021565",
+    "tone_limits": "https://waks.aks.ac.kr/rsh/dir/rview.aspx?dataID=AKS-2013-CKD-1240001_DIC%4000003337&rshID=AKS-2013-CKD-1240001",
+    "wood_primary": "https://ko.wikisource.org/wiki/페이지:언역_분류두공부시_(009).pdf/13"
+  }
+}

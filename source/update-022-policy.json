@@ -1,0 +1,11 @@
+{
+  "allowed_changed": [
+    "scar/korea/voices_020.scar",
+    "scar/korea/lifecycle.scar"
+  ],
+  "allowed_added": [
+    "audio/events.json",
+    "scar/garrison/garrison.scar"
+  ],
+  "allowed_removed": []
+}

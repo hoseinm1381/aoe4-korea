@@ -1,0 +1,17 @@
+{
+  "profile": "SPRINGALD",
+  "file": "authoring\\voices020\\qualification-references\\SPRINGALD.wav",
+  "sha256": "32cdd1c8c65aae2b6b29f61549a017127265982527476d15e4c00c5a23550b4f",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.16,
+  "rms": 0.06251717358827591,
+  "raw_peak": 0.61328125,
+  "generation_seconds": 16.656,
+  "seed": 2026110226,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, dry wiry upper baritone, technical bolt-thrower crew leader, nimble matter-of-fact voice. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

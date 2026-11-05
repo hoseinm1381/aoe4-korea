@@ -1,0 +1,17 @@
+{
+  "state": "0.2.2 owner-reported working; requested cleanup and mandatory skill rule completed",
+  "completion": "COMPLETION.json",
+  "source": "Existing standalone Korea only. tools/release022.py verify then tools/build.py --replace-current.",
+  "remaining": [
+    "Per-family/age/context native listening and overlap matrix beyond the owner report",
+    "Freeze cause/reproduction status remains unconfirmed",
+    "Native five-sheep/model/research checks beyond the owner report",
+    "Historical/native-speaker review; save/load, AI, multiplayer and performance"
+  ],
+  "preserve": "Current ZIP, 0.2.1/0.2.0/0.1.6 rollback, all native/editable inputs, voice weights/masters, compact reports and failed-build evidence.",
+  "post_cleanup_verified": true,
+  "cleanup_logical_bytes": 2055641752,
+  "owner_acceptance": "OWNER_ACCEPTANCE.json",
+  "accepted_cleanup": "ACCEPTED_CLEANUP.json",
+  "mandatory_rule": "C:/Users/RS/.codex/skills/aoe4-garrison-blender/SKILL.md#mandatory-scripted-voice-packaging-rule"
+}

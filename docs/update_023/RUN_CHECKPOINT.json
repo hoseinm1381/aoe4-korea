@@ -1,0 +1,11 @@
+{
+  "state": "0.2.3 higher-fidelity local ZIP built and package verified; random native crash cause remains unconfirmed",
+  "completion": "COMPLETION.json",
+  "remaining": [
+    "Fresh Korea 0.2.3 native listening across families/ages/contexts and no doubled Chinese speech",
+    "Korea-specific crash log/stack or native reproduction for random single-player crash report",
+    "Expert/native-speaker historical pronunciation review",
+    "Native save/load, AI, multiplayer and performance qualification"
+  ],
+  "rebuild": "Existing standalone source; tools/release023.py, tools/check023.py, tools/build.py --replace-current. TEMP/TMP on owned F:."
+}

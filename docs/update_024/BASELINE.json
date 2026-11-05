@@ -1,0 +1,10 @@
+{
+  "utc": "2026-11-02T20:03:23.098694+00:00",
+  "version": "0.2.3",
+  "zip_sha256": "e65c6b0c165bf5887d6e99d23fc4a1401f15023697a3fe719a4b0935a0274187",
+  "warnings_sha256": "4d0fb14f7ac412140e253e9179f7376161f84eca79bd8388adc04e7d4523250d",
+  "screenshot_sha256": "d0a9b8cc56148da56f9665e7bbb6201977e6402a3f0b273e81d4ce04e88f55ff",
+  "owner_report": "Random crash at game clock 6:42. Screenshot at 6:07 shows mounted Hwarang distant leg omission and extra bow. Model repair deferred by owner; crash diagnostics prioritized.",
+  "native_manifest_sha256": "6d90c66b9582ba98b74153fe1709e9d5c54f39c7140a61b59a5521041a8a6be9",
+  "master_index_sha256": "e041d15ba5e4ebd1b270f860b278b2f2c2489e22bb06ca0e074b67b4f0170807"
+}

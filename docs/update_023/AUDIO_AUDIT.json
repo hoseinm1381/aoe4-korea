@@ -1,0 +1,37 @@
+{
+  "all_clips_decoded": true,
+  "dialogue_clips": 7632,
+  "unique_dialogue_files": 7632,
+  "profiles": 32,
+  "age_banks": 128,
+  "sample_rate": 24000,
+  "channels": 1,
+  "codec": "OGG/VORBIS",
+  "compression_level": 0.35,
+  "old_dialogue_bytes": 55800679,
+  "dialogue_bytes": 111710069,
+  "seconds": 8864.25045833334,
+  "decoded_float32_bank_bytes": 850968044,
+  "max_decoded_peak": 0.9846881628036499,
+  "additional_headroom_cases": 4,
+  "approved_preview_pcm_exact_matches": [
+    "VILLAGER_M_A2_select_L04_T1",
+    "VILLAGER_F_A2_select_L01_T1",
+    "GAPSA_A2_select_L01_T1"
+  ],
+  "encoded_receipts_sha256": "573617b16212e0c0b99b422ea13296e3f17b70525b80b1c595eb3ff341da82ca",
+  "historical_pronunciation_qualified": false,
+  "full_native_listening": "pending",
+  "reconstruction": "Same original masters/scripts/takes, existing source trim/gain/fade/headroom; no resynthesis or denoising; 16 kHz original processed PCM hashes checked for every take.",
+  "min_clip_seconds": 0.48,
+  "max_clip_seconds": 4.86,
+  "max_individual_decoded_float32_bytes": 466560,
+  "max_duration_difference_from_retained_bank_seconds": 2.083333333358084e-05,
+  "headroom_exception_ids": [
+    "NAVAL_TURTLE_A4_select_L01_T3",
+    "RIGHTEOUS_MONK_A1_attack_L06_T1",
+    "TIGER_HUNTER_A2_select_L01_T3",
+    "VILLAGER_M_A2_repair_L05_T2"
+  ],
+  "language_screening": "Original scripts, generation receipts, masters and verified original processed PCM identical; no regeneration or language-content changes. Original 0.2.0 language/ASR review evidence retained; no new expert pronunciation claim."
+}

@@ -1,0 +1,451 @@
+{
+  "schema": "korea.original-encoding-inputs/v1",
+  "files": {
+    "inputs/native/audio/korea_020/3ef36c395b7bc6f6e14c56c6b73d0e39ec224465187c995a57d962b0e4a565a2.ogg": {
+      "bytes": 6957,
+      "sha256": "3ef36c395b7bc6f6e14c56c6b73d0e39ec224465187c995a57d962b0e4a565a2",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/67b8c6157a839bd68eca627f105477135b10433abca6c856959ac49ad0dc7373.ogg": {
+      "bytes": 6810,
+      "sha256": "67b8c6157a839bd68eca627f105477135b10433abca6c856959ac49ad0dc7373",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/cd2645e36f93af978ad0fdbd819f38df9e4f682b84faf12b10e76e1b5667f131.ogg": {
+      "bytes": 7809,
+      "sha256": "cd2645e36f93af978ad0fdbd819f38df9e4f682b84faf12b10e76e1b5667f131",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/587626390a0337e88f71509648039d480381725f63393843ff5755d3585d0a84.ogg": {
+      "bytes": 7615,
+      "sha256": "587626390a0337e88f71509648039d480381725f63393843ff5755d3585d0a84",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/b08dcce9b17e0de7648f3805eadb8c84999934b2c67bd26f0189785a0fcc3d09.ogg": {
+      "bytes": 7324,
+      "sha256": "b08dcce9b17e0de7648f3805eadb8c84999934b2c67bd26f0189785a0fcc3d09",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/f4584998e86087aa5e43c9c19a1e04c7742e37751f22a215b200e045b535cb54.ogg": {
+      "bytes": 7402,
+      "sha256": "f4584998e86087aa5e43c9c19a1e04c7742e37751f22a215b200e045b535cb54",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/a8c5da02f2267a910d15f87efb741c72cdf95b45f82b6ae3775e02877b1a919a.ogg": {
+      "bytes": 6572,
+      "sha256": "a8c5da02f2267a910d15f87efb741c72cdf95b45f82b6ae3775e02877b1a919a",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/528ffaeef41c5ae268afa4399616a16d89fe84be41bd5d60880814d7143441e2.ogg": {
+      "bytes": 6925,
+      "sha256": "528ffaeef41c5ae268afa4399616a16d89fe84be41bd5d60880814d7143441e2",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/39c0329b217623284905707c8020fcee967a5fd7174a5799994dc8313be6ec63.ogg": {
+      "bytes": 6734,
+      "sha256": "39c0329b217623284905707c8020fcee967a5fd7174a5799994dc8313be6ec63",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/1c61f51b3f8a67751b5f4aec7bd8d98f5f8816998db440a275de97d571e4c49e.ogg": {
+      "bytes": 7021,
+      "sha256": "1c61f51b3f8a67751b5f4aec7bd8d98f5f8816998db440a275de97d571e4c49e",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/2529a092b8a32c34b718aad286ff9615fbd453624e6e5cc1506837ee0690f832.ogg": {
+      "bytes": 6854,
+      "sha256": "2529a092b8a32c34b718aad286ff9615fbd453624e6e5cc1506837ee0690f832",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/07fb502347ee252de4c43ff74c91cbe4dc9e6025b7ced53bf952ffab965f8316.ogg": {
+      "bytes": 7054,
+      "sha256": "07fb502347ee252de4c43ff74c91cbe4dc9e6025b7ced53bf952ffab965f8316",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/f38797dcf445cb33b46690663693fce0b76790588dc9b7926601bbe3610d1319.ogg": {
+      "bytes": 7407,
+      "sha256": "f38797dcf445cb33b46690663693fce0b76790588dc9b7926601bbe3610d1319",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/63ef51dbcc529a257ad99160a9744f49d0f3cd1d0c1a2174af4d8ff89fb77c72.ogg": {
+      "bytes": 7659,
+      "sha256": "63ef51dbcc529a257ad99160a9744f49d0f3cd1d0c1a2174af4d8ff89fb77c72",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/95bb830e4c665d1131ddcd1b8113996b7543c501c974fec4d18e7130f09b5189.ogg": {
+      "bytes": 7089,
+      "sha256": "95bb830e4c665d1131ddcd1b8113996b7543c501c974fec4d18e7130f09b5189",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/f830b8b0dbba81837fc2f3a9376eaff5640ec42e8d1d28118ecfc6f2f4a08749.ogg": {
+      "bytes": 7035,
+      "sha256": "f830b8b0dbba81837fc2f3a9376eaff5640ec42e8d1d28118ecfc6f2f4a08749",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/6463cdbffd7b1f5cd21a20c0b7562c1a49e574a426b3281f15ee4a851288eaf2.ogg": {
+      "bytes": 6768,
+      "sha256": "6463cdbffd7b1f5cd21a20c0b7562c1a49e574a426b3281f15ee4a851288eaf2",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/1b02ca69cd8ee64ac89a31a557ec175ffb9573e172d5e3494a0940fe3ddc068b.ogg": {
+      "bytes": 6691,
+      "sha256": "1b02ca69cd8ee64ac89a31a557ec175ffb9573e172d5e3494a0940fe3ddc068b",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/00a60d348be391daf22384319c25a570d7240e2f642133ba74918cff53567689.ogg": {
+      "bytes": 8916,
+      "sha256": "00a60d348be391daf22384319c25a570d7240e2f642133ba74918cff53567689",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/36cedddfe2d821fea813beb9da5fbb2f3ac99f65e9fe3f9c0e150d58e55001b0.ogg": {
+      "bytes": 7169,
+      "sha256": "36cedddfe2d821fea813beb9da5fbb2f3ac99f65e9fe3f9c0e150d58e55001b0",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/f961d1e4b1a821a588cebfbfa10a9b4225225550b2aac4d00cdc894946b8a1e2.ogg": {
+      "bytes": 7385,
+      "sha256": "f961d1e4b1a821a588cebfbfa10a9b4225225550b2aac4d00cdc894946b8a1e2",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/bc8758be94b7d934a1d9e1814eb99b2b75e2386e9b1e86e2ef51892fb0b420be.ogg": {
+      "bytes": 8494,
+      "sha256": "bc8758be94b7d934a1d9e1814eb99b2b75e2386e9b1e86e2ef51892fb0b420be",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/10dae9ad8c08d9a5ded8d6820ffdc0a4c4e8154452d6c30d9cb85b4a4092773f.ogg": {
+      "bytes": 8110,
+      "sha256": "10dae9ad8c08d9a5ded8d6820ffdc0a4c4e8154452d6c30d9cb85b4a4092773f",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/df6ce7e347e677ca2b042886e3c1bbbca8e6b04ca8efcb7b4a0ea74a96a682ec.ogg": {
+      "bytes": 6637,
+      "sha256": "df6ce7e347e677ca2b042886e3c1bbbca8e6b04ca8efcb7b4a0ea74a96a682ec",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/a736a1f1263b1c69023feb128ff497e7ab5686ffebf37a4391bb2cb102401461.ogg": {
+      "bytes": 7931,
+      "sha256": "a736a1f1263b1c69023feb128ff497e7ab5686ffebf37a4391bb2cb102401461",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/fa584e58fa98ab050eb73a6a13de169b99987492ca2d0de6834b64ca00bbf641.ogg": {
+      "bytes": 7557,
+      "sha256": "fa584e58fa98ab050eb73a6a13de169b99987492ca2d0de6834b64ca00bbf641",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/c707f95f4af9a35a7c469b59e3226aedaf3af337cd2968fd59e820b0a0fd4f70.ogg": {
+      "bytes": 7863,
+      "sha256": "c707f95f4af9a35a7c469b59e3226aedaf3af337cd2968fd59e820b0a0fd4f70",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/f444cb2f03c32711fc3a898cad22e49c7761ea7c910bb84753dbe8547bb1a302.ogg": {
+      "bytes": 8434,
+      "sha256": "f444cb2f03c32711fc3a898cad22e49c7761ea7c910bb84753dbe8547bb1a302",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/9128a47eee3d792ba9629224905364a1e4d03e89e74ebec4dd554d8032ecc370.ogg": {
+      "bytes": 7725,
+      "sha256": "9128a47eee3d792ba9629224905364a1e4d03e89e74ebec4dd554d8032ecc370",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/6b18df7bb0ee3ac707dec3d814264e9deb46a56ceaaf7cb52aa9742806e490a5.ogg": {
+      "bytes": 7805,
+      "sha256": "6b18df7bb0ee3ac707dec3d814264e9deb46a56ceaaf7cb52aa9742806e490a5",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/1a0b63f5ef625aa0309aee6353a0a89a8df9379c6073a81a74882c341c460b22.ogg": {
+      "bytes": 9526,
+      "sha256": "1a0b63f5ef625aa0309aee6353a0a89a8df9379c6073a81a74882c341c460b22",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/954f857b7872af749e15ce83cd5ffb8cca49651517ea806193d937df6614037a.ogg": {
+      "bytes": 6493,
+      "sha256": "954f857b7872af749e15ce83cd5ffb8cca49651517ea806193d937df6614037a",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/821bca272d44eeb9c5fb3e99c5c673320f9a1e1b002f60058dbff56a23b3c4b3.ogg": {
+      "bytes": 7787,
+      "sha256": "821bca272d44eeb9c5fb3e99c5c673320f9a1e1b002f60058dbff56a23b3c4b3",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/07e7eec4cf866e93bf47b71dd915870192daa77510ef38fd68a2d16b926e06ec.ogg": {
+      "bytes": 7358,
+      "sha256": "07e7eec4cf866e93bf47b71dd915870192daa77510ef38fd68a2d16b926e06ec",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/12613345a8049b86f7a51eb0206ac27b88d05bdd8d3d7fb2feb7729bef49d669.ogg": {
+      "bytes": 7718,
+      "sha256": "12613345a8049b86f7a51eb0206ac27b88d05bdd8d3d7fb2feb7729bef49d669",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/14e33bed09c869acdf20a562fa1466ad147b0d35ade3b519e0b7ec3d943b1cd9.ogg": {
+      "bytes": 8566,
+      "sha256": "14e33bed09c869acdf20a562fa1466ad147b0d35ade3b519e0b7ec3d943b1cd9",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/ad084755f8761e4d7747e9ffc96d0601fbbb3391bd4bc25877ab395ea06ba0ae.ogg": {
+      "bytes": 6930,
+      "sha256": "ad084755f8761e4d7747e9ffc96d0601fbbb3391bd4bc25877ab395ea06ba0ae",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/0c6f8c13b0a0fb538b8335bc0ab7be9dbae4f5a73be13771ea89a6752900cd99.ogg": {
+      "bytes": 8458,
+      "sha256": "0c6f8c13b0a0fb538b8335bc0ab7be9dbae4f5a73be13771ea89a6752900cd99",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/0d49a111a506342c2d5b6e9422af8c0f36800be543ac4850fe1ae3272a3f4272.ogg": {
+      "bytes": 10302,
+      "sha256": "0d49a111a506342c2d5b6e9422af8c0f36800be543ac4850fe1ae3272a3f4272",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/c182df24936b7107def3a6602ac92de0a767c83c3013aaac70245f18836a1f49.ogg": {
+      "bytes": 8543,
+      "sha256": "c182df24936b7107def3a6602ac92de0a767c83c3013aaac70245f18836a1f49",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/65fa18d6319fe3119b36b90bb7f721534d803ae9ffd00f6c340f4225171c409e.ogg": {
+      "bytes": 8598,
+      "sha256": "65fa18d6319fe3119b36b90bb7f721534d803ae9ffd00f6c340f4225171c409e",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/d9aa3c9ef2ec1956e6399beee170c1379789706e70a32f23830211fce97ddd1e.ogg": {
+      "bytes": 9071,
+      "sha256": "d9aa3c9ef2ec1956e6399beee170c1379789706e70a32f23830211fce97ddd1e",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/38969f357f6800d78477c789b8229870c51ef187939ce0f277457424b03b9e07.ogg": {
+      "bytes": 9836,
+      "sha256": "38969f357f6800d78477c789b8229870c51ef187939ce0f277457424b03b9e07",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/36ee3392e56d6cbd8caac03966bc6093c9e0031ec5d088c3f6c57fa239db6b23.ogg": {
+      "bytes": 7987,
+      "sha256": "36ee3392e56d6cbd8caac03966bc6093c9e0031ec5d088c3f6c57fa239db6b23",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/c4a7041b892ac33d038c1d4ad876327e8a6d83601fc6a04017a08d926188fd03.ogg": {
+      "bytes": 12565,
+      "sha256": "c4a7041b892ac33d038c1d4ad876327e8a6d83601fc6a04017a08d926188fd03",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/b6027f380203ca12b60532404d3131d6d30d992a67ff233e2c3f179b82127f2c.ogg": {
+      "bytes": 6264,
+      "sha256": "b6027f380203ca12b60532404d3131d6d30d992a67ff233e2c3f179b82127f2c",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/ff0cb24de782578720ea40a4305a00dcd5dc7e97eb811cef36c87f9c23aec1dd.ogg": {
+      "bytes": 6957,
+      "sha256": "ff0cb24de782578720ea40a4305a00dcd5dc7e97eb811cef36c87f9c23aec1dd",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/fb414a31818e7911a2a229956dfd3d7f28e929eeb06d320ac73ea1edc74b02fe.ogg": {
+      "bytes": 6834,
+      "sha256": "fb414a31818e7911a2a229956dfd3d7f28e929eeb06d320ac73ea1edc74b02fe",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/995e3145c08d29e754a113c308bdf1a1d26cda6d2b7c6cfdb5d89a58924cf675.ogg": {
+      "bytes": 7273,
+      "sha256": "995e3145c08d29e754a113c308bdf1a1d26cda6d2b7c6cfdb5d89a58924cf675",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/79159c170a5f78f3dfde086257ccbb0976137c59ffb0c738ef8e422a6f5f9fb2.ogg": {
+      "bytes": 6497,
+      "sha256": "79159c170a5f78f3dfde086257ccbb0976137c59ffb0c738ef8e422a6f5f9fb2",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/34e31b95bdc843680f7c82f91042df546503c5647e72558b940cb89feb0e52c1.ogg": {
+      "bytes": 11026,
+      "sha256": "34e31b95bdc843680f7c82f91042df546503c5647e72558b940cb89feb0e52c1",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/303aea7c3b70b29c125a0bfbf69ba29804ebcf6d38d576c73b75c5674bd4c8ab.ogg": {
+      "bytes": 7160,
+      "sha256": "303aea7c3b70b29c125a0bfbf69ba29804ebcf6d38d576c73b75c5674bd4c8ab",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/b92be8562586b56fb92b975ee1e8118bb52946befe170bbb45b9fae804ed8732.ogg": {
+      "bytes": 6948,
+      "sha256": "b92be8562586b56fb92b975ee1e8118bb52946befe170bbb45b9fae804ed8732",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/34645d74758ca358c25d130aa38ab447ab96c027c159ad99931145cd57465176.ogg": {
+      "bytes": 8181,
+      "sha256": "34645d74758ca358c25d130aa38ab447ab96c027c159ad99931145cd57465176",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/0ca68b8b85dfcb94e17c4745b585abaf8f794f5c901dd2536b9c5ebce0e1515e.ogg": {
+      "bytes": 7578,
+      "sha256": "0ca68b8b85dfcb94e17c4745b585abaf8f794f5c901dd2536b9c5ebce0e1515e",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/1e5188b5be02e83e445eecfd0b9ea2a0ab116dadd722b3c2c7ffc696f0fc399b.ogg": {
+      "bytes": 5711,
+      "sha256": "1e5188b5be02e83e445eecfd0b9ea2a0ab116dadd722b3c2c7ffc696f0fc399b",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/9606df75f1430cc666fe9d4c610a854ac081433c677a12df56d9d6af6b3226f8.ogg": {
+      "bytes": 7332,
+      "sha256": "9606df75f1430cc666fe9d4c610a854ac081433c677a12df56d9d6af6b3226f8",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/b8982440f734b24bc8f652aeae76ef0259b886093c7dbe5d5fa78d44a6167684.ogg": {
+      "bytes": 8175,
+      "sha256": "b8982440f734b24bc8f652aeae76ef0259b886093c7dbe5d5fa78d44a6167684",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/d4235a0e61c4937b87e2d39d9c77f0a0e5c319e39d22ad47b71a47ce2c6a7b45.ogg": {
+      "bytes": 8358,
+      "sha256": "d4235a0e61c4937b87e2d39d9c77f0a0e5c319e39d22ad47b71a47ce2c6a7b45",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/cb60b5af85779ae3df215a277a3c2ddbadb8231c2f15687e5bb06c6dd297bbe8.ogg": {
+      "bytes": 7575,
+      "sha256": "cb60b5af85779ae3df215a277a3c2ddbadb8231c2f15687e5bb06c6dd297bbe8",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/f8ed69271c37292426a8b67d6c023c4b90e6934bb423f119722c8f571b182d3f.ogg": {
+      "bytes": 9567,
+      "sha256": "f8ed69271c37292426a8b67d6c023c4b90e6934bb423f119722c8f571b182d3f",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/44a49aa85ce2888d92eb5ed7a3edf02ddf0acf47ca88657d14c5a8118ebfd8eb.ogg": {
+      "bytes": 7718,
+      "sha256": "44a49aa85ce2888d92eb5ed7a3edf02ddf0acf47ca88657d14c5a8118ebfd8eb",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/d88648508ead5d8187de6790d7b86c2114142f92af7a1e6e3d0fb2c709fbfc74.ogg": {
+      "bytes": 8437,
+      "sha256": "d88648508ead5d8187de6790d7b86c2114142f92af7a1e6e3d0fb2c709fbfc74",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/e6dcd24308a3fb6dbca9a948382ab36efc0834cf21e7d9535adb6b2f961dabb6.ogg": {
+      "bytes": 7202,
+      "sha256": "e6dcd24308a3fb6dbca9a948382ab36efc0834cf21e7d9535adb6b2f961dabb6",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/90482af731d7f0370292343d0188114ced3e59e16450f9580ee84767d0634270.ogg": {
+      "bytes": 7455,
+      "sha256": "90482af731d7f0370292343d0188114ced3e59e16450f9580ee84767d0634270",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/0d40ba92eb962f526822270ebbe77297756dc40b85cf15010c859f1a378d72ae.ogg": {
+      "bytes": 7365,
+      "sha256": "0d40ba92eb962f526822270ebbe77297756dc40b85cf15010c859f1a378d72ae",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/8873b4ea6e9cefbb248e19707e449923c3dc672588dde58dab0fcd8afc1040be.ogg": {
+      "bytes": 7949,
+      "sha256": "8873b4ea6e9cefbb248e19707e449923c3dc672588dde58dab0fcd8afc1040be",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/566e4579d42420e3389a59365a73194c1d311b255c43da048cea1fc3fc9fcf01.ogg": {
+      "bytes": 6347,
+      "sha256": "566e4579d42420e3389a59365a73194c1d311b255c43da048cea1fc3fc9fcf01",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/9cc8312e77e8983f7bd330e4c7fa03b716d040b424d065d8e79a45e80ec86dfa.ogg": {
+      "bytes": 7730,
+      "sha256": "9cc8312e77e8983f7bd330e4c7fa03b716d040b424d065d8e79a45e80ec86dfa",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/5be05b52e23586b220535c2730e3afb81bad996d4ab531ffe8f14b6efab2f343.ogg": {
+      "bytes": 6365,
+      "sha256": "5be05b52e23586b220535c2730e3afb81bad996d4ab531ffe8f14b6efab2f343",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/4ef47a93051ecd32cdba53c315d3a1e930dc464bd751035f7af13398aad446bb.ogg": {
+      "bytes": 5830,
+      "sha256": "4ef47a93051ecd32cdba53c315d3a1e930dc464bd751035f7af13398aad446bb",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/4b7418ee0148fdff966fa7c087fbadabc23c06b062c14a23da986c9db36f002e.ogg": {
+      "bytes": 6681,
+      "sha256": "4b7418ee0148fdff966fa7c087fbadabc23c06b062c14a23da986c9db36f002e",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/c7dce90f809c6c779b50df9d8bb04ef798d32e220c3f4b33254f10718da1e309.ogg": {
+      "bytes": 6815,
+      "sha256": "c7dce90f809c6c779b50df9d8bb04ef798d32e220c3f4b33254f10718da1e309",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/b64f9a5888fb14c36ad3297d578da0c27b5bc2278504d135a5a060aa79519f20.ogg": {
+      "bytes": 10357,
+      "sha256": "b64f9a5888fb14c36ad3297d578da0c27b5bc2278504d135a5a060aa79519f20",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/b5624436b5e7b51380ca24763136c04abdabd9f5eaa767cf04dc66c1c11132c8.ogg": {
+      "bytes": 6946,
+      "sha256": "b5624436b5e7b51380ca24763136c04abdabd9f5eaa767cf04dc66c1c11132c8",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/2abee2795d02aa60eebe48f1b6a4759baf83462532b293f4f79b9de900d34fbf.ogg": {
+      "bytes": 5817,
+      "sha256": "2abee2795d02aa60eebe48f1b6a4759baf83462532b293f4f79b9de900d34fbf",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/d2faf997fd961569656d7835146722c696ad0016e4ed80d1a9cdcd09c3c13b16.ogg": {
+      "bytes": 7278,
+      "sha256": "d2faf997fd961569656d7835146722c696ad0016e4ed80d1a9cdcd09c3c13b16",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/09527f9e0e56e8e2f15f59fe99322150bfc38dd646099789eed2bd3491459b65.ogg": {
+      "bytes": 6144,
+      "sha256": "09527f9e0e56e8e2f15f59fe99322150bfc38dd646099789eed2bd3491459b65",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/60162873c71f603463b4b051fb4fe49bffaba858d27d7b353fb26b8641d918d1.ogg": {
+      "bytes": 6131,
+      "sha256": "60162873c71f603463b4b051fb4fe49bffaba858d27d7b353fb26b8641d918d1",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/148aa6d6b4f74c14d709fad860af7215285acd3d2f15edb1f80435ac170829fc.ogg": {
+      "bytes": 6251,
+      "sha256": "148aa6d6b4f74c14d709fad860af7215285acd3d2f15edb1f80435ac170829fc",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/d57107437db38ad719da7856b3aed1824f82877ada880d8c33b5308696917094.ogg": {
+      "bytes": 7158,
+      "sha256": "d57107437db38ad719da7856b3aed1824f82877ada880d8c33b5308696917094",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/7fbed3568889b5eacc38a3d234e83b6b4e1deb41f366ad98e276175c89c45ab6.ogg": {
+      "bytes": 7069,
+      "sha256": "7fbed3568889b5eacc38a3d234e83b6b4e1deb41f366ad98e276175c89c45ab6",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/f7a78eac014ef910db87180618ddd119d31a7694a161130ffbadc134e0fe180f.ogg": {
+      "bytes": 7652,
+      "sha256": "f7a78eac014ef910db87180618ddd119d31a7694a161130ffbadc134e0fe180f",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/ca6d2df0f073e8980ab2ea26135aa4fa306bdf9125c99fd3b181420e78456f21.ogg": {
+      "bytes": 6928,
+      "sha256": "ca6d2df0f073e8980ab2ea26135aa4fa306bdf9125c99fd3b181420e78456f21",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/c80ec22bad39d73d9ec9bb7a5b914c03267a65472f0a5ccddc9d74341561605a.ogg": {
+      "bytes": 7747,
+      "sha256": "c80ec22bad39d73d9ec9bb7a5b914c03267a65472f0a5ccddc9d74341561605a",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/e8709b20cb7ea08255e111a10c3605910e9918a47338eb5c58f340836c30df70.ogg": {
+      "bytes": 7276,
+      "sha256": "e8709b20cb7ea08255e111a10c3605910e9918a47338eb5c58f340836c30df70",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/b45429832aac01ae5e0a65cf1538c03a9708f25ddcd2c1ff70d2542eeab70c3a.ogg": {
+      "bytes": 8217,
+      "sha256": "b45429832aac01ae5e0a65cf1538c03a9708f25ddcd2c1ff70d2542eeab70c3a",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/a53fac3103209f63c9bce4831d2751c9ee147f1cbded7fa2b95d4050f2a48bff.ogg": {
+      "bytes": 8691,
+      "sha256": "a53fac3103209f63c9bce4831d2751c9ee147f1cbded7fa2b95d4050f2a48bff",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    },
+    "inputs/native/audio/korea_020/c148ac3e1a631def7cda7f1e76ffbc747421ab1300d04cb73534ac7c7681ea07.ogg": {
+      "bytes": 8285,
+      "sha256": "c148ac3e1a631def7cda7f1e76ffbc747421ab1300d04cb73534ac7c7681ea07",
+      "role": "Original pre-headroom encoding retained for exact generation resume and codec comparison; not runtime-packaged."
+    }
+  },
+  "policy": "Protected rebuild/history inputs; selected final files are separately registered in inputs/native-manifest.json."
+}

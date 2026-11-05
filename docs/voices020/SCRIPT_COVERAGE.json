@@ -1,0 +1,11 @@
+{
+  "profiles": 32,
+  "age_banks": 128,
+  "unique_profile_age_context_lines": 4200,
+  "planned_dialogue_clips": 7632,
+  "takes_per_regular_line": 1,
+  "takes_per_movement_combat_work_line": 2,
+  "takes_per_selection_line": 3,
+  "historical_pronunciation": "not independently qualified",
+  "semantic_aliases": "Stops, holds, retreats, loading/unloading and unknown ability/default targets use correctly neutral acknowledgements."
+}

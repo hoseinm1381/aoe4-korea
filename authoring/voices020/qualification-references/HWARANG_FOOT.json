@@ -1,0 +1,17 @@
+{
+  "profile": "HWARANG_FOOT",
+  "file": "authoring\\voices020\\qualification-references\\HWARANG_FOOT.wav",
+  "sha256": "a31b8bd9617803ad408764a76f5738362f675273d0776498474d3f75824fe294",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 5.2,
+  "rms": 0.09769833087921143,
+  "raw_peak": 0.671875,
+  "generation_seconds": 13.92,
+  "seed": 2026110207,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Young adult Korean man, lyrical clear tenor, proud educated elite warrior, flowing controlled rhythm. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

@@ -1,0 +1,6 @@
+{
+  "scope": "Exact 0.2.11 source rebuild. Define a new baseline policy when changing native members.",
+  "allowed_added": [],
+  "allowed_removed": [],
+  "allowed_changed": []
+}

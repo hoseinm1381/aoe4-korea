@@ -1,0 +1,17 @@
+{
+  "profile": "NAVAL_FIRESHIP",
+  "file": "authoring\\voices020\\qualification-references\\NAVAL_FIRESHIP.wav",
+  "sha256": "3899da2898136acc76a86db9c36ff94189c426e2f355f1d17c4ad31f8b44791f",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 5.68,
+  "rms": 0.10556535422801971,
+  "raw_peak": 0.7265625,
+  "generation_seconds": 14.531,
+  "seed": 2026110214,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Young adult Korean man, tense focused tenor, courageous fire-ship crew leader, urgent compact breath-supported calls. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

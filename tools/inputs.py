@@ -14,6 +14,12 @@ def verify():
     overrides=ROOT/'source/portable-masters.json';changed=read(overrides).get('files',{}) if overrides.exists() else {}
     master=read(path)['files']
     for row in master:check(ROOT/'authoring'/row['path'],changed.get(row['path'],row))
+    original_encodings=ROOT/'authoring/voices020/ORIGINAL_ENCODINGS.json'
+    if original_encodings.exists():
+        for relative,row in read(original_encodings)['files'].items():
+            target=(ROOT/relative).resolve()
+            if not relative.startswith('inputs/native/audio/korea_020/') or not target.is_relative_to((ROOT/'inputs/native/audio/korea_020').resolve()):raise ValueError('Original encoding input escaped its owned folder')
+            check(target,row)
     print('INPUTS_VERIFIED native='+str(len(read(ROOT/'inputs/native-manifest.json')))+' editable='+str(len(master)))
 if __name__=='__main__':
     p=argparse.ArgumentParser(description=__doc__);sub=p.add_subparsers(dest='action',required=True);sub.add_parser('verify')

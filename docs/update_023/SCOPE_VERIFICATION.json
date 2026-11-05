@@ -1,0 +1,16 @@
+{
+  "version": "0.2.3",
+  "source_changes": [
+    "source/scar/korea/voice_bank_020.scar"
+  ],
+  "source_additions": [
+    "source/update-023-policy.json"
+  ],
+  "all_non_dialogue_native_inputs_identical": true,
+  "editable_master_index_identical": true,
+  "bank_semantics_byte_identical_after_reversing_paths": true,
+  "art_bytes_unchanged": 232908640,
+  "media_bytes": 354433993,
+  "audio_only_budget_exception": "Owner accepted estimated +67 MB ZIP for higher-quality audio; media cap 400000000 applies only to 0.2.3; art unchanged and final ZIP cap 600000000 retained.",
+  "native_runtime_qualified": false
+}

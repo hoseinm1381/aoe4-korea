@@ -1,0 +1,17 @@
+{
+  "profile": "NAVAL_TURTLE",
+  "file": "authoring\\voices020\\qualification-references\\NAVAL_TURTLE.wav",
+  "sha256": "4517c24db5c7ee9a306de3764f5b073f9d6fffe4e0e87c49858b1c4c147cb4fb",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.56,
+  "rms": 0.06608930975198746,
+  "raw_peak": 0.67578125,
+  "generation_seconds": 16.461,
+  "seed": 2026110218,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Mature Korean man, rich sonorous middle baritone, resolute turtle-ship captain, iron composure and clear force. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

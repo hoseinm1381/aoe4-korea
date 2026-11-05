@@ -1,0 +1,241 @@
+{
+  "effective_archive_sha256": "eff3b6199cf4f22159684253c7d08346f62b47b50f97e55fbc94e422f79bc526",
+  "game_pid": 26976,
+  "audio_channels": [
+    {
+      "channel": "audio.korea",
+      "kind": "garrison_channel",
+      "seq": 0,
+      "transport": "none"
+    }
+  ],
+  "dropped_batches": [
+    {
+      "channel": "audio.korea",
+      "dropped": 1,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 0
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 6,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 6
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 10
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 6,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 16
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 21
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 26
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 30
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 34
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 39
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 43
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 48
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 52
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 57
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 62
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 66
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 71
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 76
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 80
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 85
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 89
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 6,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 95
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 99
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 6,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 105
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 109
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 113
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 118
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 122
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 6,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 128
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 132
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 136
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 5,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 141
+    },
+    {
+      "channel": "audio.korea",
+      "dropped": 4,
+      "kind": "garrison_channel_dropped",
+      "reason": "no_consumer",
+      "seq": 145
+    }
+  ],
+  "backend_log_present": false,
+  "causal_boundary": "Korea binds and queues; client startup fails before creating audio consumer. Speech bus declaration is missing versus Berber but is not a remedy for absent backend.",
+  "freeze": "No 35-second one-shot. 30-second fishing literature; 15-second academy, 6-second Hangul, 20-second guard, 5-second patrol, 10-second kill income; feature conditions apply. Windows reports posted during match have older occurrence times and do not establish current GPU failure."
+}

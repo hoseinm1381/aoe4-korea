@@ -45,21 +45,36 @@ end
 function KoreaLifecycle_Tick()
     if not KoreaState.active or KoreaState.ending then return end
     local now = World_GetGameTime()
+    -- Log phases around the reported freeze window without changing rule timing.
+    local second = math.floor(now - (KoreaState.traceStart or now))
+    local trace = second >= 25 and second <= 45 and second ~= KoreaState.traceSecond
+    if trace then KoreaState.traceSecond = second end
+    local function phase(name)
+        if trace then print("KOREA022_GAMEPLAY t=" .. tostring(second) .. " phase=" .. name) end
+    end
+    phase("begin")
     for _, index in ipairs(KoreaState.order) do
         local player = KoreaState.players[index]
         if Player_IsAlive(player.id) then
+            phase("landmarks")
             KoreaLandmarks_Tick(player, now)
+            phase("economy")
             KoreaEconomy_Tick(player, now)
+            phase("effects")
             KoreaEffects_Tick(player, now)
         end
     end
+    phase("timers")
     KoreaEffects_Timers(now)
+    phase("ui")
     KoreaUI_Update(now)
+    phase("complete")
 end
 
 function KoreaLifecycle_Start(civilizations)
     if KoreaState.active or KoreaState.ending then return end
     local now = World_GetGameTime()
+    KoreaState.traceStart = now; KoreaState.traceSecond = nil
     KoreaState.players = {}; KoreaState.order = {}
     KoreaState.debuffs = {}; KoreaState.barrages = {}
     for _, player in ipairs(PLAYERS) do

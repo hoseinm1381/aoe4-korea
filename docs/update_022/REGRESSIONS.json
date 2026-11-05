@@ -1,0 +1,10 @@
+{
+  "tests": 46,
+  "successful": true,
+  "failures": 0,
+  "errors": 0,
+  "seconds": 1.977397499984363,
+  "native_runtime_proof": false,
+  "audible_proof": false,
+  "historical_tests": "Old tests and receipts unchanged; 35-second source replay is not a reproduced native freeze."
+}

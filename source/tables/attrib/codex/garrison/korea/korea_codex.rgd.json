@@ -577,7 +577,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_scout_1_chi"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -658,7 +658,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_villager_free_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -6290,7 +6290,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_combat_ship_2_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -6371,7 +6371,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_combat_warship_4_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -6452,7 +6452,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_trade_ship_3_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -6533,7 +6533,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_transport_ship_2_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -6614,7 +6614,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_war_galley_3_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -10548,7 +10548,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_scout_1_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -16021,7 +16021,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_bombard_4_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -16102,7 +16102,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_springald_3_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -18422,7 +18422,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_scout_1_chi"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -18544,7 +18544,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_villager_free_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -26031,7 +26031,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_combat_ship_2_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -26153,7 +26153,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_combat_warship_4_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -26275,7 +26275,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_trade_ship_3_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -26397,7 +26397,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_transport_ship_2_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -26519,7 +26519,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_war_galley_3_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -31720,7 +31720,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_scout_1_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -39240,7 +39240,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_bombard_4_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -39362,7 +39362,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_springald_3_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -42645,7 +42645,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_scout_1_chi"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -42726,7 +42726,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_villager_free_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -48358,7 +48358,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_combat_ship_2_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -48439,7 +48439,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_combat_warship_4_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -48520,7 +48520,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_trade_ship_3_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -48601,7 +48601,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_transport_ship_2_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -48682,7 +48682,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_naval_war_galley_3_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -52616,7 +52616,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_scout_1_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -58089,7 +58089,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_bombard_4_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -58170,7 +58170,7 @@
                                   "key": "$PBGNAME",
                                   "hash": 5464984021694833596,
                                   "kind": "CString",
-                                  "value": "unit_springald_3_chi_ha_01"
+                                  "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
                                 },
                                 {
                                   "key": "$PBGMAP",
@@ -60490,7 +60490,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_scout_1_chi"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -60612,7 +60612,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_villager_free_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -68099,7 +68099,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_combat_ship_2_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -68221,7 +68221,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_combat_warship_4_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -68343,7 +68343,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_trade_ship_3_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -68465,7 +68465,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_transport_ship_2_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -68587,7 +68587,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_naval_war_galley_3_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -73788,7 +73788,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_scout_1_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -81308,7 +81308,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_bombard_4_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
                                             },
                                             {
                                               "key": "$PBGMAP",
@@ -81430,7 +81430,7 @@
                                               "key": "$PBGNAME",
                                               "hash": 5464984021694833596,
                                               "kind": "CString",
-                                              "value": "unit_springald_3_chi_ha_01"
+                                              "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
                                             },
                                             {
                                               "key": "$PBGMAP",

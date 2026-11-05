@@ -1,0 +1,18 @@
+{
+  "date_local": "2026-11-02",
+  "reason": "Owner requested a hard rule after reporting Korea 0.2.2 worked",
+  "files": [
+    {
+      "path": "C:\\Users\\RS\\.codex\\skills\\aoe4-garrison-blender\\SKILL.md",
+      "sha256_before": "5003b7e67c962a38b0fa54c674619cf337affae5280be80cdabbdc0bf6a4d2ec",
+      "sha256_after": "3bda7b978b6279cf9393437013a949898c5ca79d8c03d2fa0a7bedcfce0032c7"
+    },
+    {
+      "path": "C:\\Users\\RS\\.codex\\skills\\aoe4-garrison-blender\\references\\scripted-unit-voices.md",
+      "sha256_before": "6a96d37322c8f9f2702a889cbeb83f9ec292510bee43fc6a6c4fb3fe0951fd46",
+      "sha256_after": "abd11ebf78804037c0db18a91fad19c2844424d3640a3fa4afce5c4eeb806362"
+    }
+  ],
+  "invariants": "Current guide first; matching helper/closure and speech settings in final SGA/ZIP; actual-helper validation; audible feedback scope; no unsupported client-fault inference.",
+  "validation": "skill-creator quick_validate.py passed using installed Python 3.13; bundled Python 3.12 lacks PyYAML, no dependencies installed"
+}

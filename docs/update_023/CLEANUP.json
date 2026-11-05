@@ -1,0 +1,570 @@
+{
+  "version": "0.2.3",
+  "scoped_staging": {
+    "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "version": "0.2.3",
+    "mode": "applied",
+    "targets": [
+      {
+        "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current\\prepared",
+        "files": 528,
+        "logical_bytes": 13025526
+      },
+      {
+        "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current\\delivery",
+        "files": 5,
+        "logical_bytes": 573989947
+      },
+      {
+        "path": "F:\\aoe_4_temp\\Temp_aoe4\\k20\\garrison-independent-builds\\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\\quality023-current",
+        "files": 20568,
+        "logical_bytes": 1857987997
+      }
+    ],
+    "logical_bytes": 2445003470,
+    "zip_sha256_before": "e65c6b0c165bf5887d6e99d23fc4a1401f15023697a3fe719a4b0935a0274187",
+    "native_inputs_and_master_indexes_unchanged": true,
+    "release_and_source_inputs": "preserved",
+    "zip_sha256_after": "e65c6b0c165bf5887d6e99d23fc4a1401f15023697a3fe719a4b0935a0274187"
+  },
+  "additional_regenerable_targets": [
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output\\current",
+      "logical_bytes": 10205051,
+      "files": [
+        {
+          "path": "codex-report.json",
+          "bytes": 44491,
+          "sha256": "ae0ba10eb76b2160da535e9117a8c46f844746a2246c0ade242a88937b4a6f1a"
+        },
+        {
+          "path": "build-recipe.json",
+          "bytes": 4033701,
+          "sha256": "07e78e76e21a4efb9e3c0fa1744cb1d2e3a35729633bbcccee338048bb61a6db"
+        },
+        {
+          "path": "expected-members.json",
+          "bytes": 2239598,
+          "sha256": "a63e206aa5f25ff3c919ef19b65691d2d03ef8c4d6ace10b0b05a935bf5570be"
+        },
+        {
+          "path": "validate.log",
+          "bytes": 2465281,
+          "sha256": "69dabc9351890626bb90ad51111c4412dfd344fe2815121710f6f8c6d3b7ddff"
+        },
+        {
+          "path": "assembly.log",
+          "bytes": 332,
+          "sha256": "031a685dcca84f03c88e0903600e5a999853abc5ac3f6cfc20ae53f034dfb581"
+        },
+        {
+          "path": "verification.json",
+          "bytes": 1421648,
+          "sha256": "e765d6449792be2dc20f981fb3f1c970e99f0d2acefbf29c47e80b21266c9d27"
+        }
+      ],
+      "preserved_as": "docs/update_023/package, byte-verified before deletion"
+    },
+    {
+      "path": "F:\\aoe_4_temp\\Temp_aoe4\\k20\\quality023-native-audit",
+      "logical_bytes": 29899840,
+      "files": [
+        {
+          "path": "verified-dds/kr_archer_a2.dds",
+          "bytes": 349680,
+          "sha256": "3450b312091317c1e0551416b86296fa906fe94dce9bcd462a9d66ac6bcfbb85"
+        },
+        {
+          "path": "verified-dds/kr_archer_a3.dds",
+          "bytes": 349680,
+          "sha256": "d4117f427f9debe72a0a9ddaa795e32fe68ea571eef57e3cf964c06fb84ef7c2"
+        },
+        {
+          "path": "verified-dds/kr_archer_a4.dds",
+          "bytes": 349680,
+          "sha256": "e3f9e7d16761aca20927659e1c8769bb1c6c38f56b4eed354f1e14b17af3dbbc"
+        },
+        {
+          "path": "verified-dds/kr_crossbowman_a3.dds",
+          "bytes": 349680,
+          "sha256": "dfc953365ca58aa4c835926966b0ad393e065c328005634089ca49482bd27d38"
+        },
+        {
+          "path": "verified-dds/kr_crossbowman_a4.dds",
+          "bytes": 349680,
+          "sha256": "51394d781e68e4acef1b07c36cb7a1e9172c2a24a78415716651381886e87788"
+        },
+        {
+          "path": "verified-dds/kr_gapsa_a3.dds",
+          "bytes": 349680,
+          "sha256": "20a9c8c08fee62bad345a2fe4c2dc28617b5b1beda2889960473d5999bb204ba"
+        },
+        {
+          "path": "verified-dds/kr_gapsa_a4.dds",
+          "bytes": 349680,
+          "sha256": "28e464d8c3f48c19bb5831c8ec9a571f3b5524614417e44477cbb084967e5a89"
+        },
+        {
+          "path": "verified-dds/kr_handcannoneer_a4.dds",
+          "bytes": 349680,
+          "sha256": "c6113d0a9d627071cc9d54d8ec548fdfd0162a241655bcc2ec97568ca1e75c30"
+        },
+        {
+          "path": "verified-dds/kr_horseman_a2.dds",
+          "bytes": 349680,
+          "sha256": "4df44617a751488e08945dc5a77a9d901277240e6c47ba3ee42c77010ddde953"
+        },
+        {
+          "path": "verified-dds/kr_horseman_a3.dds",
+          "bytes": 349680,
+          "sha256": "916dbfff6828898bf960537f453c2d610aa72190a0892aac4886ae7b44401574"
+        },
+        {
+          "path": "verified-dds/kr_horseman_a4.dds",
+          "bytes": 349680,
+          "sha256": "90e3916706b937eca2300b40cfe24ef6dd70796488db825bcd9898bee1633371"
+        },
+        {
+          "path": "verified-dds/kr_hwarang_dismounted_a2.dds",
+          "bytes": 349680,
+          "sha256": "20a9c8c08fee62bad345a2fe4c2dc28617b5b1beda2889960473d5999bb204ba"
+        },
+        {
+          "path": "verified-dds/kr_hwarang_dismounted_a3.dds",
+          "bytes": 349680,
+          "sha256": "20a9c8c08fee62bad345a2fe4c2dc28617b5b1beda2889960473d5999bb204ba"
+        },
+        {
+          "path": "verified-dds/kr_hwarang_dismounted_a4.dds",
+          "bytes": 349680,
+          "sha256": "28e464d8c3f48c19bb5831c8ec9a571f3b5524614417e44477cbb084967e5a89"
+        },
+        {
+          "path": "verified-dds/kr_hwarang_mounted_a2.dds",
+          "bytes": 349680,
+          "sha256": "4df44617a751488e08945dc5a77a9d901277240e6c47ba3ee42c77010ddde953"
+        },
+        {
+          "path": "verified-dds/kr_hwarang_mounted_a3.dds",
+          "bytes": 349680,
+          "sha256": "916dbfff6828898bf960537f453c2d610aa72190a0892aac4886ae7b44401574"
+        },
+        {
+          "path": "verified-dds/kr_hwarang_mounted_a4.dds",
+          "bytes": 349680,
+          "sha256": "90e3916706b937eca2300b40cfe24ef6dd70796488db825bcd9898bee1633371"
+        },
+        {
+          "path": "verified-dds/kr_lancer_a3.dds",
+          "bytes": 349680,
+          "sha256": "a0067a5be7df1e4e129b929bd08d07c362809bc51aab8a629262db3de9ca1857"
+        },
+        {
+          "path": "verified-dds/kr_lancer_a4.dds",
+          "bytes": 349680,
+          "sha256": "706bc5431dceeeb9169cad32e9b5c467419c4f54fd613f8cd24cee8e3debfff9"
+        },
+        {
+          "path": "verified-dds/kr_monk_a3.dds",
+          "bytes": 349680,
+          "sha256": "173e111e615403f112ea8f67effadfde0b2736ed6041f6a94bfc8865ec7a180b"
+        },
+        {
+          "path": "verified-dds/kr_monk_a4.dds",
+          "bytes": 349680,
+          "sha256": "57d5c88cca8ef7754ef19fad5ef442d6cbba578ebf013b5e00416f2a6ceefe23"
+        },
+        {
+          "path": "verified-dds/kr_mount_horseman_a2.dds",
+          "bytes": 349680,
+          "sha256": "95e4c51529068a6ebc20d3119749156156b4b85158241ca62583006afeda1597"
+        },
+        {
+          "path": "verified-dds/kr_mount_horseman_a3.dds",
+          "bytes": 349680,
+          "sha256": "ef92e5e5e128e4f136ed4e50251d8168d57f1a2a1daf41b1793ecaba3343273c"
+        },
+        {
+          "path": "verified-dds/kr_mount_horseman_a4.dds",
+          "bytes": 349680,
+          "sha256": "8ba0eda31ada0935f0ae5013db6a84ef8e56f1028dff9d5cf21428c2108c7b04"
+        },
+        {
+          "path": "verified-dds/kr_mount_hwarang_a2.dds",
+          "bytes": 349680,
+          "sha256": "95e4c51529068a6ebc20d3119749156156b4b85158241ca62583006afeda1597"
+        },
+        {
+          "path": "verified-dds/kr_mount_hwarang_a3.dds",
+          "bytes": 349680,
+          "sha256": "ef92e5e5e128e4f136ed4e50251d8168d57f1a2a1daf41b1793ecaba3343273c"
+        },
+        {
+          "path": "verified-dds/kr_mount_hwarang_a4.dds",
+          "bytes": 349680,
+          "sha256": "8ba0eda31ada0935f0ae5013db6a84ef8e56f1028dff9d5cf21428c2108c7b04"
+        },
+        {
+          "path": "verified-dds/kr_mount_lancer_a3.dds",
+          "bytes": 349680,
+          "sha256": "6a0691f23c0aa28afd0b6b1445f1fff9694f4e12c855eb4903ddc4ebb301f60c"
+        },
+        {
+          "path": "verified-dds/kr_mount_lancer_a4.dds",
+          "bytes": 349680,
+          "sha256": "a79a5e30186d9e2fa16f4f2da7a08906928b801d748eb1745caf8586d7d3a361"
+        },
+        {
+          "path": "verified-dds/kr_mount_scout_a1.dds",
+          "bytes": 349680,
+          "sha256": "e6c5af8d1457dcd4a1be5772e8524171f658d44b1bacf7b77c89327e1f014210"
+        },
+        {
+          "path": "verified-dds/kr_mount_scout_a2.dds",
+          "bytes": 349680,
+          "sha256": "e6c5af8d1457dcd4a1be5772e8524171f658d44b1bacf7b77c89327e1f014210"
+        },
+        {
+          "path": "verified-dds/kr_mount_scout_a3.dds",
+          "bytes": 349680,
+          "sha256": "e6c5af8d1457dcd4a1be5772e8524171f658d44b1bacf7b77c89327e1f014210"
+        },
+        {
+          "path": "verified-dds/kr_mount_scout_a4.dds",
+          "bytes": 349680,
+          "sha256": "e6c5af8d1457dcd4a1be5772e8524171f658d44b1bacf7b77c89327e1f014210"
+        },
+        {
+          "path": "verified-dds/kr_mount_trader_a2.dds",
+          "bytes": 349680,
+          "sha256": "daa2f7a1b1f1b98c71db0510235154532efd537489d5248d457de613e3778db6"
+        },
+        {
+          "path": "verified-dds/kr_mount_trader_a3.dds",
+          "bytes": 349680,
+          "sha256": "5fa3718fd341632ecbd3e2615fc80589964dce9e9136be610355304da782ae42"
+        },
+        {
+          "path": "verified-dds/kr_mount_trader_a4.dds",
+          "bytes": 349680,
+          "sha256": "88dc4832543a49ec50618f44d4f1da03d4650d021ff4899b8117f2f59e062260"
+        },
+        {
+          "path": "verified-dds/kr_righteous_army_monk_a3.dds",
+          "bytes": 349680,
+          "sha256": "173e111e615403f112ea8f67effadfde0b2736ed6041f6a94bfc8865ec7a180b"
+        },
+        {
+          "path": "verified-dds/kr_righteous_army_monk_a4.dds",
+          "bytes": 349680,
+          "sha256": "57d5c88cca8ef7754ef19fad5ef442d6cbba578ebf013b5e00416f2a6ceefe23"
+        },
+        {
+          "path": "verified-dds/kr_scout_a1.dds",
+          "bytes": 349680,
+          "sha256": "28588b8772a80d49310022e4be189a3d2259628ed54a970af17e2403562b37b3"
+        },
+        {
+          "path": "verified-dds/kr_scout_a2.dds",
+          "bytes": 349680,
+          "sha256": "c8f89be668120178789ea9a72900de9d4fe90152dc174671011e5da8e867aa60"
+        },
+        {
+          "path": "verified-dds/kr_scout_a3.dds",
+          "bytes": 349680,
+          "sha256": "1594c26164e997b87da11add9ba8e39af9ed6388b11b75867dd8d6ec61bb6068"
+        },
+        {
+          "path": "verified-dds/kr_scout_a4.dds",
+          "bytes": 349680,
+          "sha256": "f7564abfd4eeb4bcdad42d10d86084677aa88bc87d84a3a50316d6ba8ee64dac"
+        },
+        {
+          "path": "verified-dds/kr_scout_female_a1.dds",
+          "bytes": 349680,
+          "sha256": "2b71de8f718db5fb29e08b75ccaae1e9da44989319c16cd761ce617af0622d6f"
+        },
+        {
+          "path": "verified-dds/kr_scout_female_a2.dds",
+          "bytes": 349680,
+          "sha256": "826409bff2f059047f3e93fec6e23f6875bd9621ee6f65da42acf50e58305213"
+        },
+        {
+          "path": "verified-dds/kr_scout_female_a3.dds",
+          "bytes": 349680,
+          "sha256": "f1ab9e81156862fcbef5ef0d284f9d0d95ec0e8b86d34564fddac6bd8a995a06"
+        },
+        {
+          "path": "verified-dds/kr_scout_female_a4.dds",
+          "bytes": 349680,
+          "sha256": "c22da9e0f4e51e239d9b20b70aa30f1f5e78e116ffb3fcec539b141d5cdbdc8e"
+        },
+        {
+          "path": "verified-dds/kr_seonbi_a1.dds",
+          "bytes": 349680,
+          "sha256": "c98730fc44ca4d017bce1ae158124bab60c35bf34ddb5dee8ac70a5507014fab"
+        },
+        {
+          "path": "verified-dds/kr_seonbi_a3.dds",
+          "bytes": 349680,
+          "sha256": "93119c99cceb0bc389b898a7f92dc4f6d57b5041aa316c0336b738bb2a3cf729"
+        },
+        {
+          "path": "verified-dds/kr_spearman_a1.dds",
+          "bytes": 349680,
+          "sha256": "1339c7d4cd99cb851a75c55f8bc9d4a990daba44862d5b4c5434f8c10e9176a6"
+        },
+        {
+          "path": "verified-dds/kr_spearman_a2.dds",
+          "bytes": 349680,
+          "sha256": "032b57001b7ae54d9dc6e6090ec21a3790155d275b676bb16d04bcb9b24a0d2a"
+        },
+        {
+          "path": "verified-dds/kr_spearman_a3.dds",
+          "bytes": 349680,
+          "sha256": "a08f9204a17347e61f68084e58781c231a44f7db14771be1a4ca74469b0e1927"
+        },
+        {
+          "path": "verified-dds/kr_spearman_a4.dds",
+          "bytes": 349680,
+          "sha256": "13a8eb7a7503688fb6286331b9fd2bb2304841700fcf5f844eb027a59e2c3df8"
+        },
+        {
+          "path": "verified-dds/kr_tiger_hunter_a2.dds",
+          "bytes": 349680,
+          "sha256": "20a9c8c08fee62bad345a2fe4c2dc28617b5b1beda2889960473d5999bb204ba"
+        },
+        {
+          "path": "verified-dds/kr_tiger_hunter_a3.dds",
+          "bytes": 349680,
+          "sha256": "20a9c8c08fee62bad345a2fe4c2dc28617b5b1beda2889960473d5999bb204ba"
+        },
+        {
+          "path": "verified-dds/kr_tiger_hunter_a4.dds",
+          "bytes": 349680,
+          "sha256": "28e464d8c3f48c19bb5831c8ec9a571f3b5524614417e44477cbb084967e5a89"
+        },
+        {
+          "path": "verified-dds/kr_trade_cargo_a2.dds",
+          "bytes": 349680,
+          "sha256": "5d1c777eae69e53019cbf81de03be853a07549d48c9730b558d96f687a5011eb"
+        },
+        {
+          "path": "verified-dds/kr_trade_cargo_a3.dds",
+          "bytes": 349680,
+          "sha256": "564629e03d0a4d788f6cfc0f66602a685d235c3bdae873f7a9f4d4935bd56c29"
+        },
+        {
+          "path": "verified-dds/kr_trade_cargo_a4.dds",
+          "bytes": 349680,
+          "sha256": "f9f48a6003a19aa4c9f5e80b02677046bcae270167a86535dd1f5ef9a58a1dc9"
+        },
+        {
+          "path": "verified-dds/kr_trader_a2.dds",
+          "bytes": 349680,
+          "sha256": "605ead8ec9f1fbd91f88bc829d72ea79cd56838840583e2fa498dca02d8fe045"
+        },
+        {
+          "path": "verified-dds/kr_trader_a3.dds",
+          "bytes": 349680,
+          "sha256": "57e288001243a3e8e12abf40035e9b247a2fc7e59f519764400822f2887030e6"
+        },
+        {
+          "path": "verified-dds/kr_trader_a4.dds",
+          "bytes": 349680,
+          "sha256": "8bc592ab4ec74c2fa52e692f2cc19c40c24bdcb76db042f69a9ff9f5f69058c6"
+        },
+        {
+          "path": "verified-dds/kr_trader_female_a2.dds",
+          "bytes": 349680,
+          "sha256": "a540e2affea01ab9b125b505f4ca366b2a10acaa0a2a64a304612fca8f2f6f96"
+        },
+        {
+          "path": "verified-dds/kr_trader_female_a3.dds",
+          "bytes": 349680,
+          "sha256": "e75760c8a608edd44f7b124d2e4058f8fa62bab1ac16bb6a0e2e4d1ed99364fb"
+        },
+        {
+          "path": "verified-dds/kr_trader_female_a4.dds",
+          "bytes": 349680,
+          "sha256": "0271638d0fab86e4575a79880140699d63b0a677fc01c95e9a26be69adf0438c"
+        },
+        {
+          "path": "verified-dds/kr_villager_female_a1.dds",
+          "bytes": 349680,
+          "sha256": "389bc15a7ad9d2d18402ca3f5d1b25eef515fbe80ed03a610da7f19864b6063a"
+        },
+        {
+          "path": "verified-dds/kr_villager_female_a2.dds",
+          "bytes": 349680,
+          "sha256": "a540e2affea01ab9b125b505f4ca366b2a10acaa0a2a64a304612fca8f2f6f96"
+        },
+        {
+          "path": "verified-dds/kr_villager_female_a3.dds",
+          "bytes": 349680,
+          "sha256": "e75760c8a608edd44f7b124d2e4058f8fa62bab1ac16bb6a0e2e4d1ed99364fb"
+        },
+        {
+          "path": "verified-dds/kr_villager_female_a4.dds",
+          "bytes": 349680,
+          "sha256": "0271638d0fab86e4575a79880140699d63b0a677fc01c95e9a26be69adf0438c"
+        },
+        {
+          "path": "verified-dds/kr_villager_male_a1.dds",
+          "bytes": 349680,
+          "sha256": "fe80000e1296d47db1bf43c8a2a490cdc9cf78d8ee3df3ccc1b8b1cd62701d5e"
+        },
+        {
+          "path": "verified-dds/kr_villager_male_a2.dds",
+          "bytes": 349680,
+          "sha256": "605ead8ec9f1fbd91f88bc829d72ea79cd56838840583e2fa498dca02d8fe045"
+        },
+        {
+          "path": "verified-dds/kr_villager_male_a3.dds",
+          "bytes": 349680,
+          "sha256": "57e288001243a3e8e12abf40035e9b247a2fc7e59f519764400822f2887030e6"
+        },
+        {
+          "path": "verified-dds/kr_villager_male_a4.dds",
+          "bytes": 349680,
+          "sha256": "8bc592ab4ec74c2fa52e692f2cc19c40c24bdcb76db042f69a9ff9f5f69058c6"
+        },
+        {
+          "path": "verified-dds/korea_cavalry_spear.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_crossbow.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_gakgung_archer.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_gakgung_hwarang.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_gakgung_tiger_hunter.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_gapsa_heavy_spear.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_gapsa_long_spear.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_hand_chongtong.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_hwarang_sword.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_jangchang_plain.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_jangchang_tassel.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_lancer_lance.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_lancer_polearm_upgrade.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_monk_staff.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_righteous_monk_sword.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_seonbi_book.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_shared_torch.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_villager_axe.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_villager_basket.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_villager_crook.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_villager_hammer.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_villager_hunting_bow.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_villager_hunting_spear.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_villager_pick.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/korea_villager_sickle.dds",
+          "bytes": 174928,
+          "sha256": "4198906f97cf45e98e4fc79408911c2c05ad9565bb8db7d4fd05e14cc676bd70"
+        },
+        {
+          "path": "verified-dds/kr_hwacha.dds",
+          "bytes": 349680,
+          "sha256": "8da229de2ecc39db4dda79f67d1392f303584d1909500bb3139c422ab43d2e7e"
+        }
+      ],
+      "regeneration": "Current Native016.test_all_bound_masks_have_valid_bc3_mip_streams_and_digests from retained indexed rrtex and recipe"
+    }
+  ],
+  "logical_bytes_removed": 2485108361,
+  "final_zip_sha256": "e65c6b0c165bf5887d6e99d23fc4a1401f15023697a3fe719a4b0935a0274187",
+  "rollback_hashes_verified_after_cleanup": true,
+  "protected": "All editable/native inputs, both dialogue generations and all masters, weights/tools/downloads, sources/recipes/checkpoints, current 0.2.3 ZIP, exact 0.2.2/older rollbacks, failed-build evidence and compact receipts preserved. No broad E/F cleanup."
+}

@@ -1,0 +1,391 @@
+{
+  "archive_sha256": "ec8c9975fb16e5cf7492a7135120fdb87ad773380e249a346f6f4388e4d1fe2c",
+  "zip_sha256": "856e6d6529950a6f1831521f8dd5a4d331040c55456fb04f5a57ad704ee55080",
+  "zip_bytes": 199924627,
+  "verified_inventory": 10282,
+  "unchanged_inventory_rows_from_025": 10191,
+  "research_abilities": 90,
+  "research_variants": 193,
+  "patched_fields": {
+    "attrib/abilities/korea/kr_archery_archer_tier_3.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "xp3": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_archery_archer_tier_4.rgd": {
+      "default": "KoreaLiterature1000DataTemplate",
+      "xp3": "KoreaLiterature1000DataTemplate"
+    },
+    "attrib/abilities/korea/kr_archery_crossbow_tier_4.rgd": {
+      "default": "KoreaLiterature1000DataTemplate",
+      "xp3": "KoreaLiterature1000DataTemplate"
+    },
+    "attrib/abilities/korea/kr_archery_ranged_arrow_chutes.rgd": {
+      "default": "KoreaLiterature300DataTemplate",
+      "xp3": "KoreaLiterature300DataTemplate"
+    },
+    "attrib/abilities/korea/kr_archery_tiger_hunter_tier_3.rgd": {
+      "default": "KoreaLiterature175DataTemplate",
+      "xp3": "KoreaLiterature175DataTemplate"
+    },
+    "attrib/abilities/korea/kr_archery_tiger_hunter_tier_4.rgd": {
+      "default": "KoreaLiterature1000DataTemplate",
+      "xp3": "KoreaLiterature1000DataTemplate"
+    },
+    "attrib/abilities/korea/kr_archery_tiger_hunter_tier_rocket.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_barracks_maa_heavy_spear_4.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_barracks_spear_tier_2.rgd": {
+      "default": "KoreaLiterature50DataTemplate",
+      "xp3": "KoreaLiterature50DataTemplate"
+    },
+    "attrib/abilities/korea/kr_barracks_spear_tier_3.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "xp3": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_barracks_spear_tier_4.rgd": {
+      "default": "KoreaLiterature1000DataTemplate",
+      "xp3": "KoreaLiterature1000DataTemplate"
+    },
+    "attrib/abilities/korea/kr_barracks_unique_tech_spear.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_melee_armor_1.rgd": {
+      "default": "KoreaLiterature175DataTemplate",
+      "campaign": "KoreaLiterature175DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_melee_armor_2.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "campaign": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_melee_armor_3.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "campaign": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_melee_damage_1.rgd": {
+      "default": "KoreaLiterature175DataTemplate",
+      "campaign": "KoreaLiterature175DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_melee_damage_2.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "campaign": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_melee_damage_3.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "campaign": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_military_academy.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "campaign": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_ranged_armor_1.rgd": {
+      "default": "KoreaLiterature175DataTemplate",
+      "campaign": "KoreaLiterature175DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_ranged_armor_2.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "campaign": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_ranged_armor_3.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "campaign": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_ranged_damage_1.rgd": {
+      "default": "KoreaLiterature175DataTemplate",
+      "campaign": "KoreaLiterature175DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_ranged_damage_2.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "campaign": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_ranged_damage_3.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "campaign": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_blacksmith_siege_engineers.rgd": {
+      "default": "KoreaLiterature175DataTemplate",
+      "campaign": "KoreaLiterature175DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_lumber_mine_1.rgd": {
+      "default": "KoreaLiterature150DataTemplate",
+      "xp3": "KoreaLiterature150DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_lumber_mine_2.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "xp3": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_lumber_mine_3.rgd": {
+      "default": "KoreaLiterature750DataTemplate",
+      "xp3": "KoreaLiterature750DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_lumber_wood_1.rgd": {
+      "default": "KoreaLiterature150DataTemplate",
+      "xp3": "KoreaLiterature150DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_lumber_wood_2.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "xp3": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_lumber_wood_3.rgd": {
+      "default": "KoreaLiterature750DataTemplate",
+      "xp3": "KoreaLiterature750DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_lumber_wood_chop.rgd": {
+      "default": "KoreaLiterature75DataTemplate",
+      "xp3": "KoreaLiterature75DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_mill_food_1.rgd": {
+      "default": "KoreaLiterature150DataTemplate",
+      "xp3": "KoreaLiterature150DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_mill_food_2.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "xp3": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_mill_food_3.rgd": {
+      "default": "KoreaLiterature750DataTemplate",
+      "xp3": "KoreaLiterature750DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_mill_hunt_gather_rate.rgd": {
+      "default": "KoreaLiterature100DataTemplate",
+      "xp3": "KoreaLiterature100DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_mill_pro_scout.rgd": {
+      "default": "KoreaLiterature450DataTemplate",
+      "xp3": "KoreaLiterature450DataTemplate"
+    },
+    "attrib/abilities/korea/kr_economic_mill_wheelbarrow.rgd": {
+      "default": "KoreaLiterature200DataTemplate",
+      "xp3": "KoreaLiterature200DataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_armor_activated.rgd": {
+      "default": "KoreaLiterature150ForeignDataTemplate",
+      "xp3": "KoreaLiterature150ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_attack_speed_activated.rgd": {
+      "default": "KoreaLiterature1000ForeignDataTemplate",
+      "campaign": "KoreaLiterature1000ForeignDataTemplate",
+      "xp3": "KoreaLiterature1000ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_construction_activated.rgd": {
+      "default": "KoreaLiterature700ForeignDataTemplate",
+      "campaign": "KoreaLiterature700ForeignDataTemplate",
+      "xp3": "KoreaLiterature700ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_damage_activated.rgd": {
+      "default": "KoreaLiterature250ForeignDataTemplate",
+      "xp3": "KoreaLiterature250ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_decay_armor_activated.rgd": {
+      "default": "KoreaLiterature1000ForeignDataTemplate",
+      "campaign": "KoreaLiterature1000ForeignDataTemplate",
+      "xp3": "KoreaLiterature1000ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_falcon_sight.rgd": {
+      "default": "KoreaLiterature1200ForeignDataTemplate",
+      "campaign": "KoreaLiterature1200ForeignDataTemplate",
+      "xp3": "KoreaLiterature1200ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_gunpowder_attack_speed_activated.rgd": {
+      "default": "KoreaLiterature325ForeignDataTemplate",
+      "campaign": "KoreaLiterature325ForeignDataTemplate",
+      "xp3": "KoreaLiterature325ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_healing_activated.rgd": {
+      "default": "KoreaLiterature500ForeignDataTemplate",
+      "campaign": "KoreaLiterature500ForeignDataTemplate",
+      "xp3": "KoreaLiterature500ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_improved_armor_maneuver_arrow.rgd": {
+      "default": "KoreaLiterature325ForeignDataTemplate",
+      "campaign": "KoreaLiterature325ForeignDataTemplate",
+      "xp3": "KoreaLiterature325ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_improved_incendiary_attack_speed_arrow.rgd": {
+      "default": "KoreaLiterature250ForeignDataTemplate",
+      "campaign": "KoreaLiterature250ForeignDataTemplate",
+      "xp3": "KoreaLiterature250ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_knight_damage_move_speed_activated.rgd": {
+      "default": "KoreaLiterature500ForeignDataTemplate",
+      "campaign": "KoreaLiterature500ForeignDataTemplate",
+      "xp3": "KoreaLiterature500ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_move_speed_activated.rgd": {
+      "default": "KoreaLiterature350ForeignDataTemplate",
+      "campaign": "KoreaLiterature350ForeignDataTemplate",
+      "xp3": "KoreaLiterature350ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_production_activated.rgd": {
+      "default": "KoreaLiterature350ForeignDataTemplate",
+      "campaign": "KoreaLiterature350ForeignDataTemplate",
+      "xp3": "KoreaLiterature350ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_production_mon_activated.rgd": {
+      "default": "KoreaLiterature350ForeignDataTemplate",
+      "campaign": "KoreaLiterature350ForeignDataTemplate",
+      "xp3": "KoreaLiterature350ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_ranged_attack_speed_activated.rgd": {
+      "default": "KoreaLiterature350ForeignDataTemplate",
+      "campaign": "KoreaLiterature350ForeignDataTemplate",
+      "xp3": "KoreaLiterature350ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_leader_siege_damage_activated.rgd": {
+      "default": "KoreaLiterature125ForeignDataTemplate",
+      "xp3": "KoreaLiterature125ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_monestary_herbal_medicine.rgd": {
+      "default": "KoreaLiterature275DataTemplate",
+      "xp3": "KoreaLiterature275DataTemplate"
+    },
+    "attrib/abilities/korea/kr_monestary_piety.rgd": {
+      "default": "KoreaLiterature325DataTemplate",
+      "xp3": "KoreaLiterature325DataTemplate"
+    },
+    "attrib/abilities/korea/kr_monestary_tithe_barns.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_naval_armored_hull.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_naval_econ_drift_nets.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_naval_explosives.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_naval_extra_hammocks.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "xp3": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_naval_heated_shot.rgd": {
+      "default": "KoreaLiterature700DataTemplate",
+      "xp3": "KoreaLiterature700DataTemplate"
+    },
+    "attrib/abilities/korea/kr_naval_shipwrights.rgd": {
+      "default": "KoreaLiterature850DataTemplate",
+      "xp3": "KoreaLiterature850DataTemplate"
+    },
+    "attrib/abilities/korea/kr_naval_swivel_cannon.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_naval_upgrade_naval_incendiaries.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "xp3": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_saladin_armor_activated_ayy.rgd": {
+      "default": "KoreaLiterature275ForeignDataTemplate",
+      "xp3": "KoreaLiterature275ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_seowon_hungul_script_korea.rgd": {
+      "default": "KoreaLiterature200DataTemplate",
+      "xp3": "KoreaLiterature200DataTemplate"
+    },
+    "attrib/abilities/korea/kr_seowon_hungul_script_korea_for_feudal_landmark.rgd": {
+      "default": "KoreaLiterature300DataTemplate",
+      "xp3": "KoreaLiterature300DataTemplate"
+    },
+    "attrib/abilities/korea/kr_shirkuh_speed_activate_ayy.rgd": {
+      "default": "KoreaLiterature300ForeignDataTemplate",
+      "xp3": "KoreaLiterature300ForeignDataTemplate"
+    },
+    "attrib/abilities/korea/kr_siege_bombard_range.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_siege_mathemathics.rgd": {
+      "default": "KoreaLiterature325DataTemplate",
+      "xp3": "KoreaLiterature325DataTemplate"
+    },
+    "attrib/abilities/korea/kr_siege_movement_speed.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_siege_roller_shutter_trigger.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_stable_horseman_tier_3.rgd": {
+      "default": "KoreaLiterature350DataTemplate",
+      "xp3": "KoreaLiterature350DataTemplate"
+    },
+    "attrib/abilities/korea/kr_stable_horseman_tier_4.rgd": {
+      "default": "KoreaLiterature1000DataTemplate",
+      "xp3": "KoreaLiterature1000DataTemplate"
+    },
+    "attrib/abilities/korea/kr_stable_knight_range.rgd": {
+      "default": "KoreaLiterature700DataTemplate",
+      "xp3": "KoreaLiterature700DataTemplate"
+    },
+    "attrib/abilities/korea/kr_stable_knight_tier_4.rgd": {
+      "default": "KoreaLiterature1000DataTemplate",
+      "xp3": "KoreaLiterature1000DataTemplate"
+    },
+    "attrib/abilities/korea/kr_stable_scout_los_incrase.rgd": {
+      "default": "KoreaLiterature150DataTemplate",
+      "xp3": "KoreaLiterature150DataTemplate"
+    },
+    "attrib/abilities/korea/kr_town_center_textile_korea.rgd": {
+      "default": "KoreaLiterature150DataTemplate",
+      "xp3": "KoreaLiterature150DataTemplate"
+    },
+    "attrib/abilities/korea/kr_university_architecture_4.rgd": {
+      "default": "KoreaLiterature1000DataTemplate",
+      "xp3": "KoreaLiterature1000DataTemplate"
+    },
+    "attrib/abilities/korea/kr_university_biology.rgd": {
+      "default": "KoreaLiterature1500DataTemplate",
+      "xp3": "KoreaLiterature1500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_university_elite_army_tactic.rgd": {
+      "default": "KoreaLiterature1500DataTemplate",
+      "xp3": "KoreaLiterature1500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_university_leadshot.rgd": {
+      "default": "KoreaLiterature800DataTemplate",
+      "xp3": "KoreaLiterature800DataTemplate"
+    },
+    "attrib/abilities/korea/kr_university_ranged_incendiary.rgd": {
+      "default": "KoreaLiterature1500DataTemplate",
+      "xp3": "KoreaLiterature1500DataTemplate"
+    },
+    "attrib/abilities/korea/kr_university_siege_cemistary.rgd": {
+      "default": "KoreaLiterature850DataTemplate",
+      "xp3": "KoreaLiterature850DataTemplate"
+    },
+    "attrib/abilities/korea/kr_university_siege_works.rgd": {
+      "default": "KoreaLiterature900DataTemplate",
+      "xp3": "KoreaLiterature900DataTemplate"
+    },
+    "attrib/abilities/korea/kr_university_silkstring.rgd": {
+      "default": "KoreaLiterature1000DataTemplate",
+      "xp3": "KoreaLiterature1000DataTemplate"
+    },
+    "attrib/abilities/korea/kr_upgrade_econ_extended_lines.rgd": {
+      "default": "KoreaLiterature250DataTemplate",
+      "xp3": "KoreaLiterature250DataTemplate"
+    },
+    "attrib/abilities/korea/kr_upgrade_naval_springald_ship_upgrade_1.rgd": {
+      "default": "KoreaLiterature500DataTemplate",
+      "xp3": "KoreaLiterature500DataTemplate"
+    }
+  },
+  "stock_ui_sha256": "790a586acc8f11ec89f3cb66f963368bd77473c599bc89313271f9c55fb07594",
+  "group_supervise_restored_sha256": "2470aba5848528f12891c5559fef2a87e6a2581655ac8bfa553cb14194f0503c",
+  "preserved_release_sha256": {
+    "0.2.4": "b0544f10ac45604968502330c977f99cef735a67b086c976f321cfa98d2eab89",
+    "0.2.5": "4051ff84f03b26728a1c577369c0fd6d7678a3a6c005f2af5a59be67d5e5adf5"
+  },
+  "native_match_tested": false
+}

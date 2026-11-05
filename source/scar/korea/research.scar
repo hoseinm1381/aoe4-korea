@@ -84,7 +84,9 @@ function KoreaResearch_Observatory(player)
 end
 
 function KoreaResearch_Ability(context, player)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("research.ability_route.before",nil) end -- KOREA024_DIAGNOSTIC
     local route = KoreaResearchRoutes[key(context.ability)]
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("research.ability_route.after",nil) end -- KOREA024_DIAGNOSTIC
     if route == nil then return false end
     local costs = paidCosts(player, route, context.ability)
     local actor = context.executer
@@ -104,6 +106,7 @@ function KoreaResearch_Ability(context, player)
     syncAllowances(player)
     Player_SetAbilityAvailability(player.id, route.pbg, ITEM_REMOVED)
     Player_SetUpgradeAvailability(player.id, route.upgradePBG, ITEM_DEFAULT)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("research.queue_upgrade.before",route.upgrade) end -- KOREA024_DIAGNOSTIC
     if not Entity_QueueProductionItemByPBG(actor, PITEM_Upgrade, route.upgradePBG) then
         KoreaResearch_Settle(player, route.key, false)
     end
@@ -111,7 +114,9 @@ function KoreaResearch_Ability(context, player)
 end
 
 function KoreaResearch_Settle(player, upgrade, complete)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("research.settlement.before",upgrade) end -- KOREA024_DIAGNOSTIC
     local costs, transaction = KoreaResearchCore.Settle(player.research, upgrade, complete, player.observatoryActive)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("research.settlement.after",upgrade) end -- KOREA024_DIAGNOSTIC
     if costs == nil then return end
     refund(player, costs)
     if not complete then

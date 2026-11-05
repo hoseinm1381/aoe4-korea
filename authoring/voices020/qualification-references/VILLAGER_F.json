@@ -1,0 +1,17 @@
+{
+  "profile": "VILLAGER_F",
+  "file": "authoring\\voices020\\qualification-references\\VILLAGER_F.wav",
+  "sha256": "deb9eebb23052a660c9a165ac563813ef4eb10131ef4a3a21e948ce1d0d157e3",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 7.6,
+  "rms": 0.13822302222251892,
+  "raw_peak": 0.7421875,
+  "generation_seconds": 19.112,
+  "seed": 2026110230,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean woman, warm low mezzo voice, capable rural worker, direct practical delivery, light breath texture. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

@@ -12,9 +12,18 @@ import("korea/economy.scar")
 import("korea/landmarks.scar")
 import("korea/ui.scar")
 import("korea/lifecycle.scar")
+import("korea/voices_020.scar")
+import("korea/diagnostics_024.scar") -- KOREA024_DIAGNOSTIC
 
 KoreaIndependentState={started=false,active=false,ending=false,civilizations={},selection={closed=true}}
 local state=KoreaIndependentState
+local function startLocalVoices()
+    if not KoreaVoice_Start then return end
+    local player=Game_GetLocalPlayer()
+    if next(state.civilizations)~=nil or (player~=nil and Player_GetRaceName(player)=="748d61b94d3e4cf3a506a9ac1f992d1d:korea") then
+        KoreaVoice_Start(state.civilizations)
+    end
+end
 function KoreaIndependent_OnGameSetup()
     state.started=false;state.active=false;state.ending=false;state.civilizations={};state.selection={closed=true}
     KoreaInitializationState.applied={}
@@ -33,18 +42,23 @@ function KoreaIndependent_Start()
             else print("KOREA_INDEPENDENT_START_REJECT "..tostring(reason)) end
         end
     end
+    -- Voice presentation follows the selected local race, independently of the gameplay start guard.
+    startLocalVoices()
     if next(state.civilizations)==nil then return end
     state.active=true
     KoreaLifecycle_Start(state.civilizations)
 end
 
 function KoreaIndependent_OnGameRestore()
-    if not state.active then return end
+    if not state.started or state.ending then return end
     -- Retained restore hooks do not establish save/load acceptance.
+    if KoreaVoice_Stop then KoreaVoice_Stop() end
+    startLocalVoices()
 end
 function KoreaIndependent_OnGameOver()
     if state.ending then return end
     state.ending=true
+    if KoreaVoice_Stop then KoreaVoice_Stop() end
     if state.active then
     KoreaLifecycle_Cleanup()
     end

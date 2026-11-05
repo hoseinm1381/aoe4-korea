@@ -32,8 +32,12 @@ end
 function KoreaLandmarks_SpawnGuard(player, fortress)
     local bp = Korea_BP("sbps", "unit_leader_baibars_ayy")
     local position = Entity_GetPosition(fortress)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.spawn.before",nil) end -- KOREA024_DIAGNOSTIC
     local squad = Squad_CreateAndSpawnToward(bp, player.id, 1, position, position)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.spawn.after",nil) end -- KOREA024_DIAGNOSTIC
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.selectability.before",nil) end -- KOREA024_DIAGNOSTIC
     Misc_SetSquadSelectable(squad, false)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.selectability.after",nil) end -- KOREA024_DIAGNOSTIC
 end
 
 function KoreaLandmarks_Research(player, upgrade)
@@ -45,6 +49,7 @@ function KoreaLandmarks_Research(player, upgrade)
     -- Preserve the active donor's first-eight qualifying research rewards.
     if player.stoneRewards < 8 and not player.stoneResearch[BP_GetName(upgrade)] then
         player.stoneResearch[BP_GetName(upgrade)] = true
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("landmark.queue_reward.before",nil) end -- KOREA024_DIAGNOSTIC
         if Entity_QueueProductionItemByPBG(stone, PITEM_Spawn, Korea_BP("sbps", "unit_villager_1_chi_ha_01")) then
             player.stoneRewards = player.stoneRewards + 1
         end
@@ -57,6 +62,7 @@ function KoreaLandmarks_Kill(context)
         local player = KoreaState.players[index]
         local palace = player.landmarks.palace
         if Korea_Functioning(palace) and context.victimOwner ~= nil and Player_GetRelationship(player.id, context.victimOwner) == R_ENEMY then
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("palace.dead_victim_position.before",nil) end -- KOREA024_DIAGNOSTIC
             if World_DistancePointToPoint(Entity_GetPosition(palace), Entity_GetPosition(context.victim)) < 60 then
                 local increase = math.min(125, 10000 - Entity_GetHealthMax(palace))
                 if increase > 0 then Korea_EntityModifier(palace, "health_maximum_modifier", MUT_Addition, increase, nil) end
@@ -82,15 +88,25 @@ function KoreaLandmarks_Guards(player, now)
         local enemies = SGroup_CreateUnique()
         local buildings = EGroup_CreateUnique()
         local position = Entity_GetPosition(fortress)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.enemies.before",nil) end -- KOREA024_DIAGNOSTIC
         World_GetSquadsNearPoint(player.id, enemies, position, 48, OT_Enemy)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.enemies.after",nil) end -- KOREA024_DIAGNOSTIC
         SGroup_Filter(enemies, "gaia", FILTER_REMOVE)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.buildings.before",nil) end -- KOREA024_DIAGNOSTIC
         World_GetEntitiesNearPoint(player.id, buildings, position, 48, OT_Enemy)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.buildings.after",nil) end -- KOREA024_DIAGNOSTIC
         if SGroup_Count(enemies) > 0 then
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.attack_move.before",nil) end -- KOREA024_DIAGNOSTIC
             Cmd_AttackMove(guards, Squad_GetPosition(SGroup_GetSquadAt(enemies, 1)), false)
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.attack_move.after",nil) end -- KOREA024_DIAGNOSTIC
         elseif EGroup_Count(buildings) > 0 then
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.attack_move.before",nil) end -- KOREA024_DIAGNOSTIC
             Cmd_AttackMove(guards, Entity_GetPosition(EGroup_GetEntityAt(buildings, 1)), false)
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.attack_move.after",nil) end -- KOREA024_DIAGNOSTIC
         else
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.patrol_move.before",nil) end -- KOREA024_DIAGNOSTIC
             Cmd_Move(guards, Prox_GetRandomPosition(position, 48, 16), false)
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("guards.patrol_move.after",nil) end -- KOREA024_DIAGNOSTIC
         end
         SGroup_Destroy(enemies); EGroup_Destroy(buildings)
     end

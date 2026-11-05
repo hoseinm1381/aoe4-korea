@@ -1,157 +1,18 @@
 {
-  "version": "0.1.2",
-  "race": "korea",
-  "zip_bytes": 4393069,
-  "archive_bytes": 14424604,
-  "baseline_011_zip_bytes": 4434632,
-  "incremental_compressed_zip_bytes": -41563,
-  "zip_reduction_bytes": 41563,
-  "zip_reduction_percent": 0.9372367312552654,
-  "native_input_bytes": 2802180,
-  "native_audio_bytes": 0,
-  "native_texture_members": 54,
-  "texture_parse_failures": [],
-  "native_texture_mip_payload_bytes_by_path": 12822000,
-  "decoded_rgba8_mips_bytes_by_path": 51288000,
-  "decoded_rgba8_mips_bytes_unique_content": 51282176,
-  "working_bytes_excluding_git_output_release_archives": 117667094,
-  "working_categories": {
-    "root": {
-      "files": 11,
-      "bytes": 17908
-    },
-    "inputs": {
-      "files": 56,
-      "bytes": 2814283
-    },
-    "source": {
-      "files": 445,
-      "bytes": 103031698
-    },
-    "authoring": {
-      "files": 379,
-      "bytes": 9582463
-    },
-    "docs": {
-      "files": 72,
-      "bytes": 1474972
-    },
-    "tools": {
-      "files": 9,
-      "bytes": 49027
-    },
-    "tests": {
-      "files": 7,
-      "bytes": 696743
-    }
-  },
-  "retained_rollback_zip_bytes": 8589772,
-  "verified_staging_removed_logical_bytes": 139802669,
-  "budget": {
-    "complete_import_zip_below_600MB": true,
-    "preferred_zip_below_300MB": true,
-    "note": "Below the 300MB standalone target."
-  },
-  "measurement": "Actual final archive/ZIP/member bytes. Decoded RGBA8 is the expansion estimate for all packaged mip levels, not measured runtime residency or VRAM. Native art/texture members are byte-identical to tested 0.1.1; no runtime FPS/VRAM improvement is claimed. Source working totals exclude retained history, Git and generated staging.",
-  "native_performance": "not measured",
-  "largest_texture_estimates": [
-    {
-      "member": "ui/icons/korea/koreancover.rrtex",
-      "sha256": "279b863dab6bf5f810e14e71c7bfe0e907334fef8a7965187b0129e8f05c1748",
-      "archive_member_bytes": 1700011,
-      "native_mip_payload_bytes": 2097664,
-      "decoded_rgba8_mips_bytes": 8390656,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation/flag_background.rrtex",
-      "sha256": "e76e0e942043eadc092f73e68e1eb5ce60557725cda853d73e520009476d6f31",
-      "archive_member_bytes": 204367,
-      "native_mip_payload_bytes": 2073600,
-      "decoded_rgba8_mips_bytes": 8294400,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation/flag_loading.rrtex",
-      "sha256": "17a690f9d734e3c4faf8992cbf2f22a18c5107b7c7c44b3192efcbf56832cacb",
-      "archive_member_bytes": 204364,
-      "native_mip_payload_bytes": 2073600,
-      "decoded_rgba8_mips_bytes": 8294400,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation_011/flag_loading.rrtex",
-      "sha256": "f3d24c9a2ce19c5c898c1cfa56c2a9b57ec98969c6a32461155bd8974e7b1ace",
-      "archive_member_bytes": 158066,
-      "native_mip_payload_bytes": 2073600,
-      "decoded_rgba8_mips_bytes": 8294400,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation/flag_mastery.rrtex",
-      "sha256": "17c03dcafa72ec7b516a87a77d1cd617c9d49008036d544f8ed2363cc7d60171",
-      "archive_member_bytes": 72944,
-      "native_mip_payload_bytes": 653856,
-      "decoded_rgba8_mips_bytes": 2615424,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation_011/flag_mastery.rrtex",
-      "sha256": "31c47a320d7d8dd67a67c30c6319ef5a35e7efe4d47942b806d959086bc69b85",
-      "archive_member_bytes": 30189,
-      "native_mip_payload_bytes": 653856,
-      "decoded_rgba8_mips_bytes": 2615424,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation/flag_tile.rrtex",
-      "sha256": "1e8c9e6709e0d8ce0858f6dee396be268cabad166713f0cfce86ee0ee34a1d8f",
-      "archive_member_bytes": 65212,
-      "native_mip_payload_bytes": 588800,
-      "decoded_rgba8_mips_bytes": 2355200,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation_011/flag_tile.rrtex",
-      "sha256": "bded2bb3190ca305a2ff73e6031744acb386c99b3d1bdd0fede73408e8186a30",
-      "archive_member_bytes": 34368,
-      "native_mip_payload_bytes": 588800,
-      "decoded_rgba8_mips_bytes": 2355200,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation/flag_pattern.rrtex",
-      "sha256": "045a4d3aee23f72bd25ac7039e0d98d5281f39e9f91d78e00290357ce541fd6a",
-      "archive_member_bytes": 39441,
-      "native_mip_payload_bytes": 394240,
-      "decoded_rgba8_mips_bytes": 1576960,
-      "mips": 1
-    },
-    {
-      "member": "ui/images/garrison/korea/presentation_011/flag_pattern.rrtex",
-      "sha256": "d2a11118dd34c0de6ff4cff5d51dbadfe4e6dbb9d3c331b70f60f0eb59d9b96c",
-      "archive_member_bytes": 28015,
-      "native_mip_payload_bytes": 394240,
-      "decoded_rgba8_mips_bytes": 1576960,
-      "mips": 1
-    },
-    {
-      "member": "ui/icons/korea/main_icon.rrtex",
-      "sha256": "88cb8184fe3524e7a1d9a14064489f2cf16344a5835e9f9ac600668541507b21",
-      "archive_member_bytes": 33465,
-      "native_mip_payload_bytes": 307200,
-      "decoded_rgba8_mips_bytes": 1228800,
-      "mips": 1
-    },
-    {
-      "member": "ui/icons/korea/koreans_2.rrtex",
-      "sha256": "6d467b98e935c7b6925a6ab4ce03eca1da2ae4b282eab878bfd453d4d1305595",
-      "archive_member_bytes": 25059,
-      "native_mip_payload_bytes": 230400,
-      "decoded_rgba8_mips_bytes": 921600,
-      "mips": 1
-    }
-  ],
-  "packaged_rrtex_member_count": 54,
-  "decoded_texture_estimate_complete": true
+  "version": "0.2.3",
+  "zip_bytes": 199764260,
+  "archive_bytes": 374141158,
+  "zip_increment_vs_022_bytes": 53899867,
+  "archive_increment_vs_022_bytes": 55909390,
+  "compressed_sga_contribution_increment_vs_022_bytes": 53900830,
+  "dialogue_bytes": 111710069,
+  "old_dialogue_bytes": 55800679,
+  "dialogue_payload_increment_bytes": 55909390,
+  "dialogue_seconds": 8864.25045833334,
+  "decoded_dialogue_float32_bank_bytes": 850968044,
+  "effort_bytes_unchanged": 9815249,
+  "art_bytes_unchanged": 232908640,
+  "media_bytes": 354433993,
+  "scope": "Only dialogue encodes and corresponding bank paths changed. Compressed SGA increment includes the required path-map text/index effects; ZIP increment includes release text/metadata. No art/GPU-resource or gameplay changes.",
+  "budget_exception": "Owner-approved 0.2.3 audio-quality size increase; media<400000000 and ZIP<600000000. No measured runtime memory/performance acceptance."
 }

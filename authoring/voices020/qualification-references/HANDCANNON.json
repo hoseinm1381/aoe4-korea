@@ -1,0 +1,17 @@
+{
+  "profile": "HANDCANNON",
+  "file": "authoring\\voices020\\qualification-references\\HANDCANNON.wav",
+  "sha256": "beeec2dc24dca9c42a33523c4f284484d5b982c7d9a6de18d69033f207740f3c",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 4.72,
+  "rms": 0.1266462206840515,
+  "raw_peak": 0.72265625,
+  "generation_seconds": 13.137,
+  "seed": 2026110204,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, smoky baritone, resolute gunner, energetic projected voice, clipped emphatic consonants. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

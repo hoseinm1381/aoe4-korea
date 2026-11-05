@@ -1,0 +1,12 @@
+{
+  "diagnostic_rows": 0,
+  "trace_limit_reached": false,
+  "last_game_seconds": null,
+  "maximum_observed_nesting": 0,
+  "open_callbacks": [],
+  "last_native_or_phase_step": null,
+  "last_30_rows": [],
+  "interpretation": "No 0.2.4 diagnostic trace present; this cannot localize the crash.",
+  "crash_cause_confirmed": false,
+  "log_path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\warnings.log"
+}

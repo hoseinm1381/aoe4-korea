@@ -1,0 +1,9 @@
+{
+  "prepared_members": 10281,
+  "exact_prepared_member_sha256_matches": 10280,
+  "authored_dispatcher_body_matches": true,
+  "sdk_generated_declaration": "garrison/civilizations.json",
+  "native_sdk_validation": "passed",
+  "native_inputs_verified": 9734,
+  "editable_masters_verified": 9612
+}

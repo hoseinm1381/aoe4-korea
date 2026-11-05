@@ -1,0 +1,294 @@
+{
+  "units": {
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_monk_sbps": {
+      "role": "MONK",
+      "private": true,
+      "stock_speaker": "monk"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_trader_sbps": {
+      "role": "TRADER",
+      "private": true,
+      "stock_speaker": "villagermale"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_2_ayy": {
+      "role": "HWARANG_FOOT",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_2_chi_ha_01": {
+      "role": "ARCHER",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_3_ayy": {
+      "role": "HWARANG_FOOT",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_3_chi_ha_01": {
+      "role": "ARCHER",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_4_ayy": {
+      "role": "HWARANG_FOOT",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_4_chi_ha_01": {
+      "role": "ARCHER",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_crossbowman_3_chi_ha_01": {
+      "role": "CROSSBOW",
+      "private": true,
+      "stock_speaker": "crossbowman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_crossbowman_4_chi_ha_01": {
+      "role": "CROSSBOW",
+      "private": true,
+      "stock_speaker": "crossbowman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_handcannon_4_chi_ha_01": {
+      "role": "HANDCANNON",
+      "private": true,
+      "stock_speaker": "handcannon"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_2_ayy": {
+      "role": "HWARANG_MOUNTED",
+      "private": true,
+      "stock_speaker": "horseman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_2_chi_ha_01": {
+      "role": "HORSEMAN",
+      "private": true,
+      "stock_speaker": "horseman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_ayy": {
+      "role": "HWARANG_MOUNTED",
+      "private": true,
+      "stock_speaker": "horseman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_chi_ha_01": {
+      "role": "HORSEMAN",
+      "private": true,
+      "stock_speaker": "horseman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_4_ayy": {
+      "role": "HWARANG_MOUNTED",
+      "private": true,
+      "stock_speaker": "horseman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_4_chi_ha_01": {
+      "role": "HORSEMAN",
+      "private": true,
+      "stock_speaker": "horseman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_knight_3_chi_ha_01": {
+      "role": "LANCER",
+      "private": true,
+      "stock_speaker": "knight"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_knight_4_chi_ha_01": {
+      "role": "LANCER",
+      "private": true,
+      "stock_speaker": "knight"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_leader_baibars_ayy": {
+      "role": "RIGHTEOUS_MONK",
+      "private": true,
+      "stock_speaker": "monk"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_manatarms_3_chi_ha_01": {
+      "role": "GAPSA",
+      "private": true,
+      "stock_speaker": "manatarms"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_manatarms_4_chi_ha_01": {
+      "role": "GAPSA",
+      "private": true,
+      "stock_speaker": "manatarms"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_militia_cmp_chi": {
+      "role": "MILITIA",
+      "private": true,
+      "stock_speaker": "manatarms"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_militia_cru": {
+      "role": "MILITIA",
+      "private": true,
+      "stock_speaker": "manatarms"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_naval_fireship_3_chi_ha_01": {
+      "role": "NAVAL_FIRESHIP",
+      "private": true,
+      "stock_speaker": "fireship"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_naval_fishing_boat_2_chi_ha_01": {
+      "role": "NAVAL_FISHING",
+      "private": true,
+      "stock_speaker": "scoutship"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_naval_turtle_ship_3_korea": {
+      "role": "NAVAL_TURTLE",
+      "private": true,
+      "stock_speaker": "warship"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_nest_of_bees_4_chi_ha_01": {
+      "role": "HWACHA",
+      "private": true,
+      "stock_speaker": "seigeranged"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_official_1_chi_ha_01": {
+      "role": "SCHOLAR",
+      "private": true,
+      "stock_speaker": "monk"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_ram_3_chi_ha_01": {
+      "role": "RAM",
+      "private": true,
+      "stock_speaker": "seige"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_2_chi_ha_01": {
+      "role": "TIGER_HUNTER",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_3_chi_ha_01": {
+      "role": "TIGER_HUNTER",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_4_chi_ha_01": {
+      "role": "TIGER_HUNTER",
+      "private": true,
+      "stock_speaker": "archer"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_1_chi_ha_01": {
+      "role": "SPEARMAN",
+      "private": true,
+      "stock_speaker": "spearman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_2_chi_ha_01": {
+      "role": "SPEARMAN",
+      "private": true,
+      "stock_speaker": "spearman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_3_chi_ha_01": {
+      "role": "SPEARMAN",
+      "private": true,
+      "stock_speaker": "spearman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_4_chi_ha_01": {
+      "role": "SPEARMAN",
+      "private": true,
+      "stock_speaker": "spearman"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_trebuchet_4_cw_chi_ha_01": {
+      "role": "TREBUCHET",
+      "private": true,
+      "stock_speaker": "seigeranged"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01": {
+      "role": "VILLAGER_M",
+      "private": true,
+      "stock_speaker": "villagermale",
+      "female_role": "VILLAGER_F",
+      "stock_female_speaker": "villagerfemale"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_workshop_ram_3_chi_ha_01": {
+      "role": "RAM",
+      "private": true,
+      "stock_speaker": "seige"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721": {
+      "role": "BOMBARD",
+      "private": true,
+      "stock_speaker": "seigeranged"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4": {
+      "role": "NAVAL_COMBAT_SHIP",
+      "private": true,
+      "stock_speaker": "ship"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2": {
+      "role": "NAVAL_COMBAT_WARSHIP",
+      "private": true,
+      "stock_speaker": "warship"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce": {
+      "role": "NAVAL_TRADE",
+      "private": true,
+      "stock_speaker": "tradeship"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f": {
+      "role": "NAVAL_TRANSPORT",
+      "private": true,
+      "stock_speaker": "scoutship"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b": {
+      "role": "NAVAL_WAR_GALLEY",
+      "private": true,
+      "stock_speaker": "ship"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532": {
+      "role": "SCOUT",
+      "private": true,
+      "stock_speaker": "scout",
+      "female_role": "SCOUT_F",
+      "stock_female_speaker": "scoutfemale"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93": {
+      "role": "SCOUT",
+      "private": true,
+      "stock_speaker": "scout",
+      "female_role": "SCOUT_F",
+      "stock_female_speaker": "scoutfemale"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376": {
+      "role": "SPRINGALD",
+      "private": true,
+      "stock_speaker": "seigeranged"
+    },
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51": {
+      "role": "VILLAGER_M",
+      "private": true,
+      "stock_speaker": "villagermale",
+      "female_role": "VILLAGER_F",
+      "stock_female_speaker": "villagerfemale"
+    }
+  },
+  "excluded_proxies": [
+    {
+      "runtime": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_gapsa_dummy",
+      "reason": "Default Standard loadout is an invisible population/action controller without a renderable human body. Real visible Gapsa/Hwacha/Tiger Hunter owners are separately covered. HRE-brawl/XP3 proxy variants are not claimed as supported game modes."
+    },
+    {
+      "runtime": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_hwacha_dummy",
+      "reason": "Default Standard loadout is an invisible population/action controller without a renderable human body. Real visible Gapsa/Hwacha/Tiger Hunter owners are separately covered. HRE-brawl/XP3 proxy variants are not claimed as supported game modes."
+    },
+    {
+      "runtime": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_tiger_hunter_dummy",
+      "reason": "Default Standard loadout is an invisible population/action controller without a renderable human body. Real visible Gapsa/Hwacha/Tiger Hunter owners are separately covered. HRE-brawl/XP3 proxy variants are not claimed as supported game modes."
+    }
+  ],
+  "profiles": 32,
+  "age_banks": 128,
+  "dialogue_clips": 7632,
+  "effort_files": 827,
+  "supported_commands": "selection, move/patrol, attack/attack-move, stop/hold/retreat, build, trade, load/unload, generic ability/default acknowledgement; observed wood/gold/stone/food/fishing work",
+  "context_limits": "Repair and religious conversion/healing orders use semantically neutral acknowledgements because the maintained command boundary does not verify their target. Authored repair-specific recordings are retained for a later qualified target dispatcher; no false repair/conversion success announcement. HRE-brawl/XP3 are not qualified modes.",
+  "age_policy": "Current owner/player age, checked again when a reply is played; same speaker family across model/tier changes.",
+  "historical_pronunciation": "Researched compositions and phonetic approximations. Not validated ancient pronunciation.",
+  "native_listening": "pending",
+  "bank_sha256": "7eede1b15d7ba3a713ab79f2030bc734cf8c1780db9bebcf344e94343e595d8a",
+  "noncombatant_combat_ack_roles": [
+    "SCHOLAR",
+    "TRADER",
+    "NAVAL_FISHING",
+    "NAVAL_TRADE",
+    "NAVAL_TRANSPORT"
+  ],
+  "controller_sha256": "4948bfd00c66268e20ae21ace91fe09e757f35c69326a13984e429c63fa39ad6"
+}

@@ -1,0 +1,2531 @@
+{
+  "schema": "korea.voice-shared-consumers/v1",
+  "scope": "Verified shared Scout, free Villager, naval and siege production references. No native mutation.",
+  "squads": [
+    {
+      "symbol": "unit_scout_1_chi",
+      "official_path": "sbps/races/chinese/unit_scout_1_chi",
+      "sha256": "4d41e23b98540d8ff281ffd0fa94dcf718c3e6d335e60a289d5755c04505d18f",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_scout_1_chi"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "land_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "pickup_carcass"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_drop_off_all_at_entity"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "drop_attached_entity"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_drop_off_herd_at_entity"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_spread"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_wedge"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "pickup_carcass_no_boar"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_set_dropoff_target"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_scout_1"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "scout"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/cordoba/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_scout_1_chi"
+        },
+        {
+          "path": "/cordoba/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "land_box_fill_spot_generator"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "pickup_carcass"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_drop_off_all_at_entity"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "drop_attached_entity"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_drop_off_herd_at_entity"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_line"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_spread"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_wedge"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "pickup_carcass_no_boar"
+        },
+        {
+          "path": "/cordoba/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_set_dropoff_target"
+        },
+        {
+          "path": "/cordoba/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/cordoba/parent_pbg",
+          "category": "sbps",
+          "name": "unit_scout_1"
+        },
+        {
+          "path": "/cordoba/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/cordoba/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "scout"
+        },
+        {
+          "path": "/cordoba/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese"
+        },
+        {
+          "path": "/cordoba/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/cordoba/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/cordoba/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/campaign/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_scout_1_chi"
+        },
+        {
+          "path": "/campaign/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "land_box_fill_spot_generator"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "pickup_carcass"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_drop_off_all_at_entity"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "drop_attached_entity"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_drop_off_herd_at_entity"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_line"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_spread"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_wedge"
+        },
+        {
+          "path": "/campaign/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "pickup_carcass_no_boar"
+        },
+        {
+          "path": "/campaign/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/campaign/parent_pbg",
+          "category": "sbps",
+          "name": "unit_scout_1"
+        },
+        {
+          "path": "/campaign/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/campaign/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "scout"
+        },
+        {
+          "path": "/campaign/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese"
+        },
+        {
+          "path": "/campaign/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/campaign/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/campaign/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "scout"
+        },
+        {
+          "path": "cordoba/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "cordoba/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "scout"
+        },
+        {
+          "path": "campaign/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "campaign/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "scout"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_scout_1_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_scout_1_chi_ha_01",
+      "sha256": "fea31d907b45e9f27ca6e775874d292654ed2cfe80e075878179c2a652b5c991",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_scout_1_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "land_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "pickup_carcass"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_drop_off_all_at_entity"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "drop_attached_entity"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_drop_off_herd_at_entity"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_spread"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_wedge"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "pickup_carcass_no_boar"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "scout_set_dropoff_target"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_scout_1"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "scout"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "scout"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_villager_free_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_villager_free_chi_ha_01",
+      "sha256": "839a431d9bbe0ca683f16d95c7704d3b1b83366b4f9ef7ee1416727bc26a13d3",
+      "references": [
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_menu",
+          "category": "menu",
+          "name": "chi_age1"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_house_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_house"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_resource_farm_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_farm"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_defensive"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_outpost_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_outpost"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_econ_food_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_mill"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_unit_infantry_moving_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_unit_infantry_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_unit_infantry_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_barracks"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_defensive"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_palisade_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_palisade"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_econ_wood_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_lumber_camp"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_unit_naval_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_dock"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_defensive"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_palisade_gate_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_palisade_gate"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_econ_mining_camp_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_mining_camp"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age1_prefecture_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_jiangnan_tower_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age1_meditation_gardens_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_meditation_gardens_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age2_shaolin_temple_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_shaolin_temple_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age2_white_deer_grotto_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_mount_lu_academy_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age3_temple_of_the_sun_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_temple_of_the_sun_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age3_library_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_zhu_xi_library_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_palisade_bastion_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_dynasty_village_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_village"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_menu",
+          "category": "menu",
+          "name": "chi_age1_wonders"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age1_prefecture_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age1_meditation_gardens_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_menu",
+          "category": "menu",
+          "name": "chi_age2"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_tech_unit_infantry_moving_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_tech_unit_infantry_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_tech_unit_infantry_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_blacksmith"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_unit_ranged_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_unit_ranged_moving_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_unit_ranged_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_archery_range"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_defensive"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_tower_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_wall_tower"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_econ_market_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_market"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_unit_cavalry_moving_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_unit_cavalry_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_unit_cavalry_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_stable"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_defensive"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_wall_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_wall"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_town_center_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_town_center"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_town_center_capital_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_defensive"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_wall_gate_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_wall_gate"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_wall_bastion_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_dynasty_granary_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_granary"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_menu",
+          "category": "menu",
+          "name": "chi_age2_wonders"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age2_shaolin_temple_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age2_white_deer_grotto_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_menu",
+          "category": "menu",
+          "name": "chi_age3"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_unit_siege_moving_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/associated_ebps/ebp",
+          "category": "ebps",
+          "name": "building_unit_siege_mon"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_unit_siege_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_siege_workshop"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_defensive"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_defense_keep_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_keep"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_unit_religious_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_monastery"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_dynasty_pagoda_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_pagoda"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_menu",
+          "category": "menu",
+          "name": "chi_age3_wonders"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age3_temple_of_the_sun_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_landmark_age3_library_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_menu",
+          "category": "menu",
+          "name": "chi_age4"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_military"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_tech_university_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_university"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/construction_range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/linked",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/relic_radial_menu_info/menu",
+          "category": "relic_radial_menu/relic_radial_menu",
+          "name": "villager_economy"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ui_info_extended/issuable_info/secondary_issuable",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/ebp",
+          "category": "ebps",
+          "name": "building_wonder_age4_forbidden_control_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_engineer_ext/construction_groups/construction_group/construction_items/construction_item/hotkey_binding",
+          "category": "hotkeys/hotkey_binding",
+          "name": "build_wonder"
+        },
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_villager_free_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "non_formation_land_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "villager_repair"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "capture_farm"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_spread"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_wedge"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "villager_return_to_work"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "villager_town_bell"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "force_dropoff"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_villager_1"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "villager"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "villager"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_resource_ext/resource_bar/bar_style",
+          "category": "ui_resource_bar_style",
+          "name": "rage"
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "villagerFemale"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_naval_transport_ship_2_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_naval_transport_ship_2_chi_ha_01",
+      "sha256": "212c7abcbcfe3edf4a5e6339a24005282a8c0acae31fdb0c8ce5c03069e03d28",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_naval_transport_ship_2_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "water_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_hold_unload"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_column"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_spread"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_naval_transport_ship_2"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "siege_weapon"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "scoutShip"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_naval_combat_ship_2_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_naval_combat_ship_2_chi_ha_01",
+      "sha256": "66d1192ad481d7ce93bb6d7b1cd53fe8ec1c4a4a404dbe10df85dfceb3a3d886",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_naval_combat_ship_3_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "water_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_man_the_sails"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_column"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_spread"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_naval_combat_ship_2"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "siege_weapon"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_requirement_ext/requirement_table/required_player_upgrade/upgrade_name",
+          "category": "upgrade",
+          "name": "feudal_age"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "ship"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_naval_combat_warship_4_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_naval_combat_warship_4_chi_ha_01",
+      "sha256": "d09e2b0df8c9e58edb6aed4e5661e222821b66e3c4fe08c2c61a6eb216e4d381",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_naval_combat_warship_4_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "water_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_chain_shot"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_column"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_spread"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_naval_combat_warship_4"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "siege_weapon"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_requirement_ext/requirement_table/required_player_upgrade/upgrade_name",
+          "category": "upgrade",
+          "name": "imperial_age"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "warShip"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_naval_war_galley_3_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_naval_war_galley_3_chi_ha_01",
+      "sha256": "65d82913093b3ef1d807147c15b7f09aff8ee4e261695d22d9058b1077b1c01b",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_naval_war_galley_3_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "water_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_column"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "naval_formation_spread"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_naval_war_galley_3"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "siege_weapon"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_requirement_ext/requirement_table/required_player_upgrade/upgrade_name",
+          "category": "upgrade",
+          "name": "feudal_age"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "ship"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_naval_trade_ship_3_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_naval_trade_ship_3_chi_ha_01",
+      "sha256": "3f97d3ee85d44cde979d15368d5c02cf033a85495fa35d3b86d132dff8baaaa4",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_naval_trade_ship_3_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "non_formation_water_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_naval_trade_ship_3"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "trade_ship"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_requirement_ext/requirement_table/required_player_upgrade/upgrade_name",
+          "category": "upgrade",
+          "name": "feudal_age"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "tradeShip"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_springald_3_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_springald_3_chi_ha_01",
+      "sha256": "4074a2532aa3e29579d34fe535100bbb77a70602bfcd623002384b0a6ef589d2",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_springald_3_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "land_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_spread"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_wedge"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_xbox_siege_deploy"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_springald_3"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "siege_weapon_no_setup"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_requirement_ext/requirement_table/required_player_upgrade/upgrade_name",
+          "category": "upgrade",
+          "name": "castle_age"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "seigeRanged"
+        }
+      ]
+    },
+    {
+      "symbol": "unit_bombard_4_chi_ha_01",
+      "official_path": "sbps/races/chinese_ha_01/unit_bombard_4_chi_ha_01",
+      "sha256": "f0341b920f0336ed458fb66a22f9bc5272865c391a5df28f10ac7d4ce9c315b8",
+      "references": [
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+          "category": "ebps",
+          "name": "unit_bombard_4_chi_ha_01"
+        },
+        {
+          "path": "/default/squad_loadout_ext/unit_list/loadout_data/unit_attachments/unit/type",
+          "category": "ebps",
+          "name": "unit_siege_cart"
+        },
+        {
+          "path": "/default/squad_formation_group_ext/default_formation_group_spot_generator",
+          "category": "formation_group_spot_generator",
+          "name": "land_box_fill_spot_generator"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_unit_death"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_line"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_spread"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_formation_wedge"
+        },
+        {
+          "path": "/default/squad_ability_ext/abilities/ability",
+          "category": "abilities",
+          "name": "core_xbox_siege_deploy"
+        },
+        {
+          "path": "/default/squad_combat_behaviour_ext/range_reticule",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/parent_pbg",
+          "category": "sbps",
+          "name": "unit_bombard_4"
+        },
+        {
+          "path": "/default/squad_command_forwarding_ext/default_command_weight",
+          "category": "default_command_weight",
+          "name": "default"
+        },
+        {
+          "path": "/default/squad_statemodel_ext/schema",
+          "category": "statemodel_schema",
+          "name": "siege_weapon"
+        },
+        {
+          "path": "/default/squad_type_ext/squad_race_type_list/squad_race_type",
+          "category": "racebps",
+          "name": "chinese_ha_01"
+        },
+        {
+          "path": "/default/squad_requirement_ext/requirement_table/required_player_upgrade/upgrade_name",
+          "category": "upgrade",
+          "name": "imperial_age"
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/ui_decorator",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/info/modal_ability",
+          "category": "",
+          "name": ""
+        },
+        {
+          "path": "/default/squad_ui_ext/race_list/race_data/ext_key",
+          "category": "",
+          "name": ""
+        }
+      ],
+      "speech": [
+        {
+          "path": "default/squad_speech_ext/squad_speech_parameters/squad_race_code",
+          "kind": "CString",
+          "value": "no_race"
+        },
+        {
+          "path": "default/squad_speech_ext/squad_speaker_code",
+          "kind": "CString",
+          "value": "seigeRanged"
+        }
+      ]
+    }
+  ]
+}

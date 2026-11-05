@@ -258,7 +258,7 @@
                       "key": "attachment_speaker_code",
                       "hash": 15848506342399525572,
                       "kind": "CString",
-                      "value": "crossbowmanFemale"
+                      "value": ""
                     }
                   ]
                 }
@@ -660,7 +660,7 @@
                       "key": "attachment_speaker_code",
                       "hash": 15848506342399525572,
                       "kind": "CString",
-                      "value": "crossbowmanFemale"
+                      "value": ""
                     }
                   ]
                 }

@@ -1,0 +1,25 @@
+{
+  "tests": 39,
+  "successful": true,
+  "failures": 0,
+  "errors": 0,
+  "seconds": 1.521031199983554,
+  "suites": [
+    "test_voices_020",
+    "test_voices_021",
+    "test_native_start",
+    "test_barrage_015",
+    "test_research_016.Research016.test_original_missing_custom_fields_loses_literature_refund",
+    "test_research_016.Research016.test_original_dead_actor_loses_payment_current_refunds",
+    "test_research_016.Research016.test_fee_once_completion_and_observatory_rebate",
+    "test_research_016.Research016.test_queue_rejection_cancel_and_death_refund_once",
+    "test_research_016.Research016.test_native_insufficient_and_duplicate_paid_callbacks",
+    "test_research_016.Research016.test_foreign_allowance_consumes_and_restores_once",
+    "test_research_016.Research016.test_fallback_catalogue_matches_all_native_variants_and_gold_exception",
+    "test_research_016.Research016.test_all_research_variants_only_flags_and_presentation_change",
+    "test_research_016.Research016.test_custom_tooltips_preserve_stock_dictionary_and_match_fees"
+  ],
+  "baseline_new_regressions": "Seven new checks replayed against original 0.2.0 source: five fail; foreign-owner rejection and existing capture startup already pass.",
+  "historical_tests": "Original historical tests and prior release receipts unchanged.",
+  "native_runtime_proof": false
+}

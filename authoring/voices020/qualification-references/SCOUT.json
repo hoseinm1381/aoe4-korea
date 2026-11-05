@@ -1,0 +1,17 @@
+{
+  "profile": "SCOUT",
+  "file": "authoring\\voices020\\qualification-references\\SCOUT.wav",
+  "sha256": "5dd38803874ed490150bf266e855c9ed6ed3778cd56734e195e09b74d1e043b5",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 5.44,
+  "rms": 0.08586887270212173,
+  "raw_peak": 0.71484375,
+  "generation_seconds": 14.161,
+  "seed": 2026110223,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Young adult Korean man, nimble light tenor, alert and observant, crisp short phrases, dry clear tone. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

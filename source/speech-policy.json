@@ -7,6 +7,7 @@
     "ally_intel_speaker_code": "smally"
   },
   "basis": "exact current official donor race used by accepted combined 1.1.0",
-  "unit_suppression": "retained in composed native actor inputs; Vietnam scripted voice endpoint is independently scoped",
-  "native_audible_test": "pending"
+  "unit_suppression": "Korean paired private SBPS/EBPS plus traced active attachment overrides; see docs/voices020. Stock nonverbal efforts are locally packaged; race/intel/music fields preserved.",
+  "native_audible_test": "pending",
+  "unit_dialogue": "Garrison.audio.forMod(korea), local presentation-only role/age/gender dispatcher"
 }

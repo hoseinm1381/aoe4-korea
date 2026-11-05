@@ -1,0 +1,11 @@
+{
+  "version": "0.2.2",
+  "zip_sha256": "6175fcef8fffb0b6a59c1e02f3b4524b42dc14b84d36de591b760c42936ca94e",
+  "zip_bytes": 145864393,
+  "encoded_bank_sha256": "8b3074af0037a21c16397fffa413744cf2ee8b7d36a1babfc8b730a7f769081d",
+  "scripts_sha256": "6289cad8eab612345cc919910de7ed79c459dee35e3447fbc34568b986922d9a",
+  "native_manifest_sha256": "1a5416df2eb514cccc4d058b5877d41d72b9d3fea0ae6038faa4c410671b675a",
+  "master_index_sha256": "e041d15ba5e4ebd1b270f860b278b2f2c2489e22bb06ca0e074b67b4f0170807",
+  "approved_sample_recipe": "24 kHz mono OGG/VORBIS compression_level=0.35, existing trim/gain/fades/headroom",
+  "authorization": "Owner approved increased size and requested 0.2.3 rebuild; narrow audio-only media-budget exception; ZIP remains below 600000000 bytes."
+}

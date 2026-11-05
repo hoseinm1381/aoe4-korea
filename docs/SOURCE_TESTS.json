@@ -1,9 +1,15 @@
 {
-  "version": "0.1.5",
-  "passed": true,
-  "tests": 39,
-  "command": "PYTHONPATH=<temporary lupa 2.6 wheel target>; Python 3.13 -B -m unittest discover -s tests -v",
-  "log": "docs/update_015/source-tests.log",
-  "actual_lua_barrage_regressions": 5,
-  "native_gameplay": "not established by stubbed or static tests"
+  "version": "0.2.4",
+  "current_tests": {
+    "tests": 56,
+    "successful": true,
+    "failures": 0,
+    "errors": 0,
+    "seconds": 1.6253213999989384,
+    "native_runtime_proof": false,
+    "audible_proof": false,
+    "historical_tests": "Old tests and receipts unchanged. Frozen 0.2.2 exact-version assertion replaced for current run by 0.2.4 diagnostic-only byte restoration verifier; 45 behavioral checks plus seven actual diagnostic and four stress cases retained."
+  },
+  "preservation": "release024.py proves exact original SCAR bytes after removing diagnostic lines and unchanged native/master manifests. Final package proof in update_024/COMPLETION.json.",
+  "native_runtime": "Owner reproduction pending; diagnostic-only, not a confirmed crash fix."
 }

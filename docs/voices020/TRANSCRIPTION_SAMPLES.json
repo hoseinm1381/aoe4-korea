@@ -1,0 +1,8 @@
+{
+  "banks": 128,
+  "sampled_clips": 384,
+  "high_disagreement_banks": 3,
+  "mean_modern_recognizer_cer": 0.40045751157786236,
+  "historical_native_speaker_review": "pending",
+  "limits": "Modern recognition screening with archaic spellings; differences require interpretation, not an automatic pronunciation pass/fail."
+}

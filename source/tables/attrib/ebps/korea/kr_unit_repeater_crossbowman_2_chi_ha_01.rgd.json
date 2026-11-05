@@ -4221,56 +4221,6 @@
           ]
         },
         {
-          "key": "speech_ext",
-          "hash": 9002864378841702838,
-          "kind": "List",
-          "value": [
-            {
-              "key": "$REF",
-              "hash": 6998867517914059163,
-              "kind": "CString",
-              "value": "ebpextensions\\speech_ext"
-            },
-            {
-              "key": "speech_parameters",
-              "hash": 10345788701813501610,
-              "kind": "List",
-              "value": [
-                {
-                  "key": "name_code",
-                  "hash": 3285320959124823781,
-                  "kind": "CString",
-                  "value": ""
-                },
-                {
-                  "key": "unit_code",
-                  "hash": 6119778700909682595,
-                  "kind": "CString",
-                  "value": ""
-                },
-                {
-                  "key": "class_code",
-                  "hash": 8636133903491341334,
-                  "kind": "CString",
-                  "value": ""
-                }
-              ]
-            },
-            {
-              "key": "speaker_code",
-              "hash": 14385523662887366635,
-              "kind": "CString",
-              "value": "archer"
-            },
-            {
-              "key": "importance",
-              "hash": 17518815447423954509,
-              "kind": "Int",
-              "value": 1
-            }
-          ]
-        },
-        {
           "key": "hit_react_tree_ext",
           "hash": 9315174945028287919,
           "kind": "List",

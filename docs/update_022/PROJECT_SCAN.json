@@ -1,0 +1,64 @@
+{
+  "status": "ok",
+  "project_root": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source",
+  "stats": {
+    "scar_files": 16,
+    "rdo_files": 1,
+    "xaml_files": 1,
+    "locdb_files": 1,
+    "locdb_metadata_files": 1,
+    "code_records": 2801,
+    "scar_edges": 207,
+    "loc_entries": 2
+  },
+  "layout": {
+    "rdo_files": [
+      "art013/cook-template/source/mod.rdo"
+    ],
+    "scar_files": [
+      "resources/scar/garrison/garrison.scar",
+      "scar/garrison/korea/dispatcher.scar",
+      "scar/korea/blueprints.scar",
+      "scar/korea/catalog.scar",
+      "scar/korea/core.scar",
+      "scar/korea/economy.scar",
+      "scar/korea/effect_catalog.scar",
+      "scar/korea/effects.scar",
+      "scar/korea/initialization.scar",
+      "scar/korea/landmarks.scar",
+      "scar/korea/lifecycle.scar",
+      "scar/korea/research.scar",
+      "scar/korea/research_core.scar",
+      "scar/korea/ui.scar",
+      "scar/korea/voice_bank_020.scar",
+      "scar/korea/voices_020.scar"
+    ],
+    "xaml_files": [
+      "resources/ui/hud/controls/issuabletooltip.xaml"
+    ],
+    "locdb_metadata_files": [
+      "art013/cook-template/source/locdb/k013.locdb"
+    ],
+    "locdb_csv_files": [
+      "art013/cook-template/source/locdb/k013_en.csv"
+    ],
+    "locales": [
+      {
+        "locale": "en",
+        "display_name": "English",
+        "declared": true,
+        "csv_files": [
+          "art013/cook-template/source/locdb/k013_en.csv"
+        ]
+      }
+    ],
+    "missing_locale_csv": [],
+    "rdo_entry_files": [],
+    "rdo_option_keys": [],
+    "mod_guid": "",
+    "notes": [
+      "游戏模式入口和配置通常在 scar 目录下的 .rdo 文件中，重点查看 rdo_entry_files 和 rdo_option_keys。",
+      "English locdb CSV 使用 Text 列；中文和多数其他语言 CSV 使用 SourceText/TranslatedText 列。"
+    ]
+  }
+}

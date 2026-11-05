@@ -1,0 +1,47 @@
+{
+  "utc": "2026-11-02T04:13:46.433290+00:00",
+  "active_release": "0.2.0 local verified candidate",
+  "automation": "One-time automation deleted through app tool; no recurring run.",
+  "qualified_python": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\ComfyUI_windows_portable\\ComfyUI\\custom_nodes\\TTS-Audio-Suite\\runtimes\\qwen020_t4\\Scripts\\python.exe",
+  "portable_cpu_python": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\ComfyUI_windows_portable\\python_embeded\\python.exe",
+  "native_sdk_python": "C:\\Users\\RS\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "next_steps": [
+    "Manual native/historical listening using START-HERE.md and VOICE_REVIEW.html.",
+    "No further regeneration/build/push/install/cleanup is implied by the completed one-time job."
+  ],
+  "verified_staging": {
+    "tables": 159,
+    "native_attributes": 527,
+    "attachment_closure": 322,
+    "unmuted_payloads": 0,
+    "new_lua_tests_passed": 12,
+    "baseline_historical_suite": "65 run: 9 failures +1 error already existed before speech source promotion; log retained, do not weaken."
+  },
+  "known_limits": [
+    "Historical/native pronunciation and audible game acceptance pending.",
+    "Modern-ASR transcription differences retained for interpretation; grouped language detection has zero flags after all 7,632 takes.",
+    "Repair and unclassified religious targets use neutral acknowledgements.",
+    "Entire optional Suite GUI not qualified; focused Qwen CLI is qualified.",
+    "AGENTS.md update was rejected by automatic review; leave trusted policy unchanged. Ordinary handoff docs are used instead.",
+    "Finalized codec headroom is separate from the original generation.jsonl: ENCODED_BANK.jsonl is authoritative for packaging; original masters/encodings remain preserved."
+  ],
+  "preservation": "No push/tag/game install/extra checkout/broad cleanup. Exact 0.1.6 ZIP SHA e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788. Preserve raw voices, weights, native/editable inputs and failed diagnostics.",
+  "owner_historical_choice": "User explicitly confirmed Use researched approximations; continue the existing generation/integration/build with candid limits.",
+  "remaining_work": [
+    "Garrison client import and fresh-match listening",
+    "Historical/native-speaker word and pronunciation review; modern ASR disagreements remain",
+    "Native age/gender/selection/context/capture/suppression and nonverbal timing",
+    "Save/load, AI, multiplayer, repeated matches and performance"
+  ],
+  "completion_receipt": "docs/voices020/COMPLETION.json",
+  "state": "complete; local package verified, manual acceptance pending",
+  "historical_shell_sessions": {
+    "synthesis": 96264,
+    "language_screen": 93873,
+    "transcription_samples": 67622,
+    "finish_coordinator": 41663
+  },
+  "shell_sessions_active": false,
+  "build_receipt_recovery": "docs/voices020/BUILD_RECEIPT_RECOVERY.json",
+  "cleanup_logical_bytes": 2055504740
+}

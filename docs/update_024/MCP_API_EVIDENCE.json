@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Entity_ConvertBlueprint",
+    "record": {
+      "status": "ok",
+      "symbol": "Entity_ConvertBlueprint",
+      "symbol_status": "documented_high",
+      "api": [
+        {
+          "name": "Entity_ConvertBlueprint",
+          "return_type": "",
+          "params": "Entity& entity, PropertyBagGroup pbg",
+          "returns_doc": "",
+          "description": "Converts Entity's blueprint to the specified blueprint.",
+          "confidence": "high",
+          "source_set": "official_api",
+          "usage_count": 3,
+          "usage_sources": "official_scar:3",
+          "file_path": "official_api/Essence_ScarFunctions.api",
+          "line_no": 629,
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "api",
+            "overall": {
+              "level": "high",
+              "score": 0.987,
+              "reason": "source=high; match=exact:name; api=high"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.98,
+              "source_set": "official_api",
+              "reason": "官方 API 文档 / official API docs"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:name"
+            },
+            "api_documentation": {
+              "level": "high",
+              "score": 0.96
+            }
+          }
+        }
+      ],
+      "usage_samples": [
+        {
+          "symbol": "Entity_ConvertBlueprint",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/gameplay/chatcheats.scar",
+          "module_path": "gameplay/chatcheats.scar",
+          "line_no": 59,
+          "detail": "",
+          "snippet": "Entity_ConvertBlueprint(entity, villagerEBP)\n\t\t\t\t\tSquad_ConvertBlueprint(squad, villagerSBP)",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        },
+        {
+          "symbol": "Entity_ConvertBlueprint",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/missionomatic/missionomatic_location.scar",
+          "module_path": "missionomatic/missionomatic_location.scar",
+          "line_no": 648,
+          "detail": "",
+          "snippet": "Squad_ConvertBlueprint(sid, villagerSBP)\n\t\t\t\t\tEntity_ConvertBlueprint(Squad_GetFirstEntity(sid), villagerEBP)\n\t\t\t\t\t--print(\"Converted villager to new owner race\")",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "confidence_summary": {
+        "best_level": "high",
+        "best_score": 0.987,
+        "high": 3,
+        "medium": 0,
+        "low": 0
+      },
+      "confidence_model": "source_match_v1",
+      "codex_hint": "Prefer this tool when you need both API docs and usage examples; it avoids multiple MCP round trips."
+    }
+  },
+  {
+    "name": "Squad_ConvertBlueprint",
+    "record": {
+      "status": "ok",
+      "symbol": "Squad_ConvertBlueprint",
+      "symbol_status": "referenced",
+      "api": [],
+      "usage_samples": [
+        {
+          "symbol": "Squad_ConvertBlueprint",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/gameplay/chatcheats.scar",
+          "module_path": "gameplay/chatcheats.scar",
+          "line_no": 60,
+          "detail": "",
+          "snippet": "Entity_ConvertBlueprint(entity, villagerEBP)\n\t\t\t\t\tSquad_ConvertBlueprint(squad, villagerSBP)\n\t\t\t\tend",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        },
+        {
+          "symbol": "Squad_ConvertBlueprint",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/missionomatic/missionomatic_location.scar",
+          "module_path": "missionomatic/missionomatic_location.scar",
+          "line_no": 647,
+          "detail": "",
+          "snippet": "Squad_ConvertBlueprint(sid, villagerSBP)\n\t\t\t\t\tEntity_ConvertBlueprint(Squad_GetFirstEntity(sid), villagerEBP)",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "confidence_summary": {
+        "best_level": "high",
+        "best_score": 0.972,
+        "high": 2,
+        "medium": 0,
+        "low": 0
+      },
+      "confidence_model": "source_match_v1",
+      "codex_hint": "Prefer this tool when you need both API docs and usage examples; it avoids multiple MCP round trips."
+    }
+  },
+  {
+    "name": "World_GetGameTime",
+    "record": {
+      "status": "ok",
+      "symbol": "World_GetGameTime",
+      "symbol_status": "documented_high",
+      "api": [
+        {
+          "name": "World_GetGameTime",
+          "return_type": "",
+          "params": "",
+          "returns_doc": "",
+          "description": "Return the total game time in seconds.",
+          "confidence": "high",
+          "source_set": "official_api",
+          "usage_count": 83,
+          "usage_sources": "official_scar:83",
+          "file_path": "official_api/Essence_ScarFunctions.api",
+          "line_no": 1923,
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "api",
+            "overall": {
+              "level": "high",
+              "score": 0.987,
+              "reason": "source=high; match=exact:name; api=high"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.98,
+              "source_set": "official_api",
+              "reason": "官方 API 文档 / official API docs"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:name"
+            },
+            "api_documentation": {
+              "level": "high",
+              "score": 0.96
+            }
+          }
+        }
+      ],
+      "usage_samples": [
+        {
+          "symbol": "World_GetGameTime",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/ai/combat_fitness_util.scar",
+          "module_path": "ai/combat_fitness_util.scar",
+          "line_no": 167,
+          "detail": "",
+          "snippet": "function AppendHealthHistory(player, history)\n\tlocal currentTime = World_GetGameTime()\n\thistory[currentTime] = TotalHealthOfPlayer(player)",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        },
+        {
+          "symbol": "World_GetGameTime",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/ai/combat_fitness_util.scar",
+          "module_path": "ai/combat_fitness_util.scar",
+          "line_no": 173,
+          "detail": "",
+          "snippet": "local historyDuration = 0\n\tlocal currentTime = World_GetGameTime()",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "confidence_summary": {
+        "best_level": "high",
+        "best_score": 0.987,
+        "high": 3,
+        "medium": 0,
+        "low": 0
+      },
+      "confidence_model": "source_match_v1",
+      "codex_hint": "Prefer this tool when you need both API docs and usage examples; it avoids multiple MCP round trips."
+    }
+  },
+  {
+    "name": "Entity_SetHealth",
+    "record": {
+      "status": "ok",
+      "symbol": "Entity_SetHealth",
+      "symbol_status": "documented_high",
+      "api": [
+        {
+          "name": "Entity_SetHealth",
+          "return_type": "",
+          "params": "EntityID entity, Real healthPercent",
+          "returns_doc": "",
+          "description": "Set the health of an entity. healthPercent must be in the range [0.0, 1.0].",
+          "confidence": "high",
+          "source_set": "official_api",
+          "usage_count": 5,
+          "usage_sources": "official_scar:5",
+          "file_path": "official_api/Essence_ScarFunctions.api",
+          "line_no": 792,
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "api",
+            "overall": {
+              "level": "high",
+              "score": 0.987,
+              "reason": "source=high; match=exact:name; api=high"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.98,
+              "source_set": "official_api",
+              "reason": "官方 API 文档 / official API docs"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:name"
+            },
+            "api_documentation": {
+              "level": "high",
+              "score": 0.96
+            }
+          }
+        }
+      ],
+      "usage_samples": [
+        {
+          "symbol": "Entity_SetHealth",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/ai/combat_fitness_util.scar",
+          "module_path": "ai/combat_fitness_util.scar",
+          "line_no": 473,
+          "detail": "",
+          "snippet": "Entity_SetHealth(EGroup_GetEntityAt(entityG1, j), healthPercentage)\n\t\tend",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        },
+        {
+          "symbol": "Entity_SetHealth",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/groupcallers.scar",
+          "module_path": "groupcallers.scar",
+          "line_no": 148,
+          "detail": "",
+          "snippet": "GetItemHealthMax = function ( itemid )\t\t\t\t\t\t\treturn Entity_GetHealthMax( itemid ) end,\n\tSetItemHealth= function ( itemid, percent )\t\t\t\t\t\treturn Entity_SetHealth( itemid, percent ) end,",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "confidence_summary": {
+        "best_level": "high",
+        "best_score": 0.987,
+        "high": 3,
+        "medium": 0,
+        "low": 0
+      },
+      "confidence_model": "source_match_v1",
+      "codex_hint": "Prefer this tool when you need both API docs and usage examples; it avoids multiple MCP round trips."
+    }
+  }
+]

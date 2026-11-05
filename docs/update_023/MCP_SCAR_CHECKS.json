@@ -1,0 +1,390 @@
+[
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\blueprints.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\blueprints.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 3,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\catalog.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\catalog.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 0,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\core.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\core.scar",
+      "unknown_calls": [
+        "and"
+      ],
+      "low_confidence_apis": [
+        {
+          "name": "Player_GetEntitiesEGroup",
+          "return_type": "",
+          "params": "Player& player, EGroupID group",
+          "returns_doc": "",
+          "description": "Gets all the player's current entities and loads them into the specified egroup.",
+          "confidence": "low",
+          "source_set": "official_api",
+          "usage_count": 0,
+          "usage_sources": "",
+          "file_path": "official_api/Essence_ScarFunctions.api",
+          "line_no": 1285,
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "api_check",
+            "overall": {
+              "level": "medium",
+              "score": 0.755,
+              "reason": "source=high; match=weak_token_overlap:name"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.98,
+              "source_set": "official_api",
+              "reason": "官方 API 文档 / official API docs"
+            },
+            "match": {
+              "level": "low",
+              "score": 0.48,
+              "reason": "weak_token_overlap:name"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 36,
+        "loc_ref_count": 0,
+        "unknown_call_count": 1,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\economy.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\economy.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 34,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\effect_catalog.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\effect_catalog.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 0,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\effects.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\effects.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [
+        {
+          "name": "Player_GetAbilityBPCost",
+          "return_type": "",
+          "params": "PlayerID pPlayer, PropertyBagGroup pbg",
+          "returns_doc": "",
+          "description": "Returns the modified cost of the given ability including all modifications added by the given player",
+          "confidence": "low",
+          "source_set": "official_api",
+          "usage_count": 0,
+          "usage_sources": "",
+          "file_path": "official_api/Essence_ScarFunctions.api",
+          "line_no": 1278,
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "api_check",
+            "overall": {
+              "level": "medium",
+              "score": 0.755,
+              "reason": "source=high; match=weak_token_overlap:name"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.98,
+              "source_set": "official_api",
+              "reason": "官方 API 文档 / official API docs"
+            },
+            "match": {
+              "level": "low",
+              "score": 0.48,
+              "reason": "weak_token_overlap:name"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 49,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\landmarks.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\landmarks.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 41,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\lifecycle.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\lifecycle.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 50,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\research.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\research.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [
+        {
+          "name": "Player_GetAbilityBPCost",
+          "return_type": "",
+          "params": "PlayerID pPlayer, PropertyBagGroup pbg",
+          "returns_doc": "",
+          "description": "Returns the modified cost of the given ability including all modifications added by the given player",
+          "confidence": "low",
+          "source_set": "official_api",
+          "usage_count": 0,
+          "usage_sources": "",
+          "file_path": "official_api/Essence_ScarFunctions.api",
+          "line_no": 1278,
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "api_check",
+            "overall": {
+              "level": "medium",
+              "score": 0.755,
+              "reason": "source=high; match=weak_token_overlap:name"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.98,
+              "source_set": "official_api",
+              "reason": "官方 API 文档 / official API docs"
+            },
+            "match": {
+              "level": "low",
+              "score": 0.48,
+              "reason": "weak_token_overlap:name"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 33,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\research_core.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\research_core.scar",
+      "unknown_calls": [
+        "and"
+      ],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 10,
+        "loc_ref_count": 0,
+        "unknown_call_count": 1,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\ui.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\ui.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 21,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\initialization.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\initialization.scar",
+      "unknown_calls": [],
+      "low_confidence_apis": [
+        {
+          "name": "Player_GetEntitiesEGroup",
+          "return_type": "",
+          "params": "Player& player, EGroupID group",
+          "returns_doc": "",
+          "description": "Gets all the player's current entities and loads them into the specified egroup.",
+          "confidence": "low",
+          "source_set": "official_api",
+          "usage_count": 0,
+          "usage_sources": "",
+          "file_path": "official_api/Essence_ScarFunctions.api",
+          "line_no": 1285,
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "api_check",
+            "overall": {
+              "level": "medium",
+              "score": 0.755,
+              "reason": "source=high; match=weak_token_overlap:name"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.98,
+              "source_set": "official_api",
+              "reason": "官方 API 文档 / official API docs"
+            },
+            "match": {
+              "level": "low",
+              "score": 0.48,
+              "reason": "weak_token_overlap:name"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 20,
+        "loc_ref_count": 0,
+        "unknown_call_count": 0,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\voices_020.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\korea\\voices_020.scar",
+      "unknown_calls": [
+        "and",
+        "not",
+        "or"
+      ],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 63,
+        "loc_ref_count": 0,
+        "unknown_call_count": 3,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  },
+  {
+    "file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\garrison\\korea\\dispatcher.scar",
+    "result": {
+      "status": "ok",
+      "target_file": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\scar\\garrison\\korea\\dispatcher.scar",
+      "unknown_calls": [
+        "or"
+      ],
+      "low_confidence_apis": [],
+      "missing_locdb_ids": [],
+      "summary": {
+        "call_count": 15,
+        "loc_ref_count": 0,
+        "unknown_call_count": 1,
+        "missing_locdb_count": 0
+      },
+      "confidence_model": "source_match_v1"
+    }
+  }
+]

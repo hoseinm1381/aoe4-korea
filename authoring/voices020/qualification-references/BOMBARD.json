@@ -1,0 +1,17 @@
+{
+  "profile": "BOMBARD",
+  "file": "authoring\\voices020\\qualification-references\\BOMBARD.wav",
+  "sha256": "f69305cdfa450cdbe08d0cdf36f1e290fdc02cfb69a79b0d43cbe2a9194e7bc9",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.32,
+  "rms": 0.07855063676834106,
+  "raw_peak": 0.54296875,
+  "generation_seconds": 16.012,
+  "seed": 2026110201,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Mature Korean man, deep cavernous bass, calm artillery master, slow powerful syllables and restrained force. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

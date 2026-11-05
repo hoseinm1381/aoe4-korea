@@ -1,0 +1,11 @@
+{
+  "installed_authoring_version": "0.1.13",
+  "source": "C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\raw_githubusercontent_com\\garrison\\garrison_shared\\scar_modules\\garrison.scar",
+  "member": "scar/garrison/garrison.scar",
+  "sha256": "d52f13f4f3e77dd23b6ad12b708b3a10399337398936c7f3c14b378e3d6d5966",
+  "bytes": 12632,
+  "imports": [],
+  "doc": "Installed guide/garrison-audio.html, Author and package: include/import helpers from matching Garrison version when adapting existing mods.",
+  "baseline_presence": false,
+  "scope": "Unmodified official runtime helper; not a backend or alternate launcher. Existing matched/queued cues prove prior runtime could obtain a helper externally; absence is not proof of the no_consumer cause."
+}

@@ -1,0 +1,17 @@
+{
+  "profile": "SPEARMAN",
+  "file": "authoring\\voices020\\qualification-references\\SPEARMAN.wav",
+  "sha256": "0906fc3f41b34118ac5bbe319a50eec34e0fc8ee2434629dbddaa0e3b207ad00",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.48,
+  "rms": 0.06951804459095001,
+  "raw_peak": 0.74609375,
+  "generation_seconds": 17.265,
+  "seed": 2026110225,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, firm middle baritone, disciplined foot soldier, steady chest voice and clean consonants. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

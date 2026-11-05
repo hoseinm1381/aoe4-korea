@@ -1,0 +1,17 @@
+{
+  "profile": "RIGHTEOUS_MONK",
+  "file": "authoring\\voices020\\qualification-references\\RIGHTEOUS_MONK.wav",
+  "sha256": "a9f64324e8b575e0ea103f337701f69747af7b1b7da3cb984e0068098aa66d95",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.4,
+  "rms": 0.0354573056101799,
+  "raw_peak": 0.357421875,
+  "generation_seconds": 16.82,
+  "seed": 2026110221,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Older Korean man, weathered chest baritone, determined warrior monk, calm conviction with a rough edge. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

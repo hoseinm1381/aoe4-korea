@@ -19,7 +19,7 @@ function KoreaInitialization_Apply(player)
     end
     EGroup_Destroy(entities)
     local worker=BP_GetSquadBlueprint(PREFIX.."kr_unit_villager_1_chi_ha_01")
-    local scout=BP_GetSquadBlueprint("unit_scout_1_chi")
+    local scout=BP_GetSquadBlueprint("748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532")
     local squads=Player_GetSquads(player.id) -- borrowed engine group
     for i=1,SGroup_CountSpawned(squads) do
         local squad=SGroup_GetSpawnedSquadAt(squads,i)

@@ -1,0 +1,13 @@
+{
+  "source/scar/korea/core.scar": "d82b1ef173211c2ac420860f7af03d251cb424b0e118021b94f9603a09f16b33",
+  "source/scar/korea/effects.scar": "ffbcb6a0fa58ce673d3ce4ac3c221d2fa188a4a7e1af6bd55911b2690fffd34c",
+  "source/scar/korea/economy.scar": "c8c0952f289b1509455c96aa26010d0c0f5ea489e918a5604f36d37bc531aace",
+  "source/scar/korea/landmarks.scar": "d4ca7e873861bff6e5e3d3924e365d46c3f1a1cf44f2569bb2926b0179b996a3",
+  "source/scar/korea/research.scar": "4249b10d5639cc037fb1633c385d15313513c1365e2f20291c9145311bbb5f42",
+  "source/scar/korea/ui.scar": "a2c0fb30160d822ceb67d82bd0d7087aaee6715b08c09b8c884f014bef480300",
+  "source/scar/korea/voices_020.scar": "32fae580a3f104856209679665c9215141cf95240bd4946e132382fd55e362f3",
+  "source/scar/garrison/korea/dispatcher.scar": "05a99f6d692c20a99a3dc3f988834632f957b50901a5bf47cbecf7ebe84ab47d",
+  "source/scar/korea/diagnostics_024.scar": "48ed501209c6562fd04d6628e8d1a483c282e99d10deb6a7559f9adc5c0e0d67",
+  "source/update-024-policy.json": "6d9160b00bc5847cfec475db57c7aa0a9d2d5926ce0be9186870eb76a28dfaa3",
+  "project.json": "cbbc880b3818b9260ac9ca30509226f3b70ebb6933eb3b1a8273cd4c8da949ac"
+}

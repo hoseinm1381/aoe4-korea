@@ -1,0 +1,8 @@
+{
+  "allowed_changed": [
+    "scar/korea/voices_020.scar",
+    "garrison/civilizations.json"
+  ],
+  "allowed_added": [],
+  "allowed_removed": []
+}

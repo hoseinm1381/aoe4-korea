@@ -1,0 +1,6 @@
+{
+  "source/tables/attrib/army/garrison/korea/korea_standard.rgd.json": "6b9ef41d565a98d273c91879120aee4ad1108eea80a41cb887bc97ced9949a3c",
+  "source/scar/korea/voices_020.scar": "118b370b0d83b10463c758231e673dc3642f89bad56a2a861d7c2bfb84a947d7",
+  "source/scar/korea/voice_bank_020.scar": "d2981210f4d0eddcc12c8f1ddc98fef510abc58b6cc480c5ada37c4433696f3a",
+  "source/scar/garrison/korea/dispatcher.scar": "660adf77b57ba1bb25d861ca153ed204b941484b3d3b73a2683254194847ab45"
+}

@@ -1,0 +1,147 @@
+{
+  "utc": "2026-11-04T17:39:21.390769+00:00",
+  "status": "Confirmed Garrison native resource startup blocker; no safe mod-side repair established",
+  "game_build": "17.0.12260.0",
+  "earlier_game_build": "17.0.12182.0",
+  "installed_garrison": "0.1.15",
+  "imported_archive_matches_shipped_025": true,
+  "imported_archive_sha256": "de95e848e39a5e8490cf086d45c051077fa08a265353c4c9e7fa347bf5dc59fc",
+  "sessions": [
+    {
+      "session": "AoE4_11_04_20h-33m-57s",
+      "pid": 18160,
+      "crash_dump": {
+        "exception_code": "0xc0000005",
+        "module": "RelicCardinal.exe",
+        "fault_rva": "0x1c4adc4",
+        "fault_thread": 35112,
+        "rdx": "0x0",
+        "access_parameters": [
+          "0x0",
+          "0x10"
+        ]
+      },
+      "korea_dispatcher_registered": false,
+      "voice_guard_reached": false,
+      "voice_started": false,
+      "provider_errors": [
+        {
+          "details": {
+            "reason": "declared resource pack must contain exactly its native Observer and Race parts"
+          },
+          "kind": "provider_error",
+          "reason": "civilization_runtime"
+        }
+      ],
+      "resources_retained": [],
+      "stamp_load_failures_observed": 16,
+      "native_service": [
+        {
+          "kind": "civilization_service_registered",
+          "native_lifetime": true,
+          "part_count": 6
+        }
+      ]
+    },
+    {
+      "session": "AoE4_11_04_20h-39m-20s",
+      "pid": 30224,
+      "crash_dump": {
+        "exception_code": "0xc0000005",
+        "module": "RelicCardinal.exe",
+        "fault_rva": "0x1c4adc4",
+        "fault_thread": 46572,
+        "rdx": "0x0",
+        "access_parameters": [
+          "0x0",
+          "0x10"
+        ]
+      },
+      "korea_dispatcher_registered": false,
+      "voice_guard_reached": false,
+      "voice_started": false,
+      "provider_errors": [
+        {
+          "details": {
+            "reason": "declared resource pack must contain exactly its native Observer and Race parts"
+          },
+          "kind": "provider_error",
+          "reason": "civilization_runtime"
+        }
+      ],
+      "resources_retained": [],
+      "stamp_load_failures_observed": 16,
+      "native_service": [
+        {
+          "kind": "civilization_service_registered",
+          "native_lifetime": true,
+          "part_count": 6
+        }
+      ]
+    },
+    {
+      "session": "AoE4_11_04_20h-43m-37s",
+      "pid": 9396,
+      "crash_dump": {
+        "exception_code": "0xc0000005",
+        "module": "RelicCardinal.exe",
+        "fault_rva": "0x1c4adc4",
+        "fault_thread": 33400,
+        "rdx": "0x0",
+        "access_parameters": [
+          "0x0",
+          "0x10"
+        ]
+      },
+      "korea_dispatcher_registered": false,
+      "voice_guard_reached": false,
+      "voice_started": false,
+      "provider_errors": [
+        {
+          "details": {
+            "reason": "declared resource pack must contain exactly its native Observer and Race parts"
+          },
+          "kind": "provider_error",
+          "reason": "civilization_runtime"
+        }
+      ],
+      "resources_retained": [],
+      "stamp_load_failures_observed": 16,
+      "native_service": [
+        {
+          "kind": "civilization_service_registered",
+          "native_lifetime": true,
+          "part_count": 6
+        }
+      ]
+    }
+  ],
+  "earlier_024_resources_retained": [
+    {
+      "capabilities_unchanged": true,
+      "kind": "civilization_resources_retained",
+      "mounted_after": 1,
+      "mounted_before": 0,
+      "native_mount_rva": 58586272,
+      "owner_uuid": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+      "runtime_owner": 15,
+      "stage": "before_attribute_acquire",
+      "until_process_exit": true
+    }
+  ],
+  "retained_release_zips": {
+    "Koreans-Garrison-0.2.4.zip": {
+      "sha256": "b0544f10ac45604968502330c977f99cef735a67b086c976f321cfa98d2eab89",
+      "bytes": 199761556
+    },
+    "Koreans-Garrison-0.2.5.zip": {
+      "sha256": "4051ff84f03b26728a1c577369c0fd6d7678a3a6c005f2af5a59be67d5e5adf5",
+      "bytes": 199761575
+    }
+  },
+  "boundary": "Resource mount fails before KoreaIndependent/diagnostics/voice-controller startup; do not label the voice-disable guard as executed or claim a tuning fix",
+  "repair_needed": "Correct Garrison 0.1.15 native resource-part discovery/validation for game 17.0.12260; restore resource mounting and dispatcher delivery before resuming the voice A/B test",
+  "fix_applied": false,
+  "game_client_and_mod_assets_unchanged": true,
+  "official_update_check": "Installed release repository URL returned 404 through the web tool; native app inspection timed out on app approval. No update was installed."
+}

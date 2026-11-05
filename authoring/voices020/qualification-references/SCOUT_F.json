@@ -1,0 +1,17 @@
+{
+  "profile": "SCOUT_F",
+  "file": "authoring\\voices020\\qualification-references\\SCOUT_F.wav",
+  "sha256": "fa69068dd7509511e59c95a3b5de2243e2550f7cfa45b7e7bb72c2b4e5e984b9",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 4.96,
+  "rms": 0.10813792794942856,
+  "raw_peak": 0.51171875,
+  "generation_seconds": 13.199,
+  "seed": 2026110224,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Young adult Korean woman, clear bright mezzo, vigilant traveller, compact controlled phrases, slight airy edge. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

@@ -1,0 +1,21 @@
+{
+  "version": "0.2.4",
+  "all_original_scar_statements_order_and_bytes_restored_after_removing_marked_lines": true,
+  "changed_source": [
+    "source/scar/garrison/korea/dispatcher.scar",
+    "source/scar/korea/core.scar",
+    "source/scar/korea/economy.scar",
+    "source/scar/korea/effects.scar",
+    "source/scar/korea/landmarks.scar",
+    "source/scar/korea/research.scar",
+    "source/scar/korea/ui.scar",
+    "source/scar/korea/voices_020.scar"
+  ],
+  "new_diagnostic_module": true,
+  "native_and_editable_indexes_identical": true,
+  "all_art_models_audio_bank_scripts_gameplay_tables_unchanged": true,
+  "no_engine_globals_replaced": true,
+  "logging_only_no_error_swallowing_or_retry": true,
+  "crash_cause_confirmed": false,
+  "fixed_crash_claim": false
+}

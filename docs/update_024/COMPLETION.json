@@ -1,0 +1,62 @@
+{
+  "utc": "2026-11-02T20:40:30.015993+00:00",
+  "version": "0.2.4",
+  "status": "Local crash-diagnostic ZIP verified; owner reproduction is the next gate",
+  "zip_path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\release\\Koreans-Garrison-0.2.4.zip",
+  "zip_bytes": 199761556,
+  "zip_sha256": "b0544f10ac45604968502330c977f99cef735a67b086c976f321cfa98d2eab89",
+  "archive_bytes": 374155769,
+  "archive_sha256": "66dc7db60170f35801d72f6ad2878590e494c506f2f6f93534032b39a387af35",
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "bundle_race_audio_key": "korea",
+  "changed_members": [
+    "garrison/civilizations.json",
+    "scar/garrison/korea/dispatcher.scar",
+    "scar/korea/core.scar",
+    "scar/korea/economy.scar",
+    "scar/korea/effects.scar",
+    "scar/korea/landmarks.scar",
+    "scar/korea/research.scar",
+    "scar/korea/ui.scar",
+    "scar/korea/voices_020.scar"
+  ],
+  "added_members": [
+    "scar/korea/diagnostics_024.scar"
+  ],
+  "preserved_members": 10272,
+  "members_full_readback": 10282,
+  "native_typed_tables": 527,
+  "current_tests": 56,
+  "lua_compiled_files": 17,
+  "static_errors": 0,
+  "all_original_scar_statements_and_order_preserved": true,
+  "all_models_audio_gameplay_values_and_master_index_unchanged": true,
+  "zip_increment_vs_023_bytes": -2704,
+  "media_bytes_unchanged": 354433993,
+  "dialogue_clips_unchanged": 7632,
+  "effort_clips_unchanged": 827,
+  "native_sheep_unchanged": 5,
+  "trace_limits": {
+    "game_seconds": 1200,
+    "lines": 100000
+  },
+  "rollback": {
+    "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\diagnostic024-baseline\\e65c6b0c165b\\Koreans-Garrison-0.2.3.zip",
+    "bytes": 199764260,
+    "sha256": "e65c6b0c165bf5887d6e99d23fc4a1401f15023697a3fe719a4b0935a0274187"
+  },
+  "native_crash_cause_confirmed": false,
+  "crash_fixed_claim": false,
+  "mounted_hwarang_model_repair": "Explicitly deferred; distant missing horse legs and extra bow recorded with original screenshot",
+  "next_test": "Fresh single-player Korean Standard/None, same speed/cheats first, past eight game minutes; mounted/foot Hwarang cycles, move/attack, train/lose units near Seowon; preserve warnings/scarlog before relaunch. Compare no-conversion fresh match if needed.",
+  "not_performed": [
+    "Game/client installation, mutation or match execution",
+    "Other-civilization mutation",
+    "Push/tag/publication",
+    "Broad E/F cleanup"
+  ],
+  "scoped_cleanup_complete": true,
+  "logical_staging_bytes_removed": 2453875069,
+  "current_and_rollback_zip_hashes_verified_after_cleanup": true
+}

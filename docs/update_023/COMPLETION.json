@@ -1,0 +1,71 @@
+{
+  "utc": "2026-11-02T19:41:49.780965+00:00",
+  "status": "0.2.3 higher-fidelity local ZIP built and package verified; random native crash cause remains unconfirmed",
+  "zip_path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\release\\Koreans-Garrison-0.2.3.zip",
+  "zip_bytes": 199764260,
+  "zip_sha256": "e65c6b0c165bf5887d6e99d23fc4a1401f15023697a3fe719a4b0935a0274187",
+  "archive_bytes": 374141158,
+  "archive_sha256": "112e59cc32f0937cc00d47b846c0673c8d07a8ae2479c9d110bb5c2a63359867",
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "race_bundle_audio_key": "korea",
+  "dialogue_clips": 7632,
+  "effort_clips_unchanged": 827,
+  "voice_profiles": 32,
+  "age_banks": 128,
+  "squad_routes": 50,
+  "dialogue_sample_rate": 24000,
+  "vorbis_compression_level": 0.35,
+  "changed_source_members": [
+    "scar/korea/voice_bank_020.scar"
+  ],
+  "preserved_members": 2648,
+  "all_member_readback_count": 10281,
+  "native_typed_tables": 527,
+  "behavior_tests": 45,
+  "voice_safety_stress_tests": 4,
+  "native_asset_schema_contract_tests": 12,
+  "static_scar_errors": 0,
+  "helper_and_speech_bus_preserved": true,
+  "backend_codec_samples": 4,
+  "backend_codec_probe": "All decoded/admitted with gain zero and dummy process only; not audible native proof",
+  "zip_increment_vs_022_bytes": 53899867,
+  "rollbacks": [
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\quality023-baseline\\6175fcef8fff\\Koreans-Garrison-0.2.2.zip",
+      "bytes": 145864393,
+      "sha256": "6175fcef8fffb0b6a59c1e02f3b4524b42dc14b84d36de591b760c42936ca94e"
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\voices022-baseline\\275dd0ae0ab0\\Koreans-Garrison-0.2.1.zip",
+      "bytes": 145866303,
+      "sha256": "275dd0ae0ab008b19c3155560393bccaf018167186402e3bff4ddb6d282f2011"
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\voices021-baseline\\7aeab3dfd39c\\Koreans-Garrison-0.2.0.zip",
+      "bytes": 145863445,
+      "sha256": "7aeab3dfd39c06000b7c925726b273fbeb359c8442cb746be4b440ac273b631a"
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\voices020-baseline\\e48869987e4c\\Koreans-Garrison-0.1.6.zip",
+      "bytes": 107644580,
+      "sha256": "e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788"
+    }
+  ],
+  "crash_resolved": false,
+  "remaining": [
+    "Fresh Korea 0.2.3 native listening across families/ages/contexts and no doubled Chinese speech",
+    "Korea-specific crash log/stack or native reproduction for random single-player crash report",
+    "Expert/native-speaker historical pronunciation review",
+    "Native save/load, AI, multiplayer and performance qualification"
+  ],
+  "not_performed": [
+    "Push/tag/publication",
+    "Installation/client changes/game interruption",
+    "Other-civilization mutations",
+    "Broad E:/F: cleanup"
+  ],
+  "scoped_cleanup_complete": true,
+  "logical_staging_bytes_removed": 2485108361,
+  "delivery_and_rollback_hashes_verified_after_cleanup": true
+}

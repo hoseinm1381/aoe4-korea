@@ -1,0 +1,17 @@
+{
+  "profile": "TRADER",
+  "file": "authoring\\voices020\\qualification-references\\TRADER.wav",
+  "sha256": "cdd6a728bd8bac528067118ddeda9afa784e2574919b8cbda2afe63b8ef88a01",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 9.36,
+  "rms": 0.11137735098600388,
+  "raw_peak": 0.70703125,
+  "generation_seconds": 25.953,
+  "seed": 2026110228,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Middle-aged Korean man, smiling flexible tenor, experienced merchant, conversational lilting rhythm. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

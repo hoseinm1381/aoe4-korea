@@ -1,0 +1,9 @@
+{
+  "profiles_age_banks": 128,
+  "clips_screened": 7632,
+  "flagged_groups": 0,
+  "model_sha256": "ed3a0b6b1c0edf879ad9b11b1af5a0e6ab5db9205f891f668f8b0e6c6326e34e",
+  "elapsed_seconds": 10549.606561399996,
+  "historical_native_review": "pending",
+  "scope": "Grouped automatic language screening; not pronunciation or word correctness acceptance"
+}

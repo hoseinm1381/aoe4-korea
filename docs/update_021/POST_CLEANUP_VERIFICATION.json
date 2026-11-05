@@ -1,0 +1,12 @@
+{
+  "utc": "2026-11-02T08:51:09.463066+00:00",
+  "zip_crc_sha256": true,
+  "packaged_sga_sha256": true,
+  "exact_020_and_016_rollbacks": true,
+  "native_and_master_index_digests_unchanged": true,
+  "compact_expected_members_fingerprint": true,
+  "current_admitted_source_hashes": true,
+  "input_integrity_scope": "All native/master payloads were SHA256-verified during the final build. Cleanup used verified disjoint reproducible staging roots; index digests remain identical afterward. No duplicate full-payload rehash claimed.",
+  "cleanup_logical_bytes": 2055557553,
+  "no_game_client_or_other_civ_mutation": true
+}

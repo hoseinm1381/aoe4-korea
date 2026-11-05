@@ -1,0 +1,538 @@
+{
+  "schema": "garrison.native-table/v1",
+  "version": 4,
+  "platform": 1,
+  "chunks": [
+    {
+      "kind": "44415441",
+      "id": "41454744",
+      "version": 3,
+      "name": "",
+      "body": ""
+    },
+    {
+      "kind": "44415441",
+      "id": "4b455953",
+      "version": 1,
+      "name": "",
+      "body": ""
+    }
+  ],
+  "keys": [
+    [
+      8529826256463028745,
+      "instance_version"
+    ],
+    [
+      4430693559278735917,
+      "default"
+    ],
+    [
+      13498150104919118759,
+      "action_apply_ext"
+    ],
+    [
+      10018004925687841239,
+      "action_state_trees"
+    ],
+    [
+      12597131576279646365,
+      "reset_on_load"
+    ],
+    [
+      1965170776092603499,
+      "physical_state_trees"
+    ],
+    [
+      6503770468126988896,
+      "container"
+    ],
+    [
+      5993043126228552632,
+      "state_tree"
+    ],
+    [
+      17042357362353166377,
+      "deferred_action_state_trees"
+    ],
+    [
+      4537920799192779818,
+      "action_state_trees_run_once"
+    ],
+    [
+      13602868659493031696,
+      "deferred_action_state_trees_run_once"
+    ],
+    [
+      3668809654247083208,
+      "physical_state_trees_run_once"
+    ],
+    [
+      6998867517914059163,
+      "$REF"
+    ],
+    [
+      14288188610332746404,
+      "cost_ext"
+    ],
+    [
+      13184136299290443869,
+      "time_cost"
+    ],
+    [
+      17624086884747420260,
+      "cost"
+    ],
+    [
+      5342812467725438597,
+      "action"
+    ],
+    [
+      10534165980232519832,
+      "popcap"
+    ],
+    [
+      15903017239201685541,
+      "command"
+    ],
+    [
+      1642648486008160419,
+      "food"
+    ],
+    [
+      16414556571852284563,
+      "wood"
+    ],
+    [
+      11136004903374842374,
+      "stone"
+    ],
+    [
+      7631488968183620829,
+      "gold"
+    ],
+    [
+      8115382159876774742,
+      "militia_hre"
+    ],
+    [
+      15228413151750088298,
+      "merc_byz"
+    ],
+    [
+      10623446953605642830,
+      "time_seconds"
+    ],
+    [
+      16678964902976246383,
+      "time_turns"
+    ],
+    [
+      652614703802150117,
+      "population_ext"
+    ],
+    [
+      2808206405538660611,
+      "medic_pop"
+    ],
+    [
+      8233609874420956304,
+      "personnel_pop"
+    ],
+    [
+      8075088201329855845,
+      "vehicle_pop"
+    ],
+    [
+      3461111721848345691,
+      "upkeep_per_pop_per_minute_override"
+    ],
+    [
+      16149247026010147347,
+      "animation_action_tree_ext"
+    ],
+    [
+      3837083494325526760,
+      "ActionTree_OpeningBranch"
+    ],
+    [
+      69986735584970510,
+      "use_root_motion"
+    ],
+    [
+      857811608375552855,
+      "start_suspended"
+    ],
+    [
+      17095730268817052046,
+      "entity_statetree_sort_tag"
+    ],
+    [
+      4278586355778637850,
+      "speed_scale_threshold"
+    ],
+    [
+      14721781839788626179,
+      "default_animation"
+    ],
+    [
+      13005689997087892415,
+      "pbgid"
+    ],
+    [
+      14182368983149674761,
+      "parent_pbg"
+    ],
+    [
+      5464984021694833596,
+      "$PBGNAME"
+    ],
+    [
+      1238668035833122403,
+      "$PBGMAP"
+    ]
+  ],
+  "nodes": [
+    {
+      "key": "default",
+      "hash": 4430693559278735917,
+      "kind": "List",
+      "value": [
+        {
+          "key": "population_ext",
+          "hash": 652614703802150117,
+          "kind": "List",
+          "value": [
+            {
+              "key": "medic_pop",
+              "hash": 2808206405538660611,
+              "kind": "Float",
+              "value": 0.0
+            },
+            {
+              "key": "upkeep_per_pop_per_minute_override",
+              "hash": 3461111721848345691,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "food",
+                  "hash": 1642648486008160419,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "action",
+                  "hash": 5342812467725438597,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "gold",
+                  "hash": 7631488968183620829,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "militia_hre",
+                  "hash": 8115382159876774742,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "popcap",
+                  "hash": 10534165980232519832,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "stone",
+                  "hash": 11136004903374842374,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "merc_byz",
+                  "hash": 15228413151750088298,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "command",
+                  "hash": 15903017239201685541,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "wood",
+                  "hash": 16414556571852284563,
+                  "kind": "Float",
+                  "value": 0.0
+                }
+              ]
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\population_ext"
+            },
+            {
+              "key": "vehicle_pop",
+              "hash": 8075088201329855845,
+              "kind": "Float",
+              "value": 0.0
+            },
+            {
+              "key": "personnel_pop",
+              "hash": 8233609874420956304,
+              "kind": "Float",
+              "value": 0.0
+            }
+          ]
+        },
+        {
+          "key": "pbgid",
+          "hash": 13005689997087892415,
+          "kind": "Int",
+          "value": 36980672
+        },
+        {
+          "key": "action_apply_ext",
+          "hash": 13498150104919118759,
+          "kind": "List",
+          "value": [
+            {
+              "key": "physical_state_trees",
+              "hash": 1965170776092603499,
+              "kind": "List2",
+              "value": [
+                {
+                  "key": "container",
+                  "hash": 6503770468126988896,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "state_tree",
+                      "hash": 5993043126228552632,
+                      "kind": "CString",
+                      "value": "free_unit_action_apply_chi_ha_01"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "physical_state_trees_run_once",
+              "hash": 3668809654247083208,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "action_state_trees_run_once",
+              "hash": 4537920799192779818,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\action_apply_ext"
+            },
+            {
+              "key": "action_state_trees",
+              "hash": 10018004925687841239,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "reset_on_load",
+              "hash": 12597131576279646365,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "deferred_action_state_trees_run_once",
+              "hash": 13602868659493031696,
+              "kind": "List2",
+              "value": []
+            },
+            {
+              "key": "deferred_action_state_trees",
+              "hash": 17042357362353166377,
+              "kind": "List2",
+              "value": []
+            }
+          ]
+        },
+        {
+          "key": "parent_pbg",
+          "hash": 14182368983149674761,
+          "kind": "List2",
+          "value": [
+            {
+              "key": "$PBGNAME",
+              "hash": 5464984021694833596,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "$PBGMAP",
+              "hash": 1238668035833122403,
+              "kind": "CString",
+              "value": ""
+            }
+          ]
+        },
+        {
+          "key": "cost_ext",
+          "hash": 14288188610332746404,
+          "kind": "List",
+          "value": [
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\cost_ext"
+            },
+            {
+              "key": "time_cost",
+              "hash": 13184136299290443869,
+              "kind": "List",
+              "value": [
+                {
+                  "key": "time_seconds",
+                  "hash": 10623446953605642830,
+                  "kind": "Float",
+                  "value": 0.0
+                },
+                {
+                  "key": "time_turns",
+                  "hash": 16678964902976246383,
+                  "kind": "Int",
+                  "value": 0
+                },
+                {
+                  "key": "cost",
+                  "hash": 17624086884747420260,
+                  "kind": "List",
+                  "value": [
+                    {
+                      "key": "food",
+                      "hash": 1642648486008160419,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "action",
+                      "hash": 5342812467725438597,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "gold",
+                      "hash": 7631488968183620829,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "militia_hre",
+                      "hash": 8115382159876774742,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "popcap",
+                      "hash": 10534165980232519832,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "stone",
+                      "hash": 11136004903374842374,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "merc_byz",
+                      "hash": 15228413151750088298,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "command",
+                      "hash": 15903017239201685541,
+                      "kind": "Float",
+                      "value": 0.0
+                    },
+                    {
+                      "key": "wood",
+                      "hash": 16414556571852284563,
+                      "kind": "Float",
+                      "value": 0.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "animation_action_tree_ext",
+          "hash": 16149247026010147347,
+          "kind": "List",
+          "value": [
+            {
+              "key": "use_root_motion",
+              "hash": 69986735584970510,
+              "kind": "Boolean",
+              "value": true
+            },
+            {
+              "key": "start_suspended",
+              "hash": 857811608375552855,
+              "kind": "Boolean",
+              "value": false
+            },
+            {
+              "key": "ActionTree_OpeningBranch",
+              "hash": 3837083494325526760,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "speed_scale_threshold",
+              "hash": 4278586355778637850,
+              "kind": "Float",
+              "value": 100.0
+            },
+            {
+              "key": "$REF",
+              "hash": 6998867517914059163,
+              "kind": "CString",
+              "value": "ebpextensions\\animation_action_tree_ext"
+            },
+            {
+              "key": "default_animation",
+              "hash": 14721781839788626179,
+              "kind": "CString",
+              "value": ""
+            },
+            {
+              "key": "entity_statetree_sort_tag",
+              "hash": 17095730268817052046,
+              "kind": "CString",
+              "value": "Default"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "instance_version",
+      "hash": 8529826256463028745,
+      "kind": "Int",
+      "value": 2
+    }
+  ]
+}

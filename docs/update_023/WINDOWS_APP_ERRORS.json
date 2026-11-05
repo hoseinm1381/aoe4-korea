@@ -1,0 +1,21 @@
+{
+  "TimeCreated": "2026-11-02T15:41:02.4844167+03:30",
+  "Id": 1000,
+  "Fields": {
+    "ModulePath": "C:\\Windows\\SYSTEM32\\ntdll.dll",
+    "AppVersion": "17.0.12182.0",
+    "ProcessCreationTime": "0x1dd6ac330759458",
+    "ExceptionCode": "c0000005",
+    "ProcessId": "0x2034",
+    "AppTimeStamp": "00000000",
+    "PackageRelativeAppId": null,
+    "AppPath": "E:\\Games\\steamapps\\common\\Age of Empires IV\\RelicCardinal.exe",
+    "ModuleTimeStamp": "5745603f",
+    "ModuleName": "ntdll.dll",
+    "PackageFullName": null,
+    "IntegratorReportId": "599e9d26-282b-4c23-97ab-0e48ac6b4ed3",
+    "FaultingOffset": "0000000000035ebd",
+    "AppName": "RelicCardinal.exe",
+    "ModuleVersion": "10.0.26100.863"
+  }
+}

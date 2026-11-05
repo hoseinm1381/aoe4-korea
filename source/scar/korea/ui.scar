@@ -72,14 +72,18 @@ function KoreaUI_Update(now)
             local offers = {}
             for _, name in ipairs(player.research.offers) do
                 local route = KoreaResearchRoutes[BP_GetName(BP_GetAbilityBlueprint(name))]
+                if KoreaDiag024_Mark then KoreaDiag024_Mark("ui.upgrade_info.before",name) end -- KOREA024_DIAGNOSTIC
                 local info = BP_GetUpgradeUIInfo(route.upgradePBG)
+                if KoreaDiag024_Mark then KoreaDiag024_Mark("ui.upgrade_info.after",name) end -- KOREA024_DIAGNOSTIC
                 table.insert(offers, {name = Loc_GetString(info.screenName), description = Loc_GetString(info.helpText)})
             end
             table.insert(players, {name = Player_GetDisplayName(player.id).LocString, offers = offers})
         end
         KoreaUI.context.players = players
     end
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("ui.publish.before",KoreaUI.visible) end -- KOREA024_DIAGNOSTIC
     UI_SetDataContext("KoreaInformationUI", KoreaUI.context)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("ui.publish.after",KoreaUI.visible) end -- KOREA024_DIAGNOSTIC
 end
 
 function KoreaUI_Cleanup()

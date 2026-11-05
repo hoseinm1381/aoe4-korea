@@ -1,0 +1,11 @@
+{
+  "allowed_changed": [
+    "attrib/army/garrison/korea/korea_standard.rgd",
+    "scar/korea/voices_020.scar",
+    "scar/korea/voice_bank_020.scar",
+    "scar/garrison/korea/dispatcher.scar",
+    "garrison/civilizations.json"
+  ],
+  "allowed_added": [],
+  "allowed_removed": []
+}

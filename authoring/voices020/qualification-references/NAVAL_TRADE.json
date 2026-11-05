@@ -1,0 +1,17 @@
+{
+  "profile": "NAVAL_TRADE",
+  "file": "authoring\\voices020\\qualification-references\\NAVAL_TRADE.wav",
+  "sha256": "6aa6edc3b4c2456d46c8141d7b0fb6b9794345a65f8330d3c5a134a6cfa091cf",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.88,
+  "rms": 0.0861818864941597,
+  "raw_peak": 0.80078125,
+  "generation_seconds": 17.103,
+  "seed": 2026110216,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Mature Korean man, rounded jovial tenor, maritime merchant, bright sociable delivery with clear rhythm. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

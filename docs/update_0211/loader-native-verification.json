@@ -1,0 +1,40 @@
+{
+  "session_pid": 25672,
+  "game_version": "17.0.12260.0",
+  "game_executable_sha256": "c32575958155e54b3c42bc1f9fd0f7708bbfd872b16035252e7f9ee18f95db38",
+  "korea_package_version": "0.2.5",
+  "korea_sga_sha256": "de95e848e39a5e8490cf086d45c051077fa08a265353c4c9e7fa347bf5dc59fc",
+  "runtime_sha256": "1dfd4b6b2a815785ebb207a40d9392c25933f733c23111c892b02b5f75dde47c",
+  "native_part_count": 1,
+  "native_part_type": "0x65647ffca6630a75",
+  "mount": {
+    "capabilities_unchanged": true,
+    "kind": "civilization_resources_retained",
+    "mounted_after": 1,
+    "mounted_before": 0,
+    "native_mount_rva": 58588448,
+    "owner_uuid": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "runtime_owner": 15,
+    "stage": "before_attribute_acquire",
+    "until_process_exit": true
+  },
+  "dispatcher": {
+    "crc": true,
+    "kind": "civilization_script_loaded",
+    "lua_global": "0x153aa426df8",
+    "lua_globals": "0x154772cdff0",
+    "member": "scar/garrison/korea/dispatcher.scar",
+    "native_load_rva": 34591776,
+    "owner_uuid": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+    "runtime_owner": 15,
+    "sha256": "7511a07d6d6cd1212549e9d790fd108da1c3ffdb7f7504c4ce254e9546f0a127",
+    "stage": "before_OnGameSetup",
+    "thread": 12268
+  },
+  "module_registration": "11:49:22.419   Registering module KoreaIndependent",
+  "voice_controller": "11:49:33.156   KOREA025_VOICE_CONTROLLER_DISABLED; voice scripts and audio retained",
+  "live_simulation": "11:49:34.153   KOREA024 seq=3091 t=2.125 kind=EXIT call=497 parent=0 depth=1 site=KoreaLifecycle_Tick detail=nil",
+  "match_loading": "passed",
+  "initial_launcher_timeout_logged": true,
+  "original_in_match_crash": "longer isolation test pending"
+}

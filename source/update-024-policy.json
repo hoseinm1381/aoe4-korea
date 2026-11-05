@@ -1,0 +1,17 @@
+{
+  "allowed_changed": [
+    "garrison/civilizations.json",
+    "scar/garrison/korea/dispatcher.scar",
+    "scar/korea/core.scar",
+    "scar/korea/economy.scar",
+    "scar/korea/effects.scar",
+    "scar/korea/landmarks.scar",
+    "scar/korea/research.scar",
+    "scar/korea/ui.scar",
+    "scar/korea/voices_020.scar"
+  ],
+  "allowed_added": [
+    "scar/korea/diagnostics_024.scar"
+  ],
+  "allowed_removed": []
+}

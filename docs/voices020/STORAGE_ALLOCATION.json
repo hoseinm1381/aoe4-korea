@@ -1,0 +1,6 @@
+{
+  "filesystem": "exFAT",
+  "allocation_unit_bytes": 262144,
+  "free_bytes": 67323297792,
+  "note": "Cluster-rounded file-storage estimates exclude directory metadata; logical media and ZIP budgets are reported separately."
+}

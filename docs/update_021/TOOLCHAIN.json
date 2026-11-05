@@ -1,0 +1,34 @@
+{
+  "authoring_version": "0.1.13",
+  "client_file_product_version": "0.1.13",
+  "python_abi": "3.13",
+  "binaries": [
+    {
+      "path": "C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\raw_githubusercontent_com\\garrison\\bin\\core\\garrison-core.exe",
+      "bytes": 30139904,
+      "sha256": "168d7d9611051d3376b614842050c1f4654c75cd3f0f3f98d5460079599f6840"
+    },
+    {
+      "path": "C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\raw_githubusercontent_com\\garrison\\bin\\sga-archiver.exe",
+      "bytes": 4451328,
+      "sha256": "63566c3c1f6f00ba8487bb0009133c3b75cffbb68bac699b0794cdef68bfe4cf"
+    },
+    {
+      "path": "C:\\Users\\RS\\AppData\\Local\\Garrison\\current\\Garrison.exe",
+      "bytes": 27202560,
+      "sha256": "a902aa767c781465ad5e3566c12dbae795bb7ff3ece8e5f3c917bc85fde0459c"
+    },
+    {
+      "path": "C:\\Users\\RS\\AppData\\Local\\Garrison\\current\\garrison-audio-backend.exe",
+      "bytes": 4834816,
+      "sha256": "ba2df897f800e4c753f088fcb6a8ef2bf2baca8633fe64a273746131a24d0415"
+    },
+    {
+      "path": "C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\raw_githubusercontent_com\\garrison\\garrison_shared.cp313-win_amd64.pyd",
+      "bytes": 5369856,
+      "sha256": "2a1628196b7b4df28bc54556990b0d98cb0ec95ad686febf1492844abf76a91a"
+    }
+  ],
+  "not_redistributed": true,
+  "audio_runtime_acceptance": "pending successful normal client launch and listening; no standalone player installed"
+}

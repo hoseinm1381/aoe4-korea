@@ -1,0 +1,17 @@
+{
+  "profile": "NAVAL_COMBAT_SHIP",
+  "file": "authoring\\voices020\\qualification-references\\NAVAL_COMBAT_SHIP.wav",
+  "sha256": "ab5dfd23fe1e4e9438882af5478215185c04d471249511f2f6e0d8e74fd3af50",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 7.04,
+  "rms": 0.1150238960981369,
+  "raw_peak": 0.77734375,
+  "generation_seconds": 18.351,
+  "seed": 2026110212,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, bold open baritone, disciplined light-warship captain, brisk ringing calls. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

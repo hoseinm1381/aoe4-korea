@@ -1,0 +1,69 @@
+{
+  "samples": [
+    {
+      "profile": "ARCHER",
+      "age": 1,
+      "expected": "활 갖추노라. 나아가노라. 틈 보노라.",
+      "compressed_transcript": "화가 춘어라, 나아가 놓으라, 틈 본어라",
+      "lossless_master_transcript": "화에 가춘어라 나아가 놀아 틈 본어라",
+      "meaning": "Modern ASR evidence only; both readings require linguistic interpretation."
+    },
+    {
+      "profile": "ARCHER",
+      "age": 2,
+      "expected": "활 갖추고 듣노라. 곧 나아가노라. 쏠 틈 보노라.",
+      "compressed_transcript": "하이 갓 죽어 듣놀아 곧 나아가 놀아 쏠툼 본호라",
+      "lossless_master_transcript": "하이 갓 죽어 듣놀아 곧 나아가 놀아 쏠툼 보놀아",
+      "meaning": "Modern ASR evidence only; both readings require linguistic interpretation."
+    },
+    {
+      "profile": "ARCHER",
+      "age": 3,
+      "expected": "활 갖추리라. 곧 나아가리라. 쏠 틈 보리라.",
+      "compressed_transcript": "화가출이라 곧 나아갈이라 쏠트몰이라",
+      "lossless_master_transcript": "화가출이라 곧 나아갈이라 솔튼보리라",
+      "meaning": "Modern ASR evidence only; both readings require linguistic interpretation."
+    },
+    {
+      "profile": "ARCHER",
+      "age": 4,
+      "expected": "활 갖추리이다. 곧 나아가리이다. 쏠 틈 보리이다.",
+      "compressed_transcript": "화가 줄이 있다, 곧 나아갈이다, 쏠 틈 볼이 있다",
+      "lossless_master_transcript": "화가 줄이이다. 곧 나아갈이이다. 쏠 틈 볼이이다.",
+      "meaning": "Modern ASR evidence only; both readings require linguistic interpretation."
+    },
+    {
+      "profile": "BOMBARD",
+      "age": 1,
+      "expected": "쏠 것 갖추노라. 나아가노라. 틈 보노라.",
+      "compressed_transcript": "쏠껏 갖춘 오라, 나아간 오라, 틈 본 오라",
+      "lossless_master_transcript": "쏠껏 갖춘 오라 나아가 놀아 틈 보놀아",
+      "meaning": "Modern ASR evidence only; both readings require linguistic interpretation."
+    },
+    {
+      "profile": "BOMBARD",
+      "age": 2,
+      "expected": "쏠 것 갖추고 듣노라. 곧 나아가노라. 쏠 틈 보노라.",
+      "compressed_transcript": "설거 갖추고 듣는 놈아 곧 나아간 놈아 쏠 틈 본 오라",
+      "lossless_master_transcript": "설거 갖추고 듣는 놀아 곧 나아간 놀아 쏠 틈 보놀아",
+      "meaning": "Modern ASR evidence only; both readings require linguistic interpretation."
+    },
+    {
+      "profile": "BOMBARD",
+      "age": 3,
+      "expected": "화포 갖추리라. 곧 나아가리라. 쏠 틈 보리라.",
+      "compressed_transcript": "화폭 갖출이라 곧 나아갈이라 쏠 틈보리라",
+      "lossless_master_transcript": "화포 가출이라 곧 나아갈이라 쏠 틈보리라",
+      "meaning": "Modern ASR evidence only; both readings require linguistic interpretation."
+    },
+    {
+      "profile": "BOMBARD",
+      "age": 4,
+      "expected": "화포 갖추리이다. 곧 나아가리이다. 쏠 틈 보리이다.",
+      "compressed_transcript": "화폭아출이이다 곧 나아갈이이다 솔튼보리이다",
+      "lossless_master_transcript": "화포 가출이이다 꽃 나아갈이이다 썰툰 볼이이다",
+      "meaning": "Modern ASR evidence only; both readings require linguistic interpretation."
+    }
+  ],
+  "native_historical_listening": "pending"
+}

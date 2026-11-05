@@ -1,0 +1,17 @@
+{
+  "profile": "SCHOLAR",
+  "file": "authoring\\voices020\\qualification-references\\SCHOLAR.wav",
+  "sha256": "a9dc823e7648f64475c0b75785919051ef6de7951b0a9fdb9641af51086deea8",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 7.6,
+  "rms": 0.11034351587295532,
+  "raw_peak": 0.75,
+  "generation_seconds": 19.902,
+  "seed": 2026110222,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Older Korean man, gentle light baritone, patient scholarly official, carefully articulated thoughtful cadence. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

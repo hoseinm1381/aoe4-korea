@@ -1,0 +1,17 @@
+{
+  "version": "0.2.10",
+  "archive_sha256": "2f38c02d245cb21abb012a0ed464b3d931f1ec7d8bf21a1785df2130cf90d554",
+  "zip_sha256": "846d704d9e0381ccff683772859c78ec6e2e3531442156d81ed0a4fdef1d728c",
+  "zip_bytes": 199924552,
+  "changed_members_from_029": [
+    "scar/korea/voices_020.scar"
+  ],
+  "unchanged_inventory_rows": 10281,
+  "voice_controller_enabled": true,
+  "preserved_zip_sha256": {
+    "0.2.4": "b0544f10ac45604968502330c977f99cef735a67b086c976f321cfa98d2eab89",
+    "0.2.5": "4051ff84f03b26728a1c577369c0fd6d7678a3a6c005f2af5a59be67d5e5adf5",
+    "0.2.9": "856e6d6529950a6f1831521f8dd5a4d331040c55456fb04f5a57ad704ee55080"
+  },
+  "native_match_tested": false
+}

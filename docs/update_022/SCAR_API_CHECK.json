@@ -1,0 +1,87 @@
+{
+  "voice": {
+    "status": "ok",
+    "target_file": "F:/aoe_4_temp/New_custom_civilization/aoe4-korea/source/scar/korea/voices_020.scar",
+    "unknown_calls": [
+      "KoreaVoice_Start",
+      "KoreaVoice_Stop",
+      "and",
+      "commandEcho",
+      "eventFor",
+      "forMod",
+      "localEntry",
+      "not",
+      "or",
+      "play",
+      "playerAge",
+      "pulse",
+      "session",
+      "speak",
+      "track",
+      "untrack",
+      "voiceConfig"
+    ],
+    "low_confidence_apis": [],
+    "missing_locdb_ids": [],
+    "summary": {
+      "call_count": 63,
+      "loc_ref_count": 0,
+      "unknown_call_count": 17,
+      "missing_locdb_count": 0
+    },
+    "confidence_model": "source_match_v1"
+  },
+  "lifecycle": {
+    "status": "ok",
+    "target_file": "F:/aoe_4_temp/New_custom_civilization/aoe4-korea/source/scar/korea/lifecycle.scar",
+    "unknown_calls": [
+      "KoreaEconomy_Register",
+      "KoreaEconomy_Tick",
+      "KoreaEffects_Barrage",
+      "KoreaEffects_Decree",
+      "KoreaEffects_Kill",
+      "KoreaEffects_Start",
+      "KoreaEffects_Tick",
+      "KoreaEffects_Timers",
+      "KoreaEffects_Transform",
+      "KoreaLandmarks_Kill",
+      "KoreaLandmarks_Snapshot",
+      "KoreaLandmarks_Tick",
+      "KoreaResearch_Ability",
+      "KoreaResearch_EntityLost",
+      "KoreaResearch_Init",
+      "KoreaUI_Cleanup",
+      "KoreaUI_Create",
+      "KoreaUI_Kills",
+      "KoreaUI_Toggle",
+      "KoreaUI_Update",
+      "Korea_AddLiterature",
+      "Korea_Alive",
+      "Korea_Entities",
+      "Korea_EventPlayer",
+      "Korea_Player",
+      "Korea_PlayerModifier",
+      "Korea_RemoveModifier",
+      "phase"
+    ],
+    "low_confidence_apis": [],
+    "missing_locdb_ids": [],
+    "summary": {
+      "call_count": 50,
+      "loc_ref_count": 0,
+      "unknown_call_count": 28,
+      "missing_locdb_count": 0
+    },
+    "confidence_model": "source_match_v1"
+  },
+  "resolutions": {
+    "project_helpers": "Definitions/imports in Korea source/scar; phase is private Lua logger.",
+    "lua_tokens": "and/not/or are Lua syntax.",
+    "garrison_endpoint": "Installed 0.1.13 garrison_shared/scar_modules/garrison.scar; identical endpoint to Berber.",
+    "borrowed_group": "Player_GetSquads group is engine-owned and must remain undestroyed.",
+    "players": "cardinal.scar is imported by owning Korea dispatcher."
+  },
+  "new_engine_calls": [],
+  "static_errors": 0,
+  "self_test_passed": true
+}

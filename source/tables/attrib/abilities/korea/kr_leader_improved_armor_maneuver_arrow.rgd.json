@@ -1886,7 +1886,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": "KoreaLiterature325ForeignDataTemplate"
+                  "value": ""
                 },
                 {
                   "key": "help_text_formatter",
@@ -3401,7 +3401,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": "KoreaLiterature325ForeignDataTemplate"
+                  "value": ""
                 },
                 {
                   "key": "help_text_formatter",
@@ -4910,7 +4910,7 @@
                   "key": "tooltip_data_template",
                   "hash": 10732985850218957366,
                   "kind": "CString",
-                  "value": "KoreaLiterature325ForeignDataTemplate"
+                  "value": ""
                 },
                 {
                   "key": "help_text_formatter",

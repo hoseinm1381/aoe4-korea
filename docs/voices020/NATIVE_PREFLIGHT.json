@@ -1,0 +1,8 @@
+{
+  "staged_native_schema_and_references": "pass",
+  "attributes": 527,
+  "source_promoted": false,
+  "audio_complete": false,
+  "runtime_or_build_acceptance": false,
+  "recipe_sha256": "3d87ef4b34af14932375b82f4bbeea5c78c3f2fa9dae1b4d4e8e7ee4ac1aa963"
+}

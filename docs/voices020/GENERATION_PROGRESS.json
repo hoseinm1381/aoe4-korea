@@ -1,0 +1,12 @@
+{
+  "utc": "2026-11-02T03:44:33.061913+00:00",
+  "pilot": false,
+  "completed_selected": 7632,
+  "target_selected": 7632,
+  "all_planned": 7632,
+  "elapsed_seconds": 11554.8,
+  "last_batch_size": 4,
+  "last_batch_seconds": 7.01,
+  "encoded_bytes_selected": 55803843,
+  "peak_cuda_reserved_bytes": 7665090560
+}

@@ -1,0 +1,17 @@
+{
+  "profile": "MILITIA",
+  "file": "authoring\\voices020\\qualification-references\\MILITIA.wav",
+  "sha256": "357b61c60fb3dc0b43cdd9cd95a04e7e4b9f30e8565cc3cd93f77ec9e7cc6705",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.4,
+  "rms": 0.09554272145032883,
+  "raw_peak": 0.9140625,
+  "generation_seconds": 17.359,
+  "seed": 2026110210,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, uneven rustic tenor, brave ordinary citizen defending his home, earnest breathy delivery. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "profile": "NAVAL_WAR_GALLEY",
+  "file": "authoring\\voices020\\qualification-references\\NAVAL_WAR_GALLEY.wav",
+  "sha256": "300898c8fbc413bc369e46250e2940ff873a57d46855edcdb4b2cc5d380de237",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 8.96,
+  "rms": 0.050842661410570145,
+  "raw_peak": 0.48828125,
+  "generation_seconds": 23.155,
+  "seed": 2026110219,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Mature Korean man, rasping upper baritone, seasoned galley commander, hard clipped projected words. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

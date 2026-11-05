@@ -1,0 +1,17 @@
+{
+  "profile": "ARCHER",
+  "file": "authoring\\voices020\\qualification-references\\ARCHER.wav",
+  "sha256": "073f7f07f3e5adc791eb17334e0183ffe1f7f98c8cf095f6886a65ef80362335",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.16,
+  "rms": 0.0816253051161766,
+  "raw_peak": 0.7109375,
+  "generation_seconds": 35.844,
+  "seed": 2026110200,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Young adult Korean man, focused upper tenor, quiet confidence, precise crisp words, very little breath noise. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

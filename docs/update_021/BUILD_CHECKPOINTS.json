@@ -1,0 +1,6 @@
+{
+  "preparation": "Original campaign roster was six units rather than default seven; the guard was corrected before any source write, preserving its no-Scout roster and adding only five sheep.",
+  "early_build": "The first task-owned input-check process was intentionally stopped before native preparation to preserve previously supported captured-unit voice startup. No prepared/native stage existed.",
+  "final_build": "Fresh complete native build and full checks passed in native-build-final.log.",
+  "regeneration_recipe": "apply021.py now matches the exact final captured-unit behavior; ordinary rebuild uses current source, not reapplication."
+}

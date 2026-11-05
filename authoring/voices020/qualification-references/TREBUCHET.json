@@ -1,0 +1,17 @@
+{
+  "profile": "TREBUCHET",
+  "file": "authoring\\voices020\\qualification-references\\TREBUCHET.wav",
+  "sha256": "d3b464058395451353fa1e848d3c6bbe128b8f973c6694b27ecb2f3ddf11b9f5",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.64,
+  "rms": 0.0759388878941536,
+  "raw_peak": 0.71875,
+  "generation_seconds": 17.044,
+  "seed": 2026110229,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Older Korean man, lean metallic baritone, experienced siege engineer, exact and deliberate articulation. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

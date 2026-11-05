@@ -1,0 +1,304 @@
+{
+  "files": [
+    {
+      "official_source": "attachments/attachment_lists/civilizations/chinese/units/tier2_trade_cart_chi",
+      "official_sha256": "c802a253c3815a58f50361662d84275506636580e3677b6fd840998f4575878f",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_98973629ab0ea2.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_98973629ab0ea2",
+      "candidate_sha256": "f0bf3d1eb2ed24a646d18831515616eef833abd62cc917af394452ce19b9a2f3",
+      "native_roundtrip": true,
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_98973629ab0ea2",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/chinese/units/tier2_trade_cart_chi",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_98973629ab0ea2",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_98973629ab0ea2",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "sdk_only_identity_semantic_proof": true,
+      "edits": [
+        {
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        },
+        {
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        },
+        {
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        }
+      ]
+    },
+    {
+      "official_source": "attachments/attachment_lists/civilizations/chinese/units/tier3_trade_cart_chi",
+      "official_sha256": "64bf25eb61352e04f9b7b0b482c73d91618c748d397be190c1b91eb7593ec05b",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_2c1bfd829d6c12.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2c1bfd829d6c12",
+      "candidate_sha256": "e7444c4b71716a78039b03642d4044139810fa231001c270dc1414687b573b41",
+      "native_roundtrip": true,
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_2c1bfd829d6c12",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/chinese/units/tier3_trade_cart_chi",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_2c1bfd829d6c12",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2c1bfd829d6c12",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "sdk_only_identity_semantic_proof": true,
+      "edits": [
+        {
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        },
+        {
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        },
+        {
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        }
+      ]
+    },
+    {
+      "official_source": "attachments/attachment_lists/civilizations/chinese/units/tier4_trade_cart_chi",
+      "official_sha256": "2e2a1b69860c33e6e4e7e73f59565b90bcd29073bb8f775d7b7b451a21cba1c1",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_1107f5410001f8.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_1107f5410001f8",
+      "candidate_sha256": "3d46e7d4406855b04b26442be952df1003e139c83754f5fc50c38dcd51a8e050",
+      "native_roundtrip": true,
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_1107f5410001f8",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/chinese/units/tier4_trade_cart_chi",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_1107f5410001f8",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_1107f5410001f8",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "sdk_only_identity_semantic_proof": true,
+      "edits": [
+        {
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        },
+        {
+          "path": "/cordoba/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        },
+        {
+          "path": "/campaign/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        }
+      ]
+    },
+    {
+      "official_source": "attachments/attachment_lists/civilizations/crusader_cmp/units/tier1_militia_cru",
+      "official_sha256": "36b06f2d732982a4811f6b4011e97ae164d83429872a1d1ac2464612169d3dc2",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_cae8cc98ecc47c.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c",
+      "candidate_sha256": "e98dc564ca05e4431e5d147c826e53d42edf3a3dbfae1db9fbc845f4830337e5",
+      "native_roundtrip": true,
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_cae8cc98ecc47c",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/crusader_cmp/units/tier1_militia_cru",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_cae8cc98ecc47c",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "sdk_only_identity_semantic_proof": true,
+      "edits": [
+        {
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        },
+        {
+          "path": "/xp3/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "villagerMale"
+        }
+      ]
+    },
+    {
+      "official_source": "attachments/attachment_lists/civilizations/mongol/units/tier4_cavalry_khan_mon",
+      "official_sha256": "13237fb7f24e6f22336c1559ff8648ade337acd6638570b1afe25261ad5c3749",
+      "private_member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_8384bc05b05622.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8384bc05b05622",
+      "candidate_sha256": "da5313e9094585add41e4b4f6b7efee602d093047858f8475c047fe9ec45b67b",
+      "native_roundtrip": true,
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_8384bc05b05622",
+          "family": "attachments/attachment_lists",
+          "source": "attachments/attachment_lists/civilizations/mongol/units/tier4_cavalry_khan_mon",
+          "file": "attachments/attachment_lists/garrison/korea/kr020_voice_8384bc05b05622",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8384bc05b05622",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "sdk_only_identity_semantic_proof": true,
+      "edits": [
+        {
+          "path": "/default/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "khanFemale"
+        },
+        {
+          "path": "/xp3/attachment_lists/attachment_lists/attachment_list/attachment_speaker_code",
+          "operation": "clear_speaker",
+          "before": "khanFemale"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/byzantine/units/unit_trebuchet_4_cw_byz",
+      "official_sha256": "6d7c7446190547205da28f48b339a4e25943db7b3b83d968adbb4d04ec2a296b",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_f4476c3263ab05.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f4476c3263ab05",
+      "candidate_sha256": "f6b2df27ab21a69715597335e0756568badd30a9417f01e64ed3227519ef0dfa",
+      "native_roundtrip": true,
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_f4476c3263ab05",
+          "family": "ebps",
+          "source": "ebps/races/byzantine/units/unit_trebuchet_4_cw_byz",
+          "file": "ebps/garrison/korea/kr020_voice_f4476c3263ab05",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f4476c3263ab05",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "sdk_only_identity_semantic_proof": true,
+      "edits": [
+        {
+          "path": "/default/speech_ext",
+          "operation": "remove_speech"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/rus/units/unit_ram_3_rus",
+      "official_sha256": "8dde5e464431cf1f79f79c95018795efb6881177b9e45e69409814f6d7e5c68b",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_0922badd53991f.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0922badd53991f",
+      "candidate_sha256": "6be6620e5134f8313b3fe9cb14fe7776f775fbb6be00202b9d923efa5cb2592d",
+      "native_roundtrip": true,
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_0922badd53991f",
+          "family": "ebps",
+          "source": "ebps/races/rus/units/unit_ram_3_rus",
+          "file": "ebps/garrison/korea/kr020_voice_0922badd53991f",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0922badd53991f",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "sdk_only_identity_semantic_proof": true,
+      "edits": [
+        {
+          "path": "/default/speech_ext",
+          "operation": "remove_speech"
+        },
+        {
+          "path": "/campaign/speech_ext",
+          "operation": "remove_speech"
+        }
+      ]
+    },
+    {
+      "official_source": "ebps/races/rus/units/unit_workshop_ram_3_rus",
+      "official_sha256": "69c53efb4b8504c7c1a653ef262e0158264533f370398d4a9c4c53037c2430f1",
+      "private_member": "attrib/ebps/garrison/korea/kr020_voice_af325b9bd384d3.rgd",
+      "private_reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af325b9bd384d3",
+      "candidate_sha256": "74a7001583e77e5903e7f9a65abc01e91a8ee305c46fd14cfd31303e5ed9fd0c",
+      "native_roundtrip": true,
+      "sdk_allocation": [
+        {
+          "name": "kr020_voice_af325b9bd384d3",
+          "family": "ebps",
+          "source": "ebps/races/rus/units/unit_workshop_ram_3_rus",
+          "file": "ebps/garrison/korea/kr020_voice_af325b9bd384d3",
+          "reference": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af325b9bd384d3",
+          "rewired": [],
+          "changes": []
+        }
+      ],
+      "sdk_only_identity_semantic_proof": true,
+      "edits": [
+        {
+          "path": "/default/speech_ext",
+          "operation": "remove_speech"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "category": "attachments/attachment_lists",
+      "original": "tier2_trade_cart_chi",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_98973629ab0ea2"
+    },
+    {
+      "category": "attachments/attachment_lists",
+      "original": "tier3_trade_cart_chi",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2c1bfd829d6c12"
+    },
+    {
+      "category": "attachments/attachment_lists",
+      "original": "tier4_trade_cart_chi",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_1107f5410001f8"
+    },
+    {
+      "category": "attachments/attachment_lists",
+      "original": "tier1_militia_cru",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c"
+    },
+    {
+      "category": "attachments/attachment_lists",
+      "original": "tier4_cavalry_khan_mon",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8384bc05b05622"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_trebuchet_4_cw_byz",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f4476c3263ab05"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_ram_3_rus",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0922badd53991f"
+    },
+    {
+      "category": "ebps",
+      "original": "unit_workshop_ram_3_rus",
+      "private": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af325b9bd384d3"
+    }
+  ],
+  "source_changed": false
+}

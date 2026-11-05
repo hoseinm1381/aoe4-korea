@@ -1,0 +1,92 @@
+{
+  "utc": "2026-11-02T15:52:25.119393+00:00",
+  "status": "0.2.2 owner-reported working; accepted extra-file cleanup and mandatory skill rule completed",
+  "zip_path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\release\\Koreans-Garrison-0.2.2.zip",
+  "zip_bytes": 145864393,
+  "zip_sha256": "6175fcef8fffb0b6a59c1e02f3b4524b42dc14b84d36de591b760c42936ca94e",
+  "archive_bytes": 318231768,
+  "archive_sha256": "c9db1bfd4532480359dab6aa13d835764d7cdff994619c17c24e96a0de24f163",
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "race_bundle_audio_key": "korea",
+  "current_contract": "Installed 0.1.13 guide and unmodified runtime helper; Berber treated as unverified",
+  "new_members": [
+    "audio/events.json",
+    "scar/garrison/garrison.scar"
+  ],
+  "changed_members": [
+    "scar/korea/lifecycle.scar",
+    "scar/korea/voices_020.scar"
+  ],
+  "unchanged_members": 10277,
+  "native_starting_sheep": 5,
+  "retained_audio": {
+    "dialogue": 7632,
+    "efforts": 827,
+    "profiles": 32,
+    "age_banks": 128,
+    "squad_routes": 50,
+    "changed_existing_audio_files": 0
+  },
+  "regressions": 46,
+  "native_validation_tables": 527,
+  "members_full_readback_crc_sha_zip": 10281,
+  "packaged_media_bytes": 298524603,
+  "native_and_master_manifest_sha256_unchanged": true,
+  "rollbacks": [
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\voices022-baseline\\275dd0ae0ab0\\Koreans-Garrison-0.2.1.zip",
+      "bytes": 145866303,
+      "sha256": "275dd0ae0ab008b19c3155560393bccaf018167186402e3bff4ddb6d282f2011"
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\voices021-baseline\\7aeab3dfd39c\\Koreans-Garrison-0.2.0.zip",
+      "bytes": 145863445,
+      "sha256": "7aeab3dfd39c06000b7c925726b273fbeb359c8442cb746be4b440ac273b631a"
+    },
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\voices020-baseline\\e48869987e4c\\Koreans-Garrison-0.1.6.zip",
+      "bytes": 107644580,
+      "sha256": "e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788"
+    }
+  ],
+  "helper_sha256": "d52f13f4f3e77dd23b6ad12b708b3a10399337398936c7f3c14b378e3d6d5966",
+  "isolated_backend_four_samples": "decoded/admitted with gain zero; not audible proof",
+  "audio_playback_resolved": true,
+  "native_freeze_cause_resolved": false,
+  "freeze_investigation": "No unique 35-second trigger; documented feature timers retained; brief 25-45 second phase logging and first-minute Lua replay pass. No correlated system/GPU diagnosis established.",
+  "remaining": [
+    "Per-family/age/context native listening and overlap matrix beyond the owner report",
+    "Freeze cause/reproduction status remains unconfirmed",
+    "Native five-sheep/model/research checks beyond the owner report",
+    "Historical/native-speaker review; save/load, AI, multiplayer and performance"
+  ],
+  "not_performed": [
+    "Game/client installation, mutation, restart or process attachment",
+    "Other-civilization source changes",
+    "Push/tag/publication",
+    "Broad E/F cleanup"
+  ],
+  "cleanup_logical_bytes": 2055641752,
+  "post_cleanup_verified": true,
+  "as_built_status": "0.2.2 documentation-compliant local diagnostic candidate built; shared client no-consumer failure and native freeze cause unresolved",
+  "owner_confirmation": {
+    "date_local": "2026-11-02",
+    "timezone": "Asia/Tehran",
+    "version": "0.2.2",
+    "owner_statement": "it worked",
+    "context": "Response to the 0.2.2 documented-helper/audio-settings repair and request for cleanup plus mandatory skill rule.",
+    "interpretation": "Owner reports the delivered 0.2.2 voice repair worked.",
+    "zip_sha256": "6175fcef8fffb0b6a59c1e02f3b4524b42dc14b84d36de591b760c42936ca94e",
+    "scope_limits": [
+      "Individual unit families/ages/contexts and overlap were not enumerated",
+      "No isolated proof of which package correction restored playback",
+      "Freeze cause and whether it was specifically retested were not stated",
+      "Historical pronunciation, save/load, AI, multiplayer and performance not established"
+    ],
+    "artifact": "Existing owner-tested ZIP retained unchanged; no rebuild, installation or push."
+  },
+  "earlier_client_failure": "Historical failed sessions retained; owner success supersedes the former blanket current audio blocker. Specific causation not isolated.",
+  "accepted_cleanup": "ACCEPTED_CLEANUP.json",
+  "extra_cleanup_net_logical_bytes": 694200312
+}

@@ -1,0 +1,15 @@
+{
+  "state": "local package verified; fresh client/native acceptance pending",
+  "completion": "COMPLETION.json",
+  "source": "Use existing standalone Korea source only. Ordinary rebuild: tools/release021.py verify then tools/build.py --replace-current.",
+  "remaining": [
+    "Fresh client import and successful launch",
+    "Audible select/move/attack/work voices, no original overlap and five actual starting sheep",
+    "Historical/native-speaker pronunciation review",
+    "Save/load, AI, multiplayer and measured performance"
+  ],
+  "preserve": "Current ZIP, exact 0.2.0/0.1.6 rollbacks, all indexed native/master inputs, original recordings/weights, compact evidence and failure logs.",
+  "no_extra_actions": "No further regeneration, push, installation or broad cleanup implied.",
+  "post_cleanup_verified": true,
+  "cleanup_logical_bytes": 2055557553
+}

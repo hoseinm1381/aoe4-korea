@@ -17,6 +17,7 @@ end
 function Korea_BP(category, name)
     local key = category .. ":" .. name
     if KoreaState.cache[key] == nil then
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("bp.cache_miss.before",key) end -- KOREA024_DIAGNOSTIC
         local full = KoreaCatalog[category] and KoreaCatalog[category][name] or name
         local getters = {ebps = BP_GetEntityBlueprint, sbps = BP_GetSquadBlueprint,
             upgrade = BP_GetUpgradeBlueprint, abilities = BP_GetAbilityBlueprint, weapon = BP_GetWeaponBlueprint}
@@ -59,15 +60,23 @@ function Korea_EventPlayer(context)
 end
 
 function Korea_PlayerModifier(player, application, property, usage, value, target, duration)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.create.before",property) end -- KOREA024_DIAGNOSTIC
     local modifier = Modifier_Create(application, property, usage, false, value, target)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.create.after",property) end -- KOREA024_DIAGNOSTIC
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.apply.before",property) end -- KOREA024_DIAGNOSTIC
     local handle = Modifier_ApplyToPlayer(modifier, player.id, duration or 0)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.apply.after",property) end -- KOREA024_DIAGNOSTIC
     if handle ~= nil and (duration or 0) == 0 then table.insert(KoreaState.modifiers, handle) end
     return handle
 end
 
 function Korea_EntityModifier(entity, property, usage, value, target, duration)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.create.before",property) end -- KOREA024_DIAGNOSTIC
     local modifier = Modifier_Create(MAT_Entity, property, usage, false, value, target)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.create.after",property) end -- KOREA024_DIAGNOSTIC
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.apply.before",property) end -- KOREA024_DIAGNOSTIC
     local handle = Modifier_ApplyToEntity(modifier, entity, duration or 0)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.apply.after",property) end -- KOREA024_DIAGNOSTIC
     if handle ~= nil and (duration or 0) == 0 then table.insert(KoreaState.modifiers, handle) end
     return handle
 end
@@ -75,7 +84,9 @@ end
 function Korea_RemoveModifier(handle)
     if handle ~= nil and not KoreaState.removed[handle] then
         KoreaState.removed[handle] = true
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.remove.before",nil) end -- KOREA024_DIAGNOSTIC
         Modifier_Remove(handle)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("modifier.remove.after",nil) end -- KOREA024_DIAGNOSTIC
     end
 end
 
@@ -87,8 +98,11 @@ end
 
 function Korea_Entities(player, callback)
     local group = EGroup_CreateUnique()
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("entities.snapshot.before",nil) end -- KOREA024_DIAGNOSTIC
     Player_GetEntitiesEGroup(player.id, group)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("entities.snapshot.after",nil) end -- KOREA024_DIAGNOSTIC
     for i = 1, EGroup_Count(group) do
+        if i%32==1 and KoreaDiag024_Mark then KoreaDiag024_Mark("entities.chunk",i) end -- KOREA024_DIAGNOSTIC
         local entity = EGroup_GetEntityAt(group, i)
         if Korea_Alive(entity) then callback(entity) end
     end
@@ -99,7 +113,9 @@ function Korea_Squads(player, callback)
     -- Player_GetSquads returns an engine-owned observer. Never filter/destroy it.
     local group = Player_GetSquads(player.id)
     for i = 1, SGroup_CountSpawned(group) do
+        if i%32==1 and KoreaDiag024_Mark then KoreaDiag024_Mark("squads.chunk",i) end -- KOREA024_DIAGNOSTIC
         local squad = SGroup_GetSpawnedSquadAt(group, i)
+        if i%32==1 and KoreaDiag024_Mark then KoreaDiag024_Mark("squads.first_entity",i) end -- KOREA024_DIAGNOSTIC
         local entity = Squad_GetFirstEntity(squad)
         if Korea_Alive(entity) then callback(squad, entity) end
     end

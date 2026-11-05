@@ -1,0 +1,901 @@
+{
+  "clips": 7632,
+  "headroom_fixes": [
+    {
+      "id": "ARCHER_A3_acknowledge_L05_T1",
+      "original_member": "audio/korea_020/3ef36c395b7bc6f6e14c56c6b73d0e39ec224465187c995a57d962b0e4a565a2.ogg",
+      "original_peak": 0.9871678352355957,
+      "final_member": "audio/korea_020/3d3e3a48dffbc61d3ccc3d188fc13e343b59cf106126b343079cd3c75c805fff.ogg",
+      "final_peak": 0.8751873970031738,
+      "pre_codec_additional_gain": 0.8914390933229513,
+      "lossless_master_sha256": "9f042c7c3792a91d589e99aa7b86a4359904d652f7cfe209c3bb03b72af934be",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "ARCHER_A2_move_L02_T2",
+      "original_member": "audio/korea_020/67b8c6157a839bd68eca627f105477135b10433abca6c856959ac49ad0dc7373.ogg",
+      "original_peak": 0.9974814653396606,
+      "final_member": "audio/korea_020/53372aa75b9ae05df57d5976e37230da0c1278d7728966d730f7efe70e40c766.ogg",
+      "final_peak": 0.8801300525665283,
+      "pre_codec_additional_gain": 0.8822219064495037,
+      "lossless_master_sha256": "0e719a97c339a7cf423943a825b72553fa82fd05f68283070d24dbc3cdcd504b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "ARCHER_A3_move_L04_T1",
+      "original_member": "audio/korea_020/cd2645e36f93af978ad0fdbd819f38df9e4f682b84faf12b10e76e1b5667f131.ogg",
+      "original_peak": 0.9864982962608337,
+      "final_member": "audio/korea_020/192e554dba16171209618bd2912a3f03cc16fddb100d4bc81e2f76d745001b3c.ogg",
+      "final_peak": 0.8656827807426453,
+      "pre_codec_additional_gain": 0.8920441153679649,
+      "lossless_master_sha256": "34f2d7ea264c47186de59e7ff6360cc5c8df794225f8f49dbef48e7132904dd1",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "BOMBARD_A1_shoot_L03_T1",
+      "original_member": "audio/korea_020/587626390a0337e88f71509648039d480381725f63393843ff5755d3585d0a84.ogg",
+      "original_peak": 0.9990444779396057,
+      "final_member": "audio/korea_020/30ca8f711984c941b339775eed8281ca252055c4974a9e93a28fa565e044947f.ogg",
+      "final_peak": 0.8808407187461853,
+      "pre_codec_additional_gain": 0.8808416636413237,
+      "lossless_master_sha256": "b57ebafeb7516f0e81166a20b5db200351e51c7bac74106f2c03e61944cafcf0",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "BOMBARD_A2_select_L06_T2",
+      "original_member": "audio/korea_020/b08dcce9b17e0de7648f3805eadb8c84999934b2c67bd26f0189785a0fcc3d09.ogg",
+      "original_peak": 0.9811256527900696,
+      "final_member": "audio/korea_020/45ee3367f97e85e933fbb7ef2ef94eb4ed8baeddefac5e22066cf67493482673.ogg",
+      "final_peak": 0.8791563510894775,
+      "pre_codec_additional_gain": 0.8969289483946382,
+      "lossless_master_sha256": "73f08a73c6b002047b8687a8f63cdc85cd645f27e88bbaf4e3e09c5139409e7a",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "BOMBARD_A3_move_L02_T1",
+      "original_member": "audio/korea_020/f4584998e86087aa5e43c9c19a1e04c7742e37751f22a215b200e045b535cb54.ogg",
+      "original_peak": 0.9848469495773315,
+      "final_member": "audio/korea_020/485d9bcf82fe23f8f17b81a6742ab9210b5f3a4c90edeccf31db8706d11e054d.ogg",
+      "final_peak": 0.8444854021072388,
+      "pre_codec_additional_gain": 0.8935398544694393,
+      "lossless_master_sha256": "7ace18f47fb9e6d87ac61c46827c3641c2ee63d6d6bba2eb5a8607b3960b2700",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A3_shoot_L02_T1",
+      "original_member": "audio/korea_020/a8c5da02f2267a910d15f87efb741c72cdf95b45f82b6ae3775e02877b1a919a.ogg",
+      "original_peak": 1.0055421590805054,
+      "final_member": "audio/korea_020/55347a194cb8d70a08b446e646f6fb768f643dc2e7ea2171d0188a89a1a13e69.ogg",
+      "final_peak": 0.8904241919517517,
+      "pre_codec_additional_gain": 0.8751497806961127,
+      "lossless_master_sha256": "440c48f05eaf408e94fa5c930265f97e5ab3260c879e0ddf0e7c4fe47182bf70",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A4_select_L01_T1",
+      "original_member": "audio/korea_020/528ffaeef41c5ae268afa4399616a16d89fe84be41bd5d60880814d7143441e2.ogg",
+      "original_peak": 1.0060138702392578,
+      "final_member": "audio/korea_020/96b6b455ae00f18c1e0736f8360d0e1a49871f7330e827b41f98468029d6d779.ogg",
+      "final_peak": 0.8733212947845459,
+      "pre_codec_additional_gain": 0.8747394305713815,
+      "lossless_master_sha256": "b872734988d6911d0e312650ffc2fcdc7de1fb55bc8b24d821c1e2d86d5ac06d",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A2_move_L02_T2",
+      "original_member": "audio/korea_020/39c0329b217623284905707c8020fcee967a5fd7174a5799994dc8313be6ec63.ogg",
+      "original_peak": 0.994087278842926,
+      "final_member": "audio/korea_020/a300c8715b84196cb77306aa3ab60995777dbc2e1df3fd51f1175fc8978e79cb.ogg",
+      "final_peak": 0.8607677221298218,
+      "pre_codec_additional_gain": 0.8852341426441764,
+      "lossless_master_sha256": "93d5f7dfe06e4949fc9db0a747b92355ed64b102cc2544e9bfcf82698220912b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A2_shoot_L04_T2",
+      "original_member": "audio/korea_020/1c61f51b3f8a67751b5f4aec7bd8d98f5f8816998db440a275de97d571e4c49e.ogg",
+      "original_peak": 0.9827302098274231,
+      "final_member": "audio/korea_020/50ab5efa40b4c764f9a0d736f9832c30c1c8d0d4436d0fbde3a4b5a7c52eee23.ogg",
+      "final_peak": 0.8786209225654602,
+      "pre_codec_additional_gain": 0.8954644837412056,
+      "lossless_master_sha256": "fc72635789f256c73a252796ee479ec94f05ceeb92008707debed408d6863330",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A3_acknowledge_L06_T1",
+      "original_member": "audio/korea_020/2529a092b8a32c34b718aad286ff9615fbd453624e6e5cc1506837ee0690f832.ogg",
+      "original_peak": 0.9905546307563782,
+      "final_member": "audio/korea_020/fe0f2c7da54a45c68bd41cda2aeaf361f5a8679b03fce7608ae906a37e44be0d.ogg",
+      "final_peak": 0.872519850730896,
+      "pre_codec_additional_gain": 0.8883911827538884,
+      "lossless_master_sha256": "ac70e28018c02d05f5cb5935e44077b4e3e7d76ca0ef259b5b16fcc8779e6e84",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A3_shoot_L03_T1",
+      "original_member": "audio/korea_020/07fb502347ee252de4c43ff74c91cbe4dc9e6025b7ced53bf952ffab965f8316.ogg",
+      "original_peak": 1.0244336128234863,
+      "final_member": "audio/korea_020/5a426df32728926c3031d2123fb1faec55f307d0ca6346fa66c6df14f24b77c5.ogg",
+      "final_peak": 0.8063705563545227,
+      "pre_codec_additional_gain": 0.85901125166578,
+      "lossless_master_sha256": "136668d61655431ae7aaf52c2f9b7938791c26933743464eb3bb35576aa8e823",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A2_move_L04_T1",
+      "original_member": "audio/korea_020/f38797dcf445cb33b46690663693fce0b76790588dc9b7926601bbe3610d1319.ogg",
+      "original_peak": 0.9938727617263794,
+      "final_member": "audio/korea_020/f161e4d07a8fb0a5cbe99b307900f77f5595399fb56be9b4f07ffbb0690931d9.ogg",
+      "final_peak": 0.881211519241333,
+      "pre_codec_additional_gain": 0.8854252112427552,
+      "lossless_master_sha256": "d8db6b0140a106c4962771e4d23967f42b3ee49a458d1ee7022b8df1ffb63729",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A2_select_L01_T2",
+      "original_member": "audio/korea_020/63ef51dbcc529a257ad99160a9744f49d0f3cd1d0c1a2174af4d8ff89fb77c72.ogg",
+      "original_peak": 0.9940996170043945,
+      "final_member": "audio/korea_020/d8ce151c3db3484a3d1d25ca9f3addf4d10d89bba1560c182bbe607360baf776.ogg",
+      "final_peak": 0.8764281272888184,
+      "pre_codec_additional_gain": 0.8852231556549427,
+      "lossless_master_sha256": "f17c685df563118608acbc6a9ad9d706912d481c13fec69d455c04e347495ccd",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A4_move_L02_T1",
+      "original_member": "audio/korea_020/95bb830e4c665d1131ddcd1b8113996b7543c501c974fec4d18e7130f09b5189.ogg",
+      "original_peak": 1.0336447954177856,
+      "final_member": "audio/korea_020/0b9ea50667dd31644d8a91fe5bc7dd0e6a80300e894e8b5894579736ec2648d0.ogg",
+      "final_peak": 0.8328231573104858,
+      "pre_codec_additional_gain": 0.8513562917368684,
+      "lossless_master_sha256": "cef35e4c34059516fd25c868ae17300ea899740a5cc297fb86e7e3df78254102",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A4_move_L05_T2",
+      "original_member": "audio/korea_020/f830b8b0dbba81837fc2f3a9376eaff5640ec42e8d1d28118ecfc6f2f4a08749.ogg",
+      "original_peak": 1.014180064201355,
+      "final_member": "audio/korea_020/14d5265d9e2bf7864cf3ba6777ae08bd23ed78e0da2b34d8c77adf107a5a3fb7.ogg",
+      "final_peak": 0.8368817567825317,
+      "pre_codec_additional_gain": 0.867696014802836,
+      "lossless_master_sha256": "edcaca44bcc78771ed7cf00339f429023ee53f8091561f4d95b1be3176d2e561",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A4_move_L06_T1",
+      "original_member": "audio/korea_020/6463cdbffd7b1f5cd21a20c0b7562c1a49e574a426b3281f15ee4a851288eaf2.ogg",
+      "original_peak": 0.997412919998169,
+      "final_member": "audio/korea_020/28b41f094120e6ae7441074475ee7d1c104714612437d7d575c9d28ec1b09cd6.ogg",
+      "final_peak": 0.8789389133453369,
+      "pre_codec_additional_gain": 0.8822825355035661,
+      "lossless_master_sha256": "7914aa4ef14821ebe27083c7acfdc45cb97d6f846c541073f5c9756017e34c8b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "CROSSBOW_A4_select_L04_T3",
+      "original_member": "audio/korea_020/1b02ca69cd8ee64ac89a31a557ec175ffb9573e172d5e3494a0940fe3ddc068b.ogg",
+      "original_peak": 0.9980008602142334,
+      "final_member": "audio/korea_020/041957a207ff10b04e6cb3ebb3a388fe3be41fa0718ef768231fa9994dc5fad1.ogg",
+      "final_peak": 0.8149426579475403,
+      "pre_codec_additional_gain": 0.8817627670291757,
+      "lossless_master_sha256": "5a097e053d95584fc13653f925bcc95bcce7701a5ad107963316185729bd7660",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "HWACHA_A4_move_L03_T1",
+      "original_member": "audio/korea_020/00a60d348be391daf22384319c25a570d7240e2f642133ba74918cff53567689.ogg",
+      "original_peak": 0.992954432964325,
+      "final_member": "audio/korea_020/4c252788102c4f28d6016bea81b6ca73c5409c03dcc745a3e9c5bf2718ebdfc9.ogg",
+      "final_peak": 0.8841778635978699,
+      "pre_codec_additional_gain": 0.8862440921612934,
+      "lossless_master_sha256": "c9414ca744541d36a9a787c9559caff5919ab3c4eb29e2c0e3f9f0e1c2698ce0",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "HWARANG_FOOT_A4_acknowledge_L02_T1",
+      "original_member": "audio/korea_020/36cedddfe2d821fea813beb9da5fbb2f3ac99f65e9fe3f9c0e150d58e55001b0.ogg",
+      "original_peak": 0.9820741415023804,
+      "final_member": "audio/korea_020/97be0bda081bd03af94f0d44cd8de3e65336f88c806b7e3014d10d837d366e80.ogg",
+      "final_peak": 0.8444514274597168,
+      "pre_codec_additional_gain": 0.8960626930404388,
+      "lossless_master_sha256": "551d8a41d2eda7f3320c8bf17963c0b509d3106694f44ed0b64a4bbec4290a11",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "HWARANG_FOOT_A4_select_L05_T3",
+      "original_member": "audio/korea_020/f961d1e4b1a821a588cebfbfa10a9b4225225550b2aac4d00cdc894946b8a1e2.ogg",
+      "original_peak": 0.9868384003639221,
+      "final_member": "audio/korea_020/adf46fa9e98b434c2ea7594feb4443d935b29fb8021b634bba648b34dfed7866.ogg",
+      "final_peak": 0.8306764364242554,
+      "pre_codec_additional_gain": 0.8917366811784759,
+      "lossless_master_sha256": "82eefeebbf93ccbb14aa35ed66c87976a46382b6694fd3a728b40509619d9f17",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MILITIA_A3_move_L05_T1",
+      "original_member": "audio/korea_020/bc8758be94b7d934a1d9e1814eb99b2b75e2386e9b1e86e2ef51892fb0b420be.ogg",
+      "original_peak": 0.9866636991500854,
+      "final_member": "audio/korea_020/499cc3b6f6ad72dc5862157eb42e0bfbc4c26057ab76835550f282355ea325c0.ogg",
+      "final_peak": 0.8767162561416626,
+      "pre_codec_additional_gain": 0.8918945743702076,
+      "lossless_master_sha256": "ddf6d80c5d8972be1a5933adf85e39545f54decadb900684c48675e20a138f28",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MILITIA_A4_select_L05_T3",
+      "original_member": "audio/korea_020/10dae9ad8c08d9a5ded8d6820ffdc0a4c4e8154452d6c30d9cb85b4a4092773f.ogg",
+      "original_peak": 0.984518826007843,
+      "final_member": "audio/korea_020/f8217433fb5a131071c75eaeb2d053330fcf76c47b83351fd4c74fe40f39da5f.ogg",
+      "final_peak": 0.8821020722389221,
+      "pre_codec_additional_gain": 0.8938376562775749,
+      "lossless_master_sha256": "0b96ef98460519dacfddc09869a79788bceb0fb6b6f22133fcccee64873f41b0",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MONK_A1_select_L04_T1",
+      "original_member": "audio/korea_020/df6ce7e347e677ca2b042886e3c1bbbca8e6b04ca8efcb7b4a0ea74a96a682ec.ogg",
+      "original_peak": 0.9849725365638733,
+      "final_member": "audio/korea_020/d609306d5b1202bc473b20bb92bd4303b65fa9d9f8538ee017a7cd5c00d43620.ogg",
+      "final_peak": 0.8648456335067749,
+      "pre_codec_additional_gain": 0.8934259254272456,
+      "lossless_master_sha256": "ca8c64ca0e96f78ecfce0c1492a803186e017fcc70937a7468204881dee579e3",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MONK_A2_under_attack_L05_T1",
+      "original_member": "audio/korea_020/a736a1f1263b1c69023feb128ff497e7ab5686ffebf37a4391bb2cb102401461.ogg",
+      "original_peak": 0.9811010360717773,
+      "final_member": "audio/korea_020/7c2febed87701120290ad709973d832e6d889dad931787702a2afe382f947856.ogg",
+      "final_peak": 0.859072208404541,
+      "pre_codec_additional_gain": 0.8969514531586115,
+      "lossless_master_sha256": "50a69dff2e4d4b42b162974259348ba4a01e6e9750e92e35fdcf94846f0a5659",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MONK_A4_select_L05_T1",
+      "original_member": "audio/korea_020/fa584e58fa98ab050eb73a6a13de169b99987492ca2d0de6834b64ca00bbf641.ogg",
+      "original_peak": 0.9805405735969543,
+      "final_member": "audio/korea_020/85e96a335da35a92b963f6e2fab75528c7f744331c18959b67df5e159fdc77f7.ogg",
+      "final_peak": 0.8586025238037109,
+      "pre_codec_additional_gain": 0.897464137329741,
+      "lossless_master_sha256": "db96ac48b78daf2ffc8ce35aeef33b3de3c6319512d723c30158be94e8cdf396",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MONK_A2_move_L04_T2",
+      "original_member": "audio/korea_020/c707f95f4af9a35a7c469b59e3226aedaf3af337cd2968fd59e820b0a0fd4f70.ogg",
+      "original_peak": 1.0158506631851196,
+      "final_member": "audio/korea_020/b7bd1bde29ff710e8742210b1451527a5ca1bf5031e3c1f753fc4cf627bf3d31.ogg",
+      "final_peak": 0.9082122445106506,
+      "pre_codec_additional_gain": 0.8662690608881717,
+      "lossless_master_sha256": "89695bcf29495db9dacefa63182799660cb40c24ff97ca49ad2ac16249969e0b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MONK_A3_attack_L06_T1",
+      "original_member": "audio/korea_020/f444cb2f03c32711fc3a898cad22e49c7761ea7c910bb84753dbe8547bb1a302.ogg",
+      "original_peak": 0.9803001284599304,
+      "final_member": "audio/korea_020/5a242c85a8fb1ddaa5590004dd3d374b83c34a1c963efb285b76622801c90778.ogg",
+      "final_peak": 0.8738787770271301,
+      "pre_codec_additional_gain": 0.8976842646980943,
+      "lossless_master_sha256": "16d28590b58357695f115b558c73a5fab9bb960769453a15fb817383be29f9ab",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MONK_A3_select_L05_T3",
+      "original_member": "audio/korea_020/9128a47eee3d792ba9629224905364a1e4d03e89e74ebec4dd554d8032ecc370.ogg",
+      "original_peak": 1.0104838609695435,
+      "final_member": "audio/korea_020/bd75eabf40872447984ccf1e578fa249cd80b9d73a73439e9b2c0ec9e6678fb5.ogg",
+      "final_peak": 0.8416992425918579,
+      "pre_codec_additional_gain": 0.8708699208274873,
+      "lossless_master_sha256": "7f5b903f925a3acbf6bb298e77e6faa2c539c186f4235a6c5d42468d2e800639",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MONK_A4_acknowledge_L06_T1",
+      "original_member": "audio/korea_020/6b18df7bb0ee3ac707dec3d814264e9deb46a56ceaaf7cb52aa9742806e490a5.ogg",
+      "original_peak": 0.9842401742935181,
+      "final_member": "audio/korea_020/08d9759172f303564d1fc93f17f1ba500ae03aded49e4772cfd6f9b7465a00fe.ogg",
+      "final_peak": 0.8307161331176758,
+      "pre_codec_additional_gain": 0.8940907138155165,
+      "lossless_master_sha256": "d42f9baf27c66c00107463d96d509b19eafeddd714292ef369e94240fed21b5b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "MONK_A4_under_attack_L05_T1",
+      "original_member": "audio/korea_020/1a0b63f5ef625aa0309aee6353a0a89a8df9379c6073a81a74882c341c460b22.ogg",
+      "original_peak": 0.9995654821395874,
+      "final_member": "audio/korea_020/c9508a176f25e837f2b38e86d0c6d583a858d64a11863a5facccf0ee8e1132af.ogg",
+      "final_peak": 0.8677629232406616,
+      "pre_codec_additional_gain": 0.8803825419384678,
+      "lossless_master_sha256": "5fd0385dc272916ae18eb358b3a58f08b7813fcb496a78a9a3c2ac32a877df62",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_SHIP_A1_select_L04_T3",
+      "original_member": "audio/korea_020/954f857b7872af749e15ce83cd5ffb8cca49651517ea806193d937df6614037a.ogg",
+      "original_peak": 0.993995726108551,
+      "final_member": "audio/korea_020/ef3442b794040f97d08f53ea4f24fa9e8052fef3b657c074fa46188f7e9e7bad.ogg",
+      "final_peak": 0.8793442249298096,
+      "pre_codec_additional_gain": 0.8853156778099648,
+      "lossless_master_sha256": "0500c2a6266ff7de6892419596a334b5fcffb4ca25ef22abc8e89adabea2429e",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A1_select_L01_T1",
+      "original_member": "audio/korea_020/821bca272d44eeb9c5fb3e99c5c673320f9a1e1b002f60058dbff56a23b3c4b3.ogg",
+      "original_peak": 0.9895304441452026,
+      "final_member": "audio/korea_020/1829b9c40132a8976c46f4453be1d80c3450946bc96f966763b8f06657c3d6c3.ogg",
+      "final_peak": 0.8023020029067993,
+      "pre_codec_additional_gain": 0.8893106879194409,
+      "lossless_master_sha256": "a23112cd29305fb543cc1113ec1876fa4fde2662ea2967a78402a02f8b93df88",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A3_sail_L01_T2",
+      "original_member": "audio/korea_020/07e7eec4cf866e93bf47b71dd915870192daa77510ef38fd68a2d16b926e06ec.ogg",
+      "original_peak": 0.9827496409416199,
+      "final_member": "audio/korea_020/e07a2173b971e2b768939e04fb6130e2a00b48c3c16dc41186652fe35e215d5b.ogg",
+      "final_peak": 0.8798116445541382,
+      "pre_codec_additional_gain": 0.8954467784458608,
+      "lossless_master_sha256": "dfb9e412826b2b7918a8ce9a4a74c5c0c26876257c349808947cb0c268eea820",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A3_select_L01_T1",
+      "original_member": "audio/korea_020/12613345a8049b86f7a51eb0206ac27b88d05bdd8d3d7fb2feb7729bef49d669.ogg",
+      "original_peak": 0.9875459671020508,
+      "final_member": "audio/korea_020/a5bf7e20c80ad8cdd1b1cfec3e5fd1ce97da6a277bb8fcec5805762640cd35bc.ogg",
+      "final_peak": 0.9142481088638306,
+      "pre_codec_additional_gain": 0.8910977608286489,
+      "lossless_master_sha256": "ae68e41d63eb91af1bc0b35ef9da1451d9e5478bd1dcc910350797524c4fcc4b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A2_under_attack_L05_T1",
+      "original_member": "audio/korea_020/14e33bed09c869acdf20a562fa1466ad147b0d35ade3b519e0b7ec3d943b1cd9.ogg",
+      "original_peak": 0.9954164028167725,
+      "final_member": "audio/korea_020/c16e6e32aaf8321202c31b9e6d53eb763db9bc174ee9de8b189d74ad5514b25f.ogg",
+      "final_peak": 0.8564323782920837,
+      "pre_codec_additional_gain": 0.8840521388936593,
+      "lossless_master_sha256": "195e312e2320e31e2486ee1ee9dac76936c1f6ce9ac35afbc0689e43327e3a87",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A3_select_L04_T3",
+      "original_member": "audio/korea_020/ad084755f8761e4d7747e9ffc96d0601fbbb3391bd4bc25877ab395ea06ba0ae.ogg",
+      "original_peak": 0.9942291975021362,
+      "final_member": "audio/korea_020/dd2ac3a8f7fb3d91794c788da46766282c2f770136018d5bc79e563221377221.ogg",
+      "final_peak": 0.8909612894058228,
+      "pre_codec_additional_gain": 0.8851077822004008,
+      "lossless_master_sha256": "72283997d428e026060782c12b15b1d1d42a441a36dce41c35b87c6b887f461c",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A3_shoot_L03_T2",
+      "original_member": "audio/korea_020/0c6f8c13b0a0fb538b8335bc0ab7be9dbae4f5a73be13771ea89a6752900cd99.ogg",
+      "original_peak": 0.9804966449737549,
+      "final_member": "audio/korea_020/287fd200649c4f0dd76c692433ba5e8ed78e43047cd52b1c3a7be30bb560c1f7.ogg",
+      "final_peak": 0.8644880652427673,
+      "pre_codec_additional_gain": 0.8975043458955998,
+      "lossless_master_sha256": "4c98880e7418313af946bc3612159475f33b57baf1be969b9f26cb66df372a8b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A4_acknowledge_L05_T1",
+      "original_member": "audio/korea_020/0d49a111a506342c2d5b6e9422af8c0f36800be543ac4850fe1ae3272a3f4272.ogg",
+      "original_peak": 0.9933332800865173,
+      "final_member": "audio/korea_020/77184ec2c95db32fd22cf64cb2a7c6a6b43314a19a8e9d34e1c3009523b980ff.ogg",
+      "final_peak": 0.8810709118843079,
+      "pre_codec_additional_gain": 0.8859060877567233,
+      "lossless_master_sha256": "d5366b14103c690f47ffc4cc61216ceca7915d943be4ee3f3ce627f7246728ee",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A2_shoot_L06_T1",
+      "original_member": "audio/korea_020/c182df24936b7107def3a6602ac92de0a767c83c3013aaac70245f18836a1f49.ogg",
+      "original_peak": 0.9880313873291016,
+      "final_member": "audio/korea_020/e050267411a767d520d7b37f474800daf9b7420c4cb3334053a97f42c13740b3.ogg",
+      "final_peak": 0.8840640187263489,
+      "pre_codec_additional_gain": 0.8906599641321743,
+      "lossless_master_sha256": "97ca203bc59003e3761dcbf0e39a54cb45d7456f60776772ed5b0f7668fcded4",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A3_sail_L02_T1",
+      "original_member": "audio/korea_020/65fa18d6319fe3119b36b90bb7f721534d803ae9ffd00f6c340f4225171c409e.ogg",
+      "original_peak": 0.9908558130264282,
+      "final_member": "audio/korea_020/193febd18eaa291f13cf5657becc649f23940bac477a0d65d31a1b32959442ce.ogg",
+      "final_peak": 0.8785419464111328,
+      "pre_codec_additional_gain": 0.8881211458124922,
+      "lossless_master_sha256": "f7707b0b78ba238d5918a679abdfbf3d445b13f6dda42992afe86703dcacb47b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A3_sail_L06_T1",
+      "original_member": "audio/korea_020/d9aa3c9ef2ec1956e6399beee170c1379789706e70a32f23830211fce97ddd1e.ogg",
+      "original_peak": 0.9812532067298889,
+      "final_member": "audio/korea_020/81ca3b82ec4bf30bba334058dfc81478978c4fd2a6340d23c151062baca1857f.ogg",
+      "final_peak": 0.8833849430084229,
+      "pre_codec_additional_gain": 0.8968123558369567,
+      "lossless_master_sha256": "c098e0397d8a101937a2d1d129f51a523c6b210a573526838f8e3455792f38b5",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A3_shoot_L04_T1",
+      "original_member": "audio/korea_020/38969f357f6800d78477c789b8229870c51ef187939ce0f277457424b03b9e07.ogg",
+      "original_peak": 0.9890631437301636,
+      "final_member": "audio/korea_020/fb5218f4886d9b275cd9b9150c320d3c96fd017af7e0cc311c4b24ef9be0f69f.ogg",
+      "final_peak": 0.8616877794265747,
+      "pre_codec_additional_gain": 0.8897308585184545,
+      "lossless_master_sha256": "7de4c6bdfaa052a04b290f57eda04cd8f8dab1d5eac47eccabe939439f4d5de7",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A3_select_L06_T3",
+      "original_member": "audio/korea_020/36ee3392e56d6cbd8caac03966bc6093c9e0031ec5d088c3f6c57fa239db6b23.ogg",
+      "original_peak": 0.982560396194458,
+      "final_member": "audio/korea_020/9062eabe4e6fbae01948a1a79dd3368cda6a24b45aa48eb63e8ccbfe8bcaf628.ogg",
+      "final_peak": 0.9244616031646729,
+      "pre_codec_additional_gain": 0.895619244789752,
+      "lossless_master_sha256": "9b29d3f20733f9691d2280cec509d22cbff78d042ec81049ea3832757715fc14",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_COMBAT_WARSHIP_A4_select_L06_T3",
+      "original_member": "audio/korea_020/c4a7041b892ac33d038c1d4ad876327e8a6d83601fc6a04017a08d926188fd03.ogg",
+      "original_peak": 1.0023270845413208,
+      "final_member": "audio/korea_020/55fd9c88378d5461537ab6fcfd2e45397b832fa6279cf6b720702f39f64aa281.ogg",
+      "final_peak": 0.8425637483596802,
+      "pre_codec_additional_gain": 0.8779569200234678,
+      "lossless_master_sha256": "5261d501433282db6367fe9478631440390f57caeee4b64b5d3ca3206eeb109b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A1_select_L04_T1",
+      "original_member": "audio/korea_020/b6027f380203ca12b60532404d3131d6d30d992a67ff233e2c3f179b82127f2c.ogg",
+      "original_peak": 1.0081801414489746,
+      "final_member": "audio/korea_020/b23b4599846ed6c6240f3d2614d2b26cd67908b968d38bb1d3db3199bda2b290.ogg",
+      "final_peak": 0.8807870149612427,
+      "pre_codec_additional_gain": 0.8728598826944243,
+      "lossless_master_sha256": "c174d1708f7dfcecf67fa51cd6543e3b71d063c6b3c2c96363254015b736c513",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A2_acknowledge_L04_T1",
+      "original_member": "audio/korea_020/ff0cb24de782578720ea40a4305a00dcd5dc7e97eb811cef36c87f9c23aec1dd.ogg",
+      "original_peak": 1.0026259422302246,
+      "final_member": "audio/korea_020/839d229d351e3dedb91854d8388df701b4b3abe782739cbfce44da1676196804.ogg",
+      "final_peak": 0.8592180609703064,
+      "pre_codec_additional_gain": 0.8776952230485304,
+      "lossless_master_sha256": "cc6a25bdf76272ec978fba6e49cb0e6b5b099745bbdf3d553d69e62f7ede324e",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A2_select_L05_T2",
+      "original_member": "audio/korea_020/fb414a31818e7911a2a229956dfd3d7f28e929eeb06d320ac73ea1edc74b02fe.ogg",
+      "original_peak": 0.9840619564056396,
+      "final_member": "audio/korea_020/f19f3f39486c568951d0c6c97eaf77e1929eaf2f3b6f4077a598c5c47534b1f3.ogg",
+      "final_peak": 0.8891907930374146,
+      "pre_codec_additional_gain": 0.8942526375211843,
+      "lossless_master_sha256": "3c2b2b74efe311efa676808e0ee790e42dafb09e2ac81578b068934b92764ddc",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A2_select_L04_T1",
+      "original_member": "audio/korea_020/995e3145c08d29e754a113c308bdf1a1d26cda6d2b7c6cfdb5d89a58924cf675.ogg",
+      "original_peak": 0.9823803305625916,
+      "final_member": "audio/korea_020/dc119528b9e82d2c8965764fa9894871a80f4b2b13e98ffd4d9efdc7ff623e78.ogg",
+      "final_peak": 0.8259703516960144,
+      "pre_codec_additional_gain": 0.8957834075281615,
+      "lossless_master_sha256": "8ceb3e7a36a58b07506919a8b29cf84e6442e9d5fc993c57f565eb296571c808",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A4_fish_L01_T2",
+      "original_member": "audio/korea_020/79159c170a5f78f3dfde086257ccbb0976137c59ffb0c738ef8e422a6f5f9fb2.ogg",
+      "original_peak": 1.1960208415985107,
+      "final_member": "audio/korea_020/967c8345647f662df829c91bf713be42c84e9cfc51651724476885f17c654db7.ogg",
+      "final_peak": 0.7040301561355591,
+      "pre_codec_additional_gain": 0.7357731315316034,
+      "lossless_master_sha256": "182ba48b4dcca2a45eba83827e4f9d77c9bf33aaf8840fbe82b16a2347b01267",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A2_select_L01_T1",
+      "original_member": "audio/korea_020/34e31b95bdc843680f7c82f91042df546503c5647e72558b940cb89feb0e52c1.ogg",
+      "original_peak": 1.0064343214035034,
+      "final_member": "audio/korea_020/dea83a5c0b69bd613f4807624ea98f287854a5f4d552b4cf3862f2e158489c12.ogg",
+      "final_peak": 0.8627579808235168,
+      "pre_codec_additional_gain": 0.8743739966785047,
+      "lossless_master_sha256": "76efe86368b793860048c14e38d15482d9ca64701104c2a506cbd89920759402",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A2_select_L04_T3",
+      "original_member": "audio/korea_020/303aea7c3b70b29c125a0bfbf69ba29804ebcf6d38d576c73b75c5674bd4c8ab.ogg",
+      "original_peak": 0.9854767322540283,
+      "final_member": "audio/korea_020/c70ad640ebb58e45d517bca59dcbcb5687d5994048ba9d2895a96d06c81ec919.ogg",
+      "final_peak": 0.8527573347091675,
+      "pre_codec_additional_gain": 0.8929688253392072,
+      "lossless_master_sha256": "8500c80ce3c4798f82c88cf678edf29ce23eba74ca6cace7593b4811db679a35",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A3_select_L06_T3",
+      "original_member": "audio/korea_020/b92be8562586b56fb92b975ee1e8118bb52946befe170bbb45b9fae804ed8732.ogg",
+      "original_peak": 1.0000544786453247,
+      "final_member": "audio/korea_020/3a06aa1e2f8a37c758548b9ececf89654a37905cd2b5daacdba0ceacb3772c07.ogg",
+      "final_peak": 0.8753654956817627,
+      "pre_codec_additional_gain": 0.879952061403744,
+      "lossless_master_sha256": "104a029245c7c37651dbb239a0cc09b0b851a86028e08ee8333c14e69d61597b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A3_under_attack_L05_T1",
+      "original_member": "audio/korea_020/34645d74758ca358c25d130aa38ab447ab96c027c159ad99931145cd57465176.ogg",
+      "original_peak": 0.9804409742355347,
+      "final_member": "audio/korea_020/236664773016e65d1eb53f6eee90395e7d0e8198c5290d564c8c5c72f96b7d4c.ogg",
+      "final_peak": 0.8645185232162476,
+      "pre_codec_additional_gain": 0.8975553073821195,
+      "lossless_master_sha256": "c1e4720a1a3765dad1ac296780781851ace96c086ce4dcddc411ff032aac1a7d",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_FISHING_A4_fish_L06_T1",
+      "original_member": "audio/korea_020/0ca68b8b85dfcb94e17c4745b585abaf8f794f5c901dd2536b9c5ebce0e1515e.ogg",
+      "original_peak": 0.9800207018852234,
+      "final_member": "audio/korea_020/91facf10fc3edfef8d1c28fa0c860c25ca2f5df1ce2478cbae1ee4efd7f3ab71.ogg",
+      "final_peak": 0.8957231044769287,
+      "pre_codec_additional_gain": 0.8979402152497209,
+      "lossless_master_sha256": "74b2b2b08f03dce1f0a58da3948c56d3ee6934f45ed480ea2e1b61fcde4c7c1f",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_TRADE_A1_select_L05_T1",
+      "original_member": "audio/korea_020/1e5188b5be02e83e445eecfd0b9ea2a0ab116dadd722b3c2c7ffc696f0fc399b.ogg",
+      "original_peak": 1.029893398284912,
+      "final_member": "audio/korea_020/ffb89b0339d216154a2024481ba203c6573ef864c9a6ccbb1160ca2eb6e589e7.ogg",
+      "final_peak": 0.8166584968566895,
+      "pre_codec_additional_gain": 0.8544573656511144,
+      "lossless_master_sha256": "3f8d779e7ea07c8d05b9c8ac9204256cceb6652f136b0100a8268164a07e2251",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_TRADE_A2_trade_L01_T2",
+      "original_member": "audio/korea_020/9606df75f1430cc666fe9d4c610a854ac081433c677a12df56d9d6af6b3226f8.ogg",
+      "original_peak": 0.9851675033569336,
+      "final_member": "audio/korea_020/b03ea834ae26f393f776d6dc6347df97e4886e536f0ba383d843077dc89eac19.ogg",
+      "final_peak": 0.8005918264389038,
+      "pre_codec_additional_gain": 0.8932491144921265,
+      "lossless_master_sha256": "8fbf3eebb228bfc6997724d17c5c621b2982482704d605370a3ab4830ba4fbb1",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_TRADE_A3_attack_L06_T1",
+      "original_member": "audio/korea_020/b8982440f734b24bc8f652aeae76ef0259b886093c7dbe5d5fa78d44a6167684.ogg",
+      "original_peak": 1.0325329303741455,
+      "final_member": "audio/korea_020/de8960ccaceee001b43950b9019fc7f7c0358df5eb0b284d7f05e54a20d12955.ogg",
+      "final_peak": 0.8820455074310303,
+      "pre_codec_additional_gain": 0.8522730598830643,
+      "lossless_master_sha256": "a42b7defa8ac9ef1c6ebca3a762e4a839d410a51825de60d58162bae838149f2",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_TRADE_A3_under_attack_L05_T1",
+      "original_member": "audio/korea_020/d4235a0e61c4937b87e2d39d9c77f0a0e5c319e39d22ad47b71a47ce2c6a7b45.ogg",
+      "original_peak": 0.9813297986984253,
+      "final_member": "audio/korea_020/cc2268d064cca75923bc98f536238e408bc134f2ab0f240aa063bc0a36cd53c9.ogg",
+      "final_peak": 0.8767009973526001,
+      "pre_codec_additional_gain": 0.8967423603840189,
+      "lossless_master_sha256": "ab4957d65b3c99e4db8b80298dddf72055329ff80fef5b1d3ab8d17c12678fd2",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_TURTLE_A1_select_L01_T2",
+      "original_member": "audio/korea_020/cb60b5af85779ae3df215a277a3c2ddbadb8231c2f15687e5bb06c6dd297bbe8.ogg",
+      "original_peak": 1.0054755210876465,
+      "final_member": "audio/korea_020/f6e1fd3aa218f5f080602ef36414c0d27a3807d22a85610968be5387968e0b4b.ogg",
+      "final_peak": 0.8224491477012634,
+      "pre_codec_additional_gain": 0.8752077813372158,
+      "lossless_master_sha256": "807e3f74086bb3ecc76a1f8e02bb0ac70372857978e60a81754a6230b64dec67",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_TURTLE_A4_under_attack_L05_T1",
+      "original_member": "audio/korea_020/f8ed69271c37292426a8b67d6c023c4b90e6934bb423f119722c8f571b182d3f.ogg",
+      "original_peak": 0.9808801412582397,
+      "final_member": "audio/korea_020/a81816a0269cdd12b809bec2265deecd18c3f225a428493ec1772c37f70cbdcf.ogg",
+      "final_peak": 0.8946097493171692,
+      "pre_codec_additional_gain": 0.8971534471797603,
+      "lossless_master_sha256": "1a0be340d1a98d5edb2d20c287c3f3f199fa3ac43bededf2bb5d54713bcc3b51",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_WAR_GALLEY_A3_select_L05_T1",
+      "original_member": "audio/korea_020/44a49aa85ce2888d92eb5ed7a3edf02ddf0acf47ca88657d14c5a8118ebfd8eb.ogg",
+      "original_peak": 0.9824325442314148,
+      "final_member": "audio/korea_020/f2f0724ffd652a762cf57cf7943647cef61a84d9856f183ef53f54aab5b52f2e.ogg",
+      "final_peak": 0.8672084808349609,
+      "pre_codec_additional_gain": 0.8957357990297943,
+      "lossless_master_sha256": "1659f9b841b0996f64e1657c13edeec96b1740ed042cca83f3f91fc1ee3a7216",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "NAVAL_WAR_GALLEY_A4_shoot_L03_T1",
+      "original_member": "audio/korea_020/d88648508ead5d8187de6790d7b86c2114142f92af7a1e6e3d0fb2c709fbfc74.ogg",
+      "original_peak": 0.980044424533844,
+      "final_member": "audio/korea_020/439fc9e63cc9b4e40a7fed0cdba6ea29cfd3fd623dc6baf362e694fb66e7b03d.ogg",
+      "final_peak": 0.8844797015190125,
+      "pre_codec_additional_gain": 0.8979184799898944,
+      "lossless_master_sha256": "81f33a2e555495282f7dbcd62e12b5ed0dd042a79cf2032370add55a71e26170",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "RIGHTEOUS_MONK_A2_acknowledge_L02_T1",
+      "original_member": "audio/korea_020/e6dcd24308a3fb6dbca9a948382ab36efc0834cf21e7d9535adb6b2f961dabb6.ogg",
+      "original_peak": 0.9826326370239258,
+      "final_member": "audio/korea_020/f1907ee261bb46ad8901967a40ab827a873a1a1c3af8620ee6d46bcd9f46aa6a.ogg",
+      "final_peak": 0.9004741311073303,
+      "pre_codec_additional_gain": 0.8955534009792646,
+      "lossless_master_sha256": "572fca53ebfa91a9ba88b5a2435427f9859e265ad18e97428196217d37ec92da",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "RIGHTEOUS_MONK_A2_move_L03_T2",
+      "original_member": "audio/korea_020/90482af731d7f0370292343d0188114ced3e59e16450f9580ee84767d0634270.ogg",
+      "original_peak": 0.9829012155532837,
+      "final_member": "audio/korea_020/1730ed4e02727399914ba39e3ed4e3e4cb8f6ad151faa84b2d2113a6028a0d26.ogg",
+      "final_peak": 0.862288773059845,
+      "pre_codec_additional_gain": 0.8953086903088632,
+      "lossless_master_sha256": "502151df506126595a8534519a58f469183c5f07091e24b803c4a857664d434c",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "RIGHTEOUS_MONK_A4_select_L01_T1",
+      "original_member": "audio/korea_020/0d40ba92eb962f526822270ebbe77297756dc40b85cf15010c859f1a378d72ae.ogg",
+      "original_peak": 0.9915164709091187,
+      "final_member": "audio/korea_020/01a39fcb26009843d9cc6eaba6c63a2bdc4c7424c6c83ba1aa6cfca4a0f18557.ogg",
+      "final_peak": 0.874610185623169,
+      "pre_codec_additional_gain": 0.8875293813254866,
+      "lossless_master_sha256": "951890e7773ea210442a57dc54942062d17127a49e362c604d3478736aeeb014",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "RIGHTEOUS_MONK_A4_select_L05_T3",
+      "original_member": "audio/korea_020/8873b4ea6e9cefbb248e19707e449923c3dc672588dde58dab0fcd8afc1040be.ogg",
+      "original_peak": 1.00038480758667,
+      "final_member": "audio/korea_020/5948c54dbbb5b0e64da9c514ce76380c7420cae6a33a4bc4dc83213645ae9282.ogg",
+      "final_peak": 0.8844348192214966,
+      "pre_codec_additional_gain": 0.8796614995812597,
+      "lossless_master_sha256": "d0134fed615c43bbf38413f71478b74abb80d9caad36f51f01e2d4531798e127",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "SCHOLAR_A1_under_attack_L02_T1",
+      "original_member": "audio/korea_020/566e4579d42420e3389a59365a73194c1d311b255c43da048cea1fc3fc9fcf01.ogg",
+      "original_peak": 0.9901565313339233,
+      "final_member": "audio/korea_020/e55863fbbdb49ca1f94bff28bb371d226ca825eb2e2e29515ef25ba42c155b4a.ogg",
+      "final_peak": 0.8911195993423462,
+      "pre_codec_additional_gain": 0.8887483666996346,
+      "lossless_master_sha256": "ae0798127ca94b59403e1fa3444b09b86120e125b8c22d4fd698617458e877b5",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "SCHOLAR_A3_move_L04_T1",
+      "original_member": "audio/korea_020/9cc8312e77e8983f7bd330e4c7fa03b716d040b424d065d8e79a45e80ec86dfa.ogg",
+      "original_peak": 0.9969118237495422,
+      "final_member": "audio/korea_020/edf0de16490e4bd284b13ca2d05a9e7ca0c0612212e0190d91f919d085151e02.ogg",
+      "final_peak": 0.8401423096656799,
+      "pre_codec_additional_gain": 0.8827260135105847,
+      "lossless_master_sha256": "507a21253f0849b56eb042f1cdfa4c244635ae44c8e8ac4764a80f127f44e24d",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "SCOUT_A1_move_L03_T2",
+      "original_member": "audio/korea_020/5be05b52e23586b220535c2730e3afb81bad996d4ab531ffe8f14b6efab2f343.ogg",
+      "original_peak": 1.0143810510635376,
+      "final_member": "audio/korea_020/b7a9fbb06ed9512a61de0e65ff40d88aca73cddff08b2e7ddccbe72fb8d3f950.ogg",
+      "final_peak": 0.8728345632553101,
+      "pre_codec_additional_gain": 0.8675240917378686,
+      "lossless_master_sha256": "9c5a3ed7a9a587c5ea2ac7d4f0614fb53159e25ca00fdcffe90ba9642bfa1603",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "SPEARMAN_A1_move_L04_T1",
+      "original_member": "audio/korea_020/4ef47a93051ecd32cdba53c315d3a1e930dc464bd751035f7af13398aad446bb.ogg",
+      "original_peak": 1.0188729763031006,
+      "final_member": "audio/korea_020/6e4a9c6bdb0c90ecbf06d428be3d27ad94e8179ed44cafa65833e5772bc5f22a.ogg",
+      "final_peak": 0.8721499443054199,
+      "pre_codec_additional_gain": 0.8636994212890108,
+      "lossless_master_sha256": "f0a79170cfa91866a767b3331af7d21c5094bab4bf4b202028e35ef773768f1a",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "SPEARMAN_A2_acknowledge_L05_T1",
+      "original_member": "audio/korea_020/4b7418ee0148fdff966fa7c087fbadabc23c06b062c14a23da986c9db36f002e.ogg",
+      "original_peak": 0.9969778060913086,
+      "final_member": "audio/korea_020/962a27de7a7527515e11e459dabfcd5f0c4111cf9784f62b8194d0ecc8a3d2b5.ogg",
+      "final_peak": 0.8886004090309143,
+      "pre_codec_additional_gain": 0.8826675926218209,
+      "lossless_master_sha256": "ab05c22d284e4dec553e95ba61a8df655f3a4e6c48d0b6a36bb071eca2ed2e27",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "SPEARMAN_A4_select_L04_T3",
+      "original_member": "audio/korea_020/c7dce90f809c6c779b50df9d8bb04ef798d32e220c3f4b33254f10718da1e309.ogg",
+      "original_peak": 1.001181721687317,
+      "final_member": "audio/korea_020/8c5af4f94217cc5a3d1e2d9c7311272bbbb421791ea407b37a2debd9d3119403.ogg",
+      "final_peak": 0.8491933345794678,
+      "pre_codec_additional_gain": 0.8789613123548777,
+      "lossless_master_sha256": "c22db46ff89246936304c4dfd5936100256a1dbbdbb8a27c310f45abe7a1cf9b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "TIGER_HUNTER_A1_acknowledge_L06_T1",
+      "original_member": "audio/korea_020/b64f9a5888fb14c36ad3297d578da0c27b5bc2278504d135a5a060aa79519f20.ogg",
+      "original_peak": 0.9883776903152466,
+      "final_member": "audio/korea_020/a0aa6ee271bbbe45a4c821ffeba498de16445581f87914bb66ab69a31e44f953.ogg",
+      "final_peak": 0.8704836964607239,
+      "pre_codec_additional_gain": 0.8903478990094574,
+      "lossless_master_sha256": "f01cb5b5804c8e901bd010fc7bc987d7969d606b36ba957d013c6999a9ea3d51",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "TIGER_HUNTER_A1_move_L05_T1",
+      "original_member": "audio/korea_020/b5624436b5e7b51380ca24763136c04abdabd9f5eaa767cf04dc66c1c11132c8.ogg",
+      "original_peak": 0.981015145778656,
+      "final_member": "audio/korea_020/26e144c5af4486baea0b21a74c3b74374a3a4b4979ba86a5c7ee7e79de322932.ogg",
+      "final_peak": 0.8555591702461243,
+      "pre_codec_additional_gain": 0.8970299834683206,
+      "lossless_master_sha256": "88006954dfe0bdd088f9c51bf07a8351c09721fab402f5b034ab4a83fd284e4f",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "TREBUCHET_A1_select_L02_T1",
+      "original_member": "audio/korea_020/2abee2795d02aa60eebe48f1b6a4759baf83462532b293f4f79b9de900d34fbf.ogg",
+      "original_peak": 0.98270183801651,
+      "final_member": "audio/korea_020/99e618dc41e396f9cdba2ce60cf5169de2d39f5eb869e702735fba1510bc2212.ogg",
+      "final_peak": 0.8652766346931458,
+      "pre_codec_additional_gain": 0.8954903369023876,
+      "lossless_master_sha256": "98119cb0b45def3e9949a81597a68d6bee0e8385589baa64bb6de121e81fa514",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "TREBUCHET_A2_move_L05_T1",
+      "original_member": "audio/korea_020/d2faf997fd961569656d7835146722c696ad0016e4ed80d1a9cdcd09c3c13b16.ogg",
+      "original_peak": 1.0083376169204712,
+      "final_member": "audio/korea_020/4fcda486d076d5179b041e08cfced6d794802afefa0e423dd1cde4e45e690ff3.ogg",
+      "final_peak": 0.8106334209442139,
+      "pre_codec_additional_gain": 0.8727235652355977,
+      "lossless_master_sha256": "f6af688010919d05ec586ea4a5e6be4d9a3edcaa5e184a19258f48501898da07",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A1_attack_L06_T1",
+      "original_member": "audio/korea_020/09527f9e0e56e8e2f15f59fe99322150bfc38dd646099789eed2bd3491459b65.ogg",
+      "original_peak": 1.0127662420272827,
+      "final_member": "audio/korea_020/cb742d389c18d798078363c0bc63541baead696156f090e574cbf42a411c6703.ogg",
+      "final_peak": 0.8375825881958008,
+      "pre_codec_additional_gain": 0.8689073188680532,
+      "lossless_master_sha256": "2a958204e7081c31c97a44bfe9dac78bb2a48937b4c46647650d16fc2a962f2f",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A1_move_L04_T1",
+      "original_member": "audio/korea_020/60162873c71f603463b4b051fb4fe49bffaba858d27d7b353fb26b8641d918d1.ogg",
+      "original_peak": 0.9833366274833679,
+      "final_member": "audio/korea_020/55cb642d42b86966f5e9378527a8a2926b1852ec00abf2d3fd853a821ff4ee64.ogg",
+      "final_peak": 0.8305382132530212,
+      "pre_codec_additional_gain": 0.8949122562963661,
+      "lossless_master_sha256": "b8ad8154fad124e605b3fb9789d2a1d95fc54b4f2ac4c1e02d590181da2003a9",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A1_repair_L03_T2",
+      "original_member": "audio/korea_020/148aa6d6b4f74c14d709fad860af7215285acd3d2f15edb1f80435ac170829fc.ogg",
+      "original_peak": 0.9890815615653992,
+      "final_member": "audio/korea_020/f6ed15453421168a4e8f97a00e5423ceba53e577de7b548cef6136d6369a13ab.ogg",
+      "final_peak": 0.8994747400283813,
+      "pre_codec_additional_gain": 0.8897142907074741,
+      "lossless_master_sha256": "edad0bc477172ea85e5d8a38470bb003dcde8ff3ad10724d1d5c0459d9284471",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A1_repair_L05_T1",
+      "original_member": "audio/korea_020/d57107437db38ad719da7856b3aed1824f82877ada880d8c33b5308696917094.ogg",
+      "original_peak": 0.9862896203994751,
+      "final_member": "audio/korea_020/4f6db3da4784c08fdcaa71c2d725d80cd407db6b3d1eccd920b0c4724049af76.ogg",
+      "final_peak": 0.8680790662765503,
+      "pre_codec_additional_gain": 0.8922328510803705,
+      "lossless_master_sha256": "162c190fbe127747182b973d9aff587fbec1a196815169af2721772f9ad79277",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A3_acknowledge_L05_T1",
+      "original_member": "audio/korea_020/7fbed3568889b5eacc38a3d234e83b6b4e1deb41f366ad98e276175c89c45ab6.ogg",
+      "original_peak": 1.033415675163269,
+      "final_member": "audio/korea_020/d0a37d9c41442ea1f50561b7fd8d217d290989c4dce3bb1f6d3256339cd226eb.ogg",
+      "final_peak": 0.8365140557289124,
+      "pre_codec_additional_gain": 0.8515450473121274,
+      "lossless_master_sha256": "59266afcbd9763796ef63c8ad1859733643d343c1edb1bd16b02c54a10f9ded3",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A2_move_L05_T2",
+      "original_member": "audio/korea_020/f7a78eac014ef910db87180618ddd119d31a7694a161130ffbadc134e0fe180f.ogg",
+      "original_peak": 0.9972485899925232,
+      "final_member": "audio/korea_020/f47e805d973325fae88c9d214b2ce9f7aabc15584f9d18d81eede8ff8c8b8cec.ogg",
+      "final_peak": 0.9070842266082764,
+      "pre_codec_additional_gain": 0.8824279210127515,
+      "lossless_master_sha256": "5e8b9d5a3e703035265e3bae07be2d07cf4fd86fa7abf726530decdb32fffe8a",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A3_select_L04_T3",
+      "original_member": "audio/korea_020/ca6d2df0f073e8980ab2ea26135aa4fa306bdf9125c99fd3b181420e78456f21.ogg",
+      "original_peak": 0.988774299621582,
+      "final_member": "audio/korea_020/f22ac1b0d76953641dddae318efff964cfa6d818376125e69c48b365fdc545e3.ogg",
+      "final_peak": 0.861001193523407,
+      "pre_codec_additional_gain": 0.8899907697204392,
+      "lossless_master_sha256": "2f4921e4276eb7b9db0f65b30b8abe1a0bc08f80fce9a36d41d0e57c1ee6c6dc",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A4_move_L05_T2",
+      "original_member": "audio/korea_020/c80ec22bad39d73d9ec9bb7a5b914c03267a65472f0a5ccddc9d74341561605a.ogg",
+      "original_peak": 0.9952294230461121,
+      "final_member": "audio/korea_020/5a5993eb0c20e1e9abfcf7756565a79f47a536f2fbf7ebdaf50f9bcffcf4aefc.ogg",
+      "final_peak": 0.8600721955299377,
+      "pre_codec_additional_gain": 0.8842182311155675,
+      "lossless_master_sha256": "e7bbadd78b9a37bbde4c38e95332f491b2353e7e84c8b906c993659a889c2010",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A2_select_L04_T3",
+      "original_member": "audio/korea_020/e8709b20cb7ea08255e111a10c3605910e9918a47338eb5c58f340836c30df70.ogg",
+      "original_peak": 0.9830828309059143,
+      "final_member": "audio/korea_020/3bd9a324396c876a1af7b82e086cb10ec323cef15166a40caf50b9628473b0fb.ogg",
+      "final_peak": 0.8622013330459595,
+      "pre_codec_additional_gain": 0.8951432904072558,
+      "lossless_master_sha256": "044973517da8915d2aeebc7c77733b06ceeb64a49ed41664cd44d6429b62bc9b",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A3_select_L01_T2",
+      "original_member": "audio/korea_020/b45429832aac01ae5e0a65cf1538c03a9708f25ddcd2c1ff70d2542eeab70c3a.ogg",
+      "original_peak": 0.987784206867218,
+      "final_member": "audio/korea_020/e764c3d6e085a87529e829d33b2df3e78b3b87db118ac9ea020f3f65b9760d93.ogg",
+      "final_peak": 0.8594970107078552,
+      "pre_codec_additional_gain": 0.8908828404849088,
+      "lossless_master_sha256": "13d24c61c7195357ea4b97f1dc33b0a0db692846318923a962a18fb43e4dc2a9",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A4_repair_L05_T1",
+      "original_member": "audio/korea_020/a53fac3103209f63c9bce4831d2751c9ee147f1cbded7fa2b95d4050f2a48bff.ogg",
+      "original_peak": 1.003970980644226,
+      "final_member": "audio/korea_020/f5cb82f18031480de08860fbfb9deae61c143640bcb45efc4ab9b32ae5cdc8d2.ogg",
+      "final_peak": 0.8839787840843201,
+      "pre_codec_additional_gain": 0.8765193585927388,
+      "lossless_master_sha256": "283e92221e2c7a2dbde52621152f00a2f438d13a49b0d6b1f89d14f12863ebc7",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    },
+    {
+      "id": "VILLAGER_M_A4_food_L06_T1",
+      "original_member": "audio/korea_020/c148ac3e1a631def7cda7f1e76ffbc747421ab1300d04cb73534ac7c7681ea07.ogg",
+      "original_peak": 0.9896017909049988,
+      "final_member": "audio/korea_020/a4e8b5d38dbef04a34be454d720523c307e873053f93f8fd6837c54d170e3bb2.ogg",
+      "final_peak": 0.8501028418540955,
+      "pre_codec_additional_gain": 0.8892465717904905,
+      "lossless_master_sha256": "56e23ab69350895bcb9327675e7061ff556fe032f8ae535d5b3b409a1f6c9084",
+      "semantic_change": "amplitude only; original master and original encoding retained"
+    }
+  ],
+  "fixed_count": 89,
+  "original_masters_and_generation_receipts_preserved": true,
+  "original_encoded_files_preserved": true,
+  "ceiling": 0.98,
+  "new_codec_recipe": "Amplitude-only pre-codec attenuation when a full decoded original exceeds the ceiling; iterative decode/check. Same script, voice, timing and master.",
+  "encoded_bank_sha256": "8b3074af0037a21c16397fffa413744cf2ee8b7d36a1babfc8b730a7f769081d"
+}

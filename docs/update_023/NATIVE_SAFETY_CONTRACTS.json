@@ -1,0 +1,9 @@
+{
+  "tests": 12,
+  "successful": true,
+  "failures": 0,
+  "errors": 0,
+  "seconds": 8.898831900000005,
+  "native_runtime_proof": false,
+  "scope": "Actual current model material/selector, cavalry owner-skeleton/skin/LOD, geometry, mask stream, shader and player-state-schema contracts. Frozen 0.1.6 version/hold/scope tests unchanged and excluded from this current contract run."
+}

@@ -1,0 +1,54 @@
+{
+  "diagnostic_only_not_game_voice_takes": true,
+  "encodings": [
+    {
+      "rate": 16000,
+      "compression": 0.5,
+      "bytes_for_2_seconds": 14192,
+      "format": "OGG",
+      "subtype": "VORBIS"
+    },
+    {
+      "rate": 16000,
+      "compression": 0.8,
+      "bytes_for_2_seconds": 10590,
+      "format": "OGG",
+      "subtype": "VORBIS"
+    },
+    {
+      "rate": 16000,
+      "compression": 0.95,
+      "bytes_for_2_seconds": 9169,
+      "format": "OGG",
+      "subtype": "VORBIS"
+    },
+    {
+      "rate": 24000,
+      "compression": 0.5,
+      "bytes_for_2_seconds": 18203,
+      "format": "OGG",
+      "subtype": "VORBIS"
+    },
+    {
+      "rate": 24000,
+      "compression": 0.8,
+      "bytes_for_2_seconds": 12950,
+      "format": "OGG",
+      "subtype": "VORBIS"
+    },
+    {
+      "rate": 24000,
+      "compression": 0.95,
+      "bytes_for_2_seconds": 10806,
+      "format": "OGG",
+      "subtype": "VORBIS"
+    }
+  ],
+  "existing_vietnam_accepted_format": {
+    "rate": 48000,
+    "channels": 1,
+    "format": "OGG",
+    "subtype": "VORBIS"
+  },
+  "voice_raw_media_budget_bytes": 67091360
+}

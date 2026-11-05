@@ -1,0 +1,17 @@
+{
+  "profile": "TIGER_HUNTER",
+  "file": "authoring\\voices020\\qualification-references\\TIGER_HUNTER.wav",
+  "sha256": "6ce86b1037370922b836b5ce52f2751f00b18a27595b669bec9bbb1c78904365",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 9.04,
+  "rms": 0.04469997435808182,
+  "raw_peak": 0.427734375,
+  "generation_seconds": 23.795,
+  "seed": 2026110227,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Mature Korean man, gravelly narrow tenor, seasoned mountain hunter, dry close voice and laconic cadence. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

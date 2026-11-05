@@ -1,0 +1,67 @@
+{
+  "status": "pilot_complete",
+  "utc": "2026-11-02T00:25:41.478489+00:00",
+  "manifest_sha256": "58ac4b88df16da10c6350dce99c97ab89ce45d07b2540ff61015e53908da6573",
+  "profiles": 3,
+  "rows": 88,
+  "encoded_unique_files": 88,
+  "encoded_bytes": 629665,
+  "mean_clip_bytes": 7155.284090909091,
+  "projected_full_dialogue_bytes": 41042710,
+  "elapsed_seconds": 143.2,
+  "batch_runs": [
+    {
+      "rows": 8,
+      "seconds": 12.494436799999676
+    },
+    {
+      "rows": 8,
+      "seconds": 10.514606700002332
+    },
+    {
+      "rows": 4,
+      "seconds": 10.793411000006017
+    },
+    {
+      "rows": 8,
+      "seconds": 6.022356499990565
+    },
+    {
+      "rows": 8,
+      "seconds": 6.584249899999122
+    },
+    {
+      "rows": 8,
+      "seconds": 7.637843899996369
+    },
+    {
+      "rows": 8,
+      "seconds": 5.602076600000146
+    },
+    {
+      "rows": 8,
+      "seconds": 8.637180300007458
+    },
+    {
+      "rows": 8,
+      "seconds": 9.239576600011787
+    },
+    {
+      "rows": 8,
+      "seconds": 11.03103350001038
+    },
+    {
+      "rows": 8,
+      "seconds": 11.753667800003313
+    },
+    {
+      "rows": 4,
+      "seconds": 6.378391100006411
+    }
+  ],
+  "peak_cuda_allocated_bytes": 7071845376,
+  "peak_cuda_reserved_bytes": 7549747200,
+  "audio_full_decode_verified": true,
+  "historical_native_speaker_review": "pending; explicit phonetic approximations",
+  "native_game_audible_acceptance": "pending"
+}

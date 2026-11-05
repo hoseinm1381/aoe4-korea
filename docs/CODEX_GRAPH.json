@@ -18,12 +18,12 @@
         ],
         [
           "sbps",
-          "unit_scout_1_chi",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532",
           1
         ],
         [
           "sbps",
-          "unit_villager_free_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51",
           1
         ],
         [
@@ -709,27 +709,27 @@
         ],
         [
           "sbps",
-          "unit_naval_combat_ship_2_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4",
           2
         ],
         [
           "sbps",
-          "unit_naval_combat_warship_4_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2",
           4
         ],
         [
           "sbps",
-          "unit_naval_trade_ship_3_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce",
           2
         ],
         [
           "sbps",
-          "unit_naval_transport_ship_2_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f",
           1
         ],
         [
           "sbps",
-          "unit_naval_war_galley_3_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b",
           2
         ],
         [
@@ -1221,7 +1221,7 @@
         ],
         [
           "sbps",
-          "unit_scout_1_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93",
           2
         ],
         [
@@ -1886,12 +1886,12 @@
         ],
         [
           "sbps",
-          "unit_bombard_4_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721",
           4
         ],
         [
           "sbps",
-          "unit_springald_3_chi_ha_01",
+          "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376",
           3
         ],
         [
@@ -2169,7 +2169,8 @@
   "native_codex_visual_test": "pending",
   "missing_stock_evidence": [],
   "foreign_builder_menus_not_imported": [
-    "unit_villager_free_chi_ha_01"
+    "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
   ],
-  "native_bounds_verified": true
+  "native_bounds_verified": true,
+  "voice020": "Retained 0.1.6 layout and age metadata; only isolated speech-owner PBG references translated. No construction-tree regeneration."
 }

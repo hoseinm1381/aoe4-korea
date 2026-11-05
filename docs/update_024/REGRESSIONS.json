@@ -1,0 +1,10 @@
+{
+  "tests": 56,
+  "successful": true,
+  "failures": 0,
+  "errors": 0,
+  "seconds": 1.6253213999989384,
+  "native_runtime_proof": false,
+  "audible_proof": false,
+  "historical_tests": "Old tests and receipts unchanged. Frozen 0.2.2 exact-version assertion replaced for current run by 0.2.4 diagnostic-only byte restoration verifier; 45 behavioral checks plus seven actual diagnostic and four stress cases retained."
+}

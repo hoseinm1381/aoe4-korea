@@ -1,0 +1,18 @@
+{
+  "version": "0.2.3",
+  "zip_bytes": 199764260,
+  "archive_bytes": 374141158,
+  "zip_increment_vs_022_bytes": 53899867,
+  "archive_increment_vs_022_bytes": 55909390,
+  "compressed_sga_contribution_increment_vs_022_bytes": 53900830,
+  "dialogue_bytes": 111710069,
+  "old_dialogue_bytes": 55800679,
+  "dialogue_payload_increment_bytes": 55909390,
+  "dialogue_seconds": 8864.25045833334,
+  "decoded_dialogue_float32_bank_bytes": 850968044,
+  "effort_bytes_unchanged": 9815249,
+  "art_bytes_unchanged": 232908640,
+  "media_bytes": 354433993,
+  "scope": "Only dialogue encodes and corresponding bank paths changed. Compressed SGA increment includes the required path-map text/index effects; ZIP increment includes release text/metadata. No art/GPU-resource or gameplay changes.",
+  "budget_exception": "Owner-approved 0.2.3 audio-quality size increase; media<400000000 and ZIP<600000000. No measured runtime memory/performance acceptance."
+}

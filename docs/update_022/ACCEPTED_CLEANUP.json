@@ -1,0 +1,88 @@
+{
+  "date_local": "2026-11-02",
+  "timezone": "Asia/Tehran",
+  "mode": "applied",
+  "raw_logical_bytes": 704008954,
+  "recovery_archive": {
+    "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\working-output-022-recovery.tar.gz",
+    "bytes": 9808642,
+    "sha256": "390d48590373eb4ed8c7e3dc5648b7b3cc28a03a16e60821eac085c8dbaa5b56",
+    "all_member_sha256_verified": true,
+    "purpose": "Lossless preserved generation/preflight/preview/failed-build/batch records, not a source checkout"
+  },
+  "protected_manifest_sha256": {
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\inputs\\native-manifest.json": "1a5416df2eb514cccc4d058b5877d41d72b9d3fea0ae6038faa4c410671b675a",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source\\master-index.json": "e041d15ba5e4ebd1b270f860b278b2f2c2489e22bb06ca0e074b67b4f0170807",
+    "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\setup\\download-manifest.json": "5cb836222a09cc8809855c60dd2ecc52bf5fcc471e58a494e83056fafb6c7c7d"
+  },
+  "release": {
+    "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\release\\Koreans-Garrison-0.2.2.zip",
+    "sha256": "6175fcef8fffb0b6a59c1e02f3b4524b42dc14b84d36de591b760c42936ca94e",
+    "bytes": 145864393
+  },
+  "preserved": [
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\source",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\inputs",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\release",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives",
+    "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\.git",
+    "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\models",
+    "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\ComfyUI_windows_portable",
+    "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\downloads",
+    "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\validation-packages",
+    "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\setup",
+    "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\receipts"
+  ],
+  "cache_reason": "Only pip/setup unpack, virtualenv wheel seed cache and compiled CUDA cache; installed validation packages, tools, models and pinned downloads excluded.",
+  "roots": [
+    {
+      "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\output",
+      "files": 2577,
+      "logical_bytes": 91981210
+    },
+    {
+      "path": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\cache\\pip",
+      "files": 21,
+      "logical_bytes": 4433155
+    },
+    {
+      "path": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\setup-temp\\pip-unpack-59mprrja",
+      "files": 1,
+      "logical_bytes": 3407872
+    },
+    {
+      "path": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\package-cache\\http-v2",
+      "files": 166,
+      "logical_bytes": 105561428
+    },
+    {
+      "path": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\package-cache\\selfcheck",
+      "files": 2,
+      "logical_bytes": 376
+    },
+    {
+      "path": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\package-cache\\wheels",
+      "files": 2,
+      "logical_bytes": 40492
+    },
+    {
+      "path": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\virtualenv-cache\\wheel",
+      "files": 482,
+      "logical_bytes": 7513398
+    },
+    {
+      "path": "F:\\aoe_4_temp\\ai_voice\\tts-workstation\\cuda-cache",
+      "files": 41,
+      "logical_bytes": 491071023
+    }
+  ],
+  "net_logical_bytes_reclaimed": 694200312,
+  "zip_sha256_after": "6175fcef8fffb0b6a59c1e02f3b4524b42dc14b84d36de591b760c42936ca94e",
+  "packaged_sga_sha256_verified": true,
+  "rollback_hashes_verified": 3,
+  "original_inputs_models_weights_and_masters": "Preserved; cleanup trees disjoint, tracked manifests unchanged. No claim of a redundant full payload rehash.",
+  "source_scope_check": "passed",
+  "skill_validation": "passed",
+  "no_push_install_or_rebuild": true
+}

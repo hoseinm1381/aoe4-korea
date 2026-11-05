@@ -1,0 +1,14 @@
+{
+  "initial_error": "Receipt-only st_size property mistakenly called after all native/package checks.",
+  "repair": "Corrected property access and extracted shared finalization; reused the unchanged successful native assembly and existing ZIP.",
+  "resume_fix": "Restored the finalizer release path; verified delivery checkpoint retained.",
+  "verification": "Fresh comparison of all 527 current typed tables and 10278 input members, then common namespace/CRC/full readback/allowlist/ZIP/SGA checks passed.",
+  "evidence": [
+    "build-receipt-failure/build.py.before-fix.gz",
+    "native-build-020.log",
+    "native-build-resume-020.log",
+    "native-build-resume-v2-020.log",
+    "package/assembly-report.json.gz"
+  ],
+  "native_cook_repeated": false
+}

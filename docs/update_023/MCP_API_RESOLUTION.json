@@ -1,0 +1,155 @@
+[
+  {
+    "symbol": "Player_GetEntitiesEGroup",
+    "api": [
+      {
+        "name": "Player_GetEntitiesEGroup",
+        "params": "Player& player, EGroupID group",
+        "description": "Gets all the player's current entities and loads them into the specified egroup.",
+        "source_set": "official_api",
+        "file_path": "official_api/Essence_ScarFunctions.api",
+        "line_no": 1285
+      }
+    ],
+    "usage": []
+  },
+  {
+    "symbol": "Player_GetAbilityBPCost",
+    "api": [
+      {
+        "name": "Player_GetAbilityBPCost",
+        "params": "PlayerID pPlayer, PropertyBagGroup pbg",
+        "description": "Returns the modified cost of the given ability including all modifications added by the given player",
+        "source_set": "official_api",
+        "file_path": "official_api/Essence_ScarFunctions.api",
+        "line_no": 1278
+      }
+    ],
+    "usage": []
+  },
+  {
+    "symbol": "Modifier_Remove",
+    "api": [],
+    "usage": [
+      {
+        "file_path": "official_scar/modifiers.scar",
+        "line_no": 108,
+        "snippet": "--? @result Void\n--? @args modids modifier\nfunction Modifier_Remove(modifier)\n\n\t-- if it's just one modid, put it in a table"
+      },
+      {
+        "file_path": "official_scar/cardinal_narrative.scar",
+        "line_no": 789,
+        "snippet": "for index, modid in ipairs(_NarrativeHorseSpeedModifiers) do\n\t\t\t\tModifier_Remove(modid)\n\t\t\tend"
+      }
+    ]
+  },
+  {
+    "symbol": "Modifier_ApplyToEntity",
+    "api": [
+      {
+        "name": "Modifier_ApplyToEntity",
+        "params": "ScarModifier modifier, EntityID entity, Real durationSeconds",
+        "description": "Applies an entity modifier to an entity. Use a duration of 0 for an indefinite modifier.",
+        "source_set": "official_api",
+        "file_path": "official_api/Essence_ScarFunctions.api",
+        "line_no": 1187
+      }
+    ],
+    "usage": [
+      {
+        "file_path": "official_scar/gamemodes/chaotic_climate_mode.scar",
+        "line_no": 332,
+        "snippet": "if player.isHuman then\n\t\t\tModifier_ApplyToEntity( Modifier_Create( MAT_Entity, \"production_speed_modifier\", MUT_Multiplication, false, 100.0, nil ), entity, 0.0 )\n\t\t\tModifier_ApplyToEntity( Modifier_Create( MAT_Entity, \"cost_ticks_modifier\", MUT_Multiplication, false, 0.01, nil ), entity, 0.0 )"
+      },
+      {
+        "file_path": "official_scar/gamemodes/chaotic_climate_mode.scar",
+        "line_no": 333,
+        "snippet": "Modifier_ApplyToEntity( Modifier_Create( MAT_Entity, \"production_speed_modifier\", MUT_Multiplication, false, 100.0, nil ), entity, 0.0 )\n\t\t\tModifier_ApplyToEntity( Modifier_Create( MAT_Entity, \"cost_ticks_modifier\", MUT_Multiplication, false, 0.01, nil ), entity, 0.0 )\n\t\tend"
+      }
+    ]
+  },
+  {
+    "symbol": "Rule_RemoveSquadEvent",
+    "official": {
+      "status": "ok",
+      "symbol": "Rule_RemoveSquadEvent",
+      "symbol_status": "official_wrapper",
+      "api": [],
+      "usage_samples": [
+        {
+          "symbol": "Rule_RemoveSquadEvent",
+          "symbol_kind": "function_def",
+          "source_set": "official_scar",
+          "file_path": "official_scar/rulesystem.scar",
+          "module_path": "rulesystem.scar",
+          "line_no": 279,
+          "detail": "f, squad",
+          "snippet": "--? @result Void\n--? @args LuaFunction rule, SquadID squad\nfunction Rule_RemoveSquadEvent( f, squad )\n\tEventRule_RemoveSquadEvent( f, squad )\nend",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        },
+        {
+          "symbol": "Rule_RemoveSquadEvent",
+          "symbol_kind": "call",
+          "source_set": "official_scar",
+          "file_path": "official_scar/rulesystem.scar",
+          "module_path": "rulesystem.scar",
+          "line_no": 288,
+          "detail": "",
+          "snippet": "local _RemoveFromSquad = function ( gid, idx, sid )\n\t\tRule_RemoveSquadEvent( f, sid )\n\tend",
+          "confidence": "high",
+          "confidence_detail": {
+            "model": "source_match_v1",
+            "kind": "usage",
+            "overall": {
+              "level": "high",
+              "score": 0.972,
+              "reason": "source=high; match=exact:symbol"
+            },
+            "source": {
+              "level": "high",
+              "score": 0.95,
+              "source_set": "official_scar",
+              "reason": "官方 SCAR 代码 / official SCAR source"
+            },
+            "match": {
+              "level": "high",
+              "score": 1,
+              "reason": "exact:symbol"
+            },
+            "api_documentation": null
+          }
+        }
+      ],
+      "confidence_summary": {
+        "best_level": "high",
+        "best_score": 0.972,
+        "high": 2,
+        "medium": 0,
+        "low": 0
+      },
+      "confidence_model": "source_match_v1",
+      "codex_hint": "Prefer this tool when you need both API docs and usage examples; it avoids multiple MCP round trips."
+    }
+  }
+]

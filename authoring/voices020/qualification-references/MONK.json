@@ -1,0 +1,17 @@
+{
+  "profile": "MONK",
+  "file": "authoring\\voices020\\qualification-references\\MONK.wav",
+  "sha256": "bac43f8ca684cce7548068d4f95cda22d99d440e71bc512e4f3e81704dc729da",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 7.68,
+  "rms": 0.06861403584480286,
+  "raw_peak": 0.78125,
+  "generation_seconds": 19.913,
+  "seed": 2026110211,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Mature Korean man, deep rounded mellow voice, peaceful Buddhist monk, soft deliberate speech and even breath. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

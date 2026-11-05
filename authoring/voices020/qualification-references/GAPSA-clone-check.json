@@ -1,0 +1,13 @@
+{
+  "file": "authoring\\voices020\\qualification-references\\GAPSA-clone-check.wav",
+  "sha256": "82e61aa0d2c2c69b0d60fecf6cd55d199dbf33dc2c16ac9c93a1a44ab30ba045",
+  "transcript": "여기에 있겠습니다. 맡은 일을 시작하겠습니다.",
+  "sample_rate": 24000,
+  "channels": 1,
+  "seconds": 4.64,
+  "generation_seconds": 11.732,
+  "original_reference": "6728ea1444664180f6cfd7018c077d15bb699e9d5880ac26581d2f0b0e1363d0",
+  "language": "modern Korean technical qualification",
+  "historical_pronunciation_verified": false,
+  "listening_review": "pending"
+}

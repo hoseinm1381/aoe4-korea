@@ -1,0 +1,17 @@
+{
+  "profile": "VILLAGER_M",
+  "file": "authoring\\voices020\\qualification-references\\VILLAGER_M.wav",
+  "sha256": "adb16629dc7612b1e9487a24970258327c0a925de0335b57f986bb1c89d657ee",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.56,
+  "rms": 0.0523032620549202,
+  "raw_peak": 0.64453125,
+  "generation_seconds": 16.446,
+  "seed": 2026110231,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, earthy low-mid voice, friendly village worker, unhurried plain delivery, slightly grainy texture. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

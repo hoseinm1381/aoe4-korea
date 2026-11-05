@@ -1,0 +1,361 @@
+{
+  "minimum_codex_ages": {
+    "VILLAGER_M": 1,
+    "SCOUT": 1,
+    "MILITIA": 1,
+    "SCHOLAR": 1,
+    "GAPSA": 3,
+    "SPEARMAN": 1,
+    "NAVAL_FIRESHIP": 2,
+    "NAVAL_FISHING": 1,
+    "NAVAL_TURTLE": 3,
+    "NAVAL_COMBAT_SHIP": 2,
+    "NAVAL_COMBAT_WARSHIP": 4,
+    "NAVAL_TRADE": 2,
+    "NAVAL_TRANSPORT": 1,
+    "NAVAL_WAR_GALLEY": 2,
+    "HWARANG_MOUNTED": 2,
+    "TRADER": 2,
+    "HORSEMAN": 2,
+    "LANCER": 3,
+    "ARCHER": 2,
+    "CROSSBOW": 3,
+    "HANDCANNON": 4,
+    "TIGER_HUNTER": 2,
+    "RIGHTEOUS_MONK": 3,
+    "HWACHA": 3,
+    "MONK": 3,
+    "TREBUCHET": 3,
+    "RAM": 3,
+    "BOMBARD": 4,
+    "SPRINGALD": 3,
+    "VILLAGER_F": 1,
+    "SCOUT_F": 1,
+    "HWARANG_FOOT": 2
+  },
+  "evidence": [
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_town_center_capital_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01",
+      "role": "VILLAGER_M",
+      "earliest_codex_age": 1
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_town_center_capital_chi_ha_01",
+      "squad": "unit_scout_1_chi",
+      "role": "SCOUT",
+      "earliest_codex_age": 1
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_town_center_capital_chi_ha_01",
+      "squad": "unit_villager_free_chi_ha_01",
+      "role": "VILLAGER_M",
+      "earliest_codex_age": 1
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age1_meditation_gardens_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_militia_cru",
+      "role": "MILITIA",
+      "earliest_codex_age": 1
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age1_meditation_gardens_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_official_1_chi_ha_01",
+      "role": "SCHOLAR",
+      "earliest_codex_age": 1
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_infantry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_manatarms_3_chi_ha_01",
+      "role": "GAPSA",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_infantry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_manatarms_4_chi_ha_01",
+      "role": "GAPSA",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_infantry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_1_chi_ha_01",
+      "role": "SPEARMAN",
+      "earliest_codex_age": 1
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_infantry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_2_chi_ha_01",
+      "role": "SPEARMAN",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_infantry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_3_chi_ha_01",
+      "role": "SPEARMAN",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_infantry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_4_chi_ha_01",
+      "role": "SPEARMAN",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_naval_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_naval_fireship_3_chi_ha_01",
+      "role": "NAVAL_FIRESHIP",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_naval_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_naval_fishing_boat_2_chi_ha_01",
+      "role": "NAVAL_FISHING",
+      "earliest_codex_age": 1
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_naval_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_naval_turtle_ship_3_korea",
+      "role": "NAVAL_TURTLE",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_naval_chi_ha_01",
+      "squad": "unit_naval_combat_ship_2_chi_ha_01",
+      "role": "NAVAL_COMBAT_SHIP",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_naval_chi_ha_01",
+      "squad": "unit_naval_combat_warship_4_chi_ha_01",
+      "role": "NAVAL_COMBAT_WARSHIP",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_naval_chi_ha_01",
+      "squad": "unit_naval_trade_ship_3_chi_ha_01",
+      "role": "NAVAL_TRADE",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_naval_chi_ha_01",
+      "squad": "unit_naval_transport_ship_2_chi_ha_01",
+      "role": "NAVAL_TRANSPORT",
+      "earliest_codex_age": 1
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_naval_chi_ha_01",
+      "squad": "unit_naval_war_galley_3_chi_ha_01",
+      "role": "NAVAL_WAR_GALLEY",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_2_ayy",
+      "role": "HWARANG_MOUNTED",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_ayy",
+      "role": "HWARANG_MOUNTED",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age1_meditation_gardens_control_chi_ha_01_main",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_4_ayy",
+      "role": "HWARANG_MOUNTED",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age1_prefecture_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01",
+      "role": "VILLAGER_M",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_econ_market_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_trader_sbps",
+      "role": "TRADER",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_cavalry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_2_chi_ha_01",
+      "role": "HORSEMAN",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_cavalry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_chi_ha_01",
+      "role": "HORSEMAN",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_cavalry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_4_chi_ha_01",
+      "role": "HORSEMAN",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_cavalry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_knight_3_chi_ha_01",
+      "role": "LANCER",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_cavalry_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_knight_4_chi_ha_01",
+      "role": "LANCER",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_cavalry_control_chi_ha_01",
+      "squad": "unit_scout_1_chi_ha_01",
+      "role": "SCOUT",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_2_chi_ha_01",
+      "role": "ARCHER",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_3_chi_ha_01",
+      "role": "ARCHER",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_4_chi_ha_01",
+      "role": "ARCHER",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_crossbowman_3_chi_ha_01",
+      "role": "CROSSBOW",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_crossbowman_4_chi_ha_01",
+      "role": "CROSSBOW",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_handcannon_4_chi_ha_01",
+      "role": "HANDCANNON",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_militia_cmp_chi",
+      "role": "MILITIA",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_2_chi_ha_01",
+      "role": "TIGER_HUNTER",
+      "earliest_codex_age": 2
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_3_chi_ha_01",
+      "role": "TIGER_HUNTER",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_ranged_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_4_chi_ha_01",
+      "role": "TIGER_HUNTER",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age2_shaolin_temple_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_leader_baibars_ayy",
+      "role": "RIGHTEOUS_MONK",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_defense_keep_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_gapsa_dummy",
+      "role": "GAPSA",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_defense_keep_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_hwacha_dummy",
+      "role": "HWACHA",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_defense_keep_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_tiger_hunter_dummy",
+      "role": "TIGER_HUNTER",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_religious_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr013_monk_sbps",
+      "role": "MONK",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_siege_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_nest_of_bees_4_chi_ha_01",
+      "role": "HWACHA",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_siege_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_trebuchet_4_cw_chi_ha_01",
+      "role": "TREBUCHET",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_siege_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_workshop_ram_3_chi_ha_01",
+      "role": "RAM",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_siege_control_chi_ha_01",
+      "squad": "unit_bombard_4_chi_ha_01",
+      "role": "BOMBARD",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_unit_siege_control_chi_ha_01",
+      "squad": "unit_springald_3_chi_ha_01",
+      "role": "SPRINGALD",
+      "earliest_codex_age": 3
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_gapsa_dummy",
+      "role": "GAPSA",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_hwacha_dummy",
+      "role": "HWACHA",
+      "earliest_codex_age": 4
+    },
+    {
+      "producer": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01",
+      "squad": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_tiger_hunter_dummy",
+      "role": "TIGER_HUNTER",
+      "earliest_codex_age": 4
+    }
+  ],
+  "exceptions": [
+    "Female Villager/Scout profiles follow their paired squad family.",
+    "Hwarang Foot is the transformation partner available from Feudal; no separate producer icon."
+  ],
+  "policy": "Generation retains all four editorial age banks. Package coverage does not claim a late unit is trainable early; native production values are unchanged."
+}

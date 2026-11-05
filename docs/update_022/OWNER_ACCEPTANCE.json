@@ -1,0 +1,16 @@
+{
+  "date_local": "2026-11-02",
+  "timezone": "Asia/Tehran",
+  "version": "0.2.2",
+  "owner_statement": "it worked",
+  "context": "Response to the 0.2.2 documented-helper/audio-settings repair and request for cleanup plus mandatory skill rule.",
+  "interpretation": "Owner reports the delivered 0.2.2 voice repair worked.",
+  "zip_sha256": "6175fcef8fffb0b6a59c1e02f3b4524b42dc14b84d36de591b760c42936ca94e",
+  "scope_limits": [
+    "Individual unit families/ages/contexts and overlap were not enumerated",
+    "No isolated proof of which package correction restored playback",
+    "Freeze cause and whether it was specifically retested were not stated",
+    "Historical pronunciation, save/load, AI, multiplayer and performance not established"
+  ],
+  "artifact": "Existing owner-tested ZIP retained unchanged; no rebuild, installation or push."
+}

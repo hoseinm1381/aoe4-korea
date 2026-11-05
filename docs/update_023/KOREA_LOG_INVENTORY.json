@@ -1,0 +1,117 @@
+[
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_10h-56m-28s\\warnings.2026-11-02.10-56-28.txt",
+    "bytes": 377675,
+    "sha256": "2e085686892aac7763ba8f590f1a41c2f85a290434c9ccdc87e2beb68913e32b",
+    "crashed": false,
+    "last_relevant_lines": [
+      "11:00:11.698   KOREA_NATIVE_START_APPLIED capital=1 villagers=6 scout=1",
+      "11:00:11.701   KOREA_ACTIVE player=2"
+    ]
+  },
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_12h-56m-57s\\warnings.2026-11-02.12-56-57.txt",
+    "bytes": 310175,
+    "sha256": "727c378ea1790ec0dab495a9826ecdfa977ab4752d0bb70a9eef1de9117e8fee",
+    "crashed": false,
+    "last_relevant_lines": []
+  },
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_13h-51m-25s\\warnings.2026-11-02.13-51-25.txt",
+    "bytes": 350244,
+    "sha256": "7b5cdc41e97ad378750b86de9d9d5f9332339b32169851fc8b4e79e1969d9ff5",
+    "crashed": false,
+    "last_relevant_lines": [
+      "13:57:46.187   GameObj::OnFatalScarError: [C stack overflow]",
+      "13:58:55.923   GameObj::OnFatalScarError: [C stack overflow]",
+      "14:00:25.404   GameObj::OnFatalScarError: [C stack overflow]",
+      "14:07:12.739   GameObj::OnFatalScarError: [C stack overflow]"
+    ]
+  },
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_15h-42m-15s\\warnings.2026-11-02.15-42-15.txt",
+    "bytes": 310983,
+    "sha256": "9218a090e1d1afa79da10f98c2bc108824deedf8150af14da362374dd14ea82c",
+    "crashed": false,
+    "last_relevant_lines": [
+      "15:46:04.740   GameObj::OnFatalScarError: [Entity ck_horse with ID 1000006269 does not have a player owner. Use World_OwnsEntity to check that the entity has an owner before calling this function.",
+      "15:46:11.592   GameObj::OnFatalScarError: [Entity ck_horse with ID 1000006269 does not have a player owner. Use World_OwnsEntity to check that the entity has an owner before calling this function.",
+      "15:46:13.937   GameObj::OnFatalScarError: [Entity ck_horse with ID 1000006269 does not have a player owner. Use World_OwnsEntity to check that the entity has an owner before calling this function."
+    ]
+  },
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_18h-14m-39s\\warnings.2026-11-02.18-14-39.txt",
+    "bytes": 403017,
+    "sha256": "4c21d99fd907668d29a796510b22ab4405713d06aea0a1497458dd3d06abc86f",
+    "crashed": false,
+    "last_relevant_lines": [
+      "18:21:20.527   KOREA_NATIVE_START_APPLIED capital=1 villagers=6 scout=1",
+      "18:21:20.532   KOREA_VOICE_STARTED key=korea; queued cues require the normal Garrison audio backend",
+      "18:21:20.536   KOREA_ACTIVE player=1",
+      "18:21:20.755   KOREA_VOICE_BOUND role=VILLAGER_M blueprint=748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_villager_1_chi_ha_01 pbgid=2147483095",
+      "18:21:20.759   KOREA_VOICE_BOUND role=SCOUT blueprint=748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532 pbgid=35558824",
+      "18:21:21.270   KOREA_VOICE_QUEUED role=VILLAGER_M age=1 event=select",
+      "18:21:22.776   KOREA_VOICE_QUEUED role=SCOUT age=1 event=move",
+      "18:21:34.534   KOREA_VOICE_QUEUED role=VILLAGER_M age=1 event=move",
+      "18:21:36.759   KOREA_VOICE_BOUND role=MILITIA blueprint=748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_militia_cru pbgid=2147483068",
+      "18:21:36.760   KOREA_VOICE_BOUND role=SCHOLAR blueprint=748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_official_1_chi_ha_01 pbgid=2147483069",
+      "18:21:42.020   KOREA_VOICE_QUEUED role=VILLAGER_M age=2 event=select",
+      "18:21:44.864   KOREA_VOICE_QUEUED role=SCHOLAR age=2 event=move",
+      "18:21:50.253   KOREA_VOICE_QUEUED role=VILLAGER_M age=2 event=select",
+      "18:21:52.756   KOREA_VOICE_BOUND role=SPEARMAN blueprint=748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_1_chi_ha_01 pbgid=2147483090",
+      "18:21:53.519   KOREA_VOICE_QUEUED role=SPEARMAN age=2 event=select"
+    ]
+  },
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_18h-34m-56s\\warnings.2026-11-02.18-34-56.txt",
+    "bytes": 437536,
+    "sha256": "4a618c08ce951c7939d57a8df9ab1a097b2e2ff96293ab70263c3657d1cc31e3",
+    "crashed": false,
+    "last_relevant_lines": [
+      "18:40:59.001   GameObj::OnFatalScarError: [data:scar\\winconditions\\regicide.scar:421: attempt to index a nil value (field '?')]"
+    ]
+  },
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_18h-48m-06s\\warnings.2026-11-02.18-48-06.txt",
+    "bytes": 292954,
+    "sha256": "4c8bd24e667d84644b9235853b68da8d43cc859625e02ced8c9bd437356e7392",
+    "crashed": false,
+    "last_relevant_lines": []
+  },
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_19h-58m-00s\\warnings.2026-11-02.19-58-00.txt",
+    "bytes": 283751,
+    "sha256": "a4ec07d1225b9dc8570ad62827d6c376ed833268bb55f8a896767483f0fd29f5",
+    "crashed": false,
+    "last_relevant_lines": [
+      "20:00:27.148   GameObj::OnFatalScarError: [failed to import 'garrison/garrison.scar', file failed to open",
+      "20:00:31.851   GameObj::OnFatalScarError: [Error loading script file (data+15:scar\\garrison\\korea\\dispatcher.scar).  Check script syntax!]"
+    ]
+  },
+  {
+    "path": "C:\\Users\\RS\\Documents\\My Games\\Age of Empires IV\\LogFiles\\AoE4_11_02_20h-01m-34s\\warnings.2026-11-02.20-01-34.txt",
+    "bytes": 292889,
+    "sha256": "30a0c778d321cc33e1ad9667dc284cad7dde3cf957ab55137b6ae2365751cfac",
+    "crashed": false,
+    "last_relevant_lines": [
+      "20:04:38.513   KOREA022_VOICE t=45 phase=roster",
+      "20:04:38.513   KOREA022_VOICE t=45 phase=selection",
+      "20:04:38.513   KOREA022_VOICE t=45 phase=reactions",
+      "20:04:38.513   KOREA022_VOICE t=45 phase=complete",
+      "20:04:38.513   KOREA022_GAMEPLAY t=45 phase=begin",
+      "20:04:38.513   KOREA022_GAMEPLAY t=45 phase=landmarks",
+      "20:04:38.514   KOREA022_GAMEPLAY t=45 phase=economy",
+      "20:04:38.515   KOREA022_GAMEPLAY t=45 phase=effects",
+      "20:04:38.515   KOREA022_GAMEPLAY t=45 phase=timers",
+      "20:04:38.515   KOREA022_GAMEPLAY t=45 phase=ui",
+      "20:04:38.515   KOREA022_GAMEPLAY t=45 phase=complete",
+      "20:04:40.022   KOREA_VOICE_QUEUED role=VILLAGER_M age=1 event=select",
+      "20:04:46.261   KOREA_VOICE_QUEUED role=VILLAGER_M age=2 event=select",
+      "20:04:50.762   KOREA_VOICE_BOUND role=SCHOLAR blueprint=748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_official_1_chi_ha_01 pbgid=2147483069",
+      "20:04:51.775   KOREA_VOICE_QUEUED role=VILLAGER_M age=2 event=select",
+      "20:04:53.270   KOREA_VOICE_QUEUED role=VILLAGER_M age=2 event=select",
+      "20:04:58.265   KOREA_VOICE_QUEUED role=SCHOLAR age=2 event=select",
+      "20:05:06.012   KOREA_VOICE_QUEUED role=SCHOLAR age=2 event=select"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "status": "Source and native-data safety audit passed; random native crash cause unconfirmed",
+  "owner_report": "Random single-player crashes during age-up, ordinary play and after unit creation; no save/load trigger.",
+  "supplied_log": "C:/Users/RS/Documents/My Games/Age of Empires IV/warnings.log",
+  "supplied_log_scope": "Chagatai Khanate playtest, not evidence of a Korea crash. User explicitly confirmed this.",
+  "other_session_false_positives": {
+    "13h-51m": "C stack overflow in Chagatai playtest, not a Korea diagnosis",
+    "15h-42m": "World-owned ck_horse owner dereference in Chagatai native_units/native_runtime, not Korea code",
+    "18h-34m": "regicide.scar nil index while Chagatai win condition active, not Korea code"
+  },
+  "current_korea_evidence": "20h-01m session selects native Standard, initializes Korea, completes every logged voice/gameplay phase through second 45 and queues age-2 scholar/villager responses; its retained log ends without fatal error/stack or application-crash marker. This does not disprove the owner's crash report.",
+  "windows_event_review": "Only one matching Application Error event 1000 on November 2: 15:41:02, RelicCardinal 17.0.12182.0, ntdll.dll offset 0x35ebd, exception c0000005. Later WER event 1001 timestamps repeat this same report ID, so they are not new correlated Korea crash times. No Korea-specific fault attribution or hardware/driver cause established. Compact exact fields retained in WINDOWS_APP_ERRORS.json.",
+  "official_API": "AoE4 MCP doctor ready/sanitized, actual standalone project scanned. Fourteen current authored SCAR files checked. Apparent unknown and/or/not are Lua keywords misidentified by the lexical checker; no unresolved engine calls. Player_GetEntitiesEGroup and Player_GetAbilityBPCost are exact official API entries at Essence_ScarFunctions.api:1285 and :1278 despite low usage-count scores.",
+  "static_result": "15 current SCAR files including the changed complete bank validate with zero errors; warnings triaged below. Skill smoke test passed.",
+  "warning_triage": {
+    "Player_GetSquads_lifetime": "Borrowed engine-owned observer groups must not be destroyed; Korea only destroys its own uniquely created selection/temp groups.",
+    "PLAYERS_import": "cardinal.scar is imported by the sole KoreaIndependent dispatcher before project modules.",
+    "Garrison_audio_calls": "Defined in matching packaged unmodified 0.1.13 helper and documented installed guide, tested using real MessagePack/session helper, not engine SCAR API calls.",
+    "Rule_RemoveSquadEvent": "Official rulesystem.scar:279 wrapper Rule_RemoveSquadEvent(f,squad) calls EventRule_RemoveSquadEvent(f,squad), also used at :288. Conservative only-valid-current-handle gate; offline symbol index gap."
+  },
+  "lifecycle_and_cleanup": {
+    "module": "Unique KoreaIndependent registration; guarded Start/ending flags; Standard owns army/victory.",
+    "rules": "One gameplay interval at 1 second, one local voice interval at 0.25 seconds, paired removal; no standalone one-shot trigger at second 35.",
+    "events": "Gameplay global events removed on cleanup; voice command/death callbacks removed for valid tracked squads, global local-player event paired. Dead-handle squad callbacks have engine-owned lifetime.",
+    "handles": "Local voice tracker validates numeric ID, current handle, life, world ownership, local owner and blueprint; delayed death rejects recycled IDs. Gameplay delayed barrage resolves entity ID and checks ownership/life before commands.",
+    "groups": "Created local groups have destruction sites; borrowed player observers left engine-owned.",
+    "modifiers": "Player/entity persistent modifiers tracked for cleanup; timed buffs use engine durations and exact handle removal, with duplicate-removal guard.",
+    "presentation_boundary": "Voice/UI selection, camera and local-player decisions do not grant resources, spawn entities, choose gameplay offers or change simulation values. Research RNG uses synchronized official wrapper.",
+    "limits": "No native test of all death/conversion/age/landmark/large-army interleavings; no crash-free claim."
+  },
+  "regression_evidence": "45 retained current behavior tests including real helper serialization/session recovery, first-minute phase replay, deaths/capture, barrages and research/refunds; four additional rapid-roster/age/recycled-ID/world-owner/duplicate-start stress cases. Source proof only.",
+  "native_data_evidence": "12 current actual native model/skeleton/LOD/material/texture-mask/player-state-schema checks passed. Supported native SDK validates all 527 typed attribute tables during the fresh build. Traditional XML tuning validator does not qualify this maintained typed-native standalone project; no speculative XML generated.",
+  "source_mutation": "No evidence-backed new gameplay crash fix identified. Preserve accepted gameplay/controller/art/native fields; 0.2.3 changes dialogue encoding and bank paths only. Do not introduce guessed guards, APIs, timing changes or rework mechanics to claim a fix.",
+  "remaining_blocker": "Need a warnings/scarlog or crash report captured immediately after a Korea crash, with the active package/session identity. Current supplied and explicit fatal-error logs identify a different mod. Native reproduction was not run and the owner's game was not interrupted.",
+  "native_runtime_qualified": false,
+  "crash_resolved": false,
+  "save_load_AI_multiplayer_performance_qualified": false
+}

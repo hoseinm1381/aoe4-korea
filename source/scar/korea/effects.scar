@@ -26,7 +26,9 @@ function KoreaEffects_Upgrade(player, context)
     end
     if context.upgrade == Korea_BP("upgrade", "upgrade_treasure_tower_tem") then
         -- The donor's follow-up is automatic and has no separate Literature payment.
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("upgrade.automatic_followup.before",nil) end -- KOREA024_DIAGNOSTIC
         Player_CompleteUpgrade(player.id, Korea_BP("upgrade", "upgrade_royal_edict_hre"))
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("upgrade.automatic_followup.after",nil) end -- KOREA024_DIAGNOSTIC
     end
 end
 
@@ -41,6 +43,7 @@ function KoreaEffects_Damage(context)
     end
     if not spear then return end
     local id = Entity_GetID(context.victim)
+    if KoreaDiag024_Mark then KoreaDiag024_Mark("damage.spear_debuff.before",id) end -- KOREA024_DIAGNOSTIC
     local previous = KoreaState.debuffs[id]
     if previous then for _, handle in ipairs(previous.handles) do Korea_RemoveModifier(handle) end end
     local handles = {}
@@ -61,9 +64,15 @@ function KoreaEffects_Transform(context, player, toArcher)
             local ebp, sbp = Korea_BP("ebps", target), Korea_BP("sbps", target)
             local health = Entity_GetHealthPercentage(entity)
             local squad = Entity_GetSquad(entity)
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("transform.entity_convert.before",target) end -- KOREA024_DIAGNOSTIC
             Entity_ConvertBlueprint(entity, ebp)
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("transform.entity_convert.after",target) end -- KOREA024_DIAGNOSTIC
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("transform.squad_convert.before",target) end -- KOREA024_DIAGNOSTIC
             Squad_ConvertBlueprint(squad, sbp)
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("transform.squad_convert.after",target) end -- KOREA024_DIAGNOSTIC
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("transform.set_health.before",health) end -- KOREA024_DIAGNOSTIC
             Entity_SetHealth(entity, health)
+            if KoreaDiag024_Mark then KoreaDiag024_Mark("transform.set_health.after",health) end -- KOREA024_DIAGNOSTIC
             -- World entity identity survives conversion, as does its kill ledger.
             return
         end
@@ -99,17 +108,23 @@ function KoreaEffects_Barrage(context, player, keep)
     for _, effect in ipairs({{"weapon_burst_rate_of_fire_modifier", keep and 10 or 50},
         {"range_weapon_modifier", keep and 20 or 16}}) do
         local modifier = Modifier_Create(MAT_Weapon, effect[1], MUT_Multiplication, false, effect[2], weapon)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.modifier_apply.before",nil) end -- KOREA024_DIAGNOSTIC
         local handle = Modifier_ApplyToEntity(modifier, entity, 7)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.modifier_apply.after",nil) end -- KOREA024_DIAGNOSTIC
         if handle ~= nil then table.insert(handles, handle) end
     end
     local group = keep and EGroup_CreateUnique() or SGroup_CreateUnique()
     if keep then
         EGroup_Add(group, entity)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.entity_attack.before",nil) end -- KOREA024_DIAGNOSTIC
         LocalCommand_EntityPos(player.id, group, CMD_AttackForced, context.target)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.entity_attack.after",nil) end -- KOREA024_DIAGNOSTIC
         EGroup_Destroy(group)
     else
         SGroup_Add(group, Entity_GetSquad(entity))
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.squad_attack.before",nil) end -- KOREA024_DIAGNOSTIC
         LocalCommand_SquadPos(player.id, group, SCMD_Attack, context.target, false)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.squad_attack.after",nil) end -- KOREA024_DIAGNOSTIC
         SGroup_Destroy(group)
     end
     KoreaState.barrages[id] = {id = id, player = player, keep = keep, handles = handles,
@@ -127,7 +142,9 @@ local function stopBarrage(entity, record)
         if Entity_GetActiveCommand(entity) ~= CMD_AttackForced then return end
         local group = EGroup_CreateUnique()
         EGroup_Add(group, entity)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.entity_stop.before",record.id) end -- KOREA024_DIAGNOSTIC
         LocalCommand_Entity(record.player.id, group, CMD_Stop)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.entity_stop.after",record.id) end -- KOREA024_DIAGNOSTIC
         EGroup_Destroy(group)
     else
         local squad = Entity_GetSquad(entity)
@@ -137,7 +154,9 @@ local function stopBarrage(entity, record)
             or Squad_HasAcceptedCommands(squad) then return end
         local group = SGroup_CreateUnique()
         SGroup_Add(group, squad)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.squad_stop.before",record.id) end -- KOREA024_DIAGNOSTIC
         LocalCommand_Squad(record.player.id, group, SCMD_Stop, false)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.squad_stop.after",record.id) end -- KOREA024_DIAGNOSTIC
         SGroup_Destroy(group)
     end
 end
@@ -191,7 +210,9 @@ function KoreaEffects_Timers(now)
     table.sort(barrageIDs)
     for _, id in ipairs(barrageIDs) do
         local record = KoreaState.barrages[id]
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.resolve_entity.before",id) end -- KOREA024_DIAGNOSTIC
         local entity = Korea_Entity(id)
+        if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.resolve_entity.after",id) end -- KOREA024_DIAGNOSTIC
         local alive = Korea_Alive(entity)
         local lost = alive and Entity_GetPlayerOwner(entity) ~= record.player.id
         local ruined = alive and record.keep and not Korea_Functioning(entity)

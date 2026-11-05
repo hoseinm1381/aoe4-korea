@@ -1,0 +1,17 @@
+{
+  "profile": "RAM",
+  "file": "authoring\\voices020\\qualification-references\\RAM.wav",
+  "sha256": "502e3cd0d369407e0a6ec81335a0f88c8978b2e9c051ac8d4660af0e90eafb00",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.48,
+  "rms": 0.05743763595819473,
+  "raw_peak": 0.51171875,
+  "generation_seconds": 16.648,
+  "seed": 2026110220,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, broad rough bass, strong siege crew chief, short practical calls, forceful steady delivery. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

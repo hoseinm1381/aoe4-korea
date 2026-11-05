@@ -1,0 +1,309 @@
+[
+  {
+    "file": "source/scar/korea/core.scar",
+    "before_sha256": "7deb2fbed3002feedff6bc346f3d60eb3e207716a0d652a299c8f24f83f0bd2a",
+    "after_sha256": "d82b1ef173211c2ac420860f7af03d251cb424b0e118021b94f9603a09f16b33",
+    "sites": [
+      {
+        "pattern": "local full = KoreaCatalog[category]",
+        "label": "bp.cache_miss",
+        "hits": 1
+      },
+      {
+        "pattern": "local modifier = Modifier_Create",
+        "label": "modifier.create",
+        "hits": 2
+      },
+      {
+        "pattern": "local handle = Modifier_ApplyTo",
+        "label": "modifier.apply",
+        "hits": 2
+      },
+      {
+        "pattern": "Modifier_Remove(handle)",
+        "label": "modifier.remove",
+        "hits": 1
+      },
+      {
+        "pattern": "Player_GetEntitiesEGroup(player.id, group)",
+        "label": "entities.snapshot",
+        "hits": 1
+      },
+      {
+        "pattern": "local entity = EGroup_GetEntityAt(group, i)",
+        "label": "entities.chunk",
+        "hits": 1
+      },
+      {
+        "pattern": "local squad = SGroup_GetSpawnedSquadAt(group, i)",
+        "label": "squads.chunk",
+        "hits": 1
+      },
+      {
+        "pattern": "local entity = Squad_GetFirstEntity(squad)",
+        "label": "squads.first_entity",
+        "hits": 1
+      }
+    ],
+    "exact_original_bytes_after_removing_diagnostic_lines": true
+  },
+  {
+    "file": "source/scar/korea/effects.scar",
+    "before_sha256": "2f4914822ffc62d15dff2742fbd12cd89471e91346f148c07283aec7dc49aeb8",
+    "after_sha256": "ffbcb6a0fa58ce673d3ce4ac3c221d2fa188a4a7e1af6bd55911b2690fffd34c",
+    "sites": [
+      {
+        "pattern": "Entity_ConvertBlueprint(entity, ebp)",
+        "label": "transform.entity_convert",
+        "hits": 1
+      },
+      {
+        "pattern": "Squad_ConvertBlueprint(squad, sbp)",
+        "label": "transform.squad_convert",
+        "hits": 1
+      },
+      {
+        "pattern": "Entity_SetHealth(entity, health)",
+        "label": "transform.set_health",
+        "hits": 1
+      },
+      {
+        "pattern": "local previous = KoreaState.debuffs[id]",
+        "label": "damage.spear_debuff",
+        "hits": 1
+      },
+      {
+        "pattern": "local handle = Modifier_ApplyToEntity",
+        "label": "barrage.modifier_apply",
+        "hits": 1
+      },
+      {
+        "pattern": "LocalCommand_EntityPos(",
+        "label": "barrage.entity_attack",
+        "hits": 1
+      },
+      {
+        "pattern": "LocalCommand_SquadPos(",
+        "label": "barrage.squad_attack",
+        "hits": 1
+      },
+      {
+        "pattern": "LocalCommand_Entity(record.player.id",
+        "label": "barrage.entity_stop",
+        "hits": 1
+      },
+      {
+        "pattern": "LocalCommand_Squad(record.player.id",
+        "label": "barrage.squad_stop",
+        "hits": 1
+      },
+      {
+        "pattern": "Player_CompleteUpgrade(",
+        "label": "upgrade.automatic_followup",
+        "hits": 1
+      },
+      {
+        "pattern": "local entity = Korea_Entity(id)",
+        "label": "barrage.resolve_entity",
+        "hits": 1
+      }
+    ],
+    "exact_original_bytes_after_removing_diagnostic_lines": true
+  },
+  {
+    "file": "source/scar/korea/economy.scar",
+    "before_sha256": "a0cbaf044dcd554a45a52277a903363abf5fd8b2830eb0f671d5e98260123d51",
+    "after_sha256": "c8c0952f289b1509455c96aa26010d0c0f5ea489e918a5604f36d37bc531aace",
+    "sites": [
+      {
+        "pattern": "World_GetNeutralEntitiesNearPoint(",
+        "label": "seowon.neutral_scan",
+        "hits": 1
+      },
+      {
+        "pattern": "Entity_QueueProductionItemByPBG(",
+        "label": "seowon.queue_reward",
+        "hits": 1
+      },
+      {
+        "pattern": "player.nextAcademy = now + 15",
+        "label": "economy.academy_income",
+        "hits": 1
+      },
+      {
+        "pattern": "player.nextHangul = now + 6",
+        "label": "economy.hangul_income",
+        "hits": 1
+      },
+      {
+        "pattern": "player.nextWater = now + 30",
+        "label": "economy.water_income",
+        "hits": 1
+      },
+      {
+        "pattern": "local entity = Korea_Entity(academy.id)",
+        "label": "economy.resolve_academy",
+        "hits": 1
+      },
+      {
+        "pattern": "Entity_SetStateModelFloat(entity,",
+        "label": "economy.state_write",
+        "hits": 1
+      },
+      {
+        "pattern": "local supervised = Entity_GetStateModelBool",
+        "label": "economy.supervision_read",
+        "hits": 1
+      }
+    ],
+    "exact_original_bytes_after_removing_diagnostic_lines": true
+  },
+  {
+    "file": "source/scar/korea/landmarks.scar",
+    "before_sha256": "4b2235b24e00184063596f79c8b2350f1ca2464fe985e812fd7e921a21f1494d",
+    "after_sha256": "d4ca7e873861bff6e5e3d3924e365d46c3f1a1cf44f2569bb2926b0179b996a3",
+    "sites": [
+      {
+        "pattern": "local squad = Squad_CreateAndSpawnToward",
+        "label": "guards.spawn",
+        "hits": 1
+      },
+      {
+        "pattern": "Misc_SetSquadSelectable(",
+        "label": "guards.selectability",
+        "hits": 1
+      },
+      {
+        "pattern": "if Entity_QueueProductionItemByPBG(",
+        "label": "landmark.queue_reward",
+        "hits": 1
+      },
+      {
+        "pattern": "World_GetSquadsNearPoint(",
+        "label": "guards.enemies",
+        "hits": 1
+      },
+      {
+        "pattern": "World_GetEntitiesNearPoint(",
+        "label": "guards.buildings",
+        "hits": 1
+      },
+      {
+        "pattern": "Cmd_AttackMove(",
+        "label": "guards.attack_move",
+        "hits": 2
+      },
+      {
+        "pattern": "Cmd_Move(",
+        "label": "guards.patrol_move",
+        "hits": 1
+      },
+      {
+        "pattern": "if World_DistancePointToPoint(Entity_GetPosition(palace)",
+        "label": "palace.dead_victim_position",
+        "hits": 1
+      }
+    ],
+    "exact_original_bytes_after_removing_diagnostic_lines": true
+  },
+  {
+    "file": "source/scar/korea/research.scar",
+    "before_sha256": "fe6646b3351af9a5fee0a4347560957dc265797a1fd3a3d4d2281c7afa550b05",
+    "after_sha256": "4249b10d5639cc037fb1633c385d15313513c1365e2f20291c9145311bbb5f42",
+    "sites": [
+      {
+        "pattern": "local route = KoreaResearchRoutes[key(context.ability)]",
+        "label": "research.ability_route",
+        "hits": 1
+      },
+      {
+        "pattern": "if not Entity_QueueProductionItemByPBG(",
+        "label": "research.queue_upgrade",
+        "hits": 1
+      },
+      {
+        "pattern": "local costs, transaction = KoreaResearchCore.Settle",
+        "label": "research.settlement",
+        "hits": 1
+      }
+    ],
+    "exact_original_bytes_after_removing_diagnostic_lines": true
+  },
+  {
+    "file": "source/scar/korea/ui.scar",
+    "before_sha256": "b4354db54d133f5ead85b13f6cd596be7f3d37c4db39ca3476e39d7a4dd044f3",
+    "after_sha256": "a2c0fb30160d822ceb67d82bd0d7087aaee6715b08c09b8c884f014bef480300",
+    "sites": [
+      {
+        "pattern": "UI_SetDataContext(",
+        "label": "ui.publish",
+        "hits": 1
+      },
+      {
+        "pattern": "local info = BP_GetUpgradeUIInfo",
+        "label": "ui.upgrade_info",
+        "hits": 1
+      }
+    ],
+    "exact_original_bytes_after_removing_diagnostic_lines": true
+  },
+  {
+    "file": "source/scar/korea/voices_020.scar",
+    "before_sha256": "390e93a2f9fe083aa9331f9977454207eea8666abbc44af3185b58ff002910ac",
+    "after_sha256": "32fae580a3f104856209679665c9215141cf95240bd4946e132382fd55e362f3",
+    "sites": [
+      {
+        "pattern": "audio.pulse(now)",
+        "label": "voice.pulse",
+        "hits": 1
+      },
+      {
+        "pattern": "Misc_GetSelectedSquads(",
+        "label": "voice.selection",
+        "hits": 1
+      },
+      {
+        "pattern": "Rule_AddSquadEvent(",
+        "label": "voice.register_callback",
+        "hits": 2
+      },
+      {
+        "pattern": "Rule_RemoveSquadEvent(",
+        "label": "voice.remove_callback",
+        "hits": 2
+      },
+      {
+        "pattern": "if not audio.play(",
+        "label": "voice.submit",
+        "hits": 1
+      },
+      {
+        "pattern": "S.sent=(S.sent or 0)+1",
+        "label": "voice.submit_succeeded",
+        "hits": 1
+      },
+      {
+        "pattern": "if now>=S.nextScan then",
+        "label": "voice.roster",
+        "hits": 1
+      },
+      {
+        "pattern": "for id,r in pairs(S.actors) do",
+        "label": "voice.reactions",
+        "hits": 2
+      },
+      {
+        "pattern": "local current=activity(r.squad)",
+        "label": "voice.activity",
+        "hits": 1
+      }
+    ],
+    "exact_original_bytes_after_removing_diagnostic_lines": true
+  },
+  {
+    "file": "source/scar/garrison/korea/dispatcher.scar",
+    "before_sha256": "660adf77b57ba1bb25d861ca153ed204b941484b3d3b73a2683254194847ab45",
+    "after_sha256": "05a99f6d692c20a99a3dc3f988834632f957b50901a5bf47cbecf7ebe84ab47d",
+    "exact_original_bytes_after_removing_diagnostic_lines": true
+  }
+]

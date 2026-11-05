@@ -1,0 +1,17 @@
+{
+  "profile": "HORSEMAN",
+  "file": "authoring\\voices020\\qualification-references\\HORSEMAN.wav",
+  "sha256": "f4076e29fbbaa4d5f4977e4e225b2ae1178e1dae8cbfa18c7c675df6bc02a59f",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 4.72,
+  "rms": 0.08044473081827164,
+  "raw_peak": 0.63671875,
+  "generation_seconds": 13.344,
+  "seed": 2026110205,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Young adult Korean man, open warm tenor, confident cavalry rider, brisk energetic breath support. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

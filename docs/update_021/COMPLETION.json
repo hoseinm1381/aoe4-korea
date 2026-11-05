@@ -1,0 +1,58 @@
+{
+  "utc": "2026-11-02T08:43:34.527304+00:00",
+  "status": "0.2.1 local package built and verified; client audio startup and native acceptance pending",
+  "zip_path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\release\\Koreans-Garrison-0.2.1.zip",
+  "zip_bytes": 145866303,
+  "zip_sha256": "275dd0ae0ab008b19c3155560393bccaf018167186402e3bff4ddb6d282f2011",
+  "archive_bytes": 318217593,
+  "archive_sha256": "eff3b6199cf4f22159684253c7d08346f62b47b50f97e55fbc94e422f79bc526",
+  "identity": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "race_bundle_audio_key": "korea",
+  "native_starting_sheep": 5,
+  "default_start": "6 Villagers, 1 Scout, 5 sheep; existing resources/research allowances unchanged",
+  "campaign_start": "Existing six Villagers plus five sheep; original no-Scout variant retained",
+  "voice_routing": "50 compiled PBG-ID mappings, known-owner names; local cosmetic dispatcher follows Berber API route",
+  "retained_audio": {
+    "dialogue": 7632,
+    "efforts": 827,
+    "profiles": 32,
+    "age_banks": 128,
+    "changed_audio_files": 0
+  },
+  "regressions": 39,
+  "baseline_new_regression_replay": "7 checks; original 0.2.0 fails 5. Existing foreign-owner rejection and captured-unit startup pass.",
+  "static_check": "0 errors; external/project API warnings resolved by current official MCP evidence, inspected imports and installed Garrison source.",
+  "native_validation_tables": 527,
+  "native_members": 10279,
+  "native_full_readback_crc_zip": "pass",
+  "packaged_media_bytes": 298524568,
+  "native_inputs": 9734,
+  "editable_inputs": 9612,
+  "rollback_020": {
+    "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\voices021-baseline\\7aeab3dfd39c\\Koreans-Garrison-0.2.0.zip",
+    "bytes": 145863445,
+    "sha256": "7aeab3dfd39c06000b7c925726b273fbeb359c8442cb746be4b440ac273b631a"
+  },
+  "rollback_016_untouched": true,
+  "client_failure": "Observed 0.2.0 session had audio.korea transport none/no_consumer after Garrison startup readiness failure. Client recognized audio in both Korea and Berber. A mod cannot start the missing client playback process.",
+  "required_next_test": "Exit the existing game normally, import the new ZIP and start a fresh successful normal Garrison Play session; verify voices and five sheep. If launch fails, do not treat the still-running game as a successful audio session.",
+  "pending": [
+    "Fresh client import and successful launch",
+    "Audible select/move/attack/work voices, no original overlap and five actual starting sheep",
+    "Historical/native-speaker pronunciation review",
+    "Save/load, AI, multiplayer and measured performance"
+  ],
+  "not_performed": [
+    "Game/client installation, restart or interruption",
+    "GitHub push/tag/publication",
+    "Changes to other civilizations",
+    "Broad drive cleanup"
+  ],
+  "cleanup": {
+    "logical_bytes": 2055557553,
+    "report": "docs/STAGING_CLEANUP.json",
+    "scope": "Only verified reproducible current build staging; native/master inputs, weights, exact rollbacks and compact diagnostic evidence retained."
+  },
+  "post_cleanup_verification": "POST_CLEANUP_VERIFICATION.json"
+}

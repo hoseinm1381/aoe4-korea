@@ -1,0 +1,32 @@
+{
+  "source_contracts": [
+    "Installed 0.1.13 guide/garrison-audio.html: embedded clips, current helper, session/pulse/play/stop, audio/events.json speech bus",
+    "Installed guide/garrison-api.html: named pipe, bounded 256-message outbound queue, missing consumer drops messages, client owns backend startup",
+    "Installed normal client START-HERE.md: matching components, one player per archive with audio, fresh-process test boundary"
+  ],
+  "packaged_audio_clips": 8459,
+  "baseline_runtime_helper_member_present": false,
+  "022_helper_sha256": "d52f13f4f3e77dd23b6ad12b708b3a10399337398936c7f3c14b378e3d6d5966",
+  "all_speech_owner_gameplay_and_audio_payloads_unchanged": true,
+  "shared_client_blocker": {
+    "client": "0.1.13",
+    "last_successful_audio_game_pid": 5232,
+    "last_successful_backend_pid": 11312,
+    "failed_korea_game_pid": 26976,
+    "failed_berber_game_pid": 19724,
+    "channels": [
+      "audio.korea",
+      "audio.berbers"
+    ],
+    "transport": "none",
+    "reason": "no_consumer",
+    "audio_backends_automatically_started_in_failed_sessions": false,
+    "client_message": "civilization service registration, attribute retention or resource mount missed native startup",
+    "not_proven": [
+      "four-enabled-mods causal hypothesis",
+      "codec cause",
+      "system/GPU cause for current 35-second freeze"
+    ]
+  },
+  "owner_feedback": "Current Berber also silent. Only-Berber isolation and in-game acceptance unavailable due to another bug. Do not treat Berber as accepted source; use installed guide."
+}

@@ -1,0 +1,1447 @@
+{
+  "files": [
+    {
+      "member": "attrib/racebps/korea.rgd",
+      "before_native_sha256": "c72bcf7080d02eaea1cfc5dfaeb216dbd97198e7b4f98e7e2c292d329bfd741e",
+      "after_native_sha256": "b8dac8b5d2043f0ba0d9b68c07d6b76b47c3e63b03d497c877a4013097ed480e",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v0073566926b12b7.rgd",
+      "before_native_sha256": "6348b43e5a33ebe689650c0d3b5ea5befcdcd5cf0e3d5369ba4decb0245e8286",
+      "after_native_sha256": "153e8d0a02b858adcfa116585faf89be38ea9b81e0057d96412086b7b599d00b",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v0277a50eeb62769.rgd",
+      "before_native_sha256": "9b432e8fed333f7cd1526fbbde06eda5b4f86a12d4b8e797cfa6518d68ea4c6b",
+      "after_native_sha256": "e4a8fb44b217137b02dc96172852ed55a7af15cfcc96acd5080933191384d7e8",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v1bf3a32977c4925.rgd",
+      "before_native_sha256": "a02444c783fc984273192a994c9db8823118019f8d4fa3a64520c6af9474bae8",
+      "after_native_sha256": "74bdc3d0a65f25da785e211043a7fabe1d511da6c9d3a62834ae531bbf36cdad",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v26cb069cf1f61a9.rgd",
+      "before_native_sha256": "bfb76d8b57ddd5c891cc5895bae41a9adec07061327f046cb2e5c91cd1066f72",
+      "after_native_sha256": "0c0dee4d07c5ca91b6c9f64a994d87b7d7ddb184cf869b7082a79458b9e6d366",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v41b699970804a44.rgd",
+      "before_native_sha256": "4073a4c06052cd34e2e11b2c0d5b99b7e306562f11a2a2661c8d82df726f0ca3",
+      "after_native_sha256": "9b7e34334c5b2bc9c63d76326c75f79deaa54e6b05b04e64cb8018e9cccfa6c1",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v4c3a66bbed7e0b4.rgd",
+      "before_native_sha256": "da1443496d26ae7c1a707d417a93091076ead3477d03c52e21fc80548afc869c",
+      "after_native_sha256": "c7c26d247c8b93d8924c36ecb139429f9d39d2586331001bdf8b66e652bb8568",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v57d83781380e234.rgd",
+      "before_native_sha256": "d121e944aa4c12456da27addfbab451b357fb84fe83cd99aa77118a167bfef2b",
+      "after_native_sha256": "ffa9075fe0ebac4d0861fd6945cece49fd6d860a65436317c6a9249f8b1e84de",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v61a1d2cfe52e9ff.rgd",
+      "before_native_sha256": "ce09051692aac424c644c5ca25cbe0a7bd72740c413821312bfdc1c5cd55a4cc",
+      "after_native_sha256": "bc12167cbe09bcbbc1dfbbc2f2a2fd6de15640e0e2aabc319f6bb308b2f5cf79",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v67f504f4f2df14a.rgd",
+      "before_native_sha256": "29110b6dc58090f521797f7c2cab230ba351f575fd58b1afc28e44cc3b8350a5",
+      "after_native_sha256": "71d5de2cb1e55f7151492af43c874fe5beead9c7ac0b2eae6cfcf5f980afadba",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v764b89bcaa2877a.rgd",
+      "before_native_sha256": "3f6326c4b4ec317f86ed0bbe1828f5385218aee51345ab7b0ee5cef9155ec5f8",
+      "after_native_sha256": "30ab361091eebfd4db79d1830cce3dae9eb5710c8694dd819828c828dcc2accd",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v7c801db78ef2a14.rgd",
+      "before_native_sha256": "28093decb99dd011e594a3b38f72c69a97aa5dec33f5807d8a522003e66307a6",
+      "after_native_sha256": "b24908f967461deee1ad2ea7e3ec64d03b67b01f3fe51370927993bc341533f9",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v7e7cbd9015e6295.rgd",
+      "before_native_sha256": "b1752c0884e50c0c250d710584b2bdae335ac74713f948a49fcdc3d145a33c09",
+      "after_native_sha256": "8ad40382f5e82ca7051bfd273405a34fa0aaa3fb23befc2244fdcd942c8a10ef",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v820b2efdbc597b4.rgd",
+      "before_native_sha256": "43643a8010c0fd2cf9140eee5670d803d47ef4e07e71b7d320b1d20b38eb3bff",
+      "after_native_sha256": "f21af88ac6b5b2fea67e24543d543b43a54714410c5d20e8cf2885b79c7978a5",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v82c9a01e1c07b53.rgd",
+      "before_native_sha256": "5ca78e8ecf0696caf4674681ac3e3423f8d36f2295e1501e4d6d70413c032830",
+      "after_native_sha256": "4e21fc8cd8fe39d323b718031e45cf35cd3d0b3683071606fcb7a4e821b548a9",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v89d8b50741f2366.rgd",
+      "before_native_sha256": "77d7e200e953a448825c3801445846e2075a7a7b91888052e499b23023507d0f",
+      "after_native_sha256": "4567a8e6bbafa292170d29960d86f4b962902a56a651b46954068ca20f7ab1da",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v94c78842ff641fb.rgd",
+      "before_native_sha256": "b9d15eb91177d7bc67fe8f6c0dd11af2110f3d12e470d1e417f0addcca5c780e",
+      "after_native_sha256": "9f1a41fc3b678b3e4314ec232feaa11afc5732c1f29c216ef44685aecb54c282",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v94cf0e4e4bf9f14.rgd",
+      "before_native_sha256": "7cad331f4a9e67cba0d29af43396a5186ab46bc537ec6f7a640d8462f0e4fab6",
+      "after_native_sha256": "e414fe821503a31e31e4202f8e2f2753d18caf929d390f2644ecca8be9f66e3d",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_va87428048a7f7c5.rgd",
+      "before_native_sha256": "757442bc3eae7e5f3b267cf360ddcea63172e3ec1f2c8ce949a3468789dc49e6",
+      "after_native_sha256": "f97125f5350c3fc979f527e9d3b551a5e98a4e9a621370eedbeb0c636f4b52ef",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_va87b52025782a87.rgd",
+      "before_native_sha256": "a88d7ab73be41d2affa954d3f1171d49260149b1be733dfe4a4651b605417520",
+      "after_native_sha256": "5578f8909b696847f8d15967a3ec526340a75da88dc3d1cd9bf70072dfa2cb63",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vc13ff20a206bf3e.rgd",
+      "before_native_sha256": "d2714f48e569d39d5faf1ccf3d474f313db1b5bd99a63a6ddd3f3afeb9e9e6ca",
+      "after_native_sha256": "96d0928805930f5ea9dfffd7f0cf3ea96d2fc0de52b8c98caf5716ee6adc6dae",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vc9a1da04fe00ba4.rgd",
+      "before_native_sha256": "c337c559866ed0b6b134254fe1caba2ea91a8f003fbbec350c6a0a41047e1dc5",
+      "after_native_sha256": "0abe1205738847450e49213e9c6f39a1b9bb515aa9cf77988624a983b843b746",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vd52e06df9d2ded3.rgd",
+      "before_native_sha256": "2ccbbbf2e2a15fdb9a22b7df9110982be38e03054b19188faf12d48c5e200062",
+      "after_native_sha256": "ebc119ded9bd537b972488fc449632e6c6f87f519cb1ad226da60cc80541293d",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vefac865c5d2d2e7.rgd",
+      "before_native_sha256": "b631721cef07189d158d82f99b395c199faa38a0eaf1af30bcefe64463c5cb61",
+      "after_native_sha256": "49767148cc4d43d1d1f097296fa40ddc2b9b8bd39a5c0d7e8a31a8c8dd5ea145",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vfb5328b7060f370.rgd",
+      "before_native_sha256": "9c3a47ef40baf0e2ec8f2774d1ed1897ee4b3d7a246bdb8053f765145e194146",
+      "after_native_sha256": "1c028c3b466f9e6594f284017003c552937d2a304bdeeba26d2ebe64b616ebb9",
+      "new": false
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vffb31cc772d9113.rgd",
+      "before_native_sha256": "cb28a788d0ed418f20f14718200c23081acfc2cb15e43066633da19b8f52c7cb",
+      "after_native_sha256": "7c4b78a18259ba99490ccf33a3ede48edb16b198dfa13df1d569fd126a228ba1",
+      "new": false
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "before_native_sha256": "d12a314e178073d43ee3d0c0327984e652c77fe9035a841a6dc1d0383c30fcc4",
+      "after_native_sha256": "4c63ea82d92f3c78ee3c8e6ee749c6925031add2a1918c7ed8bb13666420f923",
+      "new": false
+    },
+    {
+      "member": "attrib/army/garrison/korea/korea_standard.rgd",
+      "before_native_sha256": "1b36101b52f337ea03a8cd371e590db2cc12a09d4a62ac08c95b78fe4d8ef660",
+      "after_native_sha256": "56acf935a07ccb4cf27620b495396b7bb4559b37089f3ec7c8ac2c9d3ea7afc6",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_gapsa_dummy.rgd",
+      "before_native_sha256": "fa1792dcf3f9bf94d87a543b6c33ed7c6ab19dd58331a3d2952d97ff3de579ca",
+      "after_native_sha256": "675aee458bfaef888d8c2a6feac67277e391fa82b4f8a9b7dca5aa118151f91f",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_hwacha_dummy.rgd",
+      "before_native_sha256": "157b7f0b262799661cc80ee6c2d62e9c1d702beda473937b7c94d72f8607b3ae",
+      "after_native_sha256": "e6458942f92488bb92695a5aaf798cab4ab3d5f93ee8dfedfa510adc21fc0901",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_tiger_hunter_dummy.rgd",
+      "before_native_sha256": "d108db2670a24955380b74fee78b8a6be129ce9a0b3f07c04d9eec778797f3d3",
+      "after_native_sha256": "2bde61ec5a9f3d3d9259b48ef3c611ae711cd15f1e5fecd3a043bed3b36cb01f",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_archer_2_ayy.rgd",
+      "before_native_sha256": "07f1bd1ae87af96b78dabb7b6f2039e02ba38e8bb92722ec9249653c3e8177ab",
+      "after_native_sha256": "9197c7f6384b36b20cc036edb2f3be1bd5f7dcb44855e81af6b3a598ed0eed41",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_archer_2_chi_ha_01.rgd",
+      "before_native_sha256": "0ca510cbe0087716797f9c2764a1937915e6ec96aa5e42ac2f699c96f004a11a",
+      "after_native_sha256": "96f5f80c0abc1b54e2e6b7fa8d4dff3e42418e1fd64bbc1abd67359025347c45",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_archer_3_ayy.rgd",
+      "before_native_sha256": "2908d3b9c2dece1726f780bf91dcf3de8a260edff500d83ff722cc7743299701",
+      "after_native_sha256": "b48beaddc0cbebb53e98b66da442f8b0a2fe9b020f6d3bebf5f429a884b974fa",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_archer_3_chi_ha_01.rgd",
+      "before_native_sha256": "f59ce2c8a53cdb9501d36a62b8314b426c3ff82711e0e329f64857249c420dc4",
+      "after_native_sha256": "ddf37bca653023ad4b0a686dcb9aa32aa4e56006043b9a68bcf5a04f6520d2c3",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_archer_4_ayy.rgd",
+      "before_native_sha256": "7e832b09aa17b92adf719ebddd5f2026b3213d980b0147884ad7e4529894f05a",
+      "after_native_sha256": "1fba3696dc47b2c942ec375c9f66ee26618dd05d07ef60e323849160df0ba060",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_archer_4_chi_ha_01.rgd",
+      "before_native_sha256": "72e6b646d19e51eee469aad5d2f0839bf55c55b20fdb3b3ea12084ccdd58357b",
+      "after_native_sha256": "b6ba3f13591510ad33144e212dadd7d6f5c47681cda7657312552f4908b7548f",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_crossbowman_3_chi_ha_01.rgd",
+      "before_native_sha256": "ef13c45f765b4b436f198ba0e8f5d9a259cfff85aef235a2128bb11f2ff8b224",
+      "after_native_sha256": "3b797ce76c082970f3b708407cc4f779dc63b085dd21166fa022109b98660564",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_crossbowman_4_chi_ha_01.rgd",
+      "before_native_sha256": "281e15c19ab1b521a49af12c042926caa5a0879d3072dfd84bc1b51caaeadee0",
+      "after_native_sha256": "98aed7f70ffe78575189c81a0b662b8d8e0f9d24e8e84594985934fe3a72c520",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_handcannon_4_chi_ha_01.rgd",
+      "before_native_sha256": "c72907b8b01bd5978f31bb4a2e077866df155912c4af5227d83886e661c7b776",
+      "after_native_sha256": "1219b306dc5bdb9992c57a740b53c3dd2ad990aa57bb5371350bfae04d4ddc7c",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_horseman_2_ayy.rgd",
+      "before_native_sha256": "cff4f9847fa7e46911518fe6a0675057971d2cdc7d7573d040196b4d84d339d1",
+      "after_native_sha256": "3cc9f26120833ad2a6768a06c4a083d1ff4d990c5aa1cae1d2eb7d1d7ca69b33",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_horseman_2_chi_ha_01.rgd",
+      "before_native_sha256": "9770f5bbd904e04fa84de6b8886f6988f58bd56da383cae8a00161b146b975d6",
+      "after_native_sha256": "ad66f8d7f8df7efb16b13ffa53c79787c393e7f9a8c8e3f6fe462f021e512783",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_horseman_3_ayy.rgd",
+      "before_native_sha256": "86fafb6209168a412c4d91e717eb39859fa1758657c828199069c59a32216b98",
+      "after_native_sha256": "4d172e74a1cfd4b1fc4c9e4ece66f6c63fad36134e52be6396a8a0f48955d1b9",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_horseman_3_chi_ha_01.rgd",
+      "before_native_sha256": "e71a2a0634cf379e9b44a7a31936abd77de6f61355166c3f88fb1536b761e7b4",
+      "after_native_sha256": "4ba88d425a2dbc2288c2cf9cee86af1c38f9f5c1ac8e6e509f37298e85ceca60",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_horseman_4_ayy.rgd",
+      "before_native_sha256": "579280e5a83e5b57dda5a354ef4e97f561b19e1c90f4feeb5700b6d7ec92cc4a",
+      "after_native_sha256": "ba975312b8ede42124da1edd3c78764b6a6af234c7033cb36a653e8e093ddfed",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_horseman_4_chi_ha_01.rgd",
+      "before_native_sha256": "562f0a2c72a03e28e8c67590b182ba46854a96019cd33e12a31bd37fff60a04f",
+      "after_native_sha256": "7acfa48ffbc52ecc527f2708967f8eb1776272f55ab470ecac7c12d282d031fb",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_knight_3_chi_ha_01.rgd",
+      "before_native_sha256": "876a6d515608333e0f757ad19ef154653abc1868c21d4d0cfa3fda158c8815d1",
+      "after_native_sha256": "5c19d8088e3da6cc9179385e8e7e6bc1f38503a8d661fc69b2b31995e62ba325",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_knight_4_chi_ha_01.rgd",
+      "before_native_sha256": "39f5938d8c9c07684dbaaccc932e4a8587ae79025d597caaf487ad3b02ca3886",
+      "after_native_sha256": "7e817fc119733a7786856f538cee7696b54681535debadf94f18f27d2efbd5cd",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_leader_baibars_ayy.rgd",
+      "before_native_sha256": "789f6f8063253c52309ca801c2818152e46edb813e189a1128c779a80197540d",
+      "after_native_sha256": "6a4490eea3157d63e7fc512a226de32c20cbf5e9d19de79891147aa5f4ae21f1",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_manatarms_3_chi_ha_01.rgd",
+      "before_native_sha256": "32b67175eea6d5e808d91acd6d99f0ebbf6556cabe84b23f6e7b96c0794a3ea4",
+      "after_native_sha256": "7e11fc7459ee9c5b8728d4445124b70bab00d4d8307a7e6a6d0df4776c9cd345",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_manatarms_4_chi_ha_01.rgd",
+      "before_native_sha256": "408a81b3cf373672ee736d270d73a4fc39a63b0d0682fd08c285c641d0993aa3",
+      "after_native_sha256": "6e9a2d0e10a4ddc365368c5587dc32f1cf45f50a575bb35f3576b1a9e7219515",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_militia_cmp_chi.rgd",
+      "before_native_sha256": "43f77868c85609c851ac0eb8631e7c9ab9a7a1a1d848859b7c87526ef0f82fa1",
+      "after_native_sha256": "aaa317426b1804f7a44f8f20140f4c59cb906305e74056df94ee7a5c8ac7fc29",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_militia_cru.rgd",
+      "before_native_sha256": "a5a29172db8d989f713ebbee4e7e4bc97f8bfb8a25fb6a3ed7d78f3095257140",
+      "after_native_sha256": "075c7352f84db03d3b23ea0756cf6dab68c3baef7622731ef524435d43ce32ad",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_naval_fireship_3_chi_ha_01.rgd",
+      "before_native_sha256": "2fc8a53a15c2a8523c236699f6bd0702af33d9470cc1be1215bacb4f8817730e",
+      "after_native_sha256": "65e44ce70803f9ae73030230bcd2f894d7bd85f8f432abbdc3afa4961eb2cab6",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_naval_fishing_boat_2_chi_ha_01.rgd",
+      "before_native_sha256": "7aa345f4816a4ace66ad325865bcb66a870bcca7fd7025b4cba84cc5c47fe7ff",
+      "after_native_sha256": "af421f0f9a2ffd482175b60966b8f31439111b7c2f2e26945fab0ca53ffeb062",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_naval_turtle_ship_3_korea.rgd",
+      "before_native_sha256": "f17b56b847018cf3273f9bdc17133c2e126bb7a81f8698f84ff849d37368a6a6",
+      "after_native_sha256": "aa3c48420f74dfb2aadabf75040942be4927b45324abb0dc34b55da62032e048",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_nest_of_bees_4_chi_ha_01.rgd",
+      "before_native_sha256": "129ca0203ecc8cf823d87131ea5c1f20bb1944b90ac90dedca03c6fd436a96c9",
+      "after_native_sha256": "e25d29d6277d44555b7e2461dd9e3126701e7127685b0e352b6b8fc03002e5b8",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_official_1_chi_ha_01.rgd",
+      "before_native_sha256": "a02d342ee704080f45beab5a653c8162141b621cdd4b80cc24db712b70f8da7c",
+      "after_native_sha256": "938c81c84e1414b2e32762b9c43a1d9ac719f4ed0e07c99365645b850fc3a1f4",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_ram_3_chi_ha_01.rgd",
+      "before_native_sha256": "f8b0fa8af6d88b06615a58507e424fccbeb12de9757fbc8f2440aeef7dc9648a",
+      "after_native_sha256": "801658b346d0e55e119547608eb3b8d744c79ae5ed147f6120d8512ec0318986",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd",
+      "before_native_sha256": "07fea438dcc32433def06c84e9cb1747291d539a698362b83dfd62403d5f808d",
+      "after_native_sha256": "9cb0adafb0b255be263e5bec2b611d9b3ed1bb181d74bffb91800508de146706",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd",
+      "before_native_sha256": "73fd21f90e41772165c5769525d3c5c9b928d47047ea0f81592d1aca3697cc42",
+      "after_native_sha256": "c3b300bbf7a292b0cb30f568daa3646ae24d616c7aa8d38bd278d5f983331a0c",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd",
+      "before_native_sha256": "6f4cae60cdf484a94a0eb57528e3faa12811f221031e934ab897756461ad2acb",
+      "after_native_sha256": "da288b7b65535596ff1a76ff13bd9404840efc433d708c9ef60283be2da2924d",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_spearman_1_chi_ha_01.rgd",
+      "before_native_sha256": "afdaae56d8f28ac7ce4b205b5dcfaa17790456059b1e70bd92e80a18299cb9de",
+      "after_native_sha256": "fedbb50f547e25017c2c632ff9e4aad098f23c0dbe1665c313418ab4520d03bd",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_spearman_2_chi_ha_01.rgd",
+      "before_native_sha256": "b9c078f132aaf3dc6cffc51ef78fecf8b6c27764b22f95f44ca58ec52fa589eb",
+      "after_native_sha256": "3d82b9e494cb30b958f5849b727327670a72a418e50f03b187610b07ff6c2008",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_spearman_3_chi_ha_01.rgd",
+      "before_native_sha256": "4f3bddbd32c23e2ddf009c6d1406222d188bd39d6ba7d649aba12e3b93c0e559",
+      "after_native_sha256": "b91f8bda8e639bb8bbabeb84fff8262c18feac4e04ef42d7692f7659812b3cf9",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_spearman_4_chi_ha_01.rgd",
+      "before_native_sha256": "558d61bda08d61e9ebc33fc05c3d62ff858b59eed4c18d16c5294a198c45df8f",
+      "after_native_sha256": "025c90e9a2a3196723762a76a17928f3502621f2ff8d3adcfef3b45f13855ce4",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.rgd",
+      "before_native_sha256": "351f86ec48ae3d68379736053034d2a0ac7c710e9d0cfd41cebe24af77ce3967",
+      "after_native_sha256": "68cbb35798ca2c65559a86865443f1f47ac8a9164e36f4f2e05983d010ec0a41",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_villager_1_chi_ha_01.rgd",
+      "before_native_sha256": "4b5a06480dc9ebe27f972640baccf65b867bd96c5eab6948b094fd8edd9409ab",
+      "after_native_sha256": "9b8202e207855917cb153755ac57909692511851f74ec009035d3988e4372968",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_workshop_ram_3_chi_ha_01.rgd",
+      "before_native_sha256": "6c6c14a1f9ef5ce1ef54ead55a5f17efb2805aa50660b307e1f959c4ceea4625",
+      "after_native_sha256": "317afc9a9a9b8ec91faec95d5354eba122a697490693c9404abdf1740cc27a3b",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr013_monk_sbps.rgd",
+      "before_native_sha256": "89b542992c202a9edb28abbc9d1dc3e6d0bfccd935378b1d03d9b67833e8a3f8",
+      "after_native_sha256": "355d148a0959c975a0eb84b23b466ba7c7e1fab47ac6295e2adab3ed5393f6d8",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr013_trader_sbps.rgd",
+      "before_native_sha256": "2e8d0dd13b9cf3dd2ba7b3dab86601568053e82d965b8f1c0b698afda9f83f54",
+      "after_native_sha256": "5c815b8b580746cbc07786aecce6bee8474f7979a80647e65b46be7e98410835",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_town_center_capital_chi.rgd",
+      "before_native_sha256": "ccebc6fa2bfcc86cf82141d2f289666eaec79a321a8890c8728506bf97d25803",
+      "after_native_sha256": "4086c552e5b0e382be8637bf26385c66c6a4b89d4eb2e06d3af3f7128483bccb",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_town_center_capital_chi_ha_01.rgd",
+      "before_native_sha256": "1cc7b1ccfda8e63b78109432d433ca7a24a7b8fd9f1c55ed5187de6ec6565599",
+      "after_native_sha256": "82f46e508b393ecf72b92a0f2db2c65861ae91170d090360a55e6dfd8fd1946c",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_town_center_chi_ha_01.rgd",
+      "before_native_sha256": "45a48765adb97e215c1f1b5c9ede281444d55a00cf5d28f95f275dcb0d695df0",
+      "after_native_sha256": "a880267b3d572fa40e63334427a99a42a48f19ec039dd0838ab1a56f1a437504",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_cavalry_control_chi_ha_01.rgd",
+      "before_native_sha256": "9276550e46ae7689ae0e6d721047b1f86984d72e0b22566b251e0ae951d4b9a1",
+      "after_native_sha256": "be7d1cee39fd3184a2354600045c95e3b7f73582f089d112f8ad69602392a293",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_naval_chi_ha_01.rgd",
+      "before_native_sha256": "98afacbdba3977a95d56842a1ba2177c7c4db41ea026b5935274799ba30e6515",
+      "after_native_sha256": "eaf6e8e18e62ba01ecd9cf778be63b0aa93072c92d9fe1e10220d0b624701a9d",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_siege_control_chi_ha_01.rgd",
+      "before_native_sha256": "48119939452ef4a402f6ea7639b946abc49294f9d226ab974ff00dceebf71581",
+      "after_native_sha256": "9df4576bb188cacf5626248200b2ce1cbd01a34f5096b7b9b68d1d914fb84bfc",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_gapsa_dummy.rgd",
+      "before_native_sha256": "e2472da7d3d5e77b7f372bd48118037e95e64d8963b8b541c75c15e1bf255c77",
+      "after_native_sha256": "b417b4f5d1fa7478623598ed3675850f4c378eaf3a6ec5151eee8e728ff1aa6e",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_hwacha_dummy.rgd",
+      "before_native_sha256": "6a446ddba236885519af8e6d64ad4f96927d4d419c2dd7f2937b6deffa4db6ad",
+      "after_native_sha256": "c612f1993d6694717098bb1b13376ac7fd35a9cfcd4f4f53d996bcaaff2f7942",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_tiger_hunter_dummy.rgd",
+      "before_native_sha256": "266ead7dc642c501344c03b3ae5aa49b008d0bad036e926b16881848e7bd9b66",
+      "after_native_sha256": "9c8ec3715b96f9ee504f7001fd68473a478f9c4d284f7bce559f1eae4abf291a",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_archer_2_ayy.rgd",
+      "before_native_sha256": "2674ed939df54cfd26b0beb3d355c07e7f26b7f0fe23fe483783373758ef2c5b",
+      "after_native_sha256": "36c8ee465ae5fd68a1b2500dac6e0db0a4cee48371ba60c9166332b79cfc9a1a",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_archer_2_chi_ha_01.rgd",
+      "before_native_sha256": "033508e9b65b4b5173091b7a56f4e4a6c72ee4520b54bd76dd3c76beedfdef4f",
+      "after_native_sha256": "08a87876719ec1dc6df1f0b343784442a7ae34a32070efb1cdf85fc113cd2a5f",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_archer_3_ayy.rgd",
+      "before_native_sha256": "644fb954f7c81cefe4de560afda4d818fc9d205adda01c9aab17bbbc042f4901",
+      "after_native_sha256": "33fc2af983cb2991c56195a6ddff8ae7d5da08bc4569d8c94d0ecb3052c5816b",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_archer_3_chi_ha_01.rgd",
+      "before_native_sha256": "4de55067d4a18430dc022f619568ce9ae84095fde44ff7f40e548d79b07160ca",
+      "after_native_sha256": "f46abc45249b49c7ca2aced55111939fa65310aea39548f6eebb34946636deb8",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_archer_4_ayy.rgd",
+      "before_native_sha256": "e36452eb40cd4b543551c24307d983b0bb4f6207807b9191ffb714a725bcbea0",
+      "after_native_sha256": "05d0201b37f71ad7b703525e861308b26205d5c63619cdff2709e74e9b8f78ba",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_archer_4_chi_ha_01.rgd",
+      "before_native_sha256": "5022791f3f2a2ddc01c1f67bc15a4b9f36e3c4c3edf9e773dccaf2a53305f47c",
+      "after_native_sha256": "4f83dbdcd5299249db9d97da78667f56fc879d80b407a9a8558e3868218f3c36",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_bombard_4_chi_ha_01.rgd",
+      "before_native_sha256": "1294c72c837d420e455b556a21ca1aeabfe979b0fecf3afba0bae839562fc8e3",
+      "after_native_sha256": "11741a30599fc399812bb3bf24155ab7aec0ef2a77510f37db281aba2bf02550",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_crossbowman_3_chi_ha_01.rgd",
+      "before_native_sha256": "83a671b54b120df62f20f7fb785be9906087b3ff489a63423b8c05b7e6c5c898",
+      "after_native_sha256": "8390ac89e2dcb8f694ac19267420fc19a426b7c3c507bd72e8b963ffc612532a",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_crossbowman_4_chi_ha_01.rgd",
+      "before_native_sha256": "4990011d2e8cc4e01d7f9c96f87989ce8a3acf08440af6aec231a6fa041ad2a6",
+      "after_native_sha256": "2dbbc0f9c21edba294cf288781c3e612cbe6d897c944366a896a881ca0dccbfa",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_handcannon_4_chi_ha_01.rgd",
+      "before_native_sha256": "cc3e59ef7742f16c65c235ebbe95f69e15c5ebe09b35848f1e3bf4cd44d896c1",
+      "after_native_sha256": "fa0f0ce59cb014ce15832adf72db4fc448ac243912f5666221d32d60a3c7209e",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_2_ayy.rgd",
+      "before_native_sha256": "0e1ddfd071a6aa68328d24af9b7e8b72613dd944026abdd2f5c9afedbdcc7499",
+      "after_native_sha256": "c600c9d6bee39cba7bc9e98fc2af50a52a15a56c011210532461b665b81d6d84",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_2_chi_ha_01.rgd",
+      "before_native_sha256": "0cc00b864e501ed51e1c0850d4e5566a05d7f02f7950990e27032c78d68a2ba6",
+      "after_native_sha256": "8b28ac51615c8f4d80c7a65e2da57e1d867ba42b790e81eb3348b93becff5b4a",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_3_ayy.rgd",
+      "before_native_sha256": "96050de555cab2c014d24d812e4bed5cfa15f8dd13da4049630a0a72e49177c7",
+      "after_native_sha256": "d8eccc4ecd74a10b0c61c47dce5e55767590a8b27bc9f22b74a77447d7b6d1d4",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_3_chi_ha_01.rgd",
+      "before_native_sha256": "676a161d97d3976c9cd55087edc1520a1377b82496b5aba845b623cc939629c0",
+      "after_native_sha256": "f31669e557b87814cac20f38551b60afd592659789fe31f341bd15047c47bc7e",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_4_ayy.rgd",
+      "before_native_sha256": "a1fc37edf7de8aa450e3c9edf707aa7a754df92f130a231e26842336a2cd84d1",
+      "after_native_sha256": "5e9df9004b0b34a4b7887451e207f0fd42ae91079b46d7d4d659c726c2836e2b",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_4_chi_ha_01.rgd",
+      "before_native_sha256": "44dfd672e84fb2ba232a54537cefba113e902053de7ca222fd25b55028c363b2",
+      "after_native_sha256": "5aef5847af6e8fa7ec7a1b9177a5c26a9c274bf11ea5511dcf1716d336ca2843",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_knight_3_chi_ha_01.rgd",
+      "before_native_sha256": "c2edd1e535b39cc9902df56ec5cb7da4068d401a911ecb39a8fd06508380991c",
+      "after_native_sha256": "ebc1e9678a8e34b47f570d4ae909d4b693fec90c4d043ec4f757807b4bd349f5",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_knight_4_chi_ha_01.rgd",
+      "before_native_sha256": "74669d8c3934254bfafcb18e75710202a02b654fd90d92b4512b02eac023646c",
+      "after_native_sha256": "1c826b0b8e0c27e2bb700a24d6421e4e7d06eb5e0a42d543fae0ad314b4ae80e",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_leader_baibars_ayy.rgd",
+      "before_native_sha256": "823e69a73fbd41d62dc2c6400f38988ccc9d8fb358febbe66308e11858a03167",
+      "after_native_sha256": "a79b709da5806266fc76ff67535848ff20b671f2dc77c8e8b7a6b8d67658d263",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_manatarms_3_chi_ha_01.rgd",
+      "before_native_sha256": "9980247585b057c2d0896b81018dcf3e8ec324dd7d30e1a579bd258655dbd6b1",
+      "after_native_sha256": "9c372adf55365d5bbdf741277a7faddf444c822c3672a3764ab184b541a20852",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_manatarms_4_chi_ha_01.rgd",
+      "before_native_sha256": "9b977ab1551b75d38c11bc6e54f2721c87533eec371c7b7bf0d14f59c218c3d0",
+      "after_native_sha256": "8e360851568a2fbc5a4f0a97382fface3898f78d485586c2655a3ec786d624a0",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_militia_cmp_chi.rgd",
+      "before_native_sha256": "55a81ec3cb99cc10e578edc76ba314274c9e04c4c9e66da5f85875df9481cd28",
+      "after_native_sha256": "0515176284b7a303d1f75a657b6b2232806cd4deaffc56d2175d0df8296914e7",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_militia_cru.rgd",
+      "before_native_sha256": "ad2b07c7b469c8b586c94d86de3f7d003bd4a067ce3524bdf04b1f51065a64c3",
+      "after_native_sha256": "fa712fd7c41b5e82f6cb0db17b4eb598da76b66d5ee23968eea1b7bddebe8f2d",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_combat_ship_3_chi_ha_01.rgd",
+      "before_native_sha256": "b2a09d822e2f4df77c9cf3c9a051386993504d05d0e3e2f695e3b0c2198e8e1b",
+      "after_native_sha256": "ec07b5f9dcca4ad4d59d8c715b4735f9521198d96d4dfa5c715bb5f1c58ab08d",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_combat_warship_4_chi_ha_01.rgd",
+      "before_native_sha256": "f0a25c4a6befbd47087225261a88868a25fefae2614e308daef6faf83463398e",
+      "after_native_sha256": "251072dfdc9e68f9c61a95df8ee31da7c7b870c9461fd7094815ad2a118437c6",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_fireship_3_chi_ha_01.rgd",
+      "before_native_sha256": "cab8138228cec253e3529b94df289e87d08ea5885837dd84adcf37d0ea0bcce4",
+      "after_native_sha256": "2d7927b5ed9d0e0032e29c2ee1ce7811d83514d1e96f55759d93b07681acab2f",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_fishing_boat_2_chi_ha_01.rgd",
+      "before_native_sha256": "af0811f1c34143fccb6309780de9df2159c43bb99c41b710ee511d70f9a0cfd0",
+      "after_native_sha256": "0e3c81c5fb24b06eebaa9b5b255ab5b15eb0d82b5a9c66f53ab6fdfdef64c7b2",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_scout_2_chi_ha_01.rgd",
+      "before_native_sha256": "b21b48d1dc05e85861f82fbb7a66b638ea0d3a1ac158ebb54ea2a9ae6c7a3d33",
+      "after_native_sha256": "66cc8be4f374e62f2954c13060fbd9f8cb58d93e2c7465d9e962e6c73ce81301",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_trade_ship_3_chi_ha_01.rgd",
+      "before_native_sha256": "151ab556657d87ce0dcb3903780d376cb97651b4e4def14c09e8773bf2ac95d9",
+      "after_native_sha256": "289567f80fb98bf385cf61cde865f7b9d16a55b81ed095378d288933b3e184ce",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_transport_ship_2_chi_ha_01.rgd",
+      "before_native_sha256": "e8242fff3628d7a8edc333e20b018c7a9e24459533a033d989ebccb6032d68a2",
+      "after_native_sha256": "22b37dbe00089c5467e6f0341a6197414092d6052ee81552a83f29ba5332cbc0",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_turtle_ship_3_korea.rgd",
+      "before_native_sha256": "51c7fce3191dee54aad75fd2dbfb9606c193333de836767320d30881df0fa268",
+      "after_native_sha256": "e5c5c52504aee2140e0ce15400beb4a520d17592e7af198d56d2bc225d140795",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_naval_war_galley_3_chi_ha_01.rgd",
+      "before_native_sha256": "e8660ef78674cdcfff64cc24f6ba75257e9f22480cdc69cd7ac51d2c6b47733e",
+      "after_native_sha256": "88a573c3ddc6cba16a54a4705a6a922ade4d54cd5ed02afc5f42eb183383f216",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_nest_of_bees_4_chi_ha_01.rgd",
+      "before_native_sha256": "a3ba19fd9953dae849a4eda1b0c57b5d2bfc6c1ab422cc4545261f5d7ac7a099",
+      "after_native_sha256": "93af55a25a0c61600e060056f23464c6842a576ac5d9f89249ff509309d9c5d7",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_official_1_chi_ha_01.rgd",
+      "before_native_sha256": "f140aa4a4432d861b0e7cfe4fdb8319ad40774c8e083dc2167b3ca2dad842b10",
+      "after_native_sha256": "80bc4fc473b97440f618ea98a102b36cf89288cf0a1caea30f9d777f142b4371",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_repeater_crossbowman_2_chi_ha_01.rgd",
+      "before_native_sha256": "9b62f1e0d18c9d9d704bacd2fddcce93d7bd2d735cd0c24bf17b1025f0cbd9e8",
+      "after_native_sha256": "046722751c94f8da4455e38e5de5aa316a37a60e26393bff5506358096549ed4",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_repeater_crossbowman_3_chi_ha_01.rgd",
+      "before_native_sha256": "95b9c29291f81e24141db5a4c8dcf6d8abaf6db5cd03b11986380476144c5546",
+      "after_native_sha256": "2c64bc9d98bcb39f506d424f5b0311e0cd1af197856cad2712d4da3f98b7c131",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_repeater_crossbowman_4_chi_ha_01.rgd",
+      "before_native_sha256": "b773c778eb6d1a878aaf41552c5d360983758277da50587363859f9d5c744cf3",
+      "after_native_sha256": "44c4a7864955039ca373e5332db1fc07dcc2f6b10ec12ab0d39da521592b6914",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_scout_1_chi_ha_01.rgd",
+      "before_native_sha256": "395be9f650023642a0495878f96c7e2472bc79aa8c9fe1131716fa6e7f9f24ec",
+      "after_native_sha256": "54d305c4e5c2e9d90cb0163e54d45844b9abeff7685fe4aba810fb637ea808d5",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_spearman_1_chi_ha_01.rgd",
+      "before_native_sha256": "5605a81437dd7599e71e7a1e3f64db1f2e34f798ea7ca1e2a399447811479604",
+      "after_native_sha256": "62efeed82afd4220bfd3b07d109a2edf09b9b0b3ea2ab4a79cc0041a7f5e250f",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_spearman_2_chi_ha_01.rgd",
+      "before_native_sha256": "1d7e8448e48ecf9f2e278cd6a42ba8ed05c4f6bb856827f54b9dfb3104127fa9",
+      "after_native_sha256": "365a4f3df44709dd1dc8f331d5cf215125d438a5c1a398a7857a4ba3ba97c7f3",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_spearman_3_chi_ha_01.rgd",
+      "before_native_sha256": "808393ad2eeeb8dcf1087a10ae873d728c47f49506722859d4f88c7236793b57",
+      "after_native_sha256": "4a89aa80b2ecf8d19526057204f9867b948829bf47e1925a8b21fb881a44e28f",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_spearman_4_chi_ha_01.rgd",
+      "before_native_sha256": "d49eb870baccc70c637a2ab338f89253055291173f02c192bf2cbb26d2e77148",
+      "after_native_sha256": "ffb21d10709df0e8c3bc2abfeef0e2ec6c2af74b706b7ef814c0c0d76cf9efdc",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.rgd",
+      "before_native_sha256": "01fb685579876e796a92acce47927cb889405bda2800906e09db684dd0305fde",
+      "after_native_sha256": "e92fdcbfb53b44ff64d7ff5f13ce3807d02ce6df73f1c8c8365b0bdb214daf8b",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_villager_1_chi_ha_01.rgd",
+      "before_native_sha256": "c518ee29f271587179e4d0a38bebc50833d966ef1528b5db43675f5b0f79f273",
+      "after_native_sha256": "05b51c663f8c30ee14d1c5b955415efb8b85c2b2439469226fc3fd7368496a3c",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_monk_ebps.rgd",
+      "before_native_sha256": "e1d7c49315064d5b8d876502dc5108095b0ba0cb7681f98baa6c7f113b1bbb34",
+      "after_native_sha256": "35b9b760bd87b4b2c60d7cd6f776add9d502bb5309c036f52b03a635f4d47d87",
+      "new": false
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "before_native_sha256": "1db91d09e891b20d5da3009e3a2eb571f3b4453efe23e7f467a11a33956d05d2",
+      "after_native_sha256": "1a10a5f7046850badeeddcd452264a1c32b20443aa30bb5ec313012bc909c702",
+      "new": false
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_59f30565666532.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "fbbeee2f8b70a9054f892228ca5864f176adbca7195178fa126a6bbe567e1e1f",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_5e2d291ae1bf01.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "f3d571ff8610ca158467a6280f1e31aa411ae2499517dd652b8379930eb7e2b0",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_6979f0a6ec6c93.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "cf09e8e203e8941f9266883e7cfd584c2ae9e1e66f30a1a08a8f0c35695c1f6f",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_781f9733cf5fc3.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "b040c2ee7d3b016ca1d7ac436457e59306e6bfd5667e938e3fda3abee6a5ad8e",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_f2eec27e3c7c51.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "94b549e762ecaab391e1057847c9ddee76b76ebabd8826545e9d9ae7805779d0",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_5d086f1bf5ec6f.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "3161f314c910b95b52dd5c5fac6d1774c277c33338ee1b57cf1103d2d34d4879",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_6e7fdb8da5384f.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "973d8a4b03e978086fcb89b74d97a15b27085089f3dad185e5ec5217eb15e320",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_e85e11f54867f6.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "147e1f73fd9decbb8f761ab458e63e8eabcf1827435c75369c859d96be2eed4a",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_32868d99f002a4.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "d3e8924ea2e1c8b86094fcb2d5eac7805c61916f01dfb497c13e9811581ded6c",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_9caca3672d497b.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "48eabab596433bd66aadf970a142ba6561400e5f4196abfa6eaa675aded4dc1d",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_2f9f9d13f16ad2.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "1aaedf8a3d996f3d81e34b110409d9cff7596cea7dcc9b49f599251c0e21278d",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_308f9361478b35.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "50a1d1fdfefdde7bc1fe0a111671ae77edb1731599632411d0495c973e56c5ad",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_af468f11e92e3b.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "b8ecc331bb722ed68ae11a132df7cd5cff43546ad9616fc1e1542f029dc2440c",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_26ad2ddcc585bc.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "c5812ddc428532c766e1a252243bcfa1272c5c3bebe96fe6021e0c2eaa257cec",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_a6ec658a2c33ce.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "2561be50123e381289edd39be42efd835435f51d3322fd8ddc4cee40e335583b",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_da360539313291.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "ac0d6b168921738d959286298b424c9ce1a0a92217a98141c5672cfeb5f6017a",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_d871be36142376.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "6bc1ec9aef29a6aeeebc74911a67b65a9bd13e6da0d7b9a32ee9c4bd47ab819d",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_c59525555fd516.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "b16d251b38ace9d19e3d75f357110795c0f60f652ea100b869a46fb38208c5bf",
+      "new": true
+    },
+    {
+      "member": "attrib/sbps/garrison/korea/kr020_voice_0604e26e9c1721.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "fbc6458333f6e6d7b7c0eab37691dacbafb87b280ccd334f17524bf278d044c6",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_215e03a4759b94.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "69f453a4ff33407c000a8761598cf0446cf593fe9796630e751b4c06f2d4f8fb",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_8c4ebd958bd27c.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "8c00991a5c0bf428333d87e711d86a1fc4ca5b79cebde9be7ad25b1e5bed939a",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_5bc9e46b080381.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "ebdc547f5d82388241a3457447baf374cf1a4e0c5e7ebf2e0da82785c864413d",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_10a7eb6dc1fab1.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "15dfb7cb29f1907ff39fe2bf97b1636170978b56ddc0d640027c0750e654e92b",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_4539323c88290f.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "2e5ead104ace022481aba07ce4e55c18a9dee3258abeda98cd1861fead47c7cb",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_d59caa0e5bcb82.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "a08b203654724604a60b6ba8edd037456c2e34abafb57546b5cd0bff09c03f24",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_98973629ab0ea2.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "f0bf3d1eb2ed24a646d18831515616eef833abd62cc917af394452ce19b9a2f3",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_2c1bfd829d6c12.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "e7444c4b71716a78039b03642d4044139810fa231001c270dc1414687b573b41",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_1107f5410001f8.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "3d46e7d4406855b04b26442be952df1003e139c83754f5fc50c38dcd51a8e050",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_cae8cc98ecc47c.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "e98dc564ca05e4431e5d147c826e53d42edf3a3dbfae1db9fbc845f4830337e5",
+      "new": true
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr020_voice_8384bc05b05622.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "da5313e9094585add41e4b4f6b7efee602d093047858f8475c047fe9ec45b67b",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_f4476c3263ab05.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "f6b2df27ab21a69715597335e0756568badd30a9417f01e64ed3227519ef0dfa",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_0922badd53991f.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "6be6620e5134f8313b3fe9cb14fe7776f775fbb6be00202b9d923efa5cb2592d",
+      "new": true
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr020_voice_af325b9bd384d3.rgd",
+      "before_native_sha256": null,
+      "after_native_sha256": "74a7001583e77e5903e7f9a65abc01e91a8ee305c46fd14cfd31303e5ed9fd0c",
+      "new": true
+    }
+  ],
+  "consumer_redirects": [
+    {
+      "member": "attrib/racebps/korea.rgd",
+      "path": "/default/race_bag/blueprint_archetypes/scout",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/racebps/korea.rgd",
+      "path": "/campaign/race_bag/blueprint_archetypes/scout",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_villager_free_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_combat_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_combat_warship_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_trade_ship_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_transport_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_war_galley_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_scout_1_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_bombard_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_springald_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_villager_free_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_combat_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_combat_warship_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_trade_ship_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_transport_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_war_galley_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_scout_1_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_bombard_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/default/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_springald_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_villager_free_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_combat_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_combat_warship_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_trade_ship_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_transport_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_naval_war_galley_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_scout_1_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_bombard_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/tech_tree/group/items/tech_tree_item/pbg",
+      "before": "unit_springald_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_villager_free_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_combat_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_combat_warship_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_trade_ship_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_transport_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_naval_war_galley_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_scout_1_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_bombard_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
+    },
+    {
+      "member": "attrib/codex/garrison/korea/korea_codex.rgd",
+      "path": "/campaign/codex_bag/root_item/children/codex_item_default/children/codex_item_container/children/codex_item_default/pbg",
+      "before": "unit_springald_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
+    },
+    {
+      "member": "attrib/army/garrison/korea/korea_standard.rgd",
+      "path": "/default/army_bag/starting_units/squad",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_ram_3_chi_ha_01.rgd",
+      "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+      "before": "unit_ram_3_rus",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0922badd53991f",
+      "category": "ebps"
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_trebuchet_4_cw_chi_ha_01.rgd",
+      "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+      "before": "unit_trebuchet_4_cw_byz",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f4476c3263ab05",
+      "category": "ebps"
+    },
+    {
+      "member": "attrib/sbps/korea/kr_unit_workshop_ram_3_chi_ha_01.rgd",
+      "path": "/default/squad_loadout_ext/unit_list/loadout_data/type",
+      "before": "unit_workshop_ram_3_rus",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af325b9bd384d3",
+      "category": "ebps"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_town_center_capital_chi.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_town_center_capital_chi.rgd",
+      "path": "/campaign/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_town_center_capital_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_town_center_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_scout_1_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_59f30565666532"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_town_center_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_villager_free_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_f2eec27e3c7c51"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_cavalry_control_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_scout_1_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6979f0a6ec6c93"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_naval_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_naval_transport_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_6e7fdb8da5384f"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_naval_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_naval_combat_ship_2_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_32868d99f002a4"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_naval_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_naval_combat_warship_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2f9f9d13f16ad2"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_naval_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_naval_war_galley_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_af468f11e92e3b"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_naval_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_naval_trade_ship_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_a6ec658a2c33ce"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_siege_control_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_springald_3_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_d871be36142376"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_building_unit_siege_control_chi_ha_01.rgd",
+      "path": "/default/spawner_ext/spawn_items/spawn_item/squad",
+      "before": "unit_bombard_4_chi_ha_01",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_0604e26e9c1721"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_gapsa_dummy.rgd",
+      "path": "/hre_brawl/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier1_militia_cru",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_gapsa_dummy.rgd",
+      "path": "/xp3/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier1_militia_cru",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_hwacha_dummy.rgd",
+      "path": "/hre_brawl/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier1_militia_cru",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_hwacha_dummy.rgd",
+      "path": "/xp3/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier1_militia_cru",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_tiger_hunter_dummy.rgd",
+      "path": "/hre_brawl/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier1_militia_cru",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_tiger_hunter_dummy.rgd",
+      "path": "/xp3/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier1_militia_cru",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_cae8cc98ecc47c",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_2_ayy.rgd",
+      "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier4_cavalry_khan_mon",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8384bc05b05622",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_3_ayy.rgd",
+      "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier4_cavalry_khan_mon",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8384bc05b05622",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/korea/kr_unit_horseman_4_ayy.rgd",
+      "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier4_cavalry_khan_mon",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_8384bc05b05622",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier2_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_98973629ab0ea2",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier3_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2c1bfd829d6c12",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/default/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier4_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_1107f5410001f8",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/cordoba/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier2_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_98973629ab0ea2",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/cordoba/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier3_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2c1bfd829d6c12",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/cordoba/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier4_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_1107f5410001f8",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/campaign/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier2_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_98973629ab0ea2",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/campaign/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier3_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_2c1bfd829d6c12",
+      "category": "attachments/attachment_lists"
+    },
+    {
+      "member": "attrib/ebps/garrison/korea/kr013_trader_ebps.rgd",
+      "path": "/campaign/tier_ext/tier_group_list/tier_group/tier/attachments",
+      "before": "tier4_trade_cart_chi",
+      "after": "748d61b94d3e4cf3a506a9ac1f992d1d:kr020_voice_1107f5410001f8",
+      "category": "attachments/attachment_lists"
+    }
+  ],
+  "source_changed": false,
+  "changed_native_tables": 126,
+  "added_native_tables": 33,
+  "speech_scope": "Main native speech tables and explicit speaker overrides only; stock aliases also change identity and isolated owning references. All other typed values retained."
+}

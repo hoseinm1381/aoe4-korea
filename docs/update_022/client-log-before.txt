@@ -1,0 +1,2325 @@
+1792258888 Looking for the game…
+1792258903 the library is empty, so install a mod first
+1792258903 0 mod(s) installed · ready to play
+1792258908 Looking for the game…
+1792258909 the library is empty, so install a mod first
+1792258909 0 mod(s) installed · ready to play
+1792259351 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_0_7_5\Berber-0.7.5.zip
+1792259351 Installing Berber-0.7.5.zip…
+1792259353 The ZIP must contain exactly one garrison.json with its SGA files.
+1792259353 Couldn't update this mod. Check that every required file is present and matches the author's version. Details are in diagnostics.
+1792259353 the library is empty, so install a mod first
+1792259353 0 mod(s) installed · ready to play
+1792259617 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_0_7_5\Berber-0.7.5-fixed.zip
+1792259617 Installing Berber-0.7.5-fixed.zip…
+1792259621 The Berber Dynasties — enabled (1 packages together)
+1792259621 1 mod(s) installed · ready to play
+1792259627 Starting…
+1792259628 Checking the build and arguments
+1792259628 Checking the game
+1792259628 Staging the enabled mods
+1792259628 Getting your mods ready
+1792259629 Deciding which owners to admit
+1792259631 Asking Steam to start the game
+1792259631 Starting the game through Steam
+1792259631 Waiting for the game to start
+1792259631 Waiting for the game
+1792259635 Applying the asset bridge
+1792259635 Connecting your mods
+1792259635 Arming the owner-provider agent
+1792259635 Recording the session
+1792259639 launched pid 23032 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792259639 started the audio backend for berber_future_kingdom (pid 28340)
+1792259639 The game is running with berber_future_kingdom.
+1792259690 graphics check: Standard in AoE4_10_17_21h-23m-55s
+1792259846 The game has closed. Putting things back…
+1792259849 took the last session's staging back out for berber_future_kingdom
+1792259849 mods_meta_data.lua put back (removed-registered-keys)
+1792259849 Tidied up after the last session.
+1792259849 1 mod(s) installed · ready to play
+1792259853 Starting…
+1792259853 Checking the build and arguments
+1792259853 Checking the game
+1792259853 Staging the enabled mods
+1792259853 Getting your mods ready
+1792259854 Deciding which owners to admit
+1792259862 Asking Steam to start the game
+1792259862 Starting the game through Steam
+1792259862 Waiting for the game to start
+1792259862 Waiting for the game
+1792259863 Applying the asset bridge
+1792259863 Connecting your mods
+1792259863 Arming the owner-provider agent
+1792259863 Recording the session
+1792259865 launched pid 18740 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792259865 started the audio backend for berber_future_kingdom (pid 8920)
+1792259865 The game is running with berber_future_kingdom.
+1792259902 graphics check: Standard in AoE4_10_17_21h-27m-43s
+1792260206 The game has closed. Putting things back…
+1792260208 took the last session's staging back out for berber_future_kingdom
+1792260208 mods_meta_data.lua put back (removed-registered-keys)
+1792260208 Tidied up after the last session.
+1792260208 1 mod(s) installed · ready to play
+1792260985 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_0_7_5\Berber-0.7.5-fixed.zip
+1792260985 Installing Berber-0.7.5-fixed.zip…
+1792260990 The Berber Dynasties — enabled (1 packages together)
+1792260990 1 mod(s) installed · ready to play
+1792260999 Starting…
+1792260999 Checking the build and arguments
+1792260999 Checking the game
+1792261000 Staging the enabled mods
+1792261000 Getting your mods ready
+1792261001 Deciding which owners to admit
+1792261004 Asking Steam to start the game
+1792261004 Starting the game through Steam
+1792261004 Waiting for the game to start
+1792261004 Waiting for the game
+1792261136 the game ended before its code was unpacked
+1792261136 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1792261138 Starting…
+1792261138 Checking the build and arguments
+1792261138 Checking the game
+1792261138 Staging the enabled mods
+1792261138 Getting your mods ready
+1792261139 Deciding which owners to admit
+1792261142 Asking Steam to start the game
+1792261142 Starting the game through Steam
+1792261142 Waiting for the game to start
+1792261142 Waiting for the game
+1792261142 Applying the asset bridge
+1792261142 Connecting your mods
+1792261142 Arming the owner-provider agent
+1792261142 Recording the session
+1792261144 launched pid 27980 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792261144 started the audio backend for berber_future_kingdom (pid 27420)
+1792261144 The game is running with berber_future_kingdom.
+1792261181 graphics check: Standard in AoE4_10_17_21h-49m-02s
+1792261557 The game has closed. Putting things back…
+1792261559 took the last session's staging back out for berber_future_kingdom
+1792261559 mods_meta_data.lua put back (removed-registered-keys)
+1792261559 Tidied up after the last session.
+1792261559 1 mod(s) installed · ready to play
+1792262168 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_052\community_civilization_pack-0.5.2-diagnostic-a.zip
+1792262168 Installing community_civilization_pack-0.5.2-diagnostic-a.zip…
+1792262169 Community Civilization Pack — enabled (1 packages together)
+1792262169 2 mod(s) installed · ready to play
+1792262173 Starting…
+1792262173 Checking the build and arguments
+1792262173 Checking the game
+1792262173 Staging the enabled mods
+1792262173 Getting your mods ready
+1792262174 Deciding which owners to admit
+1792262178 Asking Steam to start the game
+1792262178 Starting the game through Steam
+1792262178 Waiting for the game to start
+1792262178 Waiting for the game
+1792262179 Applying the asset bridge
+1792262179 Connecting your mods
+1792262179 Arming the owner-provider agent
+1792262179 Recording the session
+1792262182 launched pid 21204 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792262182 started the audio backend for berber_future_kingdom (pid 29052)
+1792262182 The game is running with berber_future_kingdom, community_civilization_pack.
+1792262219 graphics check: Standard in AoE4_10_17_22h-06m-19s
+1792262236 The game has closed. Putting things back…
+1792262239 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792262239 mods_meta_data.lua put back (removed-registered-keys)
+1792262239 Tidied up after the last session.
+1792262239 2 mod(s) installed · ready to play
+1792262323 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_0_7_5\Berber-0.7.5-fixed.zip
+1792262323 Installing Berber-0.7.5-fixed.zip…
+1792262329 The Berber Dynasties — enabled (1 packages together)
+1792262329 2 mod(s) installed · ready to play
+1792262332 Starting…
+1792262332 Checking the build and arguments
+1792262332 Checking the game
+1792262332 Staging the enabled mods
+1792262332 Getting your mods ready
+1792262333 Deciding which owners to admit
+1792262336 Asking Steam to start the game
+1792262336 Starting the game through Steam
+1792262336 Waiting for the game to start
+1792262336 Waiting for the game
+1792262337 Applying the asset bridge
+1792262337 Connecting your mods
+1792262337 Arming the owner-provider agent
+1792262337 Recording the session
+1792262339 launched pid 28588 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792262339 started the audio backend for berber_future_kingdom (pid 28560)
+1792262339 The game is running with berber_future_kingdom, community_civilization_pack.
+1792262375 graphics check: Standard in AoE4_10_17_22h-08m-57s
+1792262543 The game has closed. Putting things back…
+1792262545 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792262545 mods_meta_data.lua put back (removed-registered-keys)
+1792262545 Tidied up after the last session.
+1792262545 2 mod(s) installed · ready to play
+1792262756 Starting…
+1792262756 Checking the build and arguments
+1792262756 Checking the game
+1792262756 close the running game before launching a modded session: close RelicCardinal.exe before the run changes installed files
+1792262756 The game couldn't be started with your mods. Close Age of Empires IV, then try again.
+1792262758 Starting…
+1792262758 Checking the build and arguments
+1792262758 Checking the game
+1792262758 Staging the enabled mods
+1792262758 Getting your mods ready
+1792262760 Deciding which owners to admit
+1792262764 Asking Steam to start the game
+1792262764 Starting the game through Steam
+1792262764 Waiting for the game to start
+1792262764 Waiting for the game
+1792262764 Applying the asset bridge
+1792262764 Connecting your mods
+1792262764 Arming the owner-provider agent
+1792262764 Recording the session
+1792262766 launched pid 30044 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792262766 started the audio backend for berber_future_kingdom (pid 26368)
+1792262766 The game is running with berber_future_kingdom, community_civilization_pack.
+1792262798 graphics check: Standard in AoE4_10_17_22h-16m-04s
+1792263122 The game has closed. Putting things back…
+1792263124 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792263124 mods_meta_data.lua put back (removed-registered-keys)
+1792263124 Tidied up after the last session.
+1792263124 2 mod(s) installed · ready to play
+1792263167 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_0_8_0\Berber-0.8.0.zip
+1792263167 Installing Berber-0.8.0.zip…
+1792263171 The Berber Dynasties — enabled (1 packages together)
+1792263172 2 mod(s) installed · ready to play
+1792263174 Starting…
+1792263174 Checking the build and arguments
+1792263174 Checking the game
+1792263174 Staging the enabled mods
+1792263174 Getting your mods ready
+1792263175 Deciding which owners to admit
+1792263178 Asking Steam to start the game
+1792263178 Starting the game through Steam
+1792263178 Waiting for the game to start
+1792263178 Waiting for the game
+1792263179 Applying the asset bridge
+1792263179 Connecting your mods
+1792263179 Arming the owner-provider agent
+1792263179 Recording the session
+1792263182 launched pid 28096 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792263182 started the audio backend for berber_future_kingdom (pid 26428)
+1792263182 The game is running with berber_future_kingdom, community_civilization_pack.
+1792263219 graphics check: Standard in AoE4_10_17_22h-22m-59s
+1792263438 The game has closed. Putting things back…
+1792263441 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792263441 mods_meta_data.lua put back (removed-registered-keys)
+1792263441 Tidied up after the last session.
+1792263441 2 mod(s) installed · ready to play
+1792263766 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_0_8_1\Berber-0.8.1.zip
+1792263766 Installing Berber-0.8.1.zip…
+1792263770 The Berber Dynasties — enabled (1 packages together)
+1792263770 2 mod(s) installed · ready to play
+1792263772 Starting…
+1792263772 Checking the build and arguments
+1792263772 Checking the game
+1792263772 Staging the enabled mods
+1792263772 Getting your mods ready
+1792263774 Deciding which owners to admit
+1792263786 Asking Steam to start the game
+1792263786 Starting the game through Steam
+1792263786 Waiting for the game to start
+1792263786 Waiting for the game
+1792263787 Applying the asset bridge
+1792263787 Connecting your mods
+1792263787 Arming the owner-provider agent
+1792263787 Recording the session
+1792263789 launched pid 26968 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792263789 started the audio backend for berber_future_kingdom (pid 24868)
+1792263789 The game is running with berber_future_kingdom, community_civilization_pack.
+1792263826 graphics check: Standard in AoE4_10_17_22h-33m-07s
+1792263971 The game has closed. Putting things back…
+1792263974 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792263974 mods_meta_data.lua put back (removed-registered-keys)
+1792263974 Tidied up after the last session.
+1792263974 2 mod(s) installed · ready to play
+1792264809 Starting…
+1792264809 Checking the build and arguments
+1792264809 Checking the game
+1792264809 Staging the enabled mods
+1792264809 Getting your mods ready
+1792264811 Deciding which owners to admit
+1792264814 Asking Steam to start the game
+1792264814 Starting the game through Steam
+1792264814 Waiting for the game to start
+1792264814 Waiting for the game
+1792264816 Applying the asset bridge
+1792264816 Connecting your mods
+1792264816 Arming the owner-provider agent
+1792264816 Recording the session
+1792264819 launched pid 12932 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792264819 started the audio backend for berber_future_kingdom (pid 26332)
+1792264819 The game is running with berber_future_kingdom, community_civilization_pack.
+1792264866 graphics check: Standard in AoE4_10_17_22h-50m-16s
+1792265300 The game has closed. Putting things back…
+1792265304 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792265304 mods_meta_data.lua put back (removed-registered-keys)
+1792265304 Tidied up after the last session.
+1792265304 2 mod(s) installed · ready to play
+1792290348 Looking for the game…
+1792290351 2 mod(s) installed · ready to play
+1792303134 Looking for the game…
+1792303136 2 mod(s) installed · ready to play
+1792303431 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_053\community_civilization_pack-0.5.3.zip
+1792303431 Installing community_civilization_pack-0.5.3.zip…
+1792303432 Community Civilization Pack — enabled (1 packages together)
+1792303432 2 mod(s) installed · ready to play
+1792306198 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_0_9_0\Berber-0.9.0.zip
+1792306198 Installing Berber-0.9.0.zip…
+1792306203 The Berber Dynasties — enabled (1 packages together)
+1792306204 2 mod(s) installed · ready to play
+1792308674 installing E:\age of empires 4 mods\AI_Assisted_modding\Berber_future_kingdom_ai\output\berber_update_0_9_1\Berber-0.9.1.zip
+1792308674 Installing Berber-0.9.1.zip…
+1792308679 The Berber Dynasties — enabled (1 packages together)
+1792308680 2 mod(s) installed · ready to play
+1792312407 installing E:\age of empires 4 mods\AI_Assisted_modding\Berber_future_kingdom_ai\output\berber_update_0_10_0\Berber-0.10.0.zip
+1792312407 Installing Berber-0.10.0.zip…
+1792312412 The Berber Dynasties — enabled (1 packages together)
+1792312412 2 mod(s) installed · ready to play
+1792313991 installing E:\age of empires 4 mods\AI_Assisted_modding\Berber_future_kingdom_ai\output\berber_update_0_10_0\Berber-0.10.0.zip
+1792313991 Installing Berber-0.10.0.zip…
+1792313995 The Berber Dynasties — enabled (1 packages together)
+1792313996 2 mod(s) installed · ready to play
+1792332720 Looking for the game…
+1792332722 2 mod(s) installed · ready to play
+1792332763 Starting…
+1792332763 Checking the build and arguments
+1792332763 Checking the game
+1792332763 Staging the enabled mods
+1792332763 Getting your mods ready
+1792332765 Deciding which owners to admit
+1792332769 Asking Steam to start the game
+1792332769 Starting the game through Steam
+1792332769 Waiting for the game to start
+1792332769 Waiting for the game
+1792332774 Applying the asset bridge
+1792332774 Connecting your mods
+1792332774 Arming the owner-provider agent
+1792332774 Recording the session
+1792332777 launched pid 31288 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792332777 started the audio backend for berber_future_kingdom (pid 31928)
+1792332777 The game is running with berber_future_kingdom, community_civilization_pack.
+1792332814 graphics check: Standard in AoE4_10_18_17h-42m-54s
+1792332833 The game has closed. Putting things back…
+1792332835 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792332835 mods_meta_data.lua put back (byte-exact-backup)
+1792332835 Tidied up after the last session.
+1792332835 2 mod(s) installed · ready to play
+1792332851 Starting…
+1792332851 Checking the build and arguments
+1792332851 Checking the game
+1792332852 Staging the enabled mods
+1792332852 Getting your mods ready
+1792332854 Deciding which owners to admit
+1792332858 Asking Steam to start the game
+1792332858 Starting the game through Steam
+1792332858 Waiting for the game to start
+1792332858 Waiting for the game
+1792332859 Applying the asset bridge
+1792332859 Connecting your mods
+1792332859 Arming the owner-provider agent
+1792332859 Recording the session
+1792332862 launched pid 22512 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792332862 started the audio backend for berber_future_kingdom (pid 32744)
+1792332862 The game is running with berber_future_kingdom, community_civilization_pack.
+1792332888 graphics check: Standard in AoE4_10_18_17h-44m-19s
+1792333354 The game has closed. Putting things back…
+1792333357 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792333357 mods_meta_data.lua put back (removed-registered-keys)
+1792333357 Tidied up after the last session.
+1792333357 2 mod(s) installed · ready to play
+1792333890 installing E:\age of empires 4 mods\AI_Assisted_modding\Berber_future_kingdom_ai\output\berber_update_0_10_1\Berber-0.10.1.zip
+1792333890 Installing Berber-0.10.1.zip…
+1792333895 The Berber Dynasties — enabled (1 packages together)
+1792333896 2 mod(s) installed · ready to play
+1792333912 Starting…
+1792333912 Checking the build and arguments
+1792333912 Checking the game
+1792333912 Staging the enabled mods
+1792333912 Getting your mods ready
+1792333914 Deciding which owners to admit
+1792333918 Asking Steam to start the game
+1792333918 Starting the game through Steam
+1792333918 Waiting for the game to start
+1792333918 Waiting for the game
+1792333919 Applying the asset bridge
+1792333919 Connecting your mods
+1792333919 Arming the owner-provider agent
+1792333919 Recording the session
+1792333921 launched pid 29708 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792333921 started the audio backend for berber_future_kingdom (pid 15668)
+1792333921 The game is running with berber_future_kingdom, community_civilization_pack.
+1792333983 graphics check: Standard in AoE4_10_18_18h-01m-59s
+1792334289 The game has closed. Putting things back…
+1792334292 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792334292 mods_meta_data.lua put back (removed-registered-keys)
+1792334292 Tidied up after the last session.
+1792334292 2 mod(s) installed · ready to play
+1792337455 installing E:\age of empires 4 mods\AI_Assisted_modding\Berber_future_kingdom_ai\output\berber_dark_age_music_test_1\Berber-Dark-Age-Music-Test-1.zip
+1792337455 Installing Berber-Dark-Age-Music-Test-1.zip…
+1792337460 Berber Dynasty - Dark Age Music TEST — enabled (1 packages together)
+1792337461 2 mod(s) installed · ready to play
+1792337529 Starting…
+1792337529 Checking the build and arguments
+1792337529 Checking the game
+1792337530 Staging the enabled mods
+1792337530 Getting your mods ready
+1792337531 Deciding which owners to admit
+1792337535 Asking Steam to start the game
+1792337535 Starting the game through Steam
+1792337535 Waiting for the game to start
+1792337535 Waiting for the game
+1792337537 Applying the asset bridge
+1792337537 Connecting your mods
+1792337537 Arming the owner-provider agent
+1792337538 Recording the session
+1792337541 launched pid 31960 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792337541 started the audio backend for berber_future_kingdom (pid 14492)
+1792337541 The game is running with berber_future_kingdom, community_civilization_pack.
+1792337587 graphics check: Standard in AoE4_10_18_19h-02m-18s
+1792337610 The game has closed. Putting things back…
+1792337613 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792337613 mods_meta_data.lua put back (byte-exact-backup)
+1792337613 Tidied up after the last session.
+1792337613 2 mod(s) installed · ready to play
+1792337648 Starting…
+1792337648 Checking the build and arguments
+1792337648 Checking the game
+1792337648 Staging the enabled mods
+1792337648 Getting your mods ready
+1792337652 Deciding which owners to admit
+1792337663 Asking Steam to start the game
+1792337663 Starting the game through Steam
+1792337663 Waiting for the game to start
+1792337663 Waiting for the game
+1792337665 Applying the asset bridge
+1792337665 Connecting your mods
+1792337665 Arming the owner-provider agent
+1792337665 Recording the session
+1792337667 launched pid 33208 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792337667 started the audio backend for berber_future_kingdom (pid 11188)
+1792337667 The game is running with berber_future_kingdom, community_civilization_pack.
+1792337710 graphics check: Standard in AoE4_10_18_19h-04m-25s
+1792338136 The game has closed. Putting things back…
+1792338141 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792338141 mods_meta_data.lua put back (removed-registered-keys)
+1792338141 Tidied up after the last session.
+1792338141 2 mod(s) installed · ready to play
+1792338918 installing E:\age of empires 4 mods\AI_Assisted_modding\Berber_future_kingdom_ai\output\berber_dark_age_music_test_2\Berber-Dark-Age-Music-Test-2.zip
+1792338918 Installing Berber-Dark-Age-Music-Test-2.zip…
+1792338923 Berber Dynasty - Dark Age Music TEST — enabled (1 packages together)
+1792338923 2 mod(s) installed · ready to play
+1792339018 Starting…
+1792339018 Checking the build and arguments
+1792339018 Checking the game
+1792339018 Staging the enabled mods
+1792339018 Getting your mods ready
+1792339020 Deciding which owners to admit
+1792339033 Asking Steam to start the game
+1792339033 Starting the game through Steam
+1792339033 Waiting for the game to start
+1792339033 Waiting for the game
+1792339036 Applying the asset bridge
+1792339036 Connecting your mods
+1792339036 Arming the owner-provider agent
+1792339036 Recording the session
+1792339038 launched pid 24880 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792339038 started the audio backend for berber_future_kingdom (pid 24372)
+1792339038 The game is running with berber_future_kingdom, community_civilization_pack.
+1792339070 graphics check: Standard in AoE4_10_18_19h-27m-16s
+1792340421 The game has closed. Putting things back…
+1792340425 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792340425 mods_meta_data.lua put back (removed-registered-keys)
+1792340425 Tidied up after the last session.
+1792340425 2 mod(s) installed · ready to play
+1792341219 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_060\community_civilization_pack-0.6.0.zip
+1792341219 Installing community_civilization_pack-0.6.0.zip…
+1792341221 Community Civilization Pack — enabled (1 packages together)
+1792341221 2 mod(s) installed · ready to play
+1792341224 Starting…
+1792341224 Checking the build and arguments
+1792341224 Checking the game
+1792341224 Staging the enabled mods
+1792341224 Getting your mods ready
+1792341227 Deciding which owners to admit
+1792341231 Asking Steam to start the game
+1792341231 Starting the game through Steam
+1792341231 Waiting for the game to start
+1792341231 Waiting for the game
+1792341231 Applying the asset bridge
+1792341231 Connecting your mods
+1792341231 Arming the owner-provider agent
+1792341231 Recording the session
+1792341234 launched pid 12832 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792341234 started the audio backend for berber_future_kingdom (pid 28144)
+1792341234 The game is running with berber_future_kingdom, community_civilization_pack.
+1792341275 graphics check: Standard in AoE4_10_18_20h-03m-51s
+1792341572 The game has closed. Putting things back…
+1792341575 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792341575 mods_meta_data.lua put back (removed-registered-keys)
+1792341575 Tidied up after the last session.
+1792341575 2 mod(s) installed · ready to play
+1792344769 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_061\community_civilization_pack-0.6.1.zip
+1792344769 Installing community_civilization_pack-0.6.1.zip…
+1792344771 Community Civilization Pack — enabled (1 packages together)
+1792344771 2 mod(s) installed · ready to play
+1792344773 Starting…
+1792344773 Checking the build and arguments
+1792344773 Checking the game
+1792344773 Staging the enabled mods
+1792344773 Getting your mods ready
+1792344776 Deciding which owners to admit
+1792344781 Asking Steam to start the game
+1792344781 Starting the game through Steam
+1792344781 Waiting for the game to start
+1792344781 Waiting for the game
+1792344782 Applying the asset bridge
+1792344782 Connecting your mods
+1792344782 Arming the owner-provider agent
+1792344782 Recording the session
+1792344785 launched pid 12092 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792344785 started the audio backend for berber_future_kingdom (pid 36552)
+1792344785 The game is running with berber_future_kingdom, community_civilization_pack.
+1792344823 graphics check: Standard in AoE4_10_18_21h-03m-02s
+1792345268 The game has closed. Putting things back…
+1792345272 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792345272 mods_meta_data.lua put back (removed-registered-keys)
+1792345272 Tidied up after the last session.
+1792345272 2 mod(s) installed · ready to play
+1792351663 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_1_0_0\Berber-1.0.0.zip
+1792351663 Installing Berber-1.0.0.zip…
+1792351669 Berber Dynasty — enabled (1 packages together)
+1792351670 2 mod(s) installed · ready to play
+1792352157 Starting…
+1792352157 Checking the build and arguments
+1792352157 Checking the game
+1792352157 Staging the enabled mods
+1792352157 Getting your mods ready
+1792352160 Deciding which owners to admit
+1792352165 Asking Steam to start the game
+1792352165 Starting the game through Steam
+1792352165 Waiting for the game to start
+1792352165 Waiting for the game
+1792352166 Applying the asset bridge
+1792352166 Connecting your mods
+1792352166 Arming the owner-provider agent
+1792352166 Recording the session
+1792352170 launched pid 30792 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792352170 started the audio backend for berber_future_kingdom (pid 14676)
+1792352170 The game is running with berber_future_kingdom, community_civilization_pack.
+1792352217 graphics check: Standard in AoE4_10_18_23h-06m-06s
+1792352508 The game has closed. Putting things back…
+1792352512 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792352512 mods_meta_data.lua put back (removed-registered-keys)
+1792352512 Tidied up after the last session.
+1792352512 2 mod(s) installed · ready to play
+1792352523 Starting…
+1792352523 Checking the build and arguments
+1792352523 Checking the game
+1792352523 Staging the enabled mods
+1792352523 Getting your mods ready
+1792352526 Deciding which owners to admit
+1792352550 Asking Steam to start the game
+1792352550 Starting the game through Steam
+1792352550 Waiting for the game to start
+1792352550 Waiting for the game
+1792352552 Applying the asset bridge
+1792352552 Connecting your mods
+1792352552 Arming the owner-provider agent
+1792352552 Recording the session
+1792352554 launched pid 19804 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792352554 started the audio backend for berber_future_kingdom (pid 11584)
+1792352554 The game is running with berber_future_kingdom, community_civilization_pack.
+1792352590 graphics check: Standard in AoE4_10_18_23h-12m-32s
+1792354767 The game has closed. Putting things back…
+1792354771 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792354771 mods_meta_data.lua put back (removed-registered-keys)
+1792354771 Tidied up after the last session.
+1792354771 2 mod(s) installed · ready to play
+1792358487 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_1_0_1\Berber-1.0.1.zip
+1792358487 Installing Berber-1.0.1.zip…
+1792358494 Berber Dynasty — enabled (1 packages together)
+1792358494 2 mod(s) installed · ready to play
+1792358497 Starting…
+1792358497 Checking the build and arguments
+1792358497 Checking the game
+1792358498 Staging the enabled mods
+1792358498 Getting your mods ready
+1792358500 Deciding which owners to admit
+1792358504 Asking Steam to start the game
+1792358504 Starting the game through Steam
+1792358504 Waiting for the game to start
+1792358504 Waiting for the game
+1792358505 Applying the asset bridge
+1792358505 Connecting your mods
+1792358505 Arming the owner-provider agent
+1792358506 Recording the session
+1792358509 launched pid 34804 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792358509 started the audio backend for berber_future_kingdom (pid 35652)
+1792358509 The game is running with berber_future_kingdom, community_civilization_pack.
+1792358546 graphics check: Standard in AoE4_10_19_00h-51m-46s
+1792358810 The game has closed. Putting things back…
+1792358814 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792358814 mods_meta_data.lua put back (removed-registered-keys)
+1792358814 Tidied up after the last session.
+1792358814 2 mod(s) installed · ready to play
+1792391676 Looking for the game…
+1792391681 2 mod(s) installed · ready to play
+1792391711 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_1_0_2\Berber-1.0.2.zip
+1792391711 Installing Berber-1.0.2.zip…
+1792391721 Berber Dynasty — enabled (1 packages together)
+1792391722 2 mod(s) installed · ready to play
+1792391740 Starting…
+1792391740 Checking the build and arguments
+1792391740 Checking the game
+1792391741 Staging the enabled mods
+1792391741 Getting your mods ready
+1792391755 Deciding which owners to admit
+1792391781 Asking Steam to start the game
+1792391781 Starting the game through Steam
+1792391781 Waiting for the game to start
+1792391781 Waiting for the game
+1792391787 Applying the asset bridge
+1792391787 Connecting your mods
+1792391787 Arming the owner-provider agent
+1792391788 Recording the session
+1792391791 launched pid 28936 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792391791 started the audio backend for berber_future_kingdom (pid 5964)
+1792391791 The game is running with berber_future_kingdom, community_civilization_pack.
+1792391835 graphics check: Standard in AoE4_10_19_10h-06m-28s
+1792392058 The game has closed. Putting things back…
+1792392062 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792392062 mods_meta_data.lua put back (removed-registered-keys)
+1792392062 Tidied up after the last session.
+1792392062 2 mod(s) installed · ready to play
+1792394417 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_1_0_3\Berber-1.0.3.zip
+1792394417 Installing Berber-1.0.3.zip…
+1792394423 Berber Dynasty — enabled (1 packages together)
+1792394424 2 mod(s) installed · ready to play
+1792394425 Starting…
+1792394425 Checking the build and arguments
+1792394425 Checking the game
+1792394425 Staging the enabled mods
+1792394425 Getting your mods ready
+1792394427 Deciding which owners to admit
+1792394432 Asking Steam to start the game
+1792394432 Starting the game through Steam
+1792394432 Waiting for the game to start
+1792394432 Waiting for the game
+1792394433 Applying the asset bridge
+1792394433 Connecting your mods
+1792394433 Arming the owner-provider agent
+1792394433 Recording the session
+1792394435 launched pid 6528 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792394435 started the audio backend for berber_future_kingdom (pid 7604)
+1792394435 The game is running with berber_future_kingdom, community_civilization_pack.
+1792394476 graphics check: Standard in AoE4_10_19_10h-50m-33s
+1792394693 The game has closed. Putting things back…
+1792394697 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792394697 mods_meta_data.lua put back (removed-registered-keys)
+1792394697 Tidied up after the last session.
+1792394697 2 mod(s) installed · ready to play
+1792404925 Starting…
+1792404925 Checking the build and arguments
+1792404925 Checking the game
+1792404925 Staging the enabled mods
+1792404925 Getting your mods ready
+1792404929 Deciding which owners to admit
+1792404934 Asking Steam to start the game
+1792404934 Starting the game through Steam
+1792404934 Waiting for the game to start
+1792404934 Waiting for the game
+1792404935 Applying the asset bridge
+1792404935 Connecting your mods
+1792404935 Arming the owner-provider agent
+1792404935 Recording the session
+1792404937 launched pid 30416 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792404937 started the audio backend for berber_future_kingdom (pid 17216)
+1792404937 The game is running with berber_future_kingdom, community_civilization_pack.
+1792404973 graphics check: Standard in AoE4_10_19_13h-45m-35s
+1792405461 The game has closed. Putting things back…
+1792405465 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792405465 mods_meta_data.lua put back (removed-registered-keys)
+1792405465 Tidied up after the last session.
+1792405465 2 mod(s) installed · ready to play
+1792405694 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_070\release\community_civilization_pack-0.7.0.zip
+1792405694 Installing community_civilization_pack-0.7.0.zip…
+1792405696 Community Civilization Pack — enabled (1 packages together)
+1792405696 2 mod(s) installed · ready to play
+1792405699 Starting…
+1792405699 Checking the build and arguments
+1792405699 Checking the game
+1792405699 Staging the enabled mods
+1792405699 Getting your mods ready
+1792405703 Deciding which owners to admit
+1792405712 Asking Steam to start the game
+1792405712 Starting the game through Steam
+1792405712 Waiting for the game to start
+1792405712 Waiting for the game
+1792405713 Applying the asset bridge
+1792405713 Connecting your mods
+1792405713 Arming the owner-provider agent
+1792405714 Recording the session
+1792405716 launched pid 26128 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792405716 started the audio backend for berber_future_kingdom (pid 35320)
+1792405716 The game is running with berber_future_kingdom, community_civilization_pack.
+1792405770 The game has closed. Putting things back…
+1792405774 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792405774 mods_meta_data.lua put back (byte-exact-backup)
+1792405774 Tidied up after the last session.
+1792405774 2 mod(s) installed · ready to play
+1792405868 Starting…
+1792405868 Checking the build and arguments
+1792405868 Checking the game
+1792405868 Staging the enabled mods
+1792405868 Getting your mods ready
+1792405876 Deciding which owners to admit
+1792405893 Asking Steam to start the game
+1792405893 Starting the game through Steam
+1792405893 Waiting for the game to start
+1792405893 Waiting for the game
+1792405894 Applying the asset bridge
+1792405894 Connecting your mods
+1792405894 Arming the owner-provider agent
+1792405895 Recording the session
+1792405897 launched pid 1756 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792405897 started the audio backend for berber_future_kingdom (pid 21100)
+1792405897 The game is running with berber_future_kingdom, community_civilization_pack.
+1792405941 graphics check: Standard in AoE4_10_19_14h-01m-35s
+1792406237 The game has closed. Putting things back…
+1792406241 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792406241 mods_meta_data.lua put back (removed-registered-keys)
+1792406241 Tidied up after the last session.
+1792406241 2 mod(s) installed · ready to play
+1792408610 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_1_0_4\Berber-1.0.4.zip
+1792408610 Installing Berber-1.0.4.zip…
+1792408617 Berber Dynasty — enabled (1 packages together)
+1792408618 2 mod(s) installed · ready to play
+1792408622 Starting…
+1792408622 Checking the build and arguments
+1792408622 Checking the game
+1792408622 Staging the enabled mods
+1792408622 Getting your mods ready
+1792408625 Deciding which owners to admit
+1792408632 Asking Steam to start the game
+1792408632 Starting the game through Steam
+1792408632 Waiting for the game to start
+1792408632 Waiting for the game
+1792408633 Applying the asset bridge
+1792408633 Connecting your mods
+1792408633 Arming the owner-provider agent
+1792408633 Recording the session
+1792408635 launched pid 2324 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792408635 started the audio backend for berber_future_kingdom (pid 28804)
+1792408635 The game is running with berber_future_kingdom, community_civilization_pack.
+1792408673 graphics check: Standard in AoE4_10_19_14h-47m-13s
+1792409004 The game has closed. Putting things back…
+1792409008 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792409008 mods_meta_data.lua put back (removed-registered-keys)
+1792409008 Tidied up after the last session.
+1792409008 2 mod(s) installed · ready to play
+1792421418 Looking for the game…
+1792421422 2 mod(s) installed · ready to play
+1792421429 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_071\delivery\community_civilization_pack-0.7.1.zip
+1792421429 Installing community_civilization_pack-0.7.1.zip…
+1792421431 Community Civilization Pack — enabled (1 packages together)
+1792421431 2 mod(s) installed · ready to play
+1792421437 Starting…
+1792421437 Checking the build and arguments
+1792421437 Checking the game
+1792421437 Staging the enabled mods
+1792421437 Getting your mods ready
+1792421440 Deciding which owners to admit
+1792421445 Asking Steam to start the game
+1792421445 Starting the game through Steam
+1792421445 Waiting for the game to start
+1792421445 Waiting for the game
+1792421447 Applying the asset bridge
+1792421447 Connecting your mods
+1792421447 Arming the owner-provider agent
+1792421447 Recording the session
+1792421450 launched pid 29380 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792421450 started the audio backend for berber_future_kingdom (pid 4872)
+1792421450 The game is running with berber_future_kingdom, community_civilization_pack.
+1792421498 graphics check: Standard in AoE4_10_19_18h-20m-47s
+1792421802 The game has closed. Putting things back…
+1792421807 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792421807 mods_meta_data.lua put back (removed-registered-keys)
+1792421807 Tidied up after the last session.
+1792421807 2 mod(s) installed · ready to play
+1792423088 installing F:\aoe_4_temp\Berber_future_kingdom_ai_20261014\output\berber_update_1_0_5\Berber-1.0.5.zip
+1792423088 Installing Berber-1.0.5.zip…
+1792423095 Berber Dynasty — enabled (1 packages together)
+1792423095 2 mod(s) installed · ready to play
+1792423126 Starting…
+1792423126 Checking the build and arguments
+1792423126 Checking the game
+1792423126 Staging the enabled mods
+1792423126 Getting your mods ready
+1792423129 Deciding which owners to admit
+1792423134 Asking Steam to start the game
+1792423134 Starting the game through Steam
+1792423134 Waiting for the game to start
+1792423134 Waiting for the game
+1792423134 Applying the asset bridge
+1792423134 Connecting your mods
+1792423134 Arming the owner-provider agent
+1792423134 Recording the session
+1792423137 launched pid 29528 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792423137 started the audio backend for berber_future_kingdom (pid 6300)
+1792423137 The game is running with berber_future_kingdom, community_civilization_pack.
+1792423172 graphics check: Standard in AoE4_10_19_18h-48m-54s
+1792424583 The game has closed. Putting things back…
+1792424587 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792424587 mods_meta_data.lua put back (removed-registered-keys)
+1792424587 Tidied up after the last session.
+1792424587 2 mod(s) installed · ready to play
+1792443380 Looking for the game…
+1792443382 2 mod(s) installed · ready to play
+1792443404 Starting…
+1792443404 Checking the build and arguments
+1792443404 Checking the game
+1792443404 Staging the enabled mods
+1792443404 Getting your mods ready
+1792443407 Deciding which owners to admit
+1792443412 Asking Steam to start the game
+1792443412 Starting the game through Steam
+1792443412 Waiting for the game to start
+1792443412 Waiting for the game
+1792443412 Applying the asset bridge
+1792443412 Connecting your mods
+1792443412 Arming the owner-provider agent
+1792443412 Recording the session
+1792443414 launched pid 24676 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792443414 started the audio backend for berber_future_kingdom (pid 13676)
+1792443414 The game is running with berber_future_kingdom, community_civilization_pack.
+1792443450 graphics check: Standard in AoE4_10_20_00h-26m-52s
+1792443663 The game has closed. Putting things back…
+1792443665 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792443665 mods_meta_data.lua put back (removed-registered-keys)
+1792443665 Tidied up after the last session.
+1792443665 2 mod(s) installed · ready to play
+1792443696 Could not connect. Check your connection and catalog address.: error sending request for url (https://github.com/AOE-Garrison/garrison-mod-catalog/releases/download/football_45_bundle-v0.9.1/football_45_bundle-0.9.1.zip): client error (Connect): operation timed out
+1792443697 2 mod(s) installed · ready to play
+1792444013 4 mod(s) installed · ready to play
+1792444021 OverFootball — enabled (2 packages together)
+1792444021 4 mod(s) installed · ready to play
+1792444024 Starting…
+1792444024 Checking the build and arguments
+1792444024 Checking the game
+1792444024 Staging the enabled mods
+1792444024 Getting your mods ready
+1792444027 Deciding which owners to admit
+1792444034 Asking Steam to start the game
+1792444034 Starting the game through Steam
+1792444034 Waiting for the game to start
+1792444034 Waiting for the game
+1792444034 Applying the asset bridge
+1792444034 Connecting your mods
+1792444034 Arming the owner-provider agent
+1792444035 Recording the session
+1792444037 launched pid 26404 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792444037 started the audio backend for berber_future_kingdom (pid 9940)
+1792444037 started the audio backend for football_45 (pid 30700)
+1792444037 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792444074 graphics check: Standard in AoE4_10_20_00h-37m-15s
+1792444501 The game has closed. Putting things back…
+1792444505 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792444505 mods_meta_data.lua put back (removed-registered-keys)
+1792444505 Tidied up after the last session.
+1792444505 4 mod(s) installed · ready to play
+1792760093 Looking for the game…
+1792760095 4 mod(s) installed · ready to play
+1792760951 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_072\delivery\community_civilization_pack-0.7.2.zip
+1792760951 Installing community_civilization_pack-0.7.2.zip…
+1792760952 Community Civilization Pack — enabled (1 packages together)
+1792760952 4 mod(s) installed · ready to play
+1792760961 Starting…
+1792760961 Checking the build and arguments
+1792760961 Checking the game
+1792760961 Staging the enabled mods
+1792760961 Getting your mods ready
+1792760965 Deciding which owners to admit
+1792760972 Asking Steam to start the game
+1792760972 Starting the game through Steam
+1792760972 Waiting for the game to start
+1792760972 Waiting for the game
+1792760975 Applying the asset bridge
+1792760975 Connecting your mods
+1792760975 Arming the owner-provider agent
+1792760976 Recording the session
+1792760979 launched pid 9496 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792760979 started the audio backend for berber_future_kingdom (pid 2200)
+1792760979 started the audio backend for football_45 (pid 18244)
+1792760979 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792761017 graphics check: Standard in AoE4_10_23_16h-39m-36s
+1792761190 The game has closed. Putting things back…
+1792761194 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792761194 mods_meta_data.lua put back (removed-registered-keys)
+1792761194 Tidied up after the last session.
+1792761194 4 mod(s) installed · ready to play
+1792762031 Looking for the game…
+1792762032 4 mod(s) installed · ready to play
+1792762041 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_073\delivery\community_civilization_pack-0.7.3.zip
+1792762041 Installing community_civilization_pack-0.7.3.zip…
+1792762043 Community Civilization Pack — enabled (1 packages together)
+1792762043 4 mod(s) installed · ready to play
+1792762072 Starting…
+1792762072 Checking the build and arguments
+1792762072 Checking the game
+1792762072 Staging the enabled mods
+1792762072 Getting your mods ready
+1792762075 Deciding which owners to admit
+1792762081 Asking Steam to start the game
+1792762081 Starting the game through Steam
+1792762081 Waiting for the game to start
+1792762081 Waiting for the game
+1792762083 Applying the asset bridge
+1792762083 Connecting your mods
+1792762083 Arming the owner-provider agent
+1792762083 Recording the session
+1792762085 launched pid 14148 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792762085 started the audio backend for berber_future_kingdom (pid 3012)
+1792762085 started the audio backend for football_45 (pid 17220)
+1792762085 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792762122 graphics check: Standard in AoE4_10_23_16h-58m-03s
+1792763377 Looking for the game…
+1792763380 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792763380 mods_meta_data.lua put back (removed-registered-keys)
+1792763380 Tidied up after the last session.
+1792763380 4 mod(s) installed · ready to play
+1792763384 installing E:\age of empires 4 mods\01_Custom_Civilizations\Community_Civilization_pack\Community_civilization_pack_garrison\output\release_074\delivery\community_civilization_pack-0.7.4.zip
+1792763384 Installing community_civilization_pack-0.7.4.zip…
+1792763386 Community Civilization Pack — enabled (1 packages together)
+1792763386 4 mod(s) installed · ready to play
+1792778059 Looking for the game…
+1792778061 4 mod(s) installed · ready to play
+1792778066 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_077\delivery\final-v1\community_civilization_pack-0.7.7.zip
+1792778066 Installing community_civilization_pack-0.7.7.zip…
+1792778068 Community Civilization Pack — enabled (1 packages together)
+1792778068 4 mod(s) installed · ready to play
+1792778070 Starting…
+1792778070 Checking the build and arguments
+1792778070 Checking the game
+1792778071 Staging the enabled mods
+1792778071 Getting your mods ready
+1792778073 Deciding which owners to admit
+1792778080 Asking Steam to start the game
+1792778080 Starting the game through Steam
+1792778080 Waiting for the game to start
+1792778080 Waiting for the game
+1792778081 Applying the asset bridge
+1792778081 Connecting your mods
+1792778081 Arming the owner-provider agent
+1792778081 Recording the session
+1792778083 launched pid 28092 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792778083 started the audio backend for berber_future_kingdom (pid 36656)
+1792778083 started the audio backend for football_45 (pid 20184)
+1792778083 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792778119 graphics check: Standard in AoE4_10_23_21h-24m-41s
+1792778651 The game has closed. Putting things back…
+1792778656 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792778656 mods_meta_data.lua put back (removed-registered-keys)
+1792778656 Tidied up after the last session.
+1792778656 4 mod(s) installed · ready to play
+1792779016 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_078\delivery\final-v1\community_civilization_pack-0.7.8.zip
+1792779016 Installing community_civilization_pack-0.7.8.zip…
+1792779018 Community Civilization Pack — enabled (1 packages together)
+1792779018 4 mod(s) installed · ready to play
+1792779337 Starting…
+1792779337 Checking the build and arguments
+1792779337 Checking the game
+1792779337 Staging the enabled mods
+1792779337 Getting your mods ready
+1792779340 Deciding which owners to admit
+1792779347 Asking Steam to start the game
+1792779347 Starting the game through Steam
+1792779347 Waiting for the game to start
+1792779347 Waiting for the game
+1792779348 Applying the asset bridge
+1792779348 Connecting your mods
+1792779348 Arming the owner-provider agent
+1792779348 Recording the session
+1792779351 launched pid 40480 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792779351 started the audio backend for berber_future_kingdom (pid 29068)
+1792779351 started the audio backend for football_45 (pid 2368)
+1792779351 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792779392 graphics check: Standard in AoE4_10_23_21h-45m-48s
+1792783127 The game has closed. Putting things back…
+1792783133 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792783133 mods_meta_data.lua put back (removed-registered-keys)
+1792783133 Tidied up after the last session.
+1792783133 4 mod(s) installed · ready to play
+1792783148 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_079\delivery\motion-pilot-1\community_civilization_pack-0.7.9-pilot.1.zip
+1792783148 Installing community_civilization_pack-0.7.9-pilot.1.zip…
+1792783150 Community Civilization Pack — enabled (1 packages together)
+1792783150 4 mod(s) installed · ready to play
+1792783154 Starting…
+1792783154 Checking the build and arguments
+1792783154 Checking the game
+1792783154 Staging the enabled mods
+1792783154 Getting your mods ready
+1792783157 Deciding which owners to admit
+1792783172 Asking Steam to start the game
+1792783172 Starting the game through Steam
+1792783172 Waiting for the game to start
+1792783172 Waiting for the game
+1792783173 Applying the asset bridge
+1792783173 Connecting your mods
+1792783173 Arming the owner-provider agent
+1792783173 Recording the session
+1792783176 launched pid 40068 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792783176 started the audio backend for berber_future_kingdom (pid 15588)
+1792783176 started the audio backend for football_45 (pid 22900)
+1792783176 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792783210 graphics check: Standard in AoE4_10_23_22h-49m-33s
+1792783373 The game has closed. Putting things back…
+1792783377 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792783377 mods_meta_data.lua put back (removed-registered-keys)
+1792783377 Tidied up after the last session.
+1792783377 4 mod(s) installed · ready to play
+1792787737 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_079\delivery\final-v1\community_civilization_pack-0.7.9.zip
+1792787737 Installing community_civilization_pack-0.7.9.zip…
+1792787739 Community Civilization Pack — enabled (1 packages together)
+1792787740 4 mod(s) installed · ready to play
+1792787743 Starting…
+1792787743 Checking the build and arguments
+1792787743 Checking the game
+1792787743 Staging the enabled mods
+1792787743 Getting your mods ready
+1792787747 Deciding which owners to admit
+1792787764 Asking Steam to start the game
+1792787764 Starting the game through Steam
+1792787764 Waiting for the game to start
+1792787764 Waiting for the game
+1792787768 Applying the asset bridge
+1792787768 Connecting your mods
+1792787768 Arming the owner-provider agent
+1792787769 Recording the session
+1792787772 launched pid 9396 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792787772 started the audio backend for berber_future_kingdom (pid 29080)
+1792787772 started the audio backend for football_45 (pid 31952)
+1792787772 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792787812 graphics check: Standard in AoE4_10_24_00h-06m-09s
+1792789682 The game has closed. Putting things back…
+1792789689 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792789689 mods_meta_data.lua put back (removed-registered-keys)
+1792789689 Tidied up after the last session.
+1792789689 4 mod(s) installed · ready to play
+1792792875 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_0710\delivery\final-v1\community_civilization_pack-0.7.10.zip
+1792792875 Installing community_civilization_pack-0.7.10.zip…
+1792792879 Community Civilization Pack — enabled (1 packages together)
+1792792880 4 mod(s) installed · ready to play
+1792792885 Starting…
+1792792885 Checking the build and arguments
+1792792885 Checking the game
+1792792886 Staging the enabled mods
+1792792886 Getting your mods ready
+1792792892 Deciding which owners to admit
+1792792907 Asking Steam to start the game
+1792792907 Starting the game through Steam
+1792792907 Waiting for the game to start
+1792792907 Waiting for the game
+1792792908 Applying the asset bridge
+1792792908 Connecting your mods
+1792792908 Arming the owner-provider agent
+1792792908 Recording the session
+1792792911 launched pid 2944 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792792911 started the audio backend for berber_future_kingdom (pid 7036)
+1792792911 started the audio backend for football_45 (pid 12724)
+1792792911 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792792976 graphics check: Standard in AoE4_10_24_01h-31m-48s
+1792832882 Looking for the game…
+1792832886 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792832886 mods_meta_data.lua put back (removed-registered-keys)
+1792832886 Tidied up after the last session.
+1792832886 4 mod(s) installed · ready to play
+1792834068 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_0711\delivery\final-v1\community_civilization_pack-0.7.11.zip
+1792834068 Installing community_civilization_pack-0.7.11.zip…
+1792834070 Community Civilization Pack — enabled (1 packages together)
+1792834070 4 mod(s) installed · ready to play
+1792834071 Starting…
+1792834071 Checking the build and arguments
+1792834071 Checking the game
+1792834072 Staging the enabled mods
+1792834072 Getting your mods ready
+1792834075 Deciding which owners to admit
+1792834081 Asking Steam to start the game
+1792834081 Starting the game through Steam
+1792834081 Waiting for the game to start
+1792834081 Waiting for the game
+1792834083 Applying the asset bridge
+1792834083 Connecting your mods
+1792834083 Arming the owner-provider agent
+1792834083 Recording the session
+1792834086 launched pid 35804 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792834086 started the audio backend for berber_future_kingdom (pid 6416)
+1792834086 started the audio backend for football_45 (pid 13652)
+1792834086 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792834121 graphics check: Standard in AoE4_10_24_12h-58m-03s
+1792834480 The game has closed. Putting things back…
+1792834485 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792834485 mods_meta_data.lua put back (removed-registered-keys)
+1792834485 Tidied up after the last session.
+1792834485 4 mod(s) installed · ready to play
+1792836111 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_0712\delivery\final-v1\community_civilization_pack-0.7.12.zip
+1792836111 Installing community_civilization_pack-0.7.12.zip…
+1792836113 Community Civilization Pack — enabled (1 packages together)
+1792836114 4 mod(s) installed · ready to play
+1792836115 Starting…
+1792836115 Checking the build and arguments
+1792836115 Checking the game
+1792836115 Staging the enabled mods
+1792836115 Getting your mods ready
+1792836118 Deciding which owners to admit
+1792836130 Asking Steam to start the game
+1792836130 Starting the game through Steam
+1792836130 Waiting for the game to start
+1792836130 Waiting for the game
+1792836131 Applying the asset bridge
+1792836131 Connecting your mods
+1792836131 Arming the owner-provider agent
+1792836131 Recording the session
+1792836134 launched pid 22720 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792836134 started the audio backend for berber_future_kingdom (pid 31844)
+1792836134 started the audio backend for football_45 (pid 31916)
+1792836134 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792836166 graphics check: Standard in AoE4_10_24_13h-32m-11s
+1792837331 The game has closed. Putting things back…
+1792837336 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792837336 mods_meta_data.lua put back (removed-registered-keys)
+1792837336 Tidied up after the last session.
+1792837336 4 mod(s) installed · ready to play
+1792843182 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\consolidation_080\delivery\final-v1\community_civilization_pack-0.8.0.zip
+1792843182 Installing community_civilization_pack-0.8.0.zip…
+1792843184 Community Civilization Pack — enabled (1 packages together)
+1792843184 4 mod(s) installed · ready to play
+1792843204 Starting…
+1792843204 Checking the build and arguments
+1792843204 Checking the game
+1792843204 Staging the enabled mods
+1792843204 Getting your mods ready
+1792843207 Deciding which owners to admit
+1792843215 Asking Steam to start the game
+1792843215 Starting the game through Steam
+1792843215 Waiting for the game to start
+1792843215 Waiting for the game
+1792843216 Applying the asset bridge
+1792843216 Connecting your mods
+1792843216 Arming the owner-provider agent
+1792843217 Recording the session
+1792843220 launched pid 33528 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792843220 started the audio backend for berber_future_kingdom (pid 23620)
+1792843220 started the audio backend for football_45 (pid 15064)
+1792843220 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map.
+1792843260 graphics check: Standard in AoE4_10_24_15h-30m-17s
+1792857020 Looking for the game…
+1792857023 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map
+1792857023 mods_meta_data.lua put back (removed-registered-keys)
+1792857023 Tidied up after the last session.
+1792857023 4 mod(s) installed · ready to play
+1792857176 6 mod(s) installed · ready to play
+1792859756 Modding Showcase — enabled (2 packages together)
+1792859756 6 mod(s) installed · ready to play
+1792859757 Modding Showcase — disabled (2 packages together)
+1792859757 6 mod(s) installed · ready to play
+1792859758 Modding Showcase — enabled (2 packages together)
+1792859758 6 mod(s) installed · ready to play
+1792862848 installing E:\age of empires 4 mods\01_Custom_Civilizations\Community_Civilization_pack\Community_civilization_pack_garrison\output\release_082_animation\delivery-v1\idle\community_civilization_pack-0.8.2-pilot.1.zip
+1792862848 Installing community_civilization_pack-0.8.2-pilot.1.zip…
+1792862850 Community Civilization Pack — enabled (1 packages together)
+1792862851 6 mod(s) installed · ready to play
+1792862853 Starting…
+1792862853 Checking the build and arguments
+1792862853 Checking the game
+1792862853 Staging the enabled mods
+1792862853 Getting your mods ready
+1792862857 Deciding which owners to admit
+1792862863 Asking Steam to start the game
+1792862863 Starting the game through Steam
+1792862863 Waiting for the game to start
+1792862863 Waiting for the game
+1792862865 Applying the asset bridge
+1792862865 Connecting your mods
+1792862865 Arming the owner-provider agent
+1792862865 Recording the session
+1792862868 launched pid 11152 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792862868 started the audio backend for berber_future_kingdom (pid 14908)
+1792862868 started the audio backend for football_45 (pid 39212)
+1792862868 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map, modding_showcase_mode, modding_showcase_tuning.
+1792862909 graphics check: Standard in AoE4_10_24_20h-57m-45s
+1792863137 The game has closed. Putting things back…
+1792863138 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map, modding_showcase_mode, modding_showcase_tuning
+1792863138 mods_meta_data.lua put back (removed-registered-keys)
+1792863138 Tidied up after the last session.
+1792863138 6 mod(s) installed · ready to play
+1792863164 installing E:\age of empires 4 mods\01_Custom_Civilizations\Community_Civilization_pack\Community_civilization_pack_garrison\output\release_082_animation\delivery-v1\idle-walk\community_civilization_pack-0.8.2-pilot.2.zip
+1792863164 Installing community_civilization_pack-0.8.2-pilot.2.zip…
+1792863166 Community Civilization Pack — enabled (1 packages together)
+1792863166 6 mod(s) installed · ready to play
+1792863195 Starting…
+1792863195 Checking the build and arguments
+1792863195 Checking the game
+1792863195 Staging the enabled mods
+1792863195 Getting your mods ready
+1792863204 Deciding which owners to admit
+1792863227 Asking Steam to start the game
+1792863227 Starting the game through Steam
+1792863228 Waiting for the game to start
+1792863228 Waiting for the game
+1792863228 Applying the asset bridge
+1792863228 Connecting your mods
+1792863228 Arming the owner-provider agent
+1792863229 Recording the session
+1792863231 launched pid 8404 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792863231 started the audio backend for berber_future_kingdom (pid 37744)
+1792863231 started the audio backend for football_45 (pid 20576)
+1792863231 The game is running with berber_future_kingdom, community_civilization_pack, football_45, football_45_map, modding_showcase_mode, modding_showcase_tuning.
+1792863267 graphics check: Standard in AoE4_10_24_21h-03m-49s
+1792863637 The game has closed. Putting things back…
+1792863642 took the last session's staging back out for berber_future_kingdom, community_civilization_pack, football_45, football_45_map, modding_showcase_mode, modding_showcase_tuning
+1792863642 mods_meta_data.lua put back (removed-registered-keys)
+1792863642 Tidied up after the last session.
+1792863642 6 mod(s) installed · ready to play
+1792872382 installing E:\age of empires 4 mods\01_Custom_Civilizations\Community_Civilization_pack\Community_civilization_pack_garrison\output\release_083\delivery\final-v2\community_civilization_pack-0.8.3.zip
+1792872382 Installing community_civilization_pack-0.8.3.zip…
+1792872384 Community Civilization Pack — enabled (1 packages together)
+1792872384 6 mod(s) installed · ready to play
+1792872387 OverFootball — disabled (2 packages together)
+1792872387 6 mod(s) installed · ready to play
+1792872388 Modding Showcase — disabled (2 packages together)
+1792872388 6 mod(s) installed · ready to play
+1792872390 Starting…
+1792872390 Checking the build and arguments
+1792872390 Checking the game
+1792872390 Staging the enabled mods
+1792872390 Getting your mods ready
+1792872393 Deciding which owners to admit
+1792872399 Asking Steam to start the game
+1792872399 Starting the game through Steam
+1792872399 Waiting for the game to start
+1792872399 Waiting for the game
+1792872401 Applying the asset bridge
+1792872401 Connecting your mods
+1792872401 Arming the owner-provider agent
+1792872401 Recording the session
+1792872404 launched pid 21240 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792872404 started the audio backend for berber_future_kingdom (pid 32904)
+1792872404 The game is running with berber_future_kingdom, community_civilization_pack.
+1792872445 graphics check: Standard in AoE4_10_24_23h-36m-41s
+1792872841 The game has closed. Putting things back…
+1792872846 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792872846 mods_meta_data.lua put back (removed-registered-keys)
+1792872846 Tidied up after the last session.
+1792872846 6 mod(s) installed · ready to play
+1792927612 Looking for the game…
+1792927614 6 mod(s) installed · ready to play
+1792927627 installing E:\age of empires 4 mods\01_Custom_Civilizations\Community_Civilization_pack\Community_civilization_pack_garrison\output\release_084\delivery\final-v1\community_civilization_pack-0.8.4.zip
+1792927627 Installing community_civilization_pack-0.8.4.zip…
+1792927629 Community Civilization Pack — enabled (1 packages together)
+1792927630 6 mod(s) installed · ready to play
+1792927660 Starting…
+1792927660 Checking the build and arguments
+1792927660 Checking the game
+1792927661 Staging the enabled mods
+1792927661 Getting your mods ready
+1792927664 Deciding which owners to admit
+1792927676 Asking Steam to start the game
+1792927676 Starting the game through Steam
+1792927676 Waiting for the game to start
+1792927676 Waiting for the game
+1792927678 Applying the asset bridge
+1792927678 Connecting your mods
+1792927678 Arming the owner-provider agent
+1792927679 Recording the session
+1792927681 launched pid 5864 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792927681 started the audio backend for berber_future_kingdom (pid 27756)
+1792927681 started the audio backend for community_civilization_pack (pid 25460)
+1792927681 The game is running with berber_future_kingdom, community_civilization_pack.
+1792927722 graphics check: Standard in AoE4_10_25_14h-57m-58s
+1792928368 The game has closed. Putting things back…
+1792928374 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792928374 mods_meta_data.lua put back (removed-registered-keys)
+1792928374 Tidied up after the last session.
+1792928374 6 mod(s) installed · ready to play
+1792940521 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_085\final-v2\community_civilization_pack-0.8.5.zip
+1792940521 Installing community_civilization_pack-0.8.5.zip…
+1792940524 Community Civilization Pack — enabled (1 packages together)
+1792940525 6 mod(s) installed · ready to play
+1792940529 Starting…
+1792940529 Checking the build and arguments
+1792940529 Checking the game
+1792940529 Staging the enabled mods
+1792940529 Getting your mods ready
+1792940533 Deciding which owners to admit
+1792940539 Asking Steam to start the game
+1792940539 Starting the game through Steam
+1792940539 Waiting for the game to start
+1792940539 Waiting for the game
+1792940541 Applying the asset bridge
+1792940541 Connecting your mods
+1792940541 Arming the owner-provider agent
+1792940541 Recording the session
+1792940544 launched pid 26312 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792940544 started the audio backend for berber_future_kingdom (pid 1896)
+1792940544 started the audio backend for community_civilization_pack (pid 35144)
+1792940544 The game is running with berber_future_kingdom, community_civilization_pack.
+1792940581 graphics check: Standard in AoE4_10_25_18h-32m-21s
+1792942100 The game has closed. Putting things back…
+1792942106 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792942106 mods_meta_data.lua put back (removed-registered-keys)
+1792942106 Tidied up after the last session.
+1792942106 6 mod(s) installed · ready to play
+1792946295 installing F:\aoe_4_temp\Community_civilization_pack_garrison_temp\output\release_085\final-v2\community_civilization_pack-0.8.7.zip
+1792946295 Installing community_civilization_pack-0.8.7.zip…
+1792946299 Community Civilization Pack — enabled (1 packages together)
+1792946299 6 mod(s) installed · ready to play
+1792946484 Starting…
+1792946484 Checking the build and arguments
+1792946484 Checking the game
+1792946485 Staging the enabled mods
+1792946485 Getting your mods ready
+1792946489 Deciding which owners to admit
+1792946496 Asking Steam to start the game
+1792946496 Starting the game through Steam
+1792946496 Waiting for the game to start
+1792946496 Waiting for the game
+1792946499 Applying the asset bridge
+1792946499 Connecting your mods
+1792946499 Arming the owner-provider agent
+1792946499 Recording the session
+1792946502 launched pid 28432 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792946502 started the audio backend for berber_future_kingdom (pid 19516)
+1792946502 started the audio backend for community_civilization_pack (pid 16644)
+1792946502 The game is running with berber_future_kingdom, community_civilization_pack.
+1792946651 The game has closed. Putting things back…
+1792946675 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792946675 mods_meta_data.lua put back (byte-exact-backup)
+1792946675 Tidied up after the last session.
+1792946675 6 mod(s) installed · ready to play
+1792963589 Looking for the game…
+1792963593 6 mod(s) installed · ready to play
+1792963603 Starting…
+1792963603 Checking the build and arguments
+1792963603 Checking the game
+1792963603 Staging the enabled mods
+1792963603 Getting your mods ready
+1792963607 Deciding which owners to admit
+1792963613 Asking Steam to start the game
+1792963613 Starting the game through Steam
+1792963613 Waiting for the game to start
+1792963613 Waiting for the game
+1792963615 Applying the asset bridge
+1792963615 Connecting your mods
+1792963615 Arming the owner-provider agent
+1792963615 Recording the session
+1792963618 launched pid 39976 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792963618 started the audio backend for berber_future_kingdom (pid 2468)
+1792963618 started the audio backend for community_civilization_pack (pid 36776)
+1792963618 The game is running with berber_future_kingdom, community_civilization_pack.
+1792963658 graphics check: Standard in AoE4_10_26_00h-56m-55s
+1792963676 The game has closed. Putting things back…
+1792963677 the game is running, so its staging is taken back out once it exits
+1792963677 Tidied up after the last session.
+1792963677 RelicCardinal.exe is running. Close it before launching
+1792963677 6 mod(s) installed · something to fix - see Session
+1792963704 Looking for the game…
+1792963705 the game is running, so its staging is taken back out once it exits
+1792963705 Tidied up after the last session.
+1792963705 RelicCardinal.exe is running. Close it before launching
+1792963705 6 mod(s) installed · something to fix - see Session
+1792963711 Community Civilization Pack — disabled (1 packages together)
+1792963712 the game is running, so its staging is taken back out once it exits
+1792963712 Tidied up after the last session.
+1792963712 RelicCardinal.exe is running. Close it before launching
+1792963712 6 mod(s) installed · something to fix - see Session
+1792963713 Community Civilization Pack — enabled (1 packages together)
+1792963713 the game is running, so its staging is taken back out once it exits
+1792963713 Tidied up after the last session.
+1792963713 RelicCardinal.exe is running. Close it before launching
+1792963713 6 mod(s) installed · something to fix - see Session
+1792963715 OverFootball — enabled (2 packages together)
+1792963715 the game is running, so its staging is taken back out once it exits
+1792963715 Tidied up after the last session.
+1792963715 RelicCardinal.exe is running. Close it before launching
+1792963715 6 mod(s) installed · something to fix - see Session
+1792963716 OverFootball — disabled (2 packages together)
+1792963717 the game is running, so its staging is taken back out once it exits
+1792963717 Tidied up after the last session.
+1792963717 RelicCardinal.exe is running. Close it before launching
+1792963717 6 mod(s) installed · something to fix - see Session
+1792963749 Modding Showcase — enabled (2 packages together)
+1792963750 the game is running, so its staging is taken back out once it exits
+1792963750 Tidied up after the last session.
+1792963750 RelicCardinal.exe is running. Close it before launching
+1792963750 6 mod(s) installed · something to fix - see Session
+1792963751 Modding Showcase — disabled (2 packages together)
+1792963751 the game is running, so its staging is taken back out once it exits
+1792963751 Tidied up after the last session.
+1792963751 RelicCardinal.exe is running. Close it before launching
+1792963751 6 mod(s) installed · something to fix - see Session
+1792963752 OverFootball — enabled (2 packages together)
+1792963752 the game is running, so its staging is taken back out once it exits
+1792963752 Tidied up after the last session.
+1792963752 RelicCardinal.exe is running. Close it before launching
+1792963752 6 mod(s) installed · something to fix - see Session
+1792963753 OverFootball — disabled (2 packages together)
+1792963753 the game is running, so its staging is taken back out once it exits
+1792963753 Tidied up after the last session.
+1792963753 RelicCardinal.exe is running. Close it before launching
+1792963753 6 mod(s) installed · something to fix - see Session
+1792963754 the game is running, so its staging is taken back out once it exits
+1792963754 Tidied up after the last session.
+1792963754 RelicCardinal.exe is running. Close it before launching
+1792963754 6 mod(s) installed · something to fix - see Session
+1792963816 Looking for the game…
+1792963817 the game is running, so its staging is taken back out once it exits
+1792963817 Tidied up after the last session.
+1792963817 RelicCardinal.exe is running. Close it before launching
+1792963817 6 mod(s) installed · something to fix - see Session
+1792963971 Looking for the game…
+1792963976 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792963976 mods_meta_data.lua put back (removed-registered-keys)
+1792963976 Tidied up after the last session.
+1792963976 6 mod(s) installed · ready to play
+1792964069 Starting…
+1792964069 Checking the build and arguments
+1792964069 Checking the game
+1792964069 Staging the enabled mods
+1792964069 Getting your mods ready
+1792964073 Deciding which owners to admit
+1792964079 Asking Steam to start the game
+1792964079 Starting the game through Steam
+1792964079 Waiting for the game to start
+1792964079 Waiting for the game
+1792964082 Applying the asset bridge
+1792964082 Connecting your mods
+1792964082 Arming the owner-provider agent
+1792964082 Recording the session
+1792964085 launched pid 19104 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1792964085 started the audio backend for berber_future_kingdom (pid 9752)
+1792964085 started the audio backend for community_civilization_pack (pid 10056)
+1792964085 The game is running with berber_future_kingdom, community_civilization_pack.
+1792964156 graphics check: Standard in AoE4_10_26_01h-04m-42s
+1792965428 The game has closed. Putting things back…
+1792965434 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1792965434 mods_meta_data.lua put back (removed-registered-keys)
+1792965434 Tidied up after the last session.
+1792965434 6 mod(s) installed · ready to play
+1793014802 Looking for the game…
+1793014805 6 mod(s) installed · ready to play
+1793014826 installing F:\aoe_4_temp\community_civilization_pack_garrison_aoe4\output\current\community_civilization_pack-0.9.0.zip
+1793014826 Installing community_civilization_pack-0.9.0.zip…
+1793014829 Community Civilization Pack — enabled (1 packages together)
+1793014829 6 mod(s) installed · ready to play
+1793014831 Starting…
+1793014831 Checking the build and arguments
+1793014831 Checking the game
+1793014831 Staging the enabled mods
+1793014831 Getting your mods ready
+1793014835 Deciding which owners to admit
+1793014841 Asking Steam to start the game
+1793014841 Starting the game through Steam
+1793014841 Waiting for the game to start
+1793014841 Waiting for the game
+1793014843 Applying the asset bridge
+1793014843 Connecting your mods
+1793014843 Arming the owner-provider agent
+1793014843 Recording the session
+1793014846 launched pid 1232 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793014846 started the audio backend for berber_future_kingdom (pid 22688)
+1793014846 started the audio backend for community_civilization_pack (pid 13880)
+1793014846 The game is running with berber_future_kingdom, community_civilization_pack.
+1793014886 graphics check: Standard in AoE4_10_26_15h-10m-43s
+1793015046 The game has closed. Putting things back…
+1793015052 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1793015052 mods_meta_data.lua put back (removed-registered-keys)
+1793015052 Tidied up after the last session.
+1793015052 6 mod(s) installed · ready to play
+1793046892 Looking for the game…
+1793046894 6 mod(s) installed · ready to play
+1793046901 Starting…
+1793046901 Checking the build and arguments
+1793046901 Checking the game
+1793046901 Staging the enabled mods
+1793046901 Getting your mods ready
+1793046905 Deciding which owners to admit
+1793046917 Asking Steam to start the game
+1793046917 Starting the game through Steam
+1793046917 Waiting for the game to start
+1793046917 Waiting for the game
+1793046919 Applying the asset bridge
+1793046919 Connecting your mods
+1793046919 Arming the owner-provider agent
+1793046920 Recording the session
+1793046923 launched pid 26184 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793046923 started the audio backend for berber_future_kingdom (pid 8592)
+1793046923 started the audio backend for community_civilization_pack (pid 21512)
+1793046923 The game is running with berber_future_kingdom, community_civilization_pack.
+1793046976 graphics check: Standard in AoE4_10_27_00h-05m-20s
+1793047325 The game has closed. Putting things back…
+1793047332 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1793047332 mods_meta_data.lua put back (removed-registered-keys)
+1793047332 Tidied up after the last session.
+1793047332 6 mod(s) installed · ready to play
+1793090665 installing F:\aoe_4_temp\Temp_before_github_push\dist\community_civilization_pack-1.0.0.zip
+1793090665 Installing community_civilization_pack-1.0.0.zip…
+1793090674 Community Civilization Pack — enabled (1 packages together)
+1793090675 6 mod(s) installed · ready to play
+1793090690 Starting…
+1793090690 Checking the build and arguments
+1793090690 Checking the game
+1793090691 Staging the enabled mods
+1793090691 Getting your mods ready
+1793090696 Deciding which owners to admit
+1793090728 Asking Steam to start the game
+1793090728 Starting the game through Steam
+1793090728 Waiting for the game to start
+1793090728 Waiting for the game
+1793090729 Applying the asset bridge
+1793090729 Connecting your mods
+1793090729 Arming the owner-provider agent
+1793090730 Recording the session
+1793090732 launched pid 37424 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793090732 started the audio backend for berber_future_kingdom (pid 38400)
+1793090732 started the audio backend for community_civilization_pack (pid 11692)
+1793090732 The game is running with berber_future_kingdom, community_civilization_pack.
+1793090772 graphics check: Standard in AoE4_10_27_12h-15m-30s
+1793091014 The game has closed. Putting things back…
+1793091023 took the last session's staging back out for berber_future_kingdom, community_civilization_pack
+1793091023 mods_meta_data.lua put back (removed-registered-keys)
+1793091023 Tidied up after the last session.
+1793091023 6 mod(s) installed · ready to play
+1793091032 Berber Dynasty — disabled (1 packages together)
+1793091032 6 mod(s) installed · ready to play
+1793091034 Starting…
+1793091034 Checking the build and arguments
+1793091034 Checking the game
+1793091034 Staging the enabled mods
+1793091034 Getting your mods ready
+1793091037 Deciding which owners to admit
+1793091050 Asking Steam to start the game
+1793091050 Starting the game through Steam
+1793091050 Waiting for the game to start
+1793091050 Waiting for the game
+1793091050 Applying the asset bridge
+1793091050 Connecting your mods
+1793091050 Arming the owner-provider agent
+1793091050 Recording the session
+1793091053 launched pid 10516 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793091053 started the audio backend for community_civilization_pack (pid 44624)
+1793091053 The game is running with community_civilization_pack.
+1793091091 graphics check: Standard in AoE4_10_27_12h-20m-51s
+1793091335 The game has closed. Putting things back…
+1793091341 took the last session's staging back out for community_civilization_pack
+1793091341 mods_meta_data.lua put back (removed-registered-keys)
+1793091341 Tidied up after the last session.
+1793091341 6 mod(s) installed · ready to play
+1793091347 Starting…
+1793091347 Checking the build and arguments
+1793091347 Checking the game
+1793091347 Staging the enabled mods
+1793091347 Getting your mods ready
+1793091357 Deciding which owners to admit
+1793091377 Asking Steam to start the game
+1793091377 Starting the game through Steam
+1793091377 Waiting for the game to start
+1793091377 Waiting for the game
+1793091378 Applying the asset bridge
+1793091378 Connecting your mods
+1793091378 Arming the owner-provider agent
+1793091378 Recording the session
+1793091380 launched pid 11148 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793091380 started the audio backend for community_civilization_pack (pid 22052)
+1793091380 The game is running with community_civilization_pack.
+1793091418 graphics check: Standard in AoE4_10_27_12h-26m-18s
+1793092093 The game has closed. Putting things back…
+1793092099 took the last session's staging back out for community_civilization_pack
+1793092099 mods_meta_data.lua put back (removed-registered-keys)
+1793092099 Tidied up after the last session.
+1793092099 6 mod(s) installed · ready to play
+1793112931 Looking for the game…
+1793112938 6 mod(s) installed · ready to play
+1793112940 This address did not return a Garrison catalog JSON file.: unknown field `category`, expected one of `details`, `bundle_key`, `roles`, `package`, `cover` at line 35 column 16
+1793112967 6 mod(s) installed · ready to play
+1793112975 installing F:\aoe_4_temp\Temp_before_github_push\dist\community_civilization_pack-1.0.1.zip
+1793112975 Installing community_civilization_pack-1.0.1.zip…
+1793112981 Community Civilization Pack — enabled (1 packages together)
+1793112982 6 mod(s) installed · ready to play
+1793120994 Looking for the game…
+1793120996 6 mod(s) installed · ready to play
+1793120997 This address did not return a Garrison catalog JSON file.: unknown field `category`, expected one of `details`, `bundle_key`, `roles`, `package`, `cover` at line 35 column 16
+1793121071 Starting…
+1793121071 Checking the build and arguments
+1793121071 Checking the game
+1793121071 Staging the enabled mods
+1793121071 Getting your mods ready
+1793121074 Deciding which owners to admit
+1793121081 Asking Steam to start the game
+1793121081 Starting the game through Steam
+1793121081 Waiting for the game to start
+1793121081 Waiting for the game
+1793121083 Applying the asset bridge
+1793121083 Connecting your mods
+1793121083 Arming the owner-provider agent
+1793121084 Recording the session
+1793121087 launched pid 14180 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793121087 started the audio backend for community_civilization_pack (pid 9848)
+1793121087 The game is running with community_civilization_pack.
+1793121128 graphics check: Standard in AoE4_10_27_20h-41m-24s
+1793122019 The game has closed. Putting things back…
+1793122023 took the last session's staging back out for community_civilization_pack
+1793122023 mods_meta_data.lua put back (removed-registered-keys)
+1793122023 Tidied up after the last session.
+1793122023 6 mod(s) installed · ready to play
+1793172073 Looking for the game…
+1793172075 6 mod(s) installed · ready to play
+1793172077 This address did not return a Garrison catalog JSON file.: unknown field `category`, expected one of `details`, `bundle_key`, `roles`, `package`, `cover` at line 35 column 16
+1793172086 Garrison 0.1.7 is available. Update from the sidebar.
+1793172205 Downloading Garrison 0.1.7… Garrison closes and opens again on the new version.
+1793172714 Looking for the game…
+1793172715 6 mod(s) installed · ready to play
+1793172716 This address did not return a Garrison catalog JSON file.: unknown field `category`, expected one of `details`, `bundle_key`, `roles`, `package`, `cover` at line 35 column 16
+1793172721 installing F:\aoe_4_temp\Temp_before_github_push\dist\community_civilization_pack-1.0.2.zip
+1793172721 Installing community_civilization_pack-1.0.2.zip…
+1793172728 Community Civilization Pack — enabled (1 packages together)
+1793172729 6 mod(s) installed · ready to play
+1793172739 Starting…
+1793172739 Checking the build and arguments
+1793172739 Checking the game
+1793172740 Staging the enabled mods
+1793172740 Getting your mods ready
+1793172742 Deciding which owners to admit
+1793172758 Asking Steam to start the game
+1793172758 Starting the game through Steam
+1793172758 Waiting for the game to start
+1793172758 Waiting for the game
+1793172761 Applying the asset bridge
+1793172761 Connecting your mods
+1793172761 Arming the owner-provider agent
+1793172762 Recording the session
+1793172765 launched pid 13384 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793172765 started the audio backend for community_civilization_pack (pid 32664)
+1793172765 The game is running with community_civilization_pack.
+1793172846 graphics check: Standard in AoE4_10_28_11h-02m-42s
+1793173278 The game has closed. Putting things back…
+1793173284 took the last session's staging back out for community_civilization_pack
+1793173284 mods_meta_data.lua put back (removed-registered-keys)
+1793173284 Tidied up after the last session.
+1793173284 6 mod(s) installed · ready to play
+1793176908 installing F:\aoe_4_temp\Temp_before_github_push\dist\community_civilization_pack-1.0.3.zip
+1793176908 Installing community_civilization_pack-1.0.3.zip…
+1793176914 Community Civilization Pack — enabled (1 packages together)
+1793176915 6 mod(s) installed · ready to play
+1793176919 Starting…
+1793176919 Checking the build and arguments
+1793176919 Checking the game
+1793176919 Staging the enabled mods
+1793176919 Getting your mods ready
+1793176922 Deciding which owners to admit
+1793176930 Asking Steam to start the game
+1793176930 Starting the game through Steam
+1793176930 Waiting for the game to start
+1793176930 Waiting for the game
+1793176930 Applying the asset bridge
+1793176930 Connecting your mods
+1793176931 Arming the owner-provider agent
+1793176931 Recording the session
+1793176933 launched pid 11408 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793176933 started the audio backend for community_civilization_pack (pid 14192)
+1793176933 The game is running with community_civilization_pack.
+1793176966 graphics check: Standard in AoE4_10_28_12h-12m-11s
+1793177111 The game has closed. Putting things back…
+1793177115 took the last session's staging back out for community_civilization_pack
+1793177115 mods_meta_data.lua put back (removed-registered-keys)
+1793177115 Tidied up after the last session.
+1793177115 6 mod(s) installed · ready to play
+1793177123 Starting…
+1793177123 Checking the build and arguments
+1793177123 Checking the game
+1793177123 Staging the enabled mods
+1793177123 Getting your mods ready
+1793177126 Deciding which owners to admit
+1793177131 Asking Steam to start the game
+1793177131 Starting the game through Steam
+1793177131 Waiting for the game to start
+1793177131 Waiting for the game
+1793177131 Applying the asset bridge
+1793177131 Connecting your mods
+1793177131 Arming the owner-provider agent
+1793177131 Recording the session
+1793177134 launched pid 32688 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793177134 started the audio backend for community_civilization_pack (pid 20564)
+1793177134 The game is running with community_civilization_pack.
+1793177169 graphics check: Standard in AoE4_10_28_12h-15m-32s
+1793179454 Looking for the game…
+1793179455 the game is running, so its staging is taken back out once it exits
+1793179455 Tidied up after the last session.
+1793179455 RelicCardinal.exe is running. Close it before launching
+1793179455 6 mod(s) installed · something to fix - see Session
+1793179456 This address did not return a Garrison catalog JSON file.: unknown field `category`, expected one of `details`, `bundle_key`, `roles`, `package`, `cover` at line 35 column 16
+1793179569 The game has closed. Putting things back…
+1793179573 took the last session's staging back out for community_civilization_pack
+1793179573 mods_meta_data.lua put back (removed-registered-keys)
+1793179573 Tidied up after the last session.
+1793179573 6 mod(s) installed · ready to play
+1793179586 installing F:\aoe_4_temp\Temp_before_github_push\dist\community_civilization_pack-1.0.4.zip
+1793179586 Installing community_civilization_pack-1.0.4.zip…
+1793179593 Community Civilization Pack — enabled (1 packages together)
+1793179593 6 mod(s) installed · ready to play
+1793179596 Starting…
+1793179596 Checking the build and arguments
+1793179596 Checking the game
+1793179596 Staging the enabled mods
+1793179596 Getting your mods ready
+1793179599 Deciding which owners to admit
+1793179604 Asking Steam to start the game
+1793179604 Starting the game through Steam
+1793179604 Waiting for the game to start
+1793179604 Waiting for the game
+1793179605 Applying the asset bridge
+1793179605 Connecting your mods
+1793179605 Arming the owner-provider agent
+1793179605 Recording the session
+1793179607 launched pid 26308 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793179607 started the audio backend for community_civilization_pack (pid 22076)
+1793179607 The game is running with community_civilization_pack.
+1793179638 graphics check: Standard in AoE4_10_28_12h-56m-45s
+1793179708 The game has closed. Putting things back…
+1793179709 took the last session's staging back out for community_civilization_pack
+1793179709 mods_meta_data.lua put back (removed-registered-keys)
+1793179709 Tidied up after the last session.
+1793179709 6 mod(s) installed · ready to play
+1793198068 Looking for the game…
+1793198070 6 mod(s) installed · ready to play
+1793198071 This address did not return a Garrison catalog JSON file.: unknown field `category`, expected one of `details`, `bundle_key`, `roles`, `package`, `cover` at line 35 column 16
+1793198078 Garrison 0.1.7 is available. Update from the sidebar.
+1793198093 installing F:\aoe_4_temp\Temp_before_github_push\dist\community_civilization_pack-1.0.6.zip
+1793198093 Installing community_civilization_pack-1.0.6.zip…
+1793198099 Community Civilization Pack — enabled (1 packages together)
+1793198100 6 mod(s) installed · ready to play
+1793198256 Starting…
+1793198256 Checking the build and arguments
+1793198256 Checking the game
+1793198256 Staging the enabled mods
+1793198256 Getting your mods ready
+1793198262 Deciding which owners to admit
+1793198280 Asking Steam to start the game
+1793198280 Starting the game through Steam
+1793198280 Waiting for the game to start
+1793198280 Waiting for the game
+1793198283 Applying the asset bridge
+1793198283 Connecting your mods
+1793198283 Arming the owner-provider agent
+1793198283 Recording the session
+1793198286 launched pid 5268 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793198286 started the audio backend for community_civilization_pack (pid 18156)
+1793198286 The game is running with community_civilization_pack.
+1793198330 graphics check: Standard in AoE4_10_28_18h-08m-03s
+1793198493 The game has closed. Putting things back…
+1793198498 took the last session's staging back out for community_civilization_pack
+1793198498 mods_meta_data.lua put back (removed-registered-keys)
+1793198498 Tidied up after the last session.
+1793198498 6 mod(s) installed · ready to play
+1793211731 Looking for the game…
+1793211734 6 mod(s) installed · ready to play
+1793211746 This address did not return a Garrison catalog JSON file.: unknown field `category`, expected one of `details`, `bundle_key`, `roles`, `package`, `cover` at line 35 column 16
+1793211751 Starting…
+1793211751 Checking the build and arguments
+1793211751 Checking the game
+1793211752 Staging the enabled mods
+1793211752 Getting your mods ready
+1793211754 Deciding which owners to admit
+1793211756 Garrison 0.1.7 is available. Update from the sidebar.
+1793211763 Asking Steam to start the game
+1793211763 Starting the game through Steam
+1793211763 Waiting for the game to start
+1793211763 Waiting for the game
+1793211764 Applying the asset bridge
+1793211764 Connecting your mods
+1793211764 Arming the owner-provider agent
+1793211764 Recording the session
+1793211767 launched pid 37420 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793211767 started the audio backend for community_civilization_pack (pid 12376)
+1793211767 The game is running with community_civilization_pack.
+1793211800 graphics check: Standard in AoE4_10_28_21h-52m-44s
+1793212198 The game has closed. Putting things back…
+1793212202 took the last session's staging back out for community_civilization_pack
+1793212202 mods_meta_data.lua put back (removed-registered-keys)
+1793212202 Tidied up after the last session.
+1793212202 6 mod(s) installed · ready to play
+1793216581 Community Civilization Pack — disabled (1 packages together)
+1793216581 6 mod(s) installed · ready to play
+1793221684 Downloading Garrison 0.1.7… Garrison closes and opens again on the new version.
+1793221787 Looking for the game…
+1793221788 RelicCardinal.exe is running. Close it before launching
+1793221788 6 mod(s) installed · something to fix - see Session
+1793280797 Looking for the game…
+1793280799 6 mod(s) installed · ready to play
+1793280848 installing F:\aoe_4_temp\Temp_before_github_push\output\current\community_civilization_pack-1.1.0.zip
+1793280848 Installing community_civilization_pack-1.1.0.zip…
+1793280854 Community Civilization Pack — disabled (1 packages together)
+1793280855 6 mod(s) installed · ready to play
+1793280866 Community Civilization Pack — enabled (1 packages together)
+1793280866 6 mod(s) installed · ready to play
+1793281529 Starting…
+1793281529 Checking the build and arguments
+1793281529 Checking the game
+1793281529 Staging the enabled mods
+1793281529 Getting your mods ready
+1793281532 Deciding which owners to admit
+1793281536 Asking Steam to start the game
+1793281536 Starting the game through Steam
+1793281536 Waiting for the game to start
+1793281536 Waiting for the game
+1793281538 Applying the asset bridge
+1793281538 Connecting your mods
+1793281538 Arming the owner-provider agent
+1793281538 Recording the session
+1793281541 launched pid 1908 (e:\games\steam.exe -applaunch 1466860 -dev) with 4 bridge site(s) patched and agent armed
+1793281541 started the audio backend for community_civilization_pack (pid 36740)
+1793281541 The game is running with community_civilization_pack.
+1793281576 graphics check: Standard in AoE4_10_29_17h-15m-38s
+1793281760 The game has closed. Putting things back…
+1793281764 took the last session's staging back out for community_civilization_pack
+1793281764 mods_meta_data.lua put back (removed-registered-keys)
+1793281764 Tidied up after the last session.
+1793281764 6 mod(s) installed · ready to play
+1793307622 Looking for the game…
+1793307626 this game build is not supported (Steam buildid 26146704).
+  installed executable   4c99b868cbec98b2219e135908a31d03c64c7b71f2bbcf1469dab1d7c6df2c9f
+  supported builds       AoE IV 16.3.11308 (Steam buildid 24231237)  5380c577805565817f528af6eac385263413fa6815553f9a31fa62561cb45e8c
+The mod loader patches exact instructions that only exist in a reviewed build, so it refuses rather than writing to the wrong address. This usually means the game updated and a matching client update is needed.
+1793307626 6 mod(s) installed · something to fix - see Session
+1793307636 Garrison 0.1.8 is available. Update from the sidebar.
+1793307637 Downloading Garrison 0.1.8… Garrison closes and opens again on the new version.
+1793307659 Looking for the game…
+1793307663 this game build is not supported (Steam buildid 26146704).
+  installed executable   4c99b868cbec98b2219e135908a31d03c64c7b71f2bbcf1469dab1d7c6df2c9f
+  supported builds       AoE IV 16.3.11308 (Steam buildid 24231237)  5380c577805565817f528af6eac385263413fa6815553f9a31fa62561cb45e8c
+The mod loader patches exact instructions that only exist in a reviewed build, so it refuses rather than writing to the wrong address. This usually means the game updated and a matching client update is needed.
+1793307663 6 mod(s) installed · something to fix - see Session
+1793307856 installing F:\aoe_4_temp\Temp_before_github_push\output\current\community_civilization_pack-1.1.0.zip
+1793307856 Installing community_civilization_pack-1.1.0.zip…
+1793307866 Community Civilization Pack — enabled (1 packages together)
+1793307868 this game build is not supported (Steam buildid 26146704).
+  installed executable   4c99b868cbec98b2219e135908a31d03c64c7b71f2bbcf1469dab1d7c6df2c9f
+  supported builds       AoE IV 16.3.11308 (Steam buildid 24231237)  5380c577805565817f528af6eac385263413fa6815553f9a31fa62561cb45e8c
+The mod loader patches exact instructions that only exist in a reviewed build, so it refuses rather than writing to the wrong address. This usually means the game updated and a matching client update is needed.
+1793307868 6 mod(s) installed · something to fix - see Session
+1793307881 Community Civilization Pack — disabled (1 packages together)
+1793307882 this game build is not supported (Steam buildid 26146704).
+  installed executable   4c99b868cbec98b2219e135908a31d03c64c7b71f2bbcf1469dab1d7c6df2c9f
+  supported builds       AoE IV 16.3.11308 (Steam buildid 24231237)  5380c577805565817f528af6eac385263413fa6815553f9a31fa62561cb45e8c
+The mod loader patches exact instructions that only exist in a reviewed build, so it refuses rather than writing to the wrong address. This usually means the game updated and a matching client update is needed.
+1793307882 6 mod(s) installed · something to fix - see Session
+1793311414 Looking for the game…
+1793311416 this game build is not supported (Steam buildid 26146704).
+  installed executable   4c99b868cbec98b2219e135908a31d03c64c7b71f2bbcf1469dab1d7c6df2c9f
+  supported builds       AoE IV 16.3.11308 (Steam buildid 24231237)  5380c577805565817f528af6eac385263413fa6815553f9a31fa62561cb45e8c
+The mod loader patches exact instructions that only exist in a reviewed build, so it refuses rather than writing to the wrong address. This usually means the game updated and a matching client update is needed.
+1793311416 6 mod(s) installed · something to fix - see Session
+1793311428 Garrison 0.1.9 is available. Update from the sidebar.
+1793311494 Downloading Garrison 0.1.9… Garrison closes and opens again on the new version.
+1793311509 Looking for the game…
+1793311512 6 mod(s) installed · ready to play
+1793311906 7 mod(s) installed · ready to play
+1793311911 Persians — enabled (1 packages together)
+1793311912 7 mod(s) installed · ready to play
+1793311922 Starting…
+1793311922 Checking the build and arguments
+1793311922 Checking the game
+1793311922 Staging the enabled mods
+1793311922 Getting your mods ready
+1793311924 Deciding which owners to admit
+1793311929 Asking Steam to start the game
+1793311929 Starting the game through Steam
+1793311929 Waiting for the game to start
+1793311929 Waiting for the game
+1793311937 Applying the asset bridge
+1793311937 Connecting your mods
+1793311937 Arming the owner-provider agent
+1793311967 civilization service registration, attribute retention or resource mount missed native startup
+1793311967 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793313896 installing F:\aoe_4_temp\New_custom_civilization\aoe4-berbers\output\pilot\delivery-final\Berbers-Garrison-0.1.0-trial.1.zip
+1793313896 Installing Berbers-Garrison-0.1.0-trial.1.zip…
+1793313896 Close the game and finish session cleanup before changing installed mods.
+1793313896 Couldn't update this mod. Check that every required file is present and matches the author's version. Details are in diagnostics.
+1793313899 took the last session's staging back out for persians_independent
+1793313899 mods_meta_data.lua put back (removed-registered-keys)
+1793313899 Tidied up after the last session.
+1793313899 7 mod(s) installed · ready to play
+1793313912 installing F:\aoe_4_temp\New_custom_civilization\aoe4-berbers\output\pilot\delivery-final\Berbers-Garrison-0.1.0-trial.1.zip
+1793313912 Installing Berbers-Garrison-0.1.0-trial.1.zip…
+1793313921 Berbers (Trial) — enabled (1 packages together)
+1793313922 8 mod(s) installed · ready to play
+1793313949 Starting…
+1793313949 Checking the build and arguments
+1793313949 Checking the game
+1793313949 Staging the enabled mods
+1793313949 Getting your mods ready
+1793313958 Deciding which owners to admit
+1793313987 Asking Steam to start the game
+1793313987 Starting the game through Steam
+1793313987 Waiting for the game to start
+1793313987 Waiting for the game
+1793313990 Applying the asset bridge
+1793313990 Connecting your mods
+1793313990 Arming the owner-provider agent
+1793314020 civilization service registration, attribute retention or resource mount missed native startup
+1793314020 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793314094 Berbers (Trial) — disabled (1 packages together)
+1793314095 the game is running, so its staging is taken back out once it exits
+1793314095 Tidied up after the last session.
+1793314095 RelicCardinal.exe is running. Close it before launching
+1793314095 8 mod(s) installed · something to fix - see Session
+1793314097 Berbers (Trial) — enabled (1 packages together)
+1793314098 the game is running, so its staging is taken back out once it exits
+1793314098 Tidied up after the last session.
+1793314098 RelicCardinal.exe is running. Close it before launching
+1793314098 8 mod(s) installed · something to fix - see Session
+1793314157 The game has closed. Putting things back…
+1793314173 took the last session's staging back out for berbers, persians_independent
+1793314173 mods_meta_data.lua put back (removed-registered-keys)
+1793314173 Tidied up after the last session.
+1793314173 8 mod(s) installed · ready to play
+1793315631 installing F:\aoe_4_temp\New_custom_civilization\aoe4-berbers\output\dropdown-fix\delivery\Berbers-Garrison-0.1.0-trial.2.zip
+1793315631 Installing Berbers-Garrison-0.1.0-trial.2.zip…
+1793315650 Berbers (Trial) — enabled (1 packages together)
+1793315654 8 mod(s) installed · ready to play
+1793315660 Starting…
+1793315660 Checking the build and arguments
+1793315660 Checking the game
+1793315661 Staging the enabled mods
+1793315661 Getting your mods ready
+1793315666 Deciding which owners to admit
+1793315679 Asking Steam to start the game
+1793315679 Starting the game through Steam
+1793315679 Waiting for the game to start
+1793315679 Waiting for the game
+1793315680 Applying the asset bridge
+1793315680 Connecting your mods
+1793315680 Arming the owner-provider agent
+1793315710 civilization service registration, attribute retention or resource mount missed native startup
+1793315710 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793341168 Looking for the game…
+1793341183 took the last session's staging back out for berbers, persians_independent
+1793341183 mods_meta_data.lua put back (removed-registered-keys)
+1793341183 Tidied up after the last session.
+1793341183 8 mod(s) installed · ready to play
+1793341210 installing F:\aoe_4_temp\New_custom_civilization\aoe4-berbers\output\trial3\delivery-ready\Berbers-Garrison-0.1.0-trial.3.zip
+1793341210 Installing Berbers-Garrison-0.1.0-trial.3.zip…
+1793341231 Berbers — enabled (1 packages together)
+1793341237 8 mod(s) installed · ready to play
+1793341303 Starting…
+1793341303 Checking the build and arguments
+1793341303 Checking the game
+1793341304 Staging the enabled mods
+1793341304 Getting your mods ready
+1793341313 Deciding which owners to admit
+1793341338 Asking Steam to start the game
+1793341338 Starting the game through Steam
+1793341338 Waiting for the game to start
+1793341338 Waiting for the game
+1793341342 Applying the asset bridge
+1793341342 Connecting your mods
+1793341342 Arming the owner-provider agent
+1793341373 civilization service registration, attribute retention or resource mount missed native startup
+1793341373 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793341599 The game has closed. Putting things back…
+1793341603 the game is running, so its staging is taken back out once it exits
+1793341603 Tidied up after the last session.
+1793341603 RelicCardinal.exe is running. Close it before launching
+1793341603 8 mod(s) installed · something to fix - see Session
+1793341997 Berbers — disabled (1 packages together)
+1793341998 the game is running, so its staging is taken back out once it exits
+1793341998 Tidied up after the last session.
+1793341998 RelicCardinal.exe is running. Close it before launching
+1793341998 8 mod(s) installed · something to fix - see Session
+1793342000 Berbers — enabled (1 packages together)
+1793342000 the game is running, so its staging is taken back out once it exits
+1793342000 Tidied up after the last session.
+1793342000 RelicCardinal.exe is running. Close it before launching
+1793342000 8 mod(s) installed · something to fix - see Session
+1793355712 Looking for the game…
+1793355716 the game is running, so its staging is taken back out once it exits
+1793355716 Tidied up after the last session.
+1793355716 RelicCardinal.exe is running. Close it before launching
+1793355716 8 mod(s) installed · something to fix - see Session
+1793358919 Looking for the game…
+1793358925 took the last session's staging back out for berbers, persians_independent
+1793358925 mods_meta_data.lua put back (removed-registered-keys)
+1793358925 Tidied up after the last session.
+1793358925 8 mod(s) installed · ready to play
+1793358950 installing F:\aoe_4_temp\New_custom_civilization\aoe4-berbers\release\Berbers-Garrison-0.1.0.zip
+1793358950 Installing Berbers-Garrison-0.1.0.zip…
+1793358957 Berbers — enabled (1 packages together)
+1793358958 8 mod(s) installed · ready to play
+1793358967 Starting…
+1793358967 Checking the build and arguments
+1793358967 Checking the game
+1793358970 Staging the enabled mods
+1793358970 Getting your mods ready
+1793358974 Deciding which owners to admit
+1793358984 Asking Steam to start the game
+1793358984 Starting the game through Steam
+1793358984 Waiting for the game to start
+1793358984 Waiting for the game
+1793358996 Applying the asset bridge
+1793358996 Connecting your mods
+1793358996 Arming the owner-provider agent
+1793359015 Recording the session
+1793359015 launched pid 5232 (e:\games\steam.exe -applaunch 1466860 -dev -nocheats) with 4 bridge site(s) patched and agent armed
+1793359015 independent civilizations disable the stock developer Cheat Menu with -nocheats; -dev remains enabled
+1793359015 started the audio backend for berbers (pid 11312)
+1793359015 The game is running with berbers, persians_independent.
+1793359015 graphics check: Standard in AoE4_10_30_14h-46m-37s
+1793359498 The game has closed. Putting things back…
+1793359507 took the last session's staging back out for berbers, persians_independent
+1793359507 mods_meta_data.lua put back (removed-registered-keys)
+1793359507 Tidied up after the last session.
+1793359507 8 mod(s) installed · ready to play
+1793377837 Persians — disabled (1 packages together)
+1793377842 8 mod(s) installed · ready to play
+1793377849 installing F:\aoe_4_temp\New_custom_civilization\aoe4-persia\release\Persia-Garrison-0.1.0-trial.1.zip
+1793377849 Installing Persia-Garrison-0.1.0-trial.1.zip…
+1793377854 Persia — enabled (1 packages together)
+1793377855 9 mod(s) installed · ready to play
+1793377867 installing F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\release\Vietnam-Garrison-0.1.0-trial.1.zip
+1793377867 Installing Vietnam-Garrison-0.1.0-trial.1.zip…
+1793377871 Vietnam — enabled (1 packages together)
+1793377872 10 mod(s) installed · ready to play
+1793377888 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Korea-Garrison-0.1.0-trial.1.zip
+1793377888 Installing Korea-Garrison-0.1.0-trial.1.zip…
+1793377888 Korea — enabled (1 packages together)
+1793377889 11 mod(s) installed · ready to play
+1793377895 Starting…
+1793377895 Checking the build and arguments
+1793377895 Checking the game
+1793377895 Staging the enabled mods
+1793377895 Getting your mods ready
+1793377900 Deciding which owners to admit
+1793377915 Asking Steam to start the game
+1793377915 Starting the game through Steam
+1793377915 Waiting for the game to start
+1793377915 Waiting for the game
+1793377934 Applying the asset bridge
+1793377934 Connecting your mods
+1793377934 Arming the owner-provider agent
+1793377964 civilization service registration, attribute retention or resource mount missed native startup
+1793377964 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793378106 Persians — enabled (1 packages together)
+1793378110 took the last session's staging back out for berbers, korea, persia, vietnam
+1793378110 mods_meta_data.lua put back (removed-registered-keys)
+1793378110 Tidied up after the last session.
+1793378110 11 mod(s) installed · ready to play
+1793378111 Starting…
+1793378111 Checking the build and arguments
+1793378111 Checking the game
+1793378111 Staging the enabled mods
+1793378111 Getting your mods ready
+1793378118 Deciding which owners to admit
+1793378146 Asking Steam to start the game
+1793378146 Starting the game through Steam
+1793378146 Waiting for the game to start
+1793378146 Waiting for the game
+1793378161 Applying the asset bridge
+1793378161 Connecting your mods
+1793378161 Arming the owner-provider agent
+1793378192 civilization service registration, attribute retention or resource mount missed native startup
+1793378192 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793384613 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Korea-Garrison-0.1.1.zip
+1793384613 Installing Korea-Garrison-0.1.1.zip…
+1793384613 Close the game and finish session cleanup before changing installed mods.
+1793384613 Couldn't update this mod. Check that every required file is present and matches the author's version. Details are in diagnostics.
+1793384616 the game is running, so its staging is taken back out once it exits
+1793384616 Tidied up after the last session.
+1793384616 RelicCardinal.exe is running. Close it before launching
+1793384616 11 mod(s) installed · something to fix - see Session
+1793388519 Looking for the game…
+1793388527 took the last session's staging back out for berbers, korea, persia, persians_independent, vietnam
+1793388527 mods_meta_data.lua put back (removed-registered-keys)
+1793388527 Tidied up after the last session.
+1793388527 11 mod(s) installed · ready to play
+1793388564 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Korea-Garrison-0.1.1.zip
+1793388564 Installing Korea-Garrison-0.1.1.zip…
+1793388565 Korea — enabled (1 packages together)
+1793388566 11 mod(s) installed · ready to play
+1793388581 installing F:\aoe_4_temp\New_custom_civilization\aoe4-berbers\release\Berbers-Garrison-0.1.1.zip
+1793388581 Installing Berbers-Garrison-0.1.1.zip…
+1793388588 Berbers — enabled (1 packages together)
+1793388590 11 mod(s) installed · ready to play
+1793388591 Persians — disabled (1 packages together)
+1793388592 11 mod(s) installed · ready to play
+1793388601 installing F:\aoe_4_temp\New_custom_civilization\aoe4-persia\release\Persia-Garrison-0.1.1.zip
+1793388601 Installing Persia-Garrison-0.1.1.zip…
+1793388607 Persia — enabled (1 packages together)
+1793388608 11 mod(s) installed · ready to play
+1793388618 installing F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\release\Vietnam-Garrison-0.1.1.zip
+1793388618 Installing Vietnam-Garrison-0.1.1.zip…
+1793388621 Vietnam — enabled (1 packages together)
+1793388622 11 mod(s) installed · ready to play
+1793388635 Starting…
+1793388635 Checking the build and arguments
+1793388635 Checking the game
+1793388638 Staging the enabled mods
+1793388638 Getting your mods ready
+1793388643 Deciding which owners to admit
+1793388672 Asking Steam to start the game
+1793388672 Starting the game through Steam
+1793388673 Waiting for the game to start
+1793388673 Waiting for the game
+1793388706 Applying the asset bridge
+1793388706 Connecting your mods
+1793388706 Arming the owner-provider agent
+1793388737 civilization service registration, attribute retention or resource mount missed native startup
+1793388737 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793432856 Looking for the game…
+1793432864 took the last session's staging back out for berbers, korea, persia, vietnam
+1793432864 mods_meta_data.lua put back (removed-registered-keys)
+1793432864 Tidied up after the last session.
+1793432864 11 mod(s) installed · ready to play
+1793442926 Looking for the game…
+1793442929 RelicCardinal.exe is running. Close it before launching
+1793442929 11 mod(s) installed · something to fix - see Session
+1793445346 Looking for the game…
+1793445358 11 mod(s) installed · ready to play
+1793445415 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Koreans-Garrison-0.1.3.zip
+1793445415 Installing Koreans-Garrison-0.1.3.zip…
+1793445417 Koreans — enabled (1 packages together)
+1793445418 11 mod(s) installed · ready to play
+1793445436 installing F:\aoe_4_temp\New_custom_civilization\aoe4-persia\release\Persians-Garrison-0.1.2.zip
+1793445436 Installing Persians-Garrison-0.1.2.zip…
+1793445441 Persians — enabled (1 packages together)
+1793445442 11 mod(s) installed · ready to play
+1793445449 installing F:\aoe_4_temp\New_custom_civilization\aoe4-vietnam\release\Vietnamese-Garrison-0.1.2.zip
+1793445449 Installing Vietnamese-Garrison-0.1.2.zip…
+1793445452 Vietnamese — enabled (1 packages together)
+1793445453 11 mod(s) installed · ready to play
+1793445465 installing F:\aoe_4_temp\New_custom_civilization\aoe4-berbers\release\Berbers-Garrison-0.1.2.zip
+1793445465 Installing Berbers-Garrison-0.1.2.zip…
+1793445471 Berbers — enabled (1 packages together)
+1793445472 11 mod(s) installed · ready to play
+1793445482 Starting…
+1793445482 Checking the build and arguments
+1793445482 Checking the game
+1793445482 Staging the enabled mods
+1793445482 Getting your mods ready
+1793445487 Deciding which owners to admit
+1793445499 Asking Steam to start the game
+1793445499 Starting the game through Steam
+1793445499 Waiting for the game to start
+1793445499 Waiting for the game
+1793445504 Applying the asset bridge
+1793445504 Connecting your mods
+1793445504 Arming the owner-provider agent
+1793445534 civilization service registration, attribute retention or resource mount missed native startup
+1793445534 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793458912 Looking for the game…
+1793458920 took the last session's staging back out for berbers, korea, persia, vietnam
+1793458920 mods_meta_data.lua put back (removed-registered-keys)
+1793458920 Tidied up after the last session.
+1793458920 11 mod(s) installed · ready to play
+1793459199 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Koreans-Garrison-0.1.4.zip
+1793459199 Installing Koreans-Garrison-0.1.4.zip…
+1793459202 Koreans — enabled (1 packages together)
+1793459203 11 mod(s) installed · ready to play
+1793459234 Starting…
+1793459234 Checking the build and arguments
+1793459234 Checking the game
+1793459234 Staging the enabled mods
+1793459234 Getting your mods ready
+1793459240 Deciding which owners to admit
+1793459260 Asking Steam to start the game
+1793459260 Starting the game through Steam
+1793459260 Waiting for the game to start
+1793459260 Waiting for the game
+1793459279 Applying the asset bridge
+1793459279 Connecting your mods
+1793459279 Arming the owner-provider agent
+1793459309 civilization service registration, attribute retention or resource mount missed native startup
+1793459309 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793459598 The game has closed. Putting things back…
+1793459608 took the last session's staging back out for berbers, korea, persia, vietnam
+1793459608 mods_meta_data.lua put back (removed-registered-keys)
+1793459608 Tidied up after the last session.
+1793459608 11 mod(s) installed · ready to play
+1793467648 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Koreans-Garrison-0.1.5.zip
+1793467648 Installing Koreans-Garrison-0.1.5.zip…
+1793467652 Koreans — enabled (1 packages together)
+1793467653 11 mod(s) installed · ready to play
+1793467656 Starting…
+1793467656 Checking the build and arguments
+1793467656 Checking the game
+1793467656 Staging the enabled mods
+1793467656 Getting your mods ready
+1793467662 Deciding which owners to admit
+1793467674 Asking Steam to start the game
+1793467674 Starting the game through Steam
+1793467674 Waiting for the game to start
+1793467674 Waiting for the game
+1793467680 Applying the asset bridge
+1793467680 Connecting your mods
+1793467680 Arming the owner-provider agent
+1793467710 civilization service registration, attribute retention or resource mount missed native startup
+1793467710 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793467992 Starting…
+1793467992 Checking the build and arguments
+1793467992 Checking the game
+1793467992 Staging the enabled mods
+1793467992 Getting your mods ready
+1793468004 Deciding which owners to admit
+1793468046 Asking Steam to start the game
+1793468046 Starting the game through Steam
+1793468046 Waiting for the game to start
+1793468046 Waiting for the game
+1793468074 Applying the asset bridge
+1793468074 Connecting your mods
+1793468074 Arming the owner-provider agent
+1793468104 civilization service registration, attribute retention or resource mount missed native startup
+1793468104 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793468770 Starting…
+1793468770 Checking the build and arguments
+1793468770 Checking the game
+1793468770 Staging the enabled mods
+1793468770 Getting your mods ready
+1793468779 Deciding which owners to admit
+1793468791 Asking Steam to start the game
+1793468791 Starting the game through Steam
+1793468791 Waiting for the game to start
+1793468791 Waiting for the game
+1793468819 Applying the asset bridge
+1793468819 Connecting your mods
+1793468819 Arming the owner-provider agent
+1793468850 civilization service registration, attribute retention or resource mount missed native startup
+1793468850 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793482341 Looking for the game…
+1793482349 took the last session's staging back out for berbers, korea, persia, vietnam
+1793482349 mods_meta_data.lua put back (removed-registered-keys)
+1793482349 Tidied up after the last session.
+1793482349 11 mod(s) installed · ready to play
+1793482365 Garrison 0.1.11 is available. Update from the sidebar.
+1793482370 Downloading Garrison 0.1.11… Garrison closes and opens again on the new version.
+1793482398 Looking for the game…
+1793482401 11 mod(s) installed · ready to play
+1793482418 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Koreans-Garrison-0.1.6.zip
+1793482418 Installing Koreans-Garrison-0.1.6.zip…
+1793482421 Koreans — enabled (1 packages together)
+1793482422 11 mod(s) installed · ready to play
+1793482431 Starting…
+1793482431 Checking the build and arguments
+1793482431 Checking the game
+1793482431 Staging the enabled mods
+1793482431 Getting your mods ready
+1793482437 Deciding which owners to admit
+1793482448 Asking Steam to start the game
+1793482448 Starting the game through Steam
+1793482448 Waiting for the game to start
+1793482448 Waiting for the game
+1793482449 Applying the asset bridge
+1793482449 Connecting your mods
+1793482449 Arming the owner-provider agent
+1793482480 civilization service registration, attribute retention or resource mount missed native startup
+1793482480 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793603515 Looking for the game…
+1793603532 took the last session's staging back out for berbers, korea, persia, vietnam
+1793603532 mods_meta_data.lua put back (removed-registered-keys)
+1793603532 Tidied up after the last session.
+1793603532 11 mod(s) installed · ready to play
+1793603598 Garrison 0.1.13 is available. Update from the sidebar.
+1793603648 Downloading Garrison 0.1.13… Garrison closes and opens again on the new version.
+1793603668 Looking for the game…
+1793603670 11 mod(s) installed · ready to play
+1793604311 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Koreans-Garrison-0.2.0.zip
+1793604311 Installing Koreans-Garrison-0.2.0.zip…
+1793604316 Koreans — enabled (1 packages together)
+1793604319 11 mod(s) installed · ready to play
+1793604331 Starting…
+1793604331 Checking the build and arguments
+1793604331 Checking the game
+1793604332 Staging the enabled mods
+1793604332 Getting your mods ready
+1793604341 Deciding which owners to admit
+1793604383 Asking Steam to start the game
+1793604383 Starting the game through Steam
+1793604383 Waiting for the game to start
+1793604383 Waiting for the game
+1793604388 Applying the asset bridge
+1793604388 Connecting your mods
+1793604388 Arming the owner-provider agent
+1793604418 civilization service registration, attribute retention or resource mount missed native startup
+1793604418 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793604745 Starting…
+1793604745 Checking the build and arguments
+1793604745 Checking the game
+1793604745 close the running game before launching a modded session: close RelicCardinal.exe before the run changes installed files
+1793604745 The game couldn't be started with your mods. Close Age of Empires IV, then try again.
+1793604749 Starting…
+1793604749 Checking the build and arguments
+1793604749 Checking the game
+1793604749 close the running game before launching a modded session: close RelicCardinal.exe before the run changes installed files
+1793604749 The game couldn't be started with your mods. Close Age of Empires IV, then try again.
+1793604755 Starting…
+1793604755 Checking the build and arguments
+1793604755 Checking the game
+1793604756 close the running game before launching a modded session: close RelicCardinal.exe before the run changes installed files
+1793604756 The game couldn't be started with your mods. Close Age of Empires IV, then try again.
+1793604767 Starting…
+1793604767 Checking the build and arguments
+1793604767 Checking the game
+1793604767 close the running game before launching a modded session: close RelicCardinal.exe before the run changes installed files
+1793604767 The game couldn't be started with your mods. Close Age of Empires IV, then try again.
+1793604793 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Koreans-Garrison-0.2.0.zip
+1793604793 Installing Koreans-Garrison-0.2.0.zip…
+1793604793 Close the game and finish session cleanup before changing installed mods.
+1793604793 Couldn't update this mod. Check that every required file is present and matches the author's version. Details are in diagnostics.
+1793604795 the game is running, so its staging is taken back out once it exits
+1793604795 Tidied up after the last session.
+1793604795 RelicCardinal.exe is running. Close it before launching
+1793604795 11 mod(s) installed · something to fix - see Session
+1793606110 Looking for the game…
+1793606112 the game is running, so its staging is taken back out once it exits
+1793606112 Tidied up after the last session.
+1793606112 RelicCardinal.exe is running. Close it before launching
+1793606112 11 mod(s) installed · something to fix - see Session
+1793629415 Looking for the game…
+1793629422 took the last session's staging back out for berbers, korea, persia, vietnam
+1793629422 mods_meta_data.lua put back (removed-registered-keys)
+1793629422 Tidied up after the last session.
+1793629422 11 mod(s) installed · ready to play
+1793629480 installing F:\aoe_4_temp\New_custom_civilization\aoe4-korea\release\Koreans-Garrison-0.2.1.zip
+1793629480 Installing Koreans-Garrison-0.2.1.zip…
+1793629485 Koreans — enabled (1 packages together)
+1793629486 11 mod(s) installed · ready to play
+1793630537 Starting…
+1793630537 Checking the build and arguments
+1793630537 Checking the game
+1793630538 Staging the enabled mods
+1793630538 Getting your mods ready
+1793630550 Deciding which owners to admit
+1793630573 Asking Steam to start the game
+1793630573 Starting the game through Steam
+1793630573 Waiting for the game to start
+1793630573 Waiting for the game
+1793630678 Applying the asset bridge
+1793630678 Connecting your mods
+1793630678 Arming the owner-provider agent
+1793630709 civilization service registration, attribute retention or resource mount missed native startup
+1793630709 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.
+1793631831 Starting…
+1793631831 Checking the build and arguments
+1793631831 Checking the game
+1793631831 Staging the enabled mods
+1793631831 Getting your mods ready
+1793631841 Deciding which owners to admit
+1793631886 Asking Steam to start the game
+1793631886 Starting the game through Steam
+1793631886 Waiting for the game to start
+1793631886 Waiting for the game
+1793631896 Applying the asset bridge
+1793631896 Connecting your mods
+1793631896 Arming the owner-provider agent
+1793631926 civilization service registration, attribute retention or resource mount missed native startup
+1793631926 The game couldn't be started with your mods. Try again. If it keeps happening, copy the diagnostics from the Session page.

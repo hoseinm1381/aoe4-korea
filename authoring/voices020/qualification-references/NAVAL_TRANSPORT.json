@@ -1,0 +1,17 @@
+{
+  "profile": "NAVAL_TRANSPORT",
+  "file": "authoring\\voices020\\qualification-references\\NAVAL_TRANSPORT.wav",
+  "sha256": "a542de5badb4c12e607dd7043a279bbb8eafe0ab8a7d3c3fd1566405d031caf0",
+  "sample_rate": 24000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "seconds": 6.48,
+  "rms": 0.0922163873910904,
+  "raw_peak": 0.8515625,
+  "generation_seconds": 15.977,
+  "seed": 2026110217,
+  "transcript": "명을 들었습니다. 준비를 마쳤으니, 이제 맡은 일을 시작하겠습니다.",
+  "instruction": "Adult Korean man, low warm baritone, reliable ferry captain, reassuring steady broad vowels. Speak natural Korean. Unaccompanied dry clean voice, no music, no sound effects.",
+  "linguistic_status": "Modern Korean technical reference only; no historical claim",
+  "listening_review": "pending"
+}

@@ -1,0 +1,81 @@
+{
+  "utc": "2026-11-02T04:09:57.425534+00:00",
+  "status": "local 0.2.0 candidate built and verified; native/historical acceptance pending",
+  "zip_path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\release\\Koreans-Garrison-0.2.0.zip",
+  "zip_bytes": 145863445,
+  "zip_sha256": "7aeab3dfd39c06000b7c925726b273fbeb359c8442cb746be4b440ac273b631a",
+  "archive_bytes": 318209373,
+  "archive_sha256": "d4796ad14b943128480bf9a598fe8ddf4b125c755dd1ea6d3fec276b6f4f85d1",
+  "owner": "748d61b9-4d3e-4cf3-a506-a9ac1f992d1d",
+  "archive_namespace": "748d61b94d3e4cf3a506a9ac1f992d1d",
+  "race_bundle": "korea",
+  "voice_profiles": 32,
+  "role_age_banks": 128,
+  "squad_blueprints": 50,
+  "dialogue_clips": 7632,
+  "stock_nonverbal_efforts": 827,
+  "semantic_tables": 159,
+  "focused_tests": 32,
+  "audio_full_decode_quality_duplicate_checks": true,
+  "grouped_language_screened_clips": 7632,
+  "language_flags": 0,
+  "representative_transcription": {
+    "banks": 128,
+    "sampled_clips": 384,
+    "high_disagreement_banks": 3,
+    "mean_modern_recognizer_cer": 0.40045751157786236,
+    "historical_native_speaker_review": "pending",
+    "limits": "Modern recognition screening with archaic spellings; differences require interpretation, not an automatic pronunciation pass/fail."
+  },
+  "codec_headroom_fixed_clips": 89,
+  "exact_016_rollback": {
+    "path": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\archives\\voices020-baseline\\e48869987e4c\\Koreans-Garrison-0.1.6.zip",
+    "bytes": 107644580,
+    "sha256": "e48869987e4c7159290a911d263e06288b6ddf8da7cd3c34e236eaadf0a3a788"
+  },
+  "native_crc_full_readback_zip_crc": "pass",
+  "original_art_models_animation_and_gameplay_values": "Preserved by original native-member hashes and independent typed voice-only reconstruction. Runtime behavior is a separate gate.",
+  "excluded_nonhuman_proxies": [
+    {
+      "runtime": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_gapsa_dummy",
+      "reason": "Default Standard loadout is an invisible population/action controller without a renderable human body. Real visible Gapsa/Hwacha/Tiger Hunter owners are separately covered. HRE-brawl/XP3 proxy variants are not claimed as supported game modes."
+    },
+    {
+      "runtime": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_hwacha_dummy",
+      "reason": "Default Standard loadout is an invisible population/action controller without a renderable human body. Real visible Gapsa/Hwacha/Tiger Hunter owners are separately covered. HRE-brawl/XP3 proxy variants are not claimed as supported game modes."
+    },
+    {
+      "runtime": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_tiger_hunter_dummy",
+      "reason": "Default Standard loadout is an invisible population/action controller without a renderable human body. Real visible Gapsa/Hwacha/Tiger Hunter owners are separately covered. HRE-brawl/XP3 proxy variants are not claimed as supported game modes."
+    }
+  ],
+  "context_limits": "Repair and religious conversion/healing orders use semantically neutral acknowledgements because the maintained command boundary does not verify their target. Authored repair-specific recordings are retained for a later qualified target dispatcher; no false repair/conversion success announcement. HRE-brawl/XP3 are not qualified modes.",
+  "historical_pronunciation": "Researched original compositions and explicit model/phonetic approximations; no verified Old/Middle Korean pronunciation claim.",
+  "pending": [
+    "Garrison client import and fresh-match listening",
+    "Historical/native-speaker word and pronunciation review; modern ASR disagreements remain",
+    "Native age/gender/selection/context/capture/suppression and nonverbal timing",
+    "Save/load, AI, multiplayer, repeated matches and performance"
+  ],
+  "not_performed": [
+    "GitHub push/tag/publication",
+    "Game installation or interruption",
+    "Changes to other civilizations or trusted AGENTS.md",
+    "Broad E:/F: cleanup"
+  ],
+  "automation": {
+    "id": "korea-0-2-0-voices-and-build",
+    "state": "deleted",
+    "tool_confirmed": true,
+    "utc": "2026-11-02T04:13:46.433290+00:00",
+    "recurring_run": false
+  },
+  "source_and_master_inputs": "Retained; weights and original encodings/masters are protected, not disposable temp",
+  "cleanup": {
+    "report": "docs/STAGING_CLEANUP.json",
+    "reclaimed_logical_bytes": 2055504740,
+    "scope": "Only verified reproducible current native/package staging; models, masters, source inputs, rollback and compact failure diagnostics retained."
+  },
+  "post_cleanup_verification": "docs/voices020/POST_CLEANUP_VERIFICATION.json",
+  "build_receipt_recovery": "docs/voices020/BUILD_RECEIPT_RECOVERY.json"
+}
