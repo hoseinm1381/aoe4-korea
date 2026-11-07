@@ -1,0 +1,580 @@
+{
+  "restored_shields": [
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vf535edf40d45343.rgd",
+      "stock": "attachments/attachment_lists/civilizations/abbasid/units/tier3_cavalry_horseman_abb",
+      "fixes": [
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_hwarang_sword\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        },
+        {
+          "slot": "campaign/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_hwarang_sword\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        },
+        {
+          "slot": "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_hwarang_sword\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        }
+      ]
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v1bad39a868afbb6.rgd",
+      "stock": "attachments/attachment_lists/civilizations/abbasid/units/tier4_cavalry_horseman_abb",
+      "fixes": [
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_hwarang_sword\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
+        },
+        {
+          "slot": "campaign/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_hwarang_sword\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
+        },
+        {
+          "slot": "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_hwarang_sword\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
+        }
+      ]
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v61a1d2cfe52e9ff.rgd",
+      "stock": "attachments/attachment_lists/civilizations/mongol/units/tier3_cavalry_horseman_mon",
+      "fixes": [
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        },
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        },
+        {
+          "slot": "campaign/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        },
+        {
+          "slot": "campaign/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        },
+        {
+          "slot": "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        },
+        {
+          "slot": "xp3/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
+        }
+      ]
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vefac865c5d2d2e7.rgd",
+      "stock": "attachments/attachment_lists/civilizations/mongol/units/tier4_cavalry_horseman_mon",
+      "fixes": [
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
+        },
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        },
+        {
+          "slot": "campaign/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
+        },
+        {
+          "slot": "campaign/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        },
+        {
+          "slot": "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
+        },
+        {
+          "slot": "xp3/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_cavalry_spear\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_gold_wicker\\shield_round_gold_wicker"
+        }
+      ]
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_vc13ff20a206bf3e.rgd",
+      "stock": "attachments/attachment_lists/civilizations/mongol/units/tier3_cavalry_knight_mon",
+      "fixes": [
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_lancer_lance\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_lancer_lance\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "slot": "campaign/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_lancer_lance\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "slot": "campaign/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_lancer_lance\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "slot": "xp3/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_lancer_lance\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        },
+        {
+          "slot": "xp3/attachment_lists/attachment_lists/attachment_list[1]/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_lancer_lance\\model",
+          "to_shield": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker\\shield_round_metal_wicker"
+        }
+      ]
+    },
+    {
+      "member": "attrib/attachments/attachment_lists/garrison/korea/kr013_v33526fdd5531e9b.rgd",
+      "stock": "attachments/attachment_lists/civilizations/chinese_ha_01/units/tier4_cavalry_ming_guard_chi_ha_01",
+      "fixes": [
+        {
+          "slot": "default/attachment_lists/attachment_lists/attachment_list/attachment_list/animator_sim_attachment/animator",
+          "from_asset": "art\\kr013\\static\\korea_lancer_lance\\model",
+          "to_shield": "art\\civilizations\\japanese\\weapons\\jpn_shield_round_bronze\\jpn_shield_round_bronze"
+        }
+      ]
+    }
+  ],
+  "weapon_slots": [
+    {
+      "actor": "kr_unit_horseman_2_ayy",
+      "slots": [
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_weapon_turkic_horsearcher_2_ayy",
+          "stock_attachment": "wpn_range_horsearcher_2_mon",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_bow_range_horsearcher_2_mon",
+          "role": "bow"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[1]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_weapon_turkic_horsearcher_incendiary_2_ayy",
+          "stock_attachment": "wpn_range_horsearcher_2_mon",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_bow_range_horsearcher_2_mon",
+          "role": "bow"
+        },
+        {
+          "route": "xp3/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_2",
+          "stock_attachment": "wpn_melee_horseman_2_abb",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_spear_melee_horseman_2_abb",
+          "role": "fight_spear"
+        },
+        {
+          "route": "xp3/combat_ext/hardpoints/hardpoint/weapon_table/weapon[2]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_2_charge",
+          "stock_attachment": "wpn_melee_horseman_charge",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_spear_melee_horseman_charge",
+          "role": "charge_spear"
+        }
+      ]
+    },
+    {
+      "actor": "kr_unit_horseman_2_chi_ha_01",
+      "slots": [
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_2",
+          "stock_attachment": "wpn_melee_horseman_2_chi",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_spear_melee_horseman_2_chi",
+          "role": "fight_spear"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[2]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_2_charge",
+          "stock_attachment": "wpn_melee_horseman_charge",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_spear_melee_horseman_charge",
+          "role": "charge_spear"
+        }
+      ]
+    },
+    {
+      "actor": "kr_unit_horseman_3_ayy",
+      "slots": [
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_weapon_turkic_horsearcher_3_ayy",
+          "stock_attachment": "wpn_range_horsearcher_3_mon",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_bow_range_horsearcher_3_mon",
+          "role": "bow"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[1]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_weapon_turkic_horsearcher_incendiary_3_ayy",
+          "stock_attachment": "wpn_range_horsearcher_3_mon",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_bow_range_horsearcher_3_mon",
+          "role": "bow"
+        },
+        {
+          "route": "xp3/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_3",
+          "stock_attachment": "wpn_melee_horseman_3_abb",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_spear_melee_horseman_3_abb",
+          "role": "fight_spear"
+        },
+        {
+          "route": "xp3/combat_ext/hardpoints/hardpoint/weapon_table/weapon[2]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_3_charge",
+          "stock_attachment": "wpn_melee_horseman_charge",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_spear_melee_horseman_charge",
+          "role": "charge_spear"
+        }
+      ]
+    },
+    {
+      "actor": "kr_unit_horseman_3_chi_ha_01",
+      "slots": [
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_3",
+          "stock_attachment": "wpn_melee_horseman_3_chi",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_spear_melee_horseman_3_chi",
+          "role": "fight_spear"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[2]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_3_charge",
+          "stock_attachment": "wpn_melee_horseman_charge",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_spear_melee_horseman_charge",
+          "role": "charge_spear"
+        }
+      ]
+    },
+    {
+      "actor": "kr_unit_horseman_4_ayy",
+      "slots": [
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_weapon_turkic_horsearcher_4_ayy",
+          "stock_attachment": "wpn_range_horsearcher_4_mon",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_bow_range_horsearcher_4_mon",
+          "role": "bow"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[1]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_weapon_turkic_horsearcher_incendiary_4_ayy",
+          "stock_attachment": "wpn_range_horsearcher_4_mon",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_bow_range_horsearcher_4_mon",
+          "role": "bow"
+        },
+        {
+          "route": "xp3/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_4",
+          "stock_attachment": "wpn_melee_horseman_4_abb",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_spear_melee_horseman_4_abb",
+          "role": "fight_spear"
+        },
+        {
+          "route": "xp3/combat_ext/hardpoints/hardpoint/weapon_table/weapon[2]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_4_charge",
+          "stock_attachment": "wpn_melee_horseman_charge",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_spear_melee_horseman_charge",
+          "role": "charge_spear"
+        }
+      ]
+    },
+    {
+      "actor": "kr_unit_horseman_4_chi_ha_01",
+      "slots": [
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_4",
+          "stock_attachment": "wpn_melee_horseman_4_chi",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_spear_melee_horseman_4_chi",
+          "role": "fight_spear"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[2]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_horseman_4_charge",
+          "stock_attachment": "wpn_melee_horseman_charge",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_spear_melee_horseman_charge",
+          "role": "charge_spear"
+        }
+      ]
+    },
+    {
+      "actor": "kr_unit_knight_3_chi_ha_01",
+      "slots": [
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_knight_3",
+          "stock_attachment": "wpn_melee_knight_3_chi",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_sabre_melee_knight_3_chi",
+          "role": "fight_sabre"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[1]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_knight_3_collarofesses_lan",
+          "stock_attachment": "wpn_melee_onna_bugeisha_jpn",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_polearm_melee_onna_bugeisha_jpn",
+          "role": "fight_polearm"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[3]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_knight_3_charge",
+          "stock_attachment": "wpn_melee_knight_3_charge_chi",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_lance_melee_knight_3_charge_chi",
+          "role": "charge_lance"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[4]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_knight_3_charge_collarofesses_lan",
+          "stock_attachment": "wpn_melee_onna_bugeisha_jpn",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_polearm_melee_onna_bugeisha_jpn",
+          "role": "charge_polearm"
+        }
+      ]
+    },
+    {
+      "actor": "kr_unit_knight_4_chi_ha_01",
+      "slots": [
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_knight_4",
+          "stock_attachment": "wpn_melee_knight_4_chi",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_sabre_melee_knight_4_chi",
+          "role": "fight_sabre"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[1]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_knight_4_collarofesses_lan",
+          "stock_attachment": "wpn_melee_onna_bugeisha_jpn",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_polearm_melee_onna_bugeisha_jpn",
+          "role": "fight_polearm"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[3]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_knight_4_charge",
+          "stock_attachment": "wpn_melee_knight_4_charge_chi",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_lance_melee_knight_4_charge_chi",
+          "role": "charge_lance"
+        },
+        {
+          "route": "default/combat_ext/hardpoints/hardpoint/weapon_table/weapon[4]/non_entity_weapon_wrapper",
+          "gameplay_weapon": "weapon_knight_4_charge_collarofesses_lan",
+          "stock_attachment": "wpn_melee_onna_bugeisha_jpn",
+          "private_attachment": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_polearm_melee_onna_bugeisha_jpn",
+          "role": "charge_polearm"
+        }
+      ]
+    }
+  ],
+  "models": [
+    {
+      "donor": "art/civilizations/common/weapons/ranged/bow_recurve_short/bow_recurve_short",
+      "private": "art/kr034/weapons/bow_bow_recurve_short/model",
+      "style": "bow",
+      "donor_hashes": {
+        ".rgo": "99dec96966efb77c5eecb768b29f307a8d5983c969475dc1999c273ef8c2d664",
+        ".rgm": "5ad2ac9f37405dc9887873aad882d5337ea7f3db5c5075ebe6e196abf6c6ba76",
+        ".rrgeom": "712495bfad4da7a91c0906ff90569c37d27ca121bc4737493efa2ec60d14cb5a",
+        ".rrmaterial": "92047547f02b2058b2c730e9f566e87c098e02aecc55662dedde1cf306baea8c"
+      },
+      "painted_atlas_source": "art/civilizations/common/weapons/ranged/bow_recurve_short/8644754618438381382_packed.rrtex",
+      "painted_atlas_source_hash": "0df9d7de8a01c5e604917b8aa2bbdc8daf989e49d4f1baac246e49863aa88c59",
+      "reprofiled_vertices": [
+        144,
+        62,
+        44
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/common/weapons/melee/spear_basic/spear_basic",
+      "private": "art/kr034/weapons/fight_spear_spear_basic/model",
+      "style": "fight_spear",
+      "donor_hashes": {
+        ".rgo": "aa99563690db232fe96bf9e3a6ac2177febe8500d9f568ac7f8f7ec4f419f427",
+        ".rgm": "92c486d7d418429280dae4619bc7a77482ac9123bfa3d1c97b6ac2bc71c3fe55",
+        ".rrgeom": "21350bb7e57567aa7a8842562062f006106d905e6526c3888aea13321e1996de",
+        ".rrmaterial": "7b58f6e41eea8b355bc0d48427b49ec8ce43dbc88f6c2147ce63b979922dd3f1"
+      },
+      "painted_atlas_source": "art/civilizations/common/weapons/melee/spear_basic/9855900918392311187_packed.rrtex",
+      "painted_atlas_source_hash": "d37f79fdaa32bbfa13aad4a8cdd09813a9460b12dbefaafc222fabd4a3a67583",
+      "reprofiled_vertices": [
+        18,
+        6,
+        6
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/common/weapons/melee/spear_cavalry_charge/spear_cavalry_charge",
+      "private": "art/kr034/weapons/charge_spear_spear_cavalry_charge/model",
+      "style": "charge_spear",
+      "donor_hashes": {
+        ".rgm": "709efc77679e88e350844386f5eb98ff88731ece2e516e8d02311c663c8461ea",
+        ".rrgeom": "d0ac8c42d987ea846889099e3c50aaeec73ad1fdda1c1aeafdf0ab21b8de80bf",
+        ".rrmaterial": "7b58f6e41eea8b355bc0d48427b49ec8ce43dbc88f6c2147ce63b979922dd3f1"
+      },
+      "painted_atlas_source": "art/civilizations/common/weapons/melee/spear_basic/9855900918392311187_packed.rrtex",
+      "painted_atlas_source_hash": "d37f79fdaa32bbfa13aad4a8cdd09813a9460b12dbefaafc222fabd4a3a67583",
+      "reprofiled_vertices": [
+        18,
+        18,
+        6
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/common/weapons/ranged/bow_recurve/bow_recurve",
+      "private": "art/kr034/weapons/bow_bow_recurve/model",
+      "style": "bow",
+      "donor_hashes": {
+        ".rgo": "77aa4d92f83ea5828d0ef19f47d0f323b6652757b2e14252388182b9f429b708",
+        ".rgm": "689b0b6a169562a89083c97de155f8cd305f2446d0fa1674603a55d1c7c3bb66",
+        ".rrgeom": "da5e764b5050f228083d764f66d25741126dd204930ed82c3793aa8e1de80b59",
+        ".rrmaterial": "ff5b0eb13987f74d9a368ad02f2350e07550e18cc8327f2ae6191405187f4a29"
+      },
+      "painted_atlas_source": "art/civilizations/common/weapons/ranged/bow_recurve/17728201341132996836_packed.rrtex",
+      "painted_atlas_source_hash": "aa9f8566b1920da443bde9b56659407f02a3a636a234a8c02dd80064b158cdd2",
+      "reprofiled_vertices": [
+        78,
+        54,
+        36
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/common/weapons/ranged/bow_recurve_gold/bow_recurve_gold",
+      "private": "art/kr034/weapons/bow_bow_recurve_gold/model",
+      "style": "bow",
+      "donor_hashes": {
+        ".rgo": "99dec96966efb77c5eecb768b29f307a8d5983c969475dc1999c273ef8c2d664",
+        ".rgm": "5f4ca33cd6036cdabe5d6ca7ea7650a62ce261d95d14a67da96a9bc31753cd5a",
+        ".rrgeom": "da5e764b5050f228083d764f66d25741126dd204930ed82c3793aa8e1de80b59",
+        ".rrmaterial": "a8dca76ef2b69b3f5e74a91ab48eb5befe01934762384af1c03349cc4351f019"
+      },
+      "painted_atlas_source": "art/civilizations/common/weapons/ranged/bow_recurve_gold/11465484685865813739_packed.rrtex",
+      "painted_atlas_source_hash": "4a27c2cef2d8f8481c5762c4f57639f48af8402b862f3a4dbb98fc278b91dc0b",
+      "reprofiled_vertices": [
+        78,
+        54,
+        36
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/chinese/weapons/chi_sword_dao/chi_sword_dao",
+      "private": "art/kr034/weapons/fight_sabre_chi_sword_dao/model",
+      "style": "fight_sabre",
+      "donor_hashes": {
+        ".rgo": "fe88e3cdb15a9e812086d80ff3a034f9cfa8488d92e96fa918ca72f28c063f9a",
+        ".rgm": "8cb4b5491fef9b0bd04272ee1aae17601b0b08e5330a3a3d0f17a4ca62e09376",
+        ".rrmaterial": "f5956627d08bb6b0da1df86c7039f1c28f658d460fb9804effc84ca6be6afd62",
+        ".rrgeom": "03da30e0b28f78826c6bc6846cc3b12db6a99fe182e6b0fabc5c268212221812"
+      },
+      "painted_atlas_source": "art/civilizations/chinese/weapons/chi_sword_dao/11483560664718190033_packed.rrtex",
+      "painted_atlas_source_hash": "3add46078162b911f11f28327bb5956675390b6279117c3fca23d3ca11f0c4a7",
+      "reprofiled_vertices": [
+        8,
+        8,
+        8
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/japanese/weapons/jpn_bugeisha_naginata/jpn_bugeisha_naginata",
+      "private": "art/kr034/weapons/fight_polearm_jpn_bugeisha_naginata/model",
+      "style": "fight_polearm",
+      "donor_hashes": {
+        ".rgm": "4cb509469a1a3e360ebf22bae8e3e4cde95fb23a4d0f3b9d5c69bb3ae70d172d",
+        ".rgo": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+        ".rrmaterial": "6e7acee4d5d9f89d0386a8077adaa76395d742b38c89313d29eb88f92a464165",
+        ".rrgeom": "fed88c4f5c3abac2d1fa7fe4bc5edf6c681c3c65165f3c6f7db7ee703534ce54"
+      },
+      "painted_atlas_source": "art/civilizations/japanese/weapons/jpn_bugeisha_naginata/2616427165710793454_packed.rrtex",
+      "painted_atlas_source_hash": "f465c37b6359d1588dc82c4b4b44ee355653da14693e7e1eff680a1619eb9e3b",
+      "reprofiled_vertices": [
+        20,
+        8,
+        8
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/chinese/weapons/chi_axe_guandao_1/chi_axe_guandao_1",
+      "private": "art/kr034/weapons/charge_lance_chi_axe_guandao_1/model",
+      "style": "charge_lance",
+      "donor_hashes": {
+        ".rgo": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+        ".rgm": "4c067949c621bb0a4b1c53404efc7ed2ee5418a904babad29321339518fb081e",
+        ".rrmaterial": "ad79b8e7d55b3547555dbfa1ee8f34e0b3848536adaba9d0a36feb0daff3e585",
+        ".rrgeom": "27bc26de9715635e2d6906f81a27777749e2b24cf9452fc7b4c2b9232c14eda8"
+      },
+      "painted_atlas_source": "art/civilizations/chinese/weapons/chi_axe_guandao_1/5254092050520988986_packed.rrtex",
+      "painted_atlas_source_hash": "796c44dc20ceab5ab4a2d5caae8a8adc434e5bce5599e45edb8591c28bf0e55e",
+      "reprofiled_vertices": [
+        67,
+        67,
+        67
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/japanese/weapons/jpn_bugeisha_naginata/jpn_bugeisha_naginata",
+      "private": "art/kr034/weapons/charge_polearm_jpn_bugeisha_naginata/model",
+      "style": "charge_polearm",
+      "donor_hashes": {
+        ".rgm": "4cb509469a1a3e360ebf22bae8e3e4cde95fb23a4d0f3b9d5c69bb3ae70d172d",
+        ".rgo": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+        ".rrmaterial": "6e7acee4d5d9f89d0386a8077adaa76395d742b38c89313d29eb88f92a464165",
+        ".rrgeom": "fed88c4f5c3abac2d1fa7fe4bc5edf6c681c3c65165f3c6f7db7ee703534ce54"
+      },
+      "painted_atlas_source": "art/civilizations/japanese/weapons/jpn_bugeisha_naginata/2616427165710793454_packed.rrtex",
+      "painted_atlas_source_hash": "f465c37b6359d1588dc82c4b4b44ee355653da14693e7e1eff680a1619eb9e3b",
+      "reprofiled_vertices": [
+        20,
+        8,
+        8
+      ],
+      "exact_native_marker_skin_and_controller": true
+    },
+    {
+      "donor": "art/civilizations/chinese/weapons/chi_axe_guandao_2/chi_axe_guandao_2",
+      "private": "art/kr034/weapons/charge_lance_chi_axe_guandao_2/model",
+      "style": "charge_lance",
+      "donor_hashes": {
+        ".rgo": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+        ".rgm": "abac8c0c327ffb42369dd44dc7708989125a204cd41ea3925f1be5924e83d535",
+        ".rrmaterial": "0bb68cddee57d0d260b27822361d05445960cd1a0dd0520dcd75aacdd90d2e8b",
+        ".rrgeom": "e70b986045c7d5493f96a33b429e7fe382083b5d69a390269e4d37612ae30be9"
+      },
+      "painted_atlas_source": "art/civilizations/chinese/weapons/chi_axe_guandao_2/2988446229431222185_packed.rrtex",
+      "painted_atlas_source_hash": "7f30e98594aa7b9ed27652ab439544663a345c219c2f978f93fd12f5c0a798d9",
+      "reprofiled_vertices": [
+        131,
+        126,
+        120
+      ],
+      "exact_native_marker_skin_and_controller": true
+    }
+  ]
+}

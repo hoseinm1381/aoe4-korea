@@ -1,0 +1,19 @@
+{
+  "donor": "art/civilizations/chinese/weapons/chi_sword_dao/chi_sword_dao",
+  "private": "art/kr034/weapons/fight_sabre_chi_sword_dao/model",
+  "style": "fight_sabre",
+  "donor_hashes": {
+    ".rgo": "fe88e3cdb15a9e812086d80ff3a034f9cfa8488d92e96fa918ca72f28c063f9a",
+    ".rgm": "8cb4b5491fef9b0bd04272ee1aae17601b0b08e5330a3a3d0f17a4ca62e09376",
+    ".rrmaterial": "f5956627d08bb6b0da1df86c7039f1c28f658d460fb9804effc84ca6be6afd62",
+    ".rrgeom": "03da30e0b28f78826c6bc6846cc3b12db6a99fe182e6b0fabc5c268212221812"
+  },
+  "painted_atlas_source": "art/civilizations/chinese/weapons/chi_sword_dao/11483560664718190033_packed.rrtex",
+  "painted_atlas_source_hash": "3add46078162b911f11f28327bb5956675390b6279117c3fca23d3ca11f0c4a7",
+  "reprofiled_vertices": [
+    8,
+    8,
+    8
+  ],
+  "exact_native_marker_skin_and_controller": true
+}

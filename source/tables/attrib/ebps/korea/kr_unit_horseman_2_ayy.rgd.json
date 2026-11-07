@@ -4778,7 +4778,7 @@
                                       "key": "$PBGNAME",
                                       "hash": 5464984021694833596,
                                       "kind": "CString",
-                                      "value": "wpn_range_horsearcher_2_mon"
+                                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_bow_range_horsearcher_2_mon"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -4910,7 +4910,7 @@
                                       "key": "$PBGNAME",
                                       "hash": 5464984021694833596,
                                       "kind": "CString",
-                                      "value": "wpn_range_horsearcher_2_mon"
+                                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_bow_range_horsearcher_2_mon"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -8947,7 +8947,7 @@
                                       "key": "$PBGNAME",
                                       "hash": 5464984021694833596,
                                       "kind": "CString",
-                                      "value": "wpn_melee_horseman_2_abb"
+                                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_spear_melee_horseman_2_abb"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -9211,7 +9211,7 @@
                                       "key": "$PBGNAME",
                                       "hash": 5464984021694833596,
                                       "kind": "CString",
-                                      "value": "wpn_melee_horseman_charge"
+                                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_spear_melee_horseman_charge"
                                     },
                                     {
                                       "key": "$PBGMAP",

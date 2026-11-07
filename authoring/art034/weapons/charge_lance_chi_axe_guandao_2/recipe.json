@@ -1,0 +1,19 @@
+{
+  "donor": "art/civilizations/chinese/weapons/chi_axe_guandao_2/chi_axe_guandao_2",
+  "private": "art/kr034/weapons/charge_lance_chi_axe_guandao_2/model",
+  "style": "charge_lance",
+  "donor_hashes": {
+    ".rgo": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+    ".rgm": "abac8c0c327ffb42369dd44dc7708989125a204cd41ea3925f1be5924e83d535",
+    ".rrmaterial": "0bb68cddee57d0d260b27822361d05445960cd1a0dd0520dcd75aacdd90d2e8b",
+    ".rrgeom": "e70b986045c7d5493f96a33b429e7fe382083b5d69a390269e4d37612ae30be9"
+  },
+  "painted_atlas_source": "art/civilizations/chinese/weapons/chi_axe_guandao_2/2988446229431222185_packed.rrtex",
+  "painted_atlas_source_hash": "7f30e98594aa7b9ed27652ab439544663a345c219c2f978f93fd12f5c0a798d9",
+  "reprofiled_vertices": [
+    131,
+    126,
+    120
+  ],
+  "exact_native_marker_skin_and_controller": true
+}

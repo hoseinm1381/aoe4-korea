@@ -1,0 +1,19 @@
+{
+  "donor": "art/civilizations/common/weapons/ranged/bow_recurve_gold/bow_recurve_gold",
+  "private": "art/kr034/weapons/bow_bow_recurve_gold/model",
+  "style": "bow",
+  "donor_hashes": {
+    ".rgo": "99dec96966efb77c5eecb768b29f307a8d5983c969475dc1999c273ef8c2d664",
+    ".rgm": "5f4ca33cd6036cdabe5d6ca7ea7650a62ce261d95d14a67da96a9bc31753cd5a",
+    ".rrgeom": "da5e764b5050f228083d764f66d25741126dd204930ed82c3793aa8e1de80b59",
+    ".rrmaterial": "a8dca76ef2b69b3f5e74a91ab48eb5befe01934762384af1c03349cc4351f019"
+  },
+  "painted_atlas_source": "art/civilizations/common/weapons/ranged/bow_recurve_gold/11465484685865813739_packed.rrtex",
+  "painted_atlas_source_hash": "4a27c2cef2d8f8481c5762c4f57639f48af8402b862f3a4dbb98fc278b91dc0b",
+  "reprofiled_vertices": [
+    78,
+    54,
+    36
+  ],
+  "exact_native_marker_skin_and_controller": true
+}

@@ -1,0 +1,18 @@
+{
+  "donor": "art/civilizations/common/weapons/melee/spear_cavalry_charge/spear_cavalry_charge",
+  "private": "art/kr034/weapons/charge_spear_spear_cavalry_charge/model",
+  "style": "charge_spear",
+  "donor_hashes": {
+    ".rgm": "709efc77679e88e350844386f5eb98ff88731ece2e516e8d02311c663c8461ea",
+    ".rrgeom": "d0ac8c42d987ea846889099e3c50aaeec73ad1fdda1c1aeafdf0ab21b8de80bf",
+    ".rrmaterial": "7b58f6e41eea8b355bc0d48427b49ec8ce43dbc88f6c2147ce63b979922dd3f1"
+  },
+  "painted_atlas_source": "art/civilizations/common/weapons/melee/spear_basic/9855900918392311187_packed.rrtex",
+  "painted_atlas_source_hash": "d37f79fdaa32bbfa13aad4a8cdd09813a9460b12dbefaafc222fabd4a3a67583",
+  "reprofiled_vertices": [
+    18,
+    18,
+    6
+  ],
+  "exact_native_marker_skin_and_controller": true
+}

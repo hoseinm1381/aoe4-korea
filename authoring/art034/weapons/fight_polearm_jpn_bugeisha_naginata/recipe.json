@@ -1,0 +1,19 @@
+{
+  "donor": "art/civilizations/japanese/weapons/jpn_bugeisha_naginata/jpn_bugeisha_naginata",
+  "private": "art/kr034/weapons/fight_polearm_jpn_bugeisha_naginata/model",
+  "style": "fight_polearm",
+  "donor_hashes": {
+    ".rgm": "4cb509469a1a3e360ebf22bae8e3e4cde95fb23a4d0f3b9d5c69bb3ae70d172d",
+    ".rgo": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+    ".rrmaterial": "6e7acee4d5d9f89d0386a8077adaa76395d742b38c89313d29eb88f92a464165",
+    ".rrgeom": "fed88c4f5c3abac2d1fa7fe4bc5edf6c681c3c65165f3c6f7db7ee703534ce54"
+  },
+  "painted_atlas_source": "art/civilizations/japanese/weapons/jpn_bugeisha_naginata/2616427165710793454_packed.rrtex",
+  "painted_atlas_source_hash": "f465c37b6359d1588dc82c4b4b44ee355653da14693e7e1eff680a1619eb9e3b",
+  "reprofiled_vertices": [
+    20,
+    8,
+    8
+  ],
+  "exact_native_marker_skin_and_controller": true
+}

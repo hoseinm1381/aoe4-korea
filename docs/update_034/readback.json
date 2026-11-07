@@ -1,0 +1,132 @@
+[
+  {
+    "asset": "kr_tiger_hunter_a2",
+    "triangles": [
+      1646,
+      762,
+      384
+    ],
+    "manifest": "decoded-bound\\kr_tiger_hunter_a2\\b5fb7ff8518e176535d9\\decoded-static.json",
+    "bone_count": 48
+  },
+  {
+    "asset": "kr_tiger_hunter_a3",
+    "triangles": [
+      1694,
+      794,
+      408
+    ],
+    "manifest": "decoded-bound\\kr_tiger_hunter_a3\\2aee1ba2a25258701fb6\\decoded-static.json",
+    "bone_count": 48
+  },
+  {
+    "asset": "kr_tiger_hunter_a4",
+    "triangles": [
+      1900,
+      881,
+      489
+    ],
+    "manifest": "decoded-bound\\kr_tiger_hunter_a4\\83f6a7d56bbe67ac5069\\decoded-static.json",
+    "bone_count": 48
+  },
+  {
+    "asset": "bow_bow_recurve_short",
+    "triangles": [
+      148,
+      108,
+      80
+    ],
+    "manifest": "decoded-bound\\bow_bow_recurve_short\\038f48fb6323a768055f\\decoded-static.json",
+    "bone_count": 4
+  },
+  {
+    "asset": "fight_spear_spear_basic",
+    "triangles": [
+      30,
+      30,
+      30
+    ],
+    "manifest": "decoded-bound\\fight_spear_spear_basic\\86cd7d3eaaa91904e26f\\decoded-static.json",
+    "bone_count": 0
+  },
+  {
+    "asset": "charge_spear_spear_cavalry_charge",
+    "triangles": [
+      30,
+      30,
+      30
+    ],
+    "manifest": "decoded-bound\\charge_spear_spear_cavalry_charge\\6ee0b6447a6c24bdc170\\decoded-static.json",
+    "bone_count": 0
+  },
+  {
+    "asset": "bow_bow_recurve",
+    "triangles": [
+      148,
+      108,
+      80
+    ],
+    "manifest": "decoded-bound\\bow_bow_recurve\\f87e865c1660ac9b56b5\\decoded-static.json",
+    "bone_count": 4
+  },
+  {
+    "asset": "bow_bow_recurve_gold",
+    "triangles": [
+      148,
+      108,
+      80
+    ],
+    "manifest": "decoded-bound\\bow_bow_recurve_gold\\bda1e07a701c73f7c07b\\decoded-static.json",
+    "bone_count": 4
+  },
+  {
+    "asset": "fight_sabre_chi_sword_dao",
+    "triangles": [
+      97,
+      97,
+      97
+    ],
+    "manifest": "decoded-bound\\fight_sabre_chi_sword_dao\\176601993c7f2c47baff\\decoded-static.json",
+    "bone_count": 1
+  },
+  {
+    "asset": "fight_polearm_jpn_bugeisha_naginata",
+    "triangles": [
+      190,
+      102,
+      58
+    ],
+    "manifest": "decoded-bound\\fight_polearm_jpn_bugeisha_naginata\\f0c77176262d292fdc77\\decoded-static.json",
+    "bone_count": 0
+  },
+  {
+    "asset": "charge_lance_chi_axe_guandao_1",
+    "triangles": [
+      96,
+      96,
+      96
+    ],
+    "manifest": "decoded-bound\\charge_lance_chi_axe_guandao_1\\37eded0ffc87adcf6990\\decoded-static.json",
+    "bone_count": 1
+  },
+  {
+    "asset": "charge_polearm_jpn_bugeisha_naginata",
+    "triangles": [
+      190,
+      102,
+      58
+    ],
+    "manifest": "decoded-bound\\charge_polearm_jpn_bugeisha_naginata\\5797f0aa26643ea3e3fc\\decoded-static.json",
+    "bone_count": 0
+  },
+  {
+    "asset": "charge_lance_chi_axe_guandao_2",
+    "triangles": [
+      190,
+      190,
+      190
+    ],
+    "manifest": "decoded-bound\\charge_lance_chi_axe_guandao_2\\ebe76c5f7a24f7a78c36\\decoded-static.json",
+    "bone_count": 0
+  }
+]

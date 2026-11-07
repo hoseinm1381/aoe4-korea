@@ -288,7 +288,7 @@
                               "key": "animator",
                               "hash": 17798483363192334723,
                               "kind": "CString",
-                              "value": "art\\kr013\\static\\korea_hwarang_sword\\model"
+                              "value": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
                             }
                           ]
                         }
@@ -496,7 +496,7 @@
                               "key": "animator",
                               "hash": 17798483363192334723,
                               "kind": "CString",
-                              "value": "art\\kr013\\static\\korea_hwarang_sword\\model"
+                              "value": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
                             }
                           ]
                         }
@@ -698,7 +698,7 @@
                               "key": "animator",
                               "hash": 17798483363192334723,
                               "kind": "CString",
-                              "value": "art\\kr013\\static\\korea_hwarang_sword\\model"
+                              "value": "art\\civilizations\\common\\weapons\\defense\\shield_round_metal_wicker_sml\\shield_round_metal_wicker_sml"
                             }
                           ]
                         }

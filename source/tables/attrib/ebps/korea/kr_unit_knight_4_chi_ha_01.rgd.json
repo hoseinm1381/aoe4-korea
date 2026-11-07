@@ -4725,7 +4725,7 @@
                                       "key": "$PBGNAME",
                                       "hash": 5464984021694833596,
                                       "kind": "CString",
-                                      "value": "wpn_melee_knight_4_chi"
+                                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_sabre_melee_knight_4_chi"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -4857,7 +4857,7 @@
                                       "key": "$PBGNAME",
                                       "hash": 5464984021694833596,
                                       "kind": "CString",
-                                      "value": "wpn_melee_onna_bugeisha_jpn"
+                                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_fight_polearm_melee_onna_bugeisha_jpn"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -5121,7 +5121,7 @@
                                       "key": "$PBGNAME",
                                       "hash": 5464984021694833596,
                                       "kind": "CString",
-                                      "value": "wpn_melee_knight_4_charge_chi"
+                                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_lance_melee_knight_4_charge_chi"
                                     },
                                     {
                                       "key": "$PBGMAP",
@@ -5253,7 +5253,7 @@
                                       "key": "$PBGNAME",
                                       "hash": 5464984021694833596,
                                       "kind": "CString",
-                                      "value": "wpn_melee_onna_bugeisha_jpn"
+                                      "value": "748d61b94d3e4cf3a506a9ac1f992d1d:kr034_charge_polearm_melee_onna_bugeisha_jpn"
                                     },
                                     {
                                       "key": "$PBGMAP",

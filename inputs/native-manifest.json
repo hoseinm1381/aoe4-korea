@@ -5418,16 +5418,16 @@
     "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
   },
   "art/kr013/units/kr_tiger_hunter_a2/10959735146053674773_packed.rrtex": {
-    "bytes": 1837,
-    "sha256": "a427326e1ff2ae518a807afd497489a6f854287714a8d5ab8634e8d5cb04775b",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 2318,
+    "sha256": "7ee942c3326cfca1dedb2316991e1217455604637b178b6f0cb3702d9d91fd7d",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a2/12864975740713076073_packed.rrtex": {
-    "bytes": 351,
-    "sha256": "71fb6db497c35283da7becbb76b1b77b6cc1a635be2405546c023be24a8f556b",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 339,
+    "sha256": "66aeb4f2f5e4f13920369368c96b4954efbe95c281e484598187f65a4fb443d9",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a2/3428831992354488188_packed.rrtex": {
     "bytes": 3026,
@@ -5436,16 +5436,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_tiger_hunter_a2/albedo.rrtex": {
-    "bytes": 112513,
-    "sha256": "19348f35378a0d8012029ac5adc48ffdcfd55b030fddb28ec012f028f0835826",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 94690,
+    "sha256": "3f8ab5f65783262daee5f6084ef8aa909789600abc584bdb10e1a7a0ef2be01a",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a2/model.rgm": {
-    "bytes": 43693,
-    "sha256": "6db0b56d68b0fb2a16e4a3f600eba56618cb45efc969b8527ebae19a044fb6c0",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 48265,
+    "sha256": "bd521e4acdff00849e4653d28d513cb3bbe0a88de0c6c5e6cf5de0c420f7c929",
+    "origin": "0.3.4 Tiger Hunter geometry owner"
   },
   "art/kr013/units/kr_tiger_hunter_a2/model.rgo": {
     "bytes": 283,
@@ -5454,28 +5454,28 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_tiger_hunter_a2/model.rrgeom": {
-    "bytes": 227570,
-    "sha256": "5413335d8675556e4cd46b95c9130c90f0be1248752d121ab69092f6e7ff1cc1",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 128170,
+    "sha256": "ec90b1bf369d86120d60f30efdab2792a4c4d1af568891547a5fa513b9a8cccf",
+    "origin": "0.3.4 Tiger Hunter sculpted geometry"
   },
   "art/kr013/units/kr_tiger_hunter_a2/model.rrmaterial": {
-    "bytes": 788,
-    "sha256": "c6ec76756993acccf256ff4e6c178e5da78f7100947c77d356e7165701440e62",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 763,
+    "sha256": "ac4c68e830032c69d54be4a9fe9ffce2fa0c9ea8ab47cab3163e4c2d9bcadd4a",
+    "origin": "0.3.4 Tiger Hunter native shader bindings"
   },
   "art/kr013/units/kr_tiger_hunter_a3/11234188950549954944_packed.rrtex": {
-    "bytes": 1837,
-    "sha256": "c6e31389c35205e4f3254609f8c677944c98c82125f8ea1a146912fadbe6cb96",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 2318,
+    "sha256": "2250705b338a223879472f04dae30214267408b8b95a8dc9a31e8711f078f020",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a3/1843347825107486289_packed.rrtex": {
-    "bytes": 351,
-    "sha256": "08c976ee94a342e7e466334a96ffe7956399fc80e582261e2e6d0926f0d26f18",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 339,
+    "sha256": "6f810ef85d0ede30c7432ac91917ff554bec950b8b9d1efd9a8a5ad6b25599c6",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a3/7427990268077863070_packed.rrtex": {
     "bytes": 3026,
@@ -5484,16 +5484,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_tiger_hunter_a3/albedo.rrtex": {
-    "bytes": 112513,
-    "sha256": "4832a24cff1aeae3b63c2d5335186b90a1eb21cdef836b335e2954f17fa1b115",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 94690,
+    "sha256": "1ea7dcbcc4d3849a2da4eb58e38e75065f8dbb4e5b77ed995c46062f981159ee",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a3/model.rgm": {
-    "bytes": 43693,
-    "sha256": "092e140a2e0077d416563b6a2caacd00bc640dde17066eb31a275003bc70b62c",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 50593,
+    "sha256": "5c214eb69229ff57b92f4261416af85249f219468d134b2e0cdf345c246e1280",
+    "origin": "0.3.4 Tiger Hunter geometry owner"
   },
   "art/kr013/units/kr_tiger_hunter_a3/model.rgo": {
     "bytes": 283,
@@ -5502,22 +5502,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_tiger_hunter_a3/model.rrgeom": {
-    "bytes": 227570,
-    "sha256": "7b0d8fa9d260c90657d4bb0bfd4ac6fb399585c058076c88e35d6f7429a1a3d0",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 136046,
+    "sha256": "0a36746e930fed2aa0bdce616fb17ba8e83ac443e0481abc2bd8d1382200242c",
+    "origin": "0.3.4 Tiger Hunter sculpted geometry"
   },
   "art/kr013/units/kr_tiger_hunter_a3/model.rrmaterial": {
-    "bytes": 788,
-    "sha256": "1e56b90b721995c43ffc155dc7dad5a2488c6040bc272209f8565fb5c1e1980d",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 762,
+    "sha256": "bbd90f295a415510e046c3b87fb50919c86e9e66283b39bf9899478b8967414c",
+    "origin": "0.3.4 Tiger Hunter native shader bindings"
   },
   "art/kr013/units/kr_tiger_hunter_a4/11350878379100664510_packed.rrtex": {
-    "bytes": 351,
-    "sha256": "0fb852f590a6ef18f1f3271db08f6806bcbd16dbe21dcebfb987b1992c386a21",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 339,
+    "sha256": "eef5a702320a8859f72bb537dd8e09d6cf0809fc8ad23a5656de3d892718a3b6",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a4/2724189262742682910_packed.rrtex": {
     "bytes": 3026,
@@ -5526,22 +5526,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_tiger_hunter_a4/8921859665230186733_packed.rrtex": {
-    "bytes": 1837,
-    "sha256": "9a9db9c0828f8c199f9bc346dda2351b5d2f7de6808657e6a4a401a7eb41d9e8",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 2318,
+    "sha256": "bb2254d567dd72d099506318eeadc584ee60e86da5646ecdfb029b2848222ac8",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a4/albedo.rrtex": {
-    "bytes": 113762,
-    "sha256": "b4fe6b12bdadd04155af4f41d64ceaec2a9fb9f1063f3bf5975836005be9029e",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 95195,
+    "sha256": "6ce8c2ce542167dda81cdd4e6a9a9a27b5f68d406ae62a763035cc5e3ce920b4",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   },
   "art/kr013/units/kr_tiger_hunter_a4/model.rgm": {
-    "bytes": 46937,
-    "sha256": "947e3e90229946efc0603642782fcf773d38cb94c8a5305842af408214d0399c",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 56225,
+    "sha256": "7b5f1af004f70c0aa285d98116e1da914ff493968b2a78b08db6bca744ae9b33",
+    "origin": "0.3.4 Tiger Hunter geometry owner"
   },
   "art/kr013/units/kr_tiger_hunter_a4/model.rgo": {
     "bytes": 283,
@@ -5550,16 +5550,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_tiger_hunter_a4/model.rrgeom": {
-    "bytes": 247358,
-    "sha256": "f2a5cd111bb467575cceb03ac72e749b1eed973d261715383c4578037b7370e0",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 152178,
+    "sha256": "244a2c85edb319f5c518b0709e739deb7beed145a2f220cc96a8384d447dc5d1",
+    "origin": "0.3.4 Tiger Hunter sculpted geometry"
   },
   "art/kr013/units/kr_tiger_hunter_a4/model.rrmaterial": {
-    "bytes": 793,
-    "sha256": "46fb059a72d50842031cbb1f8be5c8a96ae7f0565444bd5f272f53c88333bc63",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 768,
+    "sha256": "bc753908fd9bc5651aae776d9f6505dce55c78e582dd699ffc9e33f6ce523265",
+    "origin": "0.3.4 Tiger Hunter native shader bindings"
   },
   "art/kr013/units/kr_trade_cargo_a2/10189129045996453153_packed.rrtex": {
     "bytes": 1836,
@@ -59325,5 +59325,317 @@
     "bytes": 17935,
     "sha256": "4480320d6a67656494eb3ec89cdc8cf4d2de5258c8ca8e2999daafefc67319cf",
     "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr034/weapons/bow_bow_recurve_short/model.rgm": {
+    "toc": "data",
+    "bytes": 7858,
+    "sha256": "5bdb65ef8c1c84e8673fe52c398a13db0ad4802f2d678b8592d71f70954044b3",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/bow_bow_recurve_short/model.rgo": {
+    "toc": "data",
+    "bytes": 236,
+    "sha256": "99dec96966efb77c5eecb768b29f307a8d5983c969475dc1999c273ef8c2d664",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/bow_bow_recurve_short/model.rrgeom": {
+    "toc": "data",
+    "bytes": 30485,
+    "sha256": "4d5f22f6b2799ce0cb1c6976d7ce3f573d86d7201f7d38758a474a59e169d3a6",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/bow_bow_recurve_short/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 5257,
+    "sha256": "a6557f5a6cb73c78ca5d780ded95dea43d6a1e58a01f1da611d8617879d073a1",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/bow_bow_recurve_short/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 605,
+    "sha256": "23455c89288faa18b694d2f638941c5494b9f4827147ac7d547622db714f120c",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/fight_spear_spear_basic/model.rgm": {
+    "toc": "data",
+    "bytes": 3261,
+    "sha256": "dd0e7130dfd623459cc4114c2721df080fbfeaafa7b340a79409fb8b27d956f1",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/fight_spear_spear_basic/model.rgo": {
+    "toc": "data",
+    "bytes": 699,
+    "sha256": "aa99563690db232fe96bf9e3a6ac2177febe8500d9f568ac7f8f7ec4f419f427",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/fight_spear_spear_basic/model.rrgeom": {
+    "toc": "data",
+    "bytes": 17131,
+    "sha256": "d1a173c3e5aac836fc90430f5d681dbd4cc76f929094d95c10bb30923308f697",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/fight_spear_spear_basic/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 3579,
+    "sha256": "0c2544225a9dee5876c80a4e084bf80e5dcf8b00ca45b9bcf207d3a6d7b7dad4",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/fight_spear_spear_basic/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 593,
+    "sha256": "b5e3b963b6e414c05e1672985e7d7a8e49a90861d2428d2c5a782fa49416b999",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/charge_spear_spear_cavalry_charge/model.rgm": {
+    "toc": "data",
+    "bytes": 3145,
+    "sha256": "8ecd11595fc24831b7dc7706a4eb4a8c43946a336ee1e02289fdd93e68aef595",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/charge_spear_spear_cavalry_charge/model.rrgeom": {
+    "toc": "data",
+    "bytes": 17131,
+    "sha256": "e8f8d32bfe7fc9eec262ecece5d512f80e882c7d443d7cd96dd2517f5f288763",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/charge_spear_spear_cavalry_charge/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 3589,
+    "sha256": "aa4bdc9cbd25fb8288ac0f79ba4bab374c5def3493af4a589529ee99f7c53b12",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/charge_spear_spear_cavalry_charge/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 603,
+    "sha256": "e6d6c5972ef89dea037c37779f67db0f1dc4a7aa398ac3cdea945252a3afdf72",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/bow_bow_recurve/model.rgm": {
+    "toc": "data",
+    "bytes": 7778,
+    "sha256": "f536c83c3b6d5827d778f66825bef507bba37af451a724b008ea5eba55bad70c",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/bow_bow_recurve/model.rgo": {
+    "toc": "data",
+    "bytes": 271,
+    "sha256": "77aa4d92f83ea5828d0ef19f47d0f323b6652757b2e14252388182b9f429b708",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/bow_bow_recurve/model.rrgeom": {
+    "toc": "data",
+    "bytes": 27007,
+    "sha256": "c9483b987db8b2fdda9c555fa8a2efebd6abcf5fd69a8d9b68e11b38ae1d737a",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/bow_bow_recurve/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 4743,
+    "sha256": "bd239eccf2e78bd035494db358de7df461cca6c5935606d4a7a0782fd610ec5b",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/bow_bow_recurve/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 589,
+    "sha256": "467ac51921879db157016b6bf872bbf2b13505a566dfe99653db876a2d36c2f5",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/bow_bow_recurve_gold/model.rgm": {
+    "toc": "data",
+    "bytes": 7783,
+    "sha256": "0d811c8858331db56e184bafdacd4a3f96592a0f930b1de948b1e4e4d871b1db",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/bow_bow_recurve_gold/model.rgo": {
+    "toc": "data",
+    "bytes": 236,
+    "sha256": "99dec96966efb77c5eecb768b29f307a8d5983c969475dc1999c273ef8c2d664",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/bow_bow_recurve_gold/model.rrgeom": {
+    "toc": "data",
+    "bytes": 27007,
+    "sha256": "c9483b987db8b2fdda9c555fa8a2efebd6abcf5fd69a8d9b68e11b38ae1d737a",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/bow_bow_recurve_gold/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 4561,
+    "sha256": "6c74f35d9c84e25d42c72e84ebf1da5bcdf2674878f51fe400b58f707ea1b1a2",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/bow_bow_recurve_gold/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 605,
+    "sha256": "3259238e92dde62c21b74acbfc9c31914fbbdbd64b8baa36de43663f8bea5eb0",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/fight_sabre_chi_sword_dao/model.rgm": {
+    "toc": "data",
+    "bytes": 4659,
+    "sha256": "04cabb86618efda0969e7869f0660cee37fd3418670ade7298ea1b48853f0d95",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/fight_sabre_chi_sword_dao/model.rgo": {
+    "toc": "data",
+    "bytes": 236,
+    "sha256": "fe88e3cdb15a9e812086d80ff3a034f9cfa8488d92e96fa918ca72f28c063f9a",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/fight_sabre_chi_sword_dao/model.rrgeom": {
+    "toc": "data",
+    "bytes": 24295,
+    "sha256": "1374b8f89e19a388097604837a200142bcb65c348b7a606a3b39b535a9e402d2",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/fight_sabre_chi_sword_dao/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 3956,
+    "sha256": "d43a23b05cd4fba14898f12c2f77aef0660d595bc83aa79743b356fa61cb0f0e",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/fight_sabre_chi_sword_dao/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 590,
+    "sha256": "8adc79b6bd73e622ae872a8bcd3a7c26343464245240f74406f143855871aca2",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/fight_polearm_jpn_bugeisha_naginata/model.rgm": {
+    "toc": "data",
+    "bytes": 7161,
+    "sha256": "aae6a357908defb06a44f79bfe4533640f1d1a4f7c8b26c172a71c46d20d8a3f",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/fight_polearm_jpn_bugeisha_naginata/model.rgo": {
+    "toc": "data",
+    "bytes": 839,
+    "sha256": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/fight_polearm_jpn_bugeisha_naginata/model.rrgeom": {
+    "toc": "data",
+    "bytes": 26398,
+    "sha256": "c252ff00ae98e88826dd0de5f4f984e3f3103916b3f083aae81715dcf75de670",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/fight_polearm_jpn_bugeisha_naginata/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 9427,
+    "sha256": "61435b9cbbcdc0fff70b5126d5f76daa75aaa9ca547c6e9ca6945730912e1179",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/fight_polearm_jpn_bugeisha_naginata/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 637,
+    "sha256": "8efc9bb5e594046690fba0dbe33bd65df78d3aa77724461c38c45bd60ac368e8",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_1/model.rgm": {
+    "toc": "data",
+    "bytes": 4445,
+    "sha256": "7cc9cc34db3973244df6d2d0a35a9065753f51401f37c13841bcce6dce5ed4b3",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_1/model.rgo": {
+    "toc": "data",
+    "bytes": 839,
+    "sha256": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_1/model.rrgeom": {
+    "toc": "data",
+    "bytes": 27577,
+    "sha256": "f3e23aa0e56bc4e9546b1ccfd865cc07c2a698747663afaf586dac370638921e",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_1/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 3522,
+    "sha256": "3b17bc41c55c5e6e65b4d4c641b2ebfdf8b96170b6ce0c4ffced4f43dae4dd9d",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_1/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 604,
+    "sha256": "b06d85371535126f1032c257c476fb53c31e00122400f063a9279f277631ffd8",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/charge_polearm_jpn_bugeisha_naginata/model.rgm": {
+    "toc": "data",
+    "bytes": 7162,
+    "sha256": "b90f0392754ce780e17b74c2d3ab9f6a7a060b0ae4cd3b637f9e03c2a19ca0b8",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/charge_polearm_jpn_bugeisha_naginata/model.rgo": {
+    "toc": "data",
+    "bytes": 839,
+    "sha256": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/charge_polearm_jpn_bugeisha_naginata/model.rrgeom": {
+    "toc": "data",
+    "bytes": 26398,
+    "sha256": "1cb0d7846a624499c85a2c2388860a03f23a540e6530ab20e8bac481ec1688c6",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/charge_polearm_jpn_bugeisha_naginata/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 9428,
+    "sha256": "30d510385e029a7bab3f502a3d85d4015c6aff88ecdfa5e3947d54f0f63acce9",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/charge_polearm_jpn_bugeisha_naginata/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 638,
+    "sha256": "0a424b1e13b2c8559476d4c430c64cd9657eca292479ca0c2e4f4d99bf98a8f3",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_2/model.rgm": {
+    "toc": "data",
+    "bytes": 7129,
+    "sha256": "b1c6d3d6320aeb82141f6517211dbbcf18c5720e6569fafea63c8558d2294033",
+    "origin": "0.3.4 native donor weapon and exact anchors"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_2/model.rgo": {
+    "toc": "data",
+    "bytes": 839,
+    "sha256": "a301f60faea0466bb66acb786f1adab523305a98e0c66ea5e6a41f0168688eab",
+    "origin": "0.3.4 native weapon state controller"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_2/model.rrgeom": {
+    "toc": "data",
+    "bytes": 32125,
+    "sha256": "f6edd1eceb08c9e5a458f7ff1f8e12b78a6df7566a45473e6c3712381cae47a3",
+    "origin": "0.3.4 reprofiled weapon geometry with donor weights and sockets"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_2/model/albedo.rrtex": {
+    "toc": "data",
+    "bytes": 4626,
+    "sha256": "1309739cdb588a433404033fc380be4079bb7e2d0e24b6cb7652164160e682a4",
+    "origin": "0.3.4 Korean lacquer and metal weapon atlas"
+  },
+  "art/kr034/weapons/charge_lance_chi_axe_guandao_2/model.rrmaterial": {
+    "toc": "data",
+    "bytes": 605,
+    "sha256": "75a3ee481448f685dc9e7e6f6ed3e78cb794f676fc8e2dadb849c409aeb4548a",
+    "origin": "0.3.4 weapon material with stock normals and metalness"
+  },
+  "art/kr013/units/kr_tiger_hunter_a2/6730708733177846523_packed.rrtex": {
+    "toc": "data",
+    "bytes": 2888,
+    "sha256": "44d090c822dfa8e3e998b72c7cdf00ed2159db756a190b7f4b6624a61784e835",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
+  },
+  "art/kr013/units/kr_tiger_hunter_a3/1408140575274322804_packed.rrtex": {
+    "toc": "data",
+    "bytes": 2888,
+    "sha256": "86ca36f205d9915c52c9e897e180f0a8a8e03cfaffcf2993d9bd13f81645541c",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
+  },
+  "art/kr013/units/kr_tiger_hunter_a4/14903135453873311055_packed.rrtex": {
+    "toc": "data",
+    "bytes": 2888,
+    "sha256": "0738e8b72e2dd59dab75292e3fe0f0dfebd4e385ca85187da8d16aa358a5d75d",
+    "origin": "0.3.4 Tiger Hunter shader atlas"
   }
 }

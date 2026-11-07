@@ -288,7 +288,7 @@
                               "key": "animator",
                               "hash": 17798483363192334723,
                               "kind": "CString",
-                              "value": "art\\kr013\\static\\korea_hwarang_sword\\model"
+                              "value": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
                             }
                           ]
                         }
@@ -496,7 +496,7 @@
                               "key": "animator",
                               "hash": 17798483363192334723,
                               "kind": "CString",
-                              "value": "art\\kr013\\static\\korea_hwarang_sword\\model"
+                              "value": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
                             }
                           ]
                         }
@@ -698,7 +698,7 @@
                               "key": "animator",
                               "hash": 17798483363192334723,
                               "kind": "CString",
-                              "value": "art\\kr013\\static\\korea_hwarang_sword\\model"
+                              "value": "art\\civilizations\\common\\weapons\\defense\\shield_buckler\\shield_buckler"
                             }
                           ]
                         }

@@ -58552,6 +58552,216 @@
       "bytes": 30367,
       "sha256": "d8576ee5c9c56fefb3dc387dd06d3fb0661f1bdc923710b73cbe83c523b3d529",
       "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a2/albedo.png",
+      "bytes": 266381,
+      "sha256": "79d21ba0da4317bca6868c09f5850b43b295ceea06d7111e62bcb49a99a5ace4",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a2/kr_tiger_hunter_a2.blend",
+      "bytes": 241052,
+      "sha256": "f672f7305adff7c7346924dca5727feca26957ace01ab684e810dd3a2fed07c2",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a2/metalness.png",
+      "bytes": 2373,
+      "sha256": "8d3bc8f4c46f171bb8d32d2d1a94498b46b1167a3cdfc1fdf258d72bb3154315",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a2/normal.png",
+      "bytes": 2200,
+      "sha256": "578a5ff2d77e219bae4f4e6dd5295fd5954c37a5e1fa8797e7363d83509499ba",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a2/pattern.png",
+      "bytes": 5717,
+      "sha256": "085045c6d44ff83a7eff5158baebd017877e4f4aa75a00255715aa4a30ebdee9",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a3/albedo.png",
+      "bytes": 266381,
+      "sha256": "79d21ba0da4317bca6868c09f5850b43b295ceea06d7111e62bcb49a99a5ace4",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a3/kr_tiger_hunter_a3.blend",
+      "bytes": 248116,
+      "sha256": "517c3b6d8e5c850c24ff3c67b44156fc72a5f281f46e8ea11ee3c679db9d16a1",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a3/metalness.png",
+      "bytes": 2373,
+      "sha256": "8d3bc8f4c46f171bb8d32d2d1a94498b46b1167a3cdfc1fdf258d72bb3154315",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a3/normal.png",
+      "bytes": 2200,
+      "sha256": "578a5ff2d77e219bae4f4e6dd5295fd5954c37a5e1fa8797e7363d83509499ba",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a3/pattern.png",
+      "bytes": 5717,
+      "sha256": "085045c6d44ff83a7eff5158baebd017877e4f4aa75a00255715aa4a30ebdee9",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a4/albedo.png",
+      "bytes": 268914,
+      "sha256": "5b7893d29a83078fd3b36685858cc4a9a81911338311093c7714ece470317885",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a4/kr_tiger_hunter_a4.blend",
+      "bytes": 262600,
+      "sha256": "1e42dd787f83e2ccc5d1ac8bca0a4bcb07e1a7c90b8f353cfd7f0d5306b02645",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a4/metalness.png",
+      "bytes": 2373,
+      "sha256": "8d3bc8f4c46f171bb8d32d2d1a94498b46b1167a3cdfc1fdf258d72bb3154315",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a4/normal.png",
+      "bytes": 2200,
+      "sha256": "578a5ff2d77e219bae4f4e6dd5295fd5954c37a5e1fa8797e7363d83509499ba",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/kr_tiger_hunter_a4/pattern.png",
+      "bytes": 6753,
+      "sha256": "c1f13d2ce89412de5ded369bb6e0e14ac731200a731e44419be660ba80bf21af",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/bow_bow_recurve/albedo.png",
+      "bytes": 8449,
+      "sha256": "f52f86308d50be64225de44a8062ab1a0c5203fd5a30412b080f967405c2218f",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/bow_bow_recurve/recipe.json",
+      "bytes": 848,
+      "sha256": "a0d071810030aed1ad1de719822be9e51ec573078da86d8ccc59c5ff609251be",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/bow_bow_recurve_gold/albedo.png",
+      "bytes": 8300,
+      "sha256": "30943fe030d6b13fe9ed830be141b33ca3e7df21995942c02a4fcb77b4b28d44",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/bow_bow_recurve_gold/recipe.json",
+      "bytes": 868,
+      "sha256": "bacffe5e0077d53dd6084be154fb260acc29ca411e435ec1c6f39b7fe9ca2aae",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/bow_bow_recurve_short/albedo.png",
+      "bytes": 10166,
+      "sha256": "d6df8a942ae182be9e563a911fb8f15ac5ccd45aaf1c08d6de78e2f5ee46b361",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/bow_bow_recurve_short/recipe.json",
+      "bytes": 872,
+      "sha256": "c70d271c4c5588d0a7ae96ba969caacf942a64ef1abd32d95879c191c1d67300",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/charge_lance_chi_axe_guandao_1/albedo.png",
+      "bytes": 5840,
+      "sha256": "b162457383a01ae6fe208a6663ec41d817a3a59e0a78b89abee895fae3295c1e",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/charge_lance_chi_axe_guandao_1/recipe.json",
+      "bytes": 877,
+      "sha256": "036bb14cd5f9f72b638d16c8ec4678b8af316ce21e6ed1ae73e78a07215e88f4",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/charge_lance_chi_axe_guandao_2/albedo.png",
+      "bytes": 8287,
+      "sha256": "3746bb9745acdca52027a4701f52c6a6f68efa961206d325760a7c090d4691f8",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/charge_lance_chi_axe_guandao_2/recipe.json",
+      "bytes": 880,
+      "sha256": "f4282c8e90e69b26664772021774b79919bca852df991c95f8689ce03acb3e31",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/charge_polearm_jpn_bugeisha_naginata/albedo.png",
+      "bytes": 17699,
+      "sha256": "898ae46b5bd5f1dd26e21e241d94926d43a46c548f94afc81fca35fb3521fe83",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/charge_polearm_jpn_bugeisha_naginata/recipe.json",
+      "bytes": 897,
+      "sha256": "31c2c639cba8808ba894c67b8556d68643bd72fcf4c9cd41158ec49f036cf329",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/charge_spear_spear_cavalry_charge/albedo.png",
+      "bytes": 4646,
+      "sha256": "4dc7d607a3dcaada792d20fec97f6af97863de1091a774c8cbf32997431e4daa",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/charge_spear_spear_cavalry_charge/recipe.json",
+      "bytes": 808,
+      "sha256": "e805963d148cde9eaa88a608b6ecac7d500c8d88419fb1104bbf6ed5fc837e3b",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/fight_polearm_jpn_bugeisha_naginata/albedo.png",
+      "bytes": 17699,
+      "sha256": "898ae46b5bd5f1dd26e21e241d94926d43a46c548f94afc81fca35fb3521fe83",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/fight_polearm_jpn_bugeisha_naginata/recipe.json",
+      "bytes": 895,
+      "sha256": "56b81cf4156290caf99776e6aaa75ad4aebcf46c98feccee86c0dc23adc46ff6",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/fight_sabre_chi_sword_dao/albedo.png",
+      "bytes": 6886,
+      "sha256": "b6a95b8c19c2a86c05c2b7d0ff2609fa1b7a08d3cc841733c917874a73915d06",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/fight_sabre_chi_sword_dao/recipe.json",
+      "bytes": 857,
+      "sha256": "0818620c15cb96b1eb9c068673156e45a9b3ebedc394c8f3401c8a6e0701613e",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/fight_spear_spear_basic/albedo.png",
+      "bytes": 4646,
+      "sha256": "4dc7d607a3dcaada792d20fec97f6af97863de1091a774c8cbf32997431e4daa",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art034/weapons/fight_spear_spear_basic/recipe.json",
+      "bytes": 859,
+      "sha256": "bf1e25bf913059631e746ee8a304d12100a64a3482fb0e6e99a8c15b4c864cd1",
+      "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
     }
   ],
   "audio": "Vietnam shipped Ogg clips are editable whole files under inputs/native/audio, not duplicated in authoring. Original WAV or voice-generation environments are not in the accepted combined GitHub snapshot.",

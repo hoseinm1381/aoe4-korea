@@ -1,0 +1,19 @@
+{
+  "donor": "art/civilizations/common/weapons/melee/spear_basic/spear_basic",
+  "private": "art/kr034/weapons/fight_spear_spear_basic/model",
+  "style": "fight_spear",
+  "donor_hashes": {
+    ".rgo": "aa99563690db232fe96bf9e3a6ac2177febe8500d9f568ac7f8f7ec4f419f427",
+    ".rgm": "92c486d7d418429280dae4619bc7a77482ac9123bfa3d1c97b6ac2bc71c3fe55",
+    ".rrgeom": "21350bb7e57567aa7a8842562062f006106d905e6526c3888aea13321e1996de",
+    ".rrmaterial": "7b58f6e41eea8b355bc0d48427b49ec8ce43dbc88f6c2147ce63b979922dd3f1"
+  },
+  "painted_atlas_source": "art/civilizations/common/weapons/melee/spear_basic/9855900918392311187_packed.rrtex",
+  "painted_atlas_source_hash": "d37f79fdaa32bbfa13aad4a8cdd09813a9460b12dbefaafc222fabd4a3a67583",
+  "reprofiled_vertices": [
+    18,
+    6,
+    6
+  ],
+  "exact_native_marker_skin_and_controller": true
+}
