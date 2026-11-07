@@ -1,3 +1,22 @@
+# Korea 0.3.3
+
+Rebuilt Horsemen, Knights and Mounted Hwarang, including their horses and all three distances of detail. The editable Blender masters and shader atlases are in `authoring/art033`. See [the cavalry build and verification](docs/UPDATE_033.md) and GitHub Releases for the player ZIP.
+
+---
+
+# Korea 0.3.2
+
+Local Garrison ZIP: `release/Koreans-Garrison-0.3.2.zip`. Restores the 0.3.0 landmark model controllers and increases dynamic player colour on the nine unique buildings. See [0.3.2 verification](docs/UPDATE_032.md).
+
+---
+
+
+# Korea 0.3.1
+
+Local Garrison ZIP: `release/Koreans-Garrison-0.3.1.zip`. Restores subtle owner-colour strips, the six Korean landmarks’ native repair visuals, and Palace barrage cleanup. The Palace’s owner Delete command is removed. See [0.3.1 verification and test steps](docs/UPDATE_031.md).
+
+---
+
 # Korea 0.3.0
 
 Korean units now have a five-second reply cooldown per unit and task. A different task can reply as soon as the current line finishes. Rapid orders leave at most one pending reply for the selected squad.

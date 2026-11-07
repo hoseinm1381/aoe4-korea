@@ -79,7 +79,16 @@ function KoreaEffects_Transform(context, player, toArcher)
     end
 end
 
+local function cancelBarrageModifiers(record)
+    for _, handle in ipairs(record.handles) do Korea_RemoveModifier(handle) end
+    record.handles = {}
+end
+
 function KoreaEffects_Kill(context)
+    if context.victim ~= nil then
+        local record = KoreaState.barrages[Entity_GetID(context.victim)]
+        if record and record.repairable then record.interrupted = true end
+    end
     if context.killer == nil or context.victim == nil or context.killer == context.victim
         or not Korea_Alive(context.killer) or World_OwnsEntity(context.killer) then return end
     local player = Korea_Player(Entity_GetPlayerOwner(context.killer))
@@ -101,6 +110,7 @@ function KoreaEffects_Barrage(context, player, keep)
     local entity = context.executer
     if not Korea_Alive(entity) or context.target == nil
         or Entity_GetPlayerOwner(entity) ~= player.id then return end
+    if keep and not Korea_Functioning(entity) then return end
     local id = Entity_GetID(entity)
     if KoreaState.barrages[id] then return end
     local weapon = Korea_BP("weapon", keep and "weapon_barrage_initial_explosive" or "weapon_acre_barrage_dot_abb")
@@ -127,7 +137,9 @@ function KoreaEffects_Barrage(context, player, keep)
         if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.squad_attack.after",nil) end -- KOREA024_DIAGNOSTIC
         SGroup_Destroy(group)
     end
-    KoreaState.barrages[id] = {id = id, player = player, keep = keep, handles = handles,
+    local repairable = keep and Entity_GetBlueprint(entity) ==
+        Korea_BP("ebps", "building_landmark_age3_temple_of_the_sun_control_chi_ha_01")
+    KoreaState.barrages[id] = {id = id, player = player, keep = keep, handles = handles, repairable = repairable,
         stopAt = World_GetGameTime() + (keep and 6 or 7), expires = World_GetGameTime() + 7}
 end
 
@@ -201,6 +213,16 @@ function KoreaEffects_Tick(player, now)
     end
 end
 
+function KoreaEffects_ClearRepairedBarrage(entity)
+    local id = Entity_GetID(entity)
+    local record = KoreaState.barrages[id]
+    if not record or not record.interrupted or not Korea_Functioning(entity) then return end
+    cancelBarrageModifiers(record)
+    record.stopped = false
+    stopBarrage(entity, record)
+    KoreaState.barrages[id] = nil
+end
+
 function KoreaEffects_Timers(now)
     for id, record in pairs(KoreaState.debuffs) do
         if now >= record.expires or Korea_Entity(id) == nil then KoreaState.debuffs[id] = nil end
@@ -216,9 +238,18 @@ function KoreaEffects_Timers(now)
         local alive = Korea_Alive(entity)
         local lost = alive and Entity_GetPlayerOwner(entity) ~= record.player.id
         local ruined = alive and record.keep and not Korea_Functioning(entity)
-        if not alive or lost or ruined or now >= record.expires then
-            if alive then stopBarrage(entity, record) end
-            for _, handle in ipairs(record.handles) do Korea_RemoveModifier(handle) end
+        if record.repairable and entity ~= nil and not lost
+            and (record.interrupted or not alive or ruined) then
+            record.interrupted = true
+            cancelBarrageModifiers(record)
+            -- A Palace ruin can retain its entity ID. Wait until native repair
+            -- makes it active again before inspecting or stopping its command.
+            if alive and not ruined then
+                KoreaEffects_ClearRepairedBarrage(entity)
+            end
+        elseif not alive or lost or ruined or now >= record.expires then
+            if alive and not lost and not ruined then stopBarrage(entity, record) end
+            cancelBarrageModifiers(record)
             KoreaState.barrages[id] = nil
         elseif now >= record.stopAt then
             stopBarrage(entity, record)

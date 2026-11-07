@@ -2067,7 +2067,7 @@
     "bytes": 696,
     "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
     "toc": "data",
-    "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
+    "change": "Exact working 0.3.0 landmark controller"
   },
   "art/kr013/static/bulguksa_temple/model.rrgeom": {
     "bytes": 11191099,
@@ -2091,7 +2091,7 @@
     "bytes": 696,
     "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
     "toc": "data",
-    "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
+    "change": "Exact working 0.3.0 landmark controller"
   },
   "art/kr013/static/gate_of_reverence/model.rrgeom": {
     "bytes": 7400551,
@@ -2115,7 +2115,7 @@
     "bytes": 696,
     "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
     "toc": "data",
-    "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
+    "change": "Exact working 0.3.0 landmark controller"
   },
   "art/kr013/static/gyeongbok_palace/model.rrgeom": {
     "bytes": 7619531,
@@ -2139,7 +2139,7 @@
     "bytes": 696,
     "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
     "toc": "data",
-    "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
+    "change": "Exact working 0.3.0 landmark controller"
   },
   "art/kr013/static/hall_of_worthies/model.rrgeom": {
     "bytes": 6470199,
@@ -2859,7 +2859,7 @@
     "bytes": 696,
     "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
     "toc": "data",
-    "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
+    "change": "Exact working 0.3.0 landmark controller"
   },
   "art/kr013/static/seon_deok_observatory/model.rrgeom": {
     "bytes": 3611711,
@@ -2907,7 +2907,7 @@
     "bytes": 696,
     "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
     "toc": "data",
-    "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
+    "change": "Exact working 0.3.0 landmark controller"
   },
   "art/kr013/static/stone_pagoda/model.rrgeom": {
     "bytes": 1034539,
@@ -3306,10 +3306,10 @@
     "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
   },
   "art/kr013/units/kr_horseman_a2/13643088687931431206_packed.rrtex": {
-    "bytes": 347,
-    "sha256": "b9601b5fc0faab00045badb9ace6239d1c5504e27a871e8edb9f4d916a183377",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 119380,
+    "sha256": "d2552cc7f51b172f2d08fab66540bad321adb9db4303b4bbe17f4c13a2c65eb3",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a2/16522764935406422432_packed.rrtex": {
     "bytes": 3022,
@@ -3318,22 +3318,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_horseman_a2/3713118719154229890_packed.rrtex": {
-    "bytes": 1833,
-    "sha256": "b10b17be37ff187e0aeecd22e171ae09a6e78a693508b10b2d962f134538fb48",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 14905,
+    "sha256": "efc35a087a0f0431c71f405a5638ebff358c686ef273124fab8a5d3e9ce4fa2b",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a2/albedo.rrtex": {
-    "bytes": 100955,
-    "sha256": "68ed80819ebd7b6222bdd6c7e794752a9019e1468f62666bb7590f76bc777588",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 92039,
+    "sha256": "62073ce9e1d036acb2a0832f052948b7e53443afcca293669372eae8d976e086",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a2/model.rgm": {
-    "bytes": 47287,
-    "sha256": "7ba264989b0ed9aef7f4dd1a6f3d768891260f2fd4cd2bfab62b2bfbec8e41d5",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 41161,
+    "sha256": "e0e398b4bfed1d031045a6ff197ce66e2456f279dec617f864edbe3f8293851d",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a2/model.rgo": {
     "bytes": 283,
@@ -3342,22 +3342,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_horseman_a2/model.rrgeom": {
-    "bytes": 223492,
-    "sha256": "509f0184b0fbb312d7ff26749c35a3b534809d97acb35a9dda506afbfa166ba6",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 82362,
+    "sha256": "405306e9875bf4a7af18d2d4e5f5359508e3665a30d3af5e6b5199001d272f73",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a2/model.rrmaterial": {
-    "bytes": 784,
-    "sha256": "4681d2383a524c0940b653269c64ccca8909eb544f2d0d5df861b018f731b275",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 742,
+    "sha256": "b3a94b747333db26729296a27d5df2ddb3a0b77dd1ac0779d1b8f46698b439fa",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a3/10259222398071942007_packed.rrtex": {
-    "bytes": 347,
-    "sha256": "ad260f5f0a3f4a5e601b0b5e151e2924dbd6aa27a78cad864cac8069bc29b9a4",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 129815,
+    "sha256": "86245690453dd35c5d02e17c8c6b41f13e4347f1b11e3657a21da1c45eff8800",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a3/11859332840035465085_packed.rrtex": {
     "bytes": 3022,
@@ -3366,22 +3366,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_horseman_a3/17160778234455554862_packed.rrtex": {
-    "bytes": 1833,
-    "sha256": "3e751e831f40e5153f77fafcc0e2f9ee75426ec1e7cc0acfb5f2c7c4aac64a90",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 25237,
+    "sha256": "062ae17c007f62d54a03eebd8ab07b13d77f1bef1e88e011b4a06b2820ee7643",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a3/albedo.rrtex": {
-    "bytes": 111909,
-    "sha256": "656311f519014d2039256f0213063ccf237f365ee486cd69e584fae239bd6135",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 103267,
+    "sha256": "fb7d7ed146dded69fb9ca948825c1276b4870b965bd04b1c82beb18f2f497310",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a3/model.rgm": {
-    "bytes": 47155,
-    "sha256": "208a452b38ede040197aedf792a32fa44c2b7955258656fea8dadc44fb602a00",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 39791,
+    "sha256": "a1ce6790377b82c23685c575e0d6801f97365110485b1cafd13787d15894758a",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a3/model.rgo": {
     "bytes": 283,
@@ -3390,22 +3390,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_horseman_a3/model.rrgeom": {
-    "bytes": 228352,
-    "sha256": "b581417259f2a39e4db3693b7c11f15ac065e354067e7009dc395be266047f76",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 84950,
+    "sha256": "ee83ca5860a9fdc9458476bd9e0fc3dd51768cc1cfb541b5039ddffcf64a2ac8",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a3/model.rrmaterial": {
-    "bytes": 784,
-    "sha256": "c8162b1f4cacaba8f929dd49b8cf91e48299cfc95de0ed81cdb42c87069f1a26",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 744,
+    "sha256": "05f3eb1498c091c25887dbb23ea88d382c204599fd64ea2ede25b25120180eff",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a4/14926058597664143753_packed.rrtex": {
-    "bytes": 1833,
-    "sha256": "323b850b0d15d1673bac0273137471a0590af0ec461a6a27c5c5d10f5a5ad75a",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 34732,
+    "sha256": "7e21f127fefe64261efa9af0ebf8ec9c0fc8b0db5a89cad2942402c6b12495e8",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a4/5484784202587606861_packed.rrtex": {
     "bytes": 3022,
@@ -3414,22 +3414,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_horseman_a4/8483091190428121461_packed.rrtex": {
-    "bytes": 347,
-    "sha256": "d51c1f9a9bcfbd9e1859bc9860b8ab45d732a8f1a5d1d5f0945e920d8e3baf4b",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 121369,
+    "sha256": "b66edcc70d6117d37489c9ccd77d1d52992668b3203162caecfc3d35cb1800f4",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a4/albedo.rrtex": {
-    "bytes": 118239,
-    "sha256": "d6477e838ffe3ca6e399cbec8c1a432b2d03112b93fe698694f71387ef60a8e3",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 108209,
+    "sha256": "0ae8b0823ed9825f303b78cd26051283f4ed1cf9cb24e879438e41cca392284d",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a4/model.rgm": {
-    "bytes": 49247,
-    "sha256": "2bf190e097d0a668fc87d1b7a53c70653bafe002b7e5ed1d2d9d11e4125972c1",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 44069,
+    "sha256": "9ebed55c65f4b8a385d1d8a4d34d2b4c002487ba79802cb1bd9fc279d3c6b7b1",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a4/model.rgo": {
     "bytes": 283,
@@ -3438,16 +3438,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_horseman_a4/model.rrgeom": {
-    "bytes": 244530,
-    "sha256": "dce2556a2bc05c987d0c62328e6b38012b0249773654c05a8f6ae7abfd9f18d2",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 95998,
+    "sha256": "2387a0064a368756eef25d51bee8e1753d0257e2a4576634897c514172185426",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_horseman_a4/model.rrmaterial": {
-    "bytes": 784,
-    "sha256": "4305a0337efda5d5b32d22e673d2885da88ec1ef676a4cb36ecda884e84510a9",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 742,
+    "sha256": "c10bf1eca11e7a0016158c92d9b603cfa8a069204ff64723bfb7f2d0050012d3",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_dismounted_a2/15576510663508215580_packed.rrtex": {
     "bytes": 357,
@@ -3594,10 +3594,10 @@
     "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
   },
   "art/kr013/units/kr_hwarang_mounted_a2/11754489781591690312_packed.rrtex": {
-    "bytes": 354,
-    "sha256": "cbdd77e7ac0dda23c17030816531e5e78b2f90207024abb5aa7f9c137a14073c",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 119387,
+    "sha256": "ce61a5620bd59137b8e79b9c0a240d0ae9da44a478294ce6db843485875aefdb",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a2/3723272052224479571_packed.rrtex": {
     "bytes": 3029,
@@ -3606,22 +3606,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_hwarang_mounted_a2/8313285795917972999_packed.rrtex": {
-    "bytes": 1840,
-    "sha256": "a0497f8192e9ab2a8d8ac4efe53b54459112b6624566d29819eadffd57dda77c",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 14912,
+    "sha256": "7aaa1a99c19c3759a12a8b54a0d31b3e6e3ca7055b94ef27bf3eb6b586d7aa1d",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a2/albedo.rrtex": {
-    "bytes": 100819,
-    "sha256": "4b8bd2299a08ec7d9a0d64eb14cb3573063ca6bbf6468f1c9ba5dff7d579591f",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 91699,
+    "sha256": "b103c2226a2ad7f3e4eb73a4e8c94b0b7c5d7b7a06d6bf77d93bcc60b9454634",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a2/model.rgm": {
-    "bytes": 46487,
-    "sha256": "5146a843a92b3a9d416c9b28fd75d79f9dc5c18de20b0e0b48a3e6040719078f",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 42015,
+    "sha256": "cffbedf3b496dff26a433b8f3b482bde8c212b7b8159bef3ac13ab0cd7a05b36",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a2/model.rgo": {
     "bytes": 283,
@@ -3630,16 +3630,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_hwarang_mounted_a2/model.rrgeom": {
-    "bytes": 218014,
-    "sha256": "090d6bedcca376b92cc8018384cdcab1065eb400a1a29b0a5ea889ca1f9c1432",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 87732,
+    "sha256": "c96de555c0dc0d2da0eee4f21aa422f8a6b106676e7aa396a31cbebbb196dd3d",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a2/model.rrmaterial": {
-    "bytes": 791,
-    "sha256": "160d8cae2c0f778d1fb9bcb2140893f4a012e1d6cbb50320af4c09ec4551ebe3",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 777,
+    "sha256": "78b0d44770d5b9d8d1a9cdf61b7208ec0eff9c50dca8d09e06f4f5244cb0d84d",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a3/13389257169152813035_packed.rrtex": {
     "bytes": 3029,
@@ -3648,28 +3648,28 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_hwarang_mounted_a3/13901663376752175919_packed.rrtex": {
-    "bytes": 1840,
-    "sha256": "e62a7761dc798af8f2f6b7350c731a3d7cfc0a67125fbcf6c5603f7b176e050e",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 25244,
+    "sha256": "7f890c92d3742d735b26a2c7ea4001e8c3e5dfaf87ca5357235c57673e1fa887",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a3/17784876166137522385_packed.rrtex": {
-    "bytes": 354,
-    "sha256": "20fbae4da148a2f0006d5be867268970a679fd01613c3c7d253d1ba0154f3623",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 129822,
+    "sha256": "ede3f086c51c5ae46ced816a53b1759bac92b13cdebfc1e399921b10233bf41e",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a3/albedo.rrtex": {
-    "bytes": 111751,
-    "sha256": "bc3847d205c97a79f32e39d6cabeb9973fd1f01f446e11b0e6e897281d6de1bf",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 103045,
+    "sha256": "334a54abc7f8c164a77ff9d416c1f2cd489a57ce57d7e8ae33f6f46dab4707a2",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a3/model.rgm": {
-    "bytes": 48553,
-    "sha256": "cbe63d8104dc572f0200f949cf35aafcf3aaa2b1087ec4a7028aa1db582668c5",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 40645,
+    "sha256": "fd7c879c52a5fa6a0f3421932e3b2dbd2e1e5b01ed778ea5f6dc3c4958743de2",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a3/model.rgo": {
     "bytes": 283,
@@ -3678,22 +3678,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_hwarang_mounted_a3/model.rrgeom": {
-    "bytes": 229160,
-    "sha256": "c5234300006798ad7fc0b7b70a3b95883c472b102870201804213e40b154ecb0",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 90768,
+    "sha256": "d42782057e18821a8678c0509c0fec89fdec023d091b24939aa4a5fcec874390",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a3/model.rrmaterial": {
-    "bytes": 791,
-    "sha256": "c5af6f7cc188339d768cd16774d3d5a39154c322b5e004bdf061d3b121046cdf",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 777,
+    "sha256": "c63f06ba09f41f45fb363cf736752fcf260fb7d74380faf6e55d931a5a3c17e1",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a4/13279495753738489849_packed.rrtex": {
-    "bytes": 1840,
-    "sha256": "fb650916fb3c520adeb3ba1a64ae5eed490d6ffaeb16cf696c822b438daa2216",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 34739,
+    "sha256": "f911c7ba03609f1f18e995218efa07402869cf638e20cee5539f4cdfc2b45db6",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a4/2453156755378651314_packed.rrtex": {
     "bytes": 3029,
@@ -3702,22 +3702,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_hwarang_mounted_a4/4197887946219778638_packed.rrtex": {
-    "bytes": 354,
-    "sha256": "6b6d740ca55d16cd5c57f2044ae06dd43a8223e9a38bb11126270498d220f20e",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 121376,
+    "sha256": "6694aac62118bef41bd66d68d050ee88e5587f43aef62f98f37bf4d2b5250060",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a4/albedo.rrtex": {
-    "bytes": 118098,
-    "sha256": "1a8f5a207439c51e7d7e43e7d676d47f1849e2a23b2e57ac81586707d7f9f1c0",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 107733,
+    "sha256": "bbe91e2c06d59a02a1f50f492e0ee8d24c2efcd1ea69cddde62d23ea9a5506d7",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a4/model.rgm": {
-    "bytes": 49663,
-    "sha256": "27cb7471acb3997ce725f59cababe45ecd0ab145e72fea10fa16a147548c5692",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 44923,
+    "sha256": "07d1b70cf8653b7924cbd97156689483685293d51a47fc34f06af727beac858b",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a4/model.rgo": {
     "bytes": 283,
@@ -3726,22 +3726,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_hwarang_mounted_a4/model.rrgeom": {
-    "bytes": 246608,
-    "sha256": "97dc20490198b725f6382dd720089f540619e1e986a29d7185b0e95d781a698b",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 101480,
+    "sha256": "93314f9ce1e11c179e599b295fd86039b78d796b352d99c139b479ad10e1ce7a",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_hwarang_mounted_a4/model.rrmaterial": {
-    "bytes": 791,
-    "sha256": "e6b28df62ab4d01ef171fb0c28fddbc8ea4d80dafbbd884e7d784caec8403b3a",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 778,
+    "sha256": "596b223b5a5e10b0714e3455094ae3463515ac529dde13b1815fc878fd51ac4e",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a3/13818257398180875603_packed.rrtex": {
-    "bytes": 345,
-    "sha256": "80133e2f8be5baf4eeba94f6e43a3bb8396ef019a2cc4b30f8db3d5142688eb1",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 103014,
+    "sha256": "8d1468b5e3647d6fd49ae888f1c6099e9c048c3aa02f032af06e2fea0845fa1c",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a3/17462926637696471380_packed.rrtex": {
     "bytes": 3020,
@@ -3750,22 +3750,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_lancer_a3/2240306300169814339_packed.rrtex": {
-    "bytes": 1831,
-    "sha256": "1a324a3c445b65b7af71dceee07f0b21a0b1e388be054d732b0ce2f04ef655bf",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 27307,
+    "sha256": "3688d283a35af90b3b49f5af4e5496835171e4095cee983941bab173e42ef9b3",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a3/albedo.rrtex": {
-    "bytes": 114063,
-    "sha256": "b3a5c9747a71d5a69472f2e0cf1ad6d55b5c191b097db6a0b26658229d01eb8a",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 103047,
+    "sha256": "91068715bafc5349a92a9f02ce07ca6e05fe4d705b839124af5f7fd8fd598a68",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a3/model.rgm": {
-    "bytes": 52695,
-    "sha256": "9c170d04ec04d52a03ff3a3a454595c0226d592cc086d8d1457814702d41f36c",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 46595,
+    "sha256": "8ea1059f278196ce5cce48a50110afae102b86dd307180aedcef8e7f86ecb111",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a3/model.rgo": {
     "bytes": 283,
@@ -3774,28 +3774,28 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_lancer_a3/model.rrgeom": {
-    "bytes": 253102,
-    "sha256": "5283a54ad3970f0918ab7a96bbcfa8fb1b93bbf06957c5676e57abd0c7dd1959",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 101902,
+    "sha256": "74305f00c8be498d793b764c3add7d776cf0f94a87e9bd20c191d4f3d29eab03",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a3/model.rrmaterial": {
-    "bytes": 782,
-    "sha256": "692d67d7ffc037932d3cbe1379d12cc80ca804d64d31767accd39a1facc2b379",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 733,
+    "sha256": "a90d861724b604f541a14ccae4d28cc4752171bbb6f5778581a291aaf5b4b976",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a4/1567744890756720228_packed.rrtex": {
-    "bytes": 1831,
-    "sha256": "8687dcfb5289daa76e6552c235bf935a049e390f512c5e0a095a9bad3338db69",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 37277,
+    "sha256": "861de102e48b639174d2f24b245155555f20755afb98a93b03660d1b81bb99da",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a4/8006916232468430892_packed.rrtex": {
-    "bytes": 345,
-    "sha256": "4517470e224d20615c3cda9267f8597e706c7375bca6089d5a3a2c23cf8ccaf9",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 130469,
+    "sha256": "1f08da53f3fc6eceb0064f6afd6ad43cc792f942fa723e15231c67d4df1f5596",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a4/9946312232340137702_packed.rrtex": {
     "bytes": 3020,
@@ -3804,16 +3804,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_lancer_a4/albedo.rrtex": {
-    "bytes": 110165,
-    "sha256": "b40c395fda21ab84e3054907e2e4b16b8af553b15afc1e61d4732faf7e30c829",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 101149,
+    "sha256": "c99299b1baaf89e0089da7b4f8246388295055aef144d6a91f26a6385f632385",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a4/model.rgm": {
-    "bytes": 48253,
-    "sha256": "5358bdd34252dd86775f3fd963c3b9a884efc91120028bc9bb51550e3f25becc",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 46395,
+    "sha256": "47d76842f510603643ff76b40e3f877c0326564160e2ae0f6dbf0c6a8e08fd3e",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a4/model.rgo": {
     "bytes": 283,
@@ -3822,16 +3822,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_lancer_a4/model.rrgeom": {
-    "bytes": 238396,
-    "sha256": "66dbed3e5fb9d237e9579eef2ba299b9531edd3a21def8bd51861e01ade2c479",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 104216,
+    "sha256": "706c0e90e0a88aeb195fdba9e25a52992727ca0be0bdf8d4f0bf744f24d5c008",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_lancer_a4/model.rrmaterial": {
-    "bytes": 787,
-    "sha256": "62538e7242cbc30e08efc7249825e333112018b5b1b7b918cf512692a49719a3",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 737,
+    "sha256": "532e16f979b0d951a8d12886722bbc40efbd35978c4bfe44a24ab47f54d61d81",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_monk_a3/10476041281339702181_packed.rrtex": {
     "bytes": 1829,
@@ -3930,10 +3930,10 @@
     "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
   },
   "art/kr013/units/kr_mount_horseman_a2/17838851552589917828_packed.rrtex": {
-    "bytes": 1839,
-    "sha256": "661527bd7afd60a32bada55228718a4d068525f63b97635a95a81f4b06249737",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 4374,
+    "sha256": "f1a0b74b6d534e5a9b03114c62b92a1fffc65c7ca8109583e3e38c5d0d3a888c",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a2/2466330151829247230_packed.rrtex": {
     "bytes": 3028,
@@ -3942,22 +3942,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_horseman_a2/3232716700856202485_packed.rrtex": {
-    "bytes": 353,
-    "sha256": "d8785d8ebf4676048b71ffaf5824920b180890d454adb4609dae7762374ff1f4",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 105968,
+    "sha256": "23a978abd28ec4410b10872f376890b56ca900e4110cd3ffeb7eb8b416c5f962",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a2/albedo.rrtex": {
-    "bytes": 108326,
-    "sha256": "a44192c5045fe38508a74a063c17c8415a3ac9d4d0095e51ad88a2a668f67d28",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 99119,
+    "sha256": "a7222b25859609e8c7c1788d15351fbd0a656d2bea77c727f7a460db03804cc6",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a2/model.rgm": {
-    "bytes": 52178,
-    "sha256": "ce8ad72c0ad6ff0c4a3f070a53b23fe4f2b60d6ae015d12e7e69d93c2faf2113",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 49514,
+    "sha256": "5aede92b16611e6c79dda40b9e191ab40a8b1ad913c82fc2512921570512d5cc",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a2/model.rgo": {
     "bytes": 283,
@@ -3966,28 +3966,28 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_horseman_a2/model.rrgeom": {
-    "bytes": 259174,
-    "sha256": "6baacdd5301e01570a08595d88da83a6737b6c39a71668d72b4dc9b0d5ace1c2",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 89642,
+    "sha256": "50fc507bb35fc3bf91f8d73390d8e9604d223fd8f4cfcd338d89e46ceb8ae5a9",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a2/model.rrmaterial": {
-    "bytes": 737,
-    "sha256": "29183a997e47441eb7b7de6797e742f1e39c63dc1a2c93e055a598fa00813c91",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 719,
+    "sha256": "8a4064b3cb17be8c9062412458c8da4dac513ed9fa2ab71c4bfd6ea64f26a81c",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a3/11387647156124421962_packed.rrtex": {
-    "bytes": 353,
-    "sha256": "deb60e0aa256ba4b20268ce3570171350ffd27c567b404c1e6f851c02fcc05d7",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 122829,
+    "sha256": "a38037f21fac501fc8c7763ff8667a4e88dfb0c6075bb91edb7d2bb85ece7561",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a3/13753916981366774182_packed.rrtex": {
-    "bytes": 1839,
-    "sha256": "875c29e445d18549fef51ce329b4263512063212b37c3e05ffceeec5e62602c3",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 13028,
+    "sha256": "804f405bf7329c354ee3372a7cf99694dc07cb274b71877acec6fe3240ec01ea",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a3/2701451282554170773_packed.rrtex": {
     "bytes": 3028,
@@ -3996,16 +3996,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_horseman_a3/albedo.rrtex": {
-    "bytes": 113624,
-    "sha256": "61ad11b25a28e730ef90941de63a3fd30dd7a3eebe8905698396889376a2159b",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 103617,
+    "sha256": "a4347f0d55738f0ac2a0daaed5dc22edbd85c3120b483d40269453775897e8a3",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a3/model.rgm": {
-    "bytes": 57872,
-    "sha256": "e02c980ecc755dd45a84e7c3229b5675c1e88e34908be9cfc349ab293a7cdb53",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 55228,
+    "sha256": "fdab96f7225ab41ce2c65ab45b1ae3079fefbb1a0ee900251537eda6b5a4cffb",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a3/model.rgo": {
     "bytes": 283,
@@ -4014,28 +4014,28 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_horseman_a3/model.rrgeom": {
-    "bytes": 294904,
-    "sha256": "5c098586905394ddf994aa59be29fa54a2128829b247e6a8047f37e335ba9995",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 105912,
+    "sha256": "a4e183c2fc107157c5712fa08fd9e30574ee12b60b1130e3ac0be25e1a740c52",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a3/model.rrmaterial": {
-    "bytes": 737,
-    "sha256": "71e9b1baf02f4d783ffd7c6f1c18bed31fd2ab6d5bb841fb4676b2fb42111288",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 721,
+    "sha256": "d9b2d14ae7b06eb27828f21902fb3c3cb2a2052be78fe9737c3f7433a6743b02",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a4/17481364768779440778_packed.rrtex": {
-    "bytes": 1839,
-    "sha256": "3b3bdcc82d57e303acc809dada17eb49c09a298fefc08dd07809037f516a436a",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 19798,
+    "sha256": "19e37ebd5306cddf9979479611ea21e0265a773a305d6a5c2804156ff6e06135",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a4/17966851223010307464_packed.rrtex": {
-    "bytes": 353,
-    "sha256": "0eb7b3ab4168ce0d6ec6da3e5016162ab02889aac4c23485ae34e6d107b398e3",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 109258,
+    "sha256": "842d2291ee0210f7e8ea9d299762d5e6bcf1780fe77458544f2e2c72ce9f3231",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a4/8928803973914861583_packed.rrtex": {
     "bytes": 3028,
@@ -4044,16 +4044,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_horseman_a4/albedo.rrtex": {
-    "bytes": 112811,
-    "sha256": "b7ed9af1e630ec151368f659ebe0d43e3cf4ffabc8f982c6bcdf2152bcc2c39b",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 98114,
+    "sha256": "b4d484e8488ade889d310b5294025087514821688407a9305fb692044302c415",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a4/model.rgm": {
-    "bytes": 59042,
-    "sha256": "99503d1dcef798ea1b9e916f6428b1df04e6f9524a3d2045db1ee068a065e990",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 56390,
+    "sha256": "67fe2c1a944bbf94b91f9abb531912508f9b6899c7c1628e667ca8a4f954474a",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a4/model.rgo": {
     "bytes": 283,
@@ -4062,22 +4062,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_horseman_a4/model.rrgeom": {
-    "bytes": 309034,
-    "sha256": "fab7bd901bc541773eff02539e7cda720afa187f63cb9fb9f73574a3eac9db3b",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 102906,
+    "sha256": "f6d9a0219f88309122d5687987db062cdc9a693e45789be4877a26bb901b3d2d",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_horseman_a4/model.rrmaterial": {
-    "bytes": 737,
-    "sha256": "dfd1bc75c622ddfb671dc83133c2c2e4be3c8eb8792abcc8b0a7378912358b76",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 719,
+    "sha256": "0b8f6fbd0f97ee29da858c78004bc83aeb7e411680e23692919cca0065917efe",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a2/3987488217737985629_packed.rrtex": {
-    "bytes": 1838,
-    "sha256": "03ec1152579fce9fb6096b26766bcf91f3e46477b291dd69f51375f7230a354d",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 4373,
+    "sha256": "06747114bc9d196cbe71d00892ace60f108e8b381086ee55ade73fcae50c7148",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a2/6813389340266784366_packed.rrtex": {
     "bytes": 3027,
@@ -4086,22 +4086,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_hwarang_a2/9689949303852119974_packed.rrtex": {
-    "bytes": 352,
-    "sha256": "403ced1d855f79b02f21804a14df230f619bff4c4ed4fe69d77291765da40d45",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 105967,
+    "sha256": "8fb00cc6fc61b953c9be273c96a10bbbc2dc4349ca310c30e12834b211af0e09",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a2/albedo.rrtex": {
-    "bytes": 108336,
-    "sha256": "9f4f6c3aa39ebbea42719bc6d1bf615882a73f45344effb0797ff72d3b267cf7",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 94552,
+    "sha256": "0068787f59dc80b85bd68d22152e176e4642023c62a1ee70a905a603956f528b",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a2/model.rgm": {
-    "bytes": 52168,
-    "sha256": "2a19926d4c55209ec37029a9578ade66161ca54c486862575a2b8c0df6f89fd4",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 49504,
+    "sha256": "245de1b3f64e158a05356a3a46ad5486220f3be28697d91c8c15b7b89c289684",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a2/model.rgo": {
     "bytes": 283,
@@ -4110,16 +4110,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_hwarang_a2/model.rrgeom": {
-    "bytes": 259168,
-    "sha256": "db223a40d8502b2a57eec2027db7d1f81ea5165d08124c76c9585921ce6cbbce",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 89636,
+    "sha256": "d50bb573588f53b65050e3fcea00bcb5bdb02e3817bebc3454c55c303c97eb67",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a2/model.rrmaterial": {
-    "bytes": 736,
-    "sha256": "9f4b8b6f5b6c7c8b5e897d060406d78e3b82c929fd3efe956adabc5972d95d7e",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 713,
+    "sha256": "7d69873b81fc2d228055e34ce05e5ea95c2a272d9ad2a9a577f778ff20b4be68",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a3/13052993467857750413_packed.rrtex": {
     "bytes": 3027,
@@ -4128,28 +4128,28 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_hwarang_a3/14880911037053438342_packed.rrtex": {
-    "bytes": 1838,
-    "sha256": "43471e39465b7735784c68de21da0650fb4ba9c06c986b51f38b6c449518deaa",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 13027,
+    "sha256": "c6685276ceb6abc00077eb89e16af325f6b58e9288a4dea1c61bb7fda01d97a5",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a3/9741655403657794988_packed.rrtex": {
-    "bytes": 352,
-    "sha256": "6b26fcb62fa065a80a0d2dc6ed0de10046533c007e30d60671de53ae62cebbf3",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 122828,
+    "sha256": "e213901c1c161b539039f616c2140aa4ff228125f1b5661a713c1749739b2039",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a3/albedo.rrtex": {
-    "bytes": 113640,
-    "sha256": "900adbb4ca373df2711728b15bb8975e814c9fc6d027b67250dd53c579dc8746",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 99011,
+    "sha256": "7ce2ffec39750c98430b433e2bdbbffe910c229d23591294b132c95ff9da9203",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a3/model.rgm": {
-    "bytes": 57862,
-    "sha256": "57ec4904c8273afb8e38bcc7e3146b8a0fd250622fae68a4685353caa001ad06",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 55218,
+    "sha256": "20796bbfb98ab5e6577fd95f298b30765181bddbb3137b19508cb5d505808fd6",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a3/model.rgo": {
     "bytes": 283,
@@ -4158,16 +4158,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_hwarang_a3/model.rrgeom": {
-    "bytes": 294898,
-    "sha256": "5b0593e5fe7a39a6b6b2257f752933c3e59cad3cc8af23fe385acbeead2eb073",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 105906,
+    "sha256": "6fc046ebd3bf784d75f420acc310624e2791a65345c494db14f04706e3dda508",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a3/model.rrmaterial": {
-    "bytes": 736,
-    "sha256": "216e6d28b4f68d6f4823cebd9bcf12358014bf8427baba7ac98b395640a47a9b",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 714,
+    "sha256": "df521e41cd10f2361c78f65d849d8cf71e32972e7f3a874675f9316c964cb2c4",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a4/12807322699210517063_packed.rrtex": {
     "bytes": 3027,
@@ -4176,28 +4176,28 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_hwarang_a4/15459710147337919862_packed.rrtex": {
-    "bytes": 1838,
-    "sha256": "d98df3e391aad9670c5c99244f1e5852bd6a2c8efdb354c56ca4ea46fbf7f917",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 19797,
+    "sha256": "de10b4f49539d431d17039859549fd713233e14548355d4950acf2819052c53e",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a4/6085344704007390677_packed.rrtex": {
-    "bytes": 352,
-    "sha256": "a8cd10a64df61b0bf890c7666e9d21293a5f4cabf02be88af0bb2ed14e24ccaa",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 109257,
+    "sha256": "4d7c0afedcb6e3141912fc6e4aacc6ee9b4b49440b7d907381de9898fd30fa83",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a4/albedo.rrtex": {
-    "bytes": 112844,
-    "sha256": "7a0ddc4e1f995eb4a507bd329e314bb090b1b15911d22c13dc3992d7c242570f",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 96292,
+    "sha256": "6008509d710cd1956a74d697f5fa96bc31e88bfa5341d912dc205454768d87eb",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a4/model.rgm": {
-    "bytes": 59032,
-    "sha256": "977090686683b202d580f63625efe0290c38bef09da531e90fbcf3851113ad08",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 56380,
+    "sha256": "c511c20ff8e0f409c6a5b5649cf17acac9364bfe2ca0da02485aa0692e0814e7",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a4/model.rgo": {
     "bytes": 283,
@@ -4206,28 +4206,28 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_hwarang_a4/model.rrgeom": {
-    "bytes": 309028,
-    "sha256": "6b1074d1d4e422f5f93209da2fd9af9f71a55df8bd7716266f7957d9840268de",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 102900,
+    "sha256": "ffe6ac409e7e41861e8a1d3cadd8e8dad1341c6be6405f6bee1e49610863a4ef",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_hwarang_a4/model.rrmaterial": {
-    "bytes": 736,
-    "sha256": "813706e2e0dc7302a7dcf830eadcb35ad11d8b4d4aaaea857110bdb72d066ae8",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 714,
+    "sha256": "e8b08d650b78eb78df98410c994adaf01fb71904a00e298273c0ce08a567708b",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a3/14748282661883673515_packed.rrtex": {
-    "bytes": 1837,
-    "sha256": "64159707312b41c7e262bbdeaea63b0d76320e3424437ec1cc8277bd3a0950e0",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 14973,
+    "sha256": "94b77a66aabb05d8b78f9fcc4d89b97b812d62c9b48ec002a81c1bca8c0ab29a",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a3/6592304561797652136_packed.rrtex": {
-    "bytes": 351,
-    "sha256": "6b414d87e4708f83c9c252594e38b19b588743b817b6e437211961f55d03a457",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 119184,
+    "sha256": "3d724761224fcf0f7c816a60f6cf4c48edd3d2eb301317c63493e8c6333eafbe",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a3/9558498414886609199_packed.rrtex": {
     "bytes": 3026,
@@ -4236,16 +4236,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_lancer_a3/albedo.rrtex": {
-    "bytes": 114015,
-    "sha256": "cb37b33e317371695d2d1ef05f5c8255ad2f6254f702405818563a488cabd423",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 103569,
+    "sha256": "86bc27f1ac17b82c9b256c70bc1aa4546574b1e1a0a06f454d421d9c3154ba8f",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a3/model.rgm": {
-    "bytes": 61686,
-    "sha256": "f598c353b92a614b04824776aebd873c46061def854c7856e461adfa4c17721e",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 58784,
+    "sha256": "c11d9498ffff841d21fde138190105c71a7f134569c1902097e4906679a61452",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a3/model.rgo": {
     "bytes": 283,
@@ -4254,22 +4254,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_lancer_a3/model.rrgeom": {
-    "bytes": 312858,
-    "sha256": "a97a924700cfad913cf386bb103c2d16cb156cf5815f1767315888a6406d51b1",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 112806,
+    "sha256": "e6cf51950fd3db3392fb0ac57542f170069876fdfab848ecfb5cf17ac454fc22",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a3/model.rrmaterial": {
-    "bytes": 735,
-    "sha256": "2638ca46019c4ab4f31a02f843f40fb5beacd7c3ffc43e6f04538f71fd8c7c8e",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 710,
+    "sha256": "89993ffadd983244e2092aa5c210df0bfb75737497104b760ea50b5b55b4b5b1",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a4/17902027791986216597_packed.rrtex": {
-    "bytes": 351,
-    "sha256": "5ce50c458a7bff8efc625c836ffef06ebbc8e84a62c3617e323764b782d3c687",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 118579,
+    "sha256": "ad4d3e5dcb06d88bc096d3fc44295f5f8a057b9546a4662f4aeaddcd23239ff5",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a4/4609804283832998112_packed.rrtex": {
     "bytes": 3026,
@@ -4278,22 +4278,22 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_lancer_a4/5299501504077440603_packed.rrtex": {
-    "bytes": 1837,
-    "sha256": "efcc70db2991b815c87d4c6a5aafa29f382398c878a15a2d886b19e4a104918f",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 33865,
+    "sha256": "fab34e1fd164936f88d996f82b7f116d689692e6c8018ee745322be30abc4e5b",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a4/albedo.rrtex": {
-    "bytes": 113486,
-    "sha256": "17d62ea61619788eabc4297bb4dbed9a144f0231d09bf5d16c96a9e6628d8131",
     "toc": "data",
-    "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
+    "bytes": 102409,
+    "sha256": "bcff1fc6b1675f2fec9bbbfe89ae2fa600478a042bc2a8f774d6859d769a2d85",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a4/model.rgm": {
-    "bytes": 69320,
-    "sha256": "8afdcf37edf9633144c7fe0e390016b7450defa2fb58a610242f602a974465f9",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 66372,
+    "sha256": "f16983d948520a3a63bdcf52d4a4bb94a93767962a2b9ecd869966bc6a89caa2",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a4/model.rgo": {
     "bytes": 283,
@@ -4302,16 +4302,16 @@
     "change": "Qualified Korean 0.1.3 art, shared textures and private visual stamp"
   },
   "art/kr013/units/kr_mount_lancer_a4/model.rrgeom": {
-    "bytes": 381888,
-    "sha256": "c9bd7eb1c3f331beee4b7b70022cefb8d2533133e61289d02faa3b9a0b271beb",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 127236,
+    "sha256": "25c3f3f9407b38c629ae651e2916c3823841cac6f7482471635b376d208e4aed",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_lancer_a4/model.rrmaterial": {
-    "bytes": 735,
-    "sha256": "586a7dc02df6008469c3ba936454aba5751acf485efbdff8956942bc7a3313c9",
     "toc": "data",
-    "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
+    "bytes": 710,
+    "sha256": "1a77c5c298f5ae17bbd144e7b929c1acec1ca7cf0915a3fb8e9a14702b72176e",
+    "origin": "0.3.3 cavalry CLI cook"
   },
   "art/kr013/units/kr_mount_scout_a1/12186660208196518830_packed.rrtex": {
     "bytes": 3025,
@@ -6378,10 +6378,10 @@
     "change": "Source-only Korea 016 dynamic colour and combined cavalry skin repair"
   },
   "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex": {
-    "bytes": 23069,
-    "sha256": "540c7455f204cb7be3057c0170e3d1db79779cfec3e992944479c743139acbc2",
+    "bytes": 17005,
+    "sha256": "39dda8409c97a8da127ed568e4617271f8ff4b8a847274e04e9af3756e055b77",
     "toc": "data",
-    "change": "0.2.12 verified visual-only Mountain Fortress geometry or Korean unique owner colour"
+    "change": "Wider dynamic player-colour trim across nine unique buildings"
   },
   "art/kr014/patterns/0c28e0759411ab1656f2a2c13bb7de73f1bf506e4b64fdab56c53a7e792527eb.rrtex": {
     "bytes": 381,
@@ -59229,5 +59229,101 @@
     "bytes": 20749,
     "sha256": "199977effbb5491d632ad3e3bb9d0ee664076647ecf4e4f6cef44468c3d8e121",
     "origin": "korea023-approved-higher-quality-from-lossless"
+  },
+  "art/kr013/units/kr_horseman_a2/3624260592817464318_packed.rrtex": {
+    "toc": "data",
+    "bytes": 3548,
+    "sha256": "fda62596f25945fedf0bfdfcc05108e2bc89e65342a97d9a6013dff835d08b8d",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_mount_horseman_a2/1070391359236291206_packed.rrtex": {
+    "toc": "data",
+    "bytes": 7560,
+    "sha256": "48a58946650342f5d5d2aefc9c301e6eb29915319d2f36f398928c020cd18497",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_horseman_a3/14578262651925675144_packed.rrtex": {
+    "toc": "data",
+    "bytes": 37467,
+    "sha256": "251d52dd1a441ac82fb8105a2a15bc385c927d9a99583f47d943a92b4692cfa2",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_mount_horseman_a3/16478470943828817690_packed.rrtex": {
+    "toc": "data",
+    "bytes": 11981,
+    "sha256": "548238c1e21300e56b822ebf45d2567bf39f2ebdc73d0f6660f9c9eb9cf6d0f7",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_horseman_a4/8162517779989741072_packed.rrtex": {
+    "toc": "data",
+    "bytes": 41546,
+    "sha256": "a195c70281320cc7e44a98fc386d4bedd26e716cc718a5af85c5f850afe3768e",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_mount_horseman_a4/900916587378997292_packed.rrtex": {
+    "toc": "data",
+    "bytes": 17936,
+    "sha256": "0f6f66b47ba60704bef46b56c63e8606534887930c93a41a0161c6f55b02953d",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_lancer_a3/16815876538563544951_packed.rrtex": {
+    "toc": "data",
+    "bytes": 39201,
+    "sha256": "02fbd7c32aa4a76d22866087cb6be55b6531d6c8353a189358a5992b186adc41",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_mount_lancer_a3/16294531305800781503_packed.rrtex": {
+    "toc": "data",
+    "bytes": 20066,
+    "sha256": "283e19d2d5b198859bd7ae018704427a33bbe212bb23050b28b61bac477e67bb",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_lancer_a4/13938903372528262361_packed.rrtex": {
+    "toc": "data",
+    "bytes": 34989,
+    "sha256": "95a7d01ae6ccf933e71bf709eda11ea3d99455b311694655292664774227e055",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_mount_lancer_a4/17488919011735807496_packed.rrtex": {
+    "toc": "data",
+    "bytes": 27998,
+    "sha256": "d12b49652589f6418c66937412093d8eee8aa53bf7ca7ad10052b55ef92a5b2b",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_hwarang_mounted_a2/9262967631440232530_packed.rrtex": {
+    "toc": "data",
+    "bytes": 3555,
+    "sha256": "90f1e5758ff54a2626b0f7fac04c85b1cc6757e144efd3c4120e6da473481d55",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_mount_hwarang_a2/4426278722175917830_packed.rrtex": {
+    "toc": "data",
+    "bytes": 7559,
+    "sha256": "1252af6347d80296cd31be168f487ae4c76de9ba47f69fa677c2101974799cc1",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_hwarang_mounted_a3/723200916270578453_packed.rrtex": {
+    "toc": "data",
+    "bytes": 37474,
+    "sha256": "136f8f7bd51b1a2c35020759f699f85bf32f3544bc500a010dc59ed6a48c2bcc",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_mount_hwarang_a3/3420273751442319814_packed.rrtex": {
+    "toc": "data",
+    "bytes": 11980,
+    "sha256": "20dec165727cf0884cd87fc988a86a285ad080cb2f9539a0c9a1470c00f31398",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_hwarang_mounted_a4/16671754572339029011_packed.rrtex": {
+    "toc": "data",
+    "bytes": 41553,
+    "sha256": "c233157d22ade05a2d52ca5e1961c3baafb545f6898516c68ee2fd7153f5c5be",
+    "origin": "0.3.3 cavalry CLI cook"
+  },
+  "art/kr013/units/kr_mount_hwarang_a4/9242249209532612168_packed.rrtex": {
+    "toc": "data",
+    "bytes": 17935,
+    "sha256": "4480320d6a67656494eb3ec89cdc8cf4d2de5258c8ca8e2999daafefc67319cf",
+    "origin": "0.3.3 cavalry CLI cook"
   }
 }

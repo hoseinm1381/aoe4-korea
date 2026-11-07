@@ -1,0 +1,48 @@
+{
+  "donor": "art/civilizations/chinese/structures/wonder_forbidden_palace/chi_wonder_forbidden_palace_control_age04/chi_wonder_forbidden_palace_control_age04.rgo",
+  "donor_sha256": "92237192edbdf39609f81c9e75607acc8705c3c1c7c0c54cdd972bae59286c68",
+  "models": [
+    {
+      "member": "art/kr013/static/bulguksa_temple/model.rgo",
+      "before": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+      "after": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+      "native_lifecycle_actions": 29,
+      "geometry_untouched": true
+    },
+    {
+      "member": "art/kr013/static/gate_of_reverence/model.rgo",
+      "before": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+      "after": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+      "native_lifecycle_actions": 29,
+      "geometry_untouched": true
+    },
+    {
+      "member": "art/kr013/static/gyeongbok_palace/model.rgo",
+      "before": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+      "after": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+      "native_lifecycle_actions": 29,
+      "geometry_untouched": true
+    },
+    {
+      "member": "art/kr013/static/hall_of_worthies/model.rgo",
+      "before": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+      "after": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+      "native_lifecycle_actions": 29,
+      "geometry_untouched": true
+    },
+    {
+      "member": "art/kr013/static/seon_deok_observatory/model.rgo",
+      "before": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+      "after": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+      "native_lifecycle_actions": 29,
+      "geometry_untouched": true
+    },
+    {
+      "member": "art/kr013/static/stone_pagoda/model.rgo",
+      "before": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+      "after": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+      "native_lifecycle_actions": 29,
+      "geometry_untouched": true
+    }
+  ]
+}

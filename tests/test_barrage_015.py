@@ -12,6 +12,7 @@ function Korea_Alive(e) return e~=nil and e.alive end
 function Korea_Entity(id) if id==unit.id then return unit end end
 function Entity_GetPlayerOwner(e) return e.owner end
 function Entity_GetID(e) return e.id end
+function Entity_GetBlueprint(e) return "building_landmark_age3_temple_of_the_sun_control_chi_ha_01" end
 function Entity_GetSquad(e) return e.squad end
 function Entity_GetActiveCommand(e)
     if e.command == nil then error('Entity does not have an active state') end
@@ -74,4 +75,12 @@ class Barrage015(unittest.TestCase):
         c=lua.globals().calls
         self.assertEqual((c.stops,c.removed,c.groups,c.destroyed),(0,2,1,1))
         self.assertTrue(lua.eval('next(KoreaState.barrages)==nil'))
+    def test_ruined_palace_cancels_modifiers_and_clears_order_after_repair(self):
+        lua=self.engine(keep=True)
+        lua.execute("unit.ruined=true; unit.alive=false; KoreaEffects_Kill({victim=unit}); now=2; KoreaEffects_Timers(now)")
+        self.assertTrue(lua.eval("KoreaState.barrages[11].interrupted"))
+        self.assertEqual((lua.globals().calls.stops,lua.globals().calls.removed),(0,2))
+        lua.execute("unit.alive=true; unit.ruined=false; now=8; KoreaEffects_ClearRepairedBarrage(unit); KoreaEffects_Timers(now)")
+        self.assertEqual((lua.globals().calls.stops,lua.globals().calls.removed),(1,2))
+        self.assertTrue(lua.eval("next(KoreaState.barrages)==nil"))
 if __name__=='__main__':unittest.main()

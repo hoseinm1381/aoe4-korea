@@ -25,6 +25,7 @@ function KoreaLifecycle_Constructed(context)
     if not Korea_Alive(context.entity) or World_OwnsEntity(context.entity) then return end
     local player = Korea_Player(Entity_GetPlayerOwner(context.entity))
     if player ~= nil then
+        KoreaEffects_ClearRepairedBarrage(context.entity)
         KoreaEconomy_Register(player, context.entity)
         KoreaLandmarks_Snapshot(player)
     end

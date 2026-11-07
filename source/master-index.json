@@ -1117,8 +1117,8 @@
     {
       "path": "attribute-editor/ebps/korea/kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01.xml",
       "original": "F:\\aoe_4_temp\\New_custom_civilization\\aoe4-korea\\authoring\\attribute-editor\\ebps\\korea\\kr_building_landmark_age3_temple_of_the_sun_control_chi_ha_01.xml",
-      "bytes": 154669,
-      "sha256": "8a17570556f8ff88cdfe9b14eef90aa714ab26d84a8396afb44a51a2a4c8e3c9",
+      "bytes": 154507,
+      "sha256": "1f816a77de00276d61538930bfcb0a0026e8bcb364ba8a07930b17cc9fc71c64",
       "role": "editable original XML reference; native table is current build authority"
     },
     {
@@ -58062,6 +58062,496 @@
       "path": "art0213/unique-owner-mask.png",
       "bytes": 21454,
       "sha256": "401d784869c976188c0e6f1685e33f0b04f0ceadf0e4ad53dcb0ad1803d2fd2d"
+    },
+    {
+      "path": "art031/unique-owner-strips.png",
+      "bytes": 21466,
+      "sha256": "868be4bf0deaf4c2d1c5702e0bf4ceff1988b21067484140e491503431b7a869"
+    },
+    {
+      "path": "art032/unique-owner-strips.png",
+      "bytes": 21526,
+      "sha256": "d6077162a976537714c450902479c341dffc95724f91c7120b9fc2ec5f1afa55"
+    },
+    {
+      "path": "art033/kr_horseman_a2/albedo.png",
+      "bytes": 237269,
+      "sha256": "16b355c49ee77aeb54bb0fac6ddc8b33d2a39609665d8217bceab13e13b57b72",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a2/kr_horseman_a2.blend",
+      "bytes": 213326,
+      "sha256": "2a89e4fe586d6c1cf225c2fb5b50f24c20cdd35f605bd73fe704308d9e4cc439",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a2/metalness.png",
+      "bytes": 197753,
+      "sha256": "2aa276d4c4195962ae8d0ee27ef814c45e2b691ca749fb67e4d2a1431533d358",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a2/normal.png",
+      "bytes": 303296,
+      "sha256": "34128ac0b31fc21ebb60fb543bc653e83fb565887123cf0579def124c0078b8a",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a2/pattern.png",
+      "bytes": 24646,
+      "sha256": "a846e8d0b5bf7c6f6c0b703ce0e1d12a29581b9d4efa3690437770d32efa34d3",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a2/albedo.png",
+      "bytes": 266101,
+      "sha256": "de5d215c0074e00471400d2a7804a33811c096010e744878b36b3814f157599d",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a2/kr_mount_horseman_a2.blend",
+      "bytes": 235357,
+      "sha256": "ff72e719d05da99483c5bbb0b12bed5f272081ce6ee8757e9b5cd9f11f86b42d",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a2/metalness.png",
+      "bytes": 266570,
+      "sha256": "da019b5d9b4780ddc64da58a63454177950bae29f174ff44c425b9fc4efaee7c",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a2/normal.png",
+      "bytes": 329750,
+      "sha256": "96c7e458a3f18d689afca39b3fc91f8b534c75aae2b0e4d4df2176089303d80f",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a2/pattern.png",
+      "bytes": 4470,
+      "sha256": "28ad69f38d4608ec9d29975e9e95322861ed3051cca8bf2a307b3f8eed79c863",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a3/albedo.png",
+      "bytes": 286125,
+      "sha256": "42f59766194747f1767b8e8706426c8cac4eb65dd1bcd1ce4f0c298e6ec2755d",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a3/kr_horseman_a3.blend",
+      "bytes": 211121,
+      "sha256": "aab8c26206d4a4133d6acbfea39b3f308f221ab2c173d970dbb56fa92f8e21be",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a3/metalness.png",
+      "bytes": 239839,
+      "sha256": "339e155e5f083e1d64f85618c6c4041ee391db6e8daf74ae08041503d1b79f43",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a3/normal.png",
+      "bytes": 318892,
+      "sha256": "267e8d900e7bdfd69e910ed61f38e41dfa1e0e80a994b5cdf5089036c1bf43c2",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a3/pattern.png",
+      "bytes": 42076,
+      "sha256": "1947589204cb285777c028b8bff53a6981edb82050c8b24d29e73884dca0f00a",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a3/albedo.png",
+      "bytes": 280885,
+      "sha256": "b5f198f9d850a791c67c538744ff5bfcf7f7c3a754104c14ed60183f933ad03b",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a3/kr_mount_horseman_a3.blend",
+      "bytes": 255000,
+      "sha256": "ec04cf55fc501b3d96d02e0bcfe9c5a04de843d958780a0c2c59a5cd462cd4a3",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a3/metalness.png",
+      "bytes": 269922,
+      "sha256": "7276cd3b428deae54acc484696a626f73b618e843c62a76b1f36d51d7b07827f",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a3/normal.png",
+      "bytes": 350979,
+      "sha256": "47d3bb5fecdad3d0fdde79071809e9c57585e5b1dce88747bd5d28b49136fc76",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a3/pattern.png",
+      "bytes": 17056,
+      "sha256": "e62e34c2dd7806ff0d2a279cbfe43efa77ce3eb249fa296af36167aa7ac45673",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a4/albedo.png",
+      "bytes": 315390,
+      "sha256": "9025458746e3c61bc346b5f2f4d9c0d62ae833c3b957dd919f418dac1925d2c2",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a4/kr_horseman_a4.blend",
+      "bytes": 225919,
+      "sha256": "7bc2cb9c19908078ca48b523c97ac55ffb61173a6853eda9a14ef34e381e44c5",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a4/metalness.png",
+      "bytes": 252296,
+      "sha256": "a853f4aa09016a945e3ba145463900c2e63107e9b431bea8e94faf5560ea087e",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a4/normal.png",
+      "bytes": 334175,
+      "sha256": "5d95bd4e5563fc9ed8f858b211357df244d2c0496f2fb2e0f10b5ec3eace1edb",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_horseman_a4/pattern.png",
+      "bytes": 58395,
+      "sha256": "a15ed4d4b4a9f6326dc384e45f539ec6c8f39586c078b81c9785de7b7db0eef6",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a4/albedo.png",
+      "bytes": 267941,
+      "sha256": "8ea3a385fb6ca34ed2899f8d13ca4c76367dedb33807f847fdc864743e1dac95",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a4/kr_mount_horseman_a4.blend",
+      "bytes": 257900,
+      "sha256": "07f315dcd21eb264bb7e32389d08fb56abd9174acc921f1bfb8ae6e30e2d83a8",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a4/metalness.png",
+      "bytes": 275389,
+      "sha256": "5225b9e0707065a2d1a093ea0f25036e2a9f4c6ded92478e83da59a5502a38db",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a4/normal.png",
+      "bytes": 346263,
+      "sha256": "91e2e2c536c61aec76029d7f60da14c7f428b344b201f4a22090f0c36be4ffe1",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_horseman_a4/pattern.png",
+      "bytes": 30367,
+      "sha256": "d8576ee5c9c56fefb3dc387dd06d3fb0661f1bdc923710b73cbe83c523b3d529",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a3/albedo.png",
+      "bytes": 303178,
+      "sha256": "bd821511fb4c1b46209157c23e0ea502c2174f2adf96f470949fed7351804b20",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a3/kr_lancer_a3.blend",
+      "bytes": 231780,
+      "sha256": "7118bd2193c6edb2a010fb54b51405badaf1d93f348d32f7876efa26103351f8",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a3/metalness.png",
+      "bytes": 273969,
+      "sha256": "d3de894a5ec06d0bb744ba631191829247208db909fb35c796556e79751adc77",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a3/normal.png",
+      "bytes": 318604,
+      "sha256": "da581e245f4b2ddfe9e317d9739edc9b786b4674cd9a44b3ddf5e145cd9ca501",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a3/pattern.png",
+      "bytes": 40924,
+      "sha256": "6115bc73f4fe928a50fa5054486c57e248aef1177758b65c69802e7f5b878e09",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a3/albedo.png",
+      "bytes": 296250,
+      "sha256": "74c765d02c4e08b88823c2936525ea4ccdcce8a86018cb00f3f0435953a263f3",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a3/kr_mount_lancer_a3.blend",
+      "bytes": 261691,
+      "sha256": "3301cf650ca1951cf48bea55414618eda36cf1873ed81165ef13df9344ad95de",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a3/metalness.png",
+      "bytes": 306776,
+      "sha256": "2ccbf9744160be6fd062607f58b8b93714cc17dd748c6c4fc36561429ede8112",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a3/normal.png",
+      "bytes": 349582,
+      "sha256": "2ad9aed6c82b588c7febfea7d9298dd67782418332a5a788d2903815b16aaf1f",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a3/pattern.png",
+      "bytes": 20243,
+      "sha256": "d1f2a152f36ec52cbf5db78d15d8d34c6144438a65ce93e54a00a94cd153ba2b",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a4/albedo.png",
+      "bytes": 292572,
+      "sha256": "213533fece3c39d912de84b761d38fa1effda488ec77f1315394a376494242e2",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a4/kr_lancer_a4.blend",
+      "bytes": 230891,
+      "sha256": "fd002a681afacbc9d69751296f1fc912cbf701dcd1c61e876849265a67e39537",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a4/metalness.png",
+      "bytes": 238023,
+      "sha256": "792b33cd804cf28dd9eebdc94fd00b69982df91d3fbb997e290e8b64976ebd82",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a4/normal.png",
+      "bytes": 348430,
+      "sha256": "fee8b5f04f0949b826dfed618e81f1a2ba08846afcd6c4f4cdba0f8967b72a9e",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_lancer_a4/pattern.png",
+      "bytes": 60646,
+      "sha256": "eee72c69b690de212e9bd342dab093c4e282552ecc0f76db2eb52290776dd1ca",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a4/albedo.png",
+      "bytes": 311589,
+      "sha256": "00a8828dc06f5b87736bf62da86b004b60edfb59b8b685a21b0ab3b440e715fe",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a4/kr_mount_lancer_a4.blend",
+      "bytes": 287309,
+      "sha256": "75e76c6450b8d04cb22ea584fe149143e9f57e9034c79a9040d6abe9a789d7a2",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a4/metalness.png",
+      "bytes": 295849,
+      "sha256": "2222138a056d68eace9bbab8098fcd2811b968720fd8390f442d0634c9e18bf2",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a4/normal.png",
+      "bytes": 359045,
+      "sha256": "6069eb0f39a0b5b171ebbe9527f29fb3c7b40cd7d84f0db28340c7d32fc40e7d",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_lancer_a4/pattern.png",
+      "bytes": 57401,
+      "sha256": "ba1eea98a070ab0e0bf2d13085a1b7611c88ab7c62cfbf1c06aad48f958c5ca2",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a2/albedo.png",
+      "bytes": 237008,
+      "sha256": "947c35390d73578eea6577182f339c810651a40a8b779ce4a0e54f9db8c88cf6",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a2/kr_hwarang_mounted_a2.blend",
+      "bytes": 215576,
+      "sha256": "ced74fae80a1fcf630b22e6adb890a66352d4337c80c2ba4f17b5c495d307497",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a2/metalness.png",
+      "bytes": 197753,
+      "sha256": "2aa276d4c4195962ae8d0ee27ef814c45e2b691ca749fb67e4d2a1431533d358",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a2/normal.png",
+      "bytes": 303296,
+      "sha256": "34128ac0b31fc21ebb60fb543bc653e83fb565887123cf0579def124c0078b8a",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a2/pattern.png",
+      "bytes": 24646,
+      "sha256": "a846e8d0b5bf7c6f6c0b703ce0e1d12a29581b9d4efa3690437770d32efa34d3",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a2/albedo.png",
+      "bytes": 248852,
+      "sha256": "f6be6e346b623b35d242fb84096d9c62eb01d33b24497cc30e4e979301ccad76",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a2/kr_mount_hwarang_a2.blend",
+      "bytes": 235711,
+      "sha256": "8191fca5de2c0f889925d79c30d26d2a7f29e9544c1eda5e09f1c68a9bc606b7",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a2/metalness.png",
+      "bytes": 266570,
+      "sha256": "da019b5d9b4780ddc64da58a63454177950bae29f174ff44c425b9fc4efaee7c",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a2/normal.png",
+      "bytes": 329750,
+      "sha256": "96c7e458a3f18d689afca39b3fc91f8b534c75aae2b0e4d4df2176089303d80f",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a2/pattern.png",
+      "bytes": 4470,
+      "sha256": "28ad69f38d4608ec9d29975e9e95322861ed3051cca8bf2a307b3f8eed79c863",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a3/albedo.png",
+      "bytes": 285730,
+      "sha256": "76e0eeb91644b68866b63a93f56e941d64614ce86453d6e022922d222746ecb8",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a3/kr_hwarang_mounted_a3.blend",
+      "bytes": 212933,
+      "sha256": "ee0ddccac9fab2e0ebef396dd0484c3f489c5ffdcf0a7d94313b8d470935566f",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a3/metalness.png",
+      "bytes": 239839,
+      "sha256": "339e155e5f083e1d64f85618c6c4041ee391db6e8daf74ae08041503d1b79f43",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a3/normal.png",
+      "bytes": 318892,
+      "sha256": "267e8d900e7bdfd69e910ed61f38e41dfa1e0e80a994b5cdf5089036c1bf43c2",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a3/pattern.png",
+      "bytes": 42076,
+      "sha256": "1947589204cb285777c028b8bff53a6981edb82050c8b24d29e73884dca0f00a",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a3/albedo.png",
+      "bytes": 261291,
+      "sha256": "fb2a3868c039d49b77e47950436efe7145915e486969493adba9cc01087f5216",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a3/kr_mount_hwarang_a3.blend",
+      "bytes": 253518,
+      "sha256": "2c81e7f3a3305745272ba3c115946bc2ce9c2f3459f3baf60f9239854b4918a9",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a3/metalness.png",
+      "bytes": 269922,
+      "sha256": "7276cd3b428deae54acc484696a626f73b618e843c62a76b1f36d51d7b07827f",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a3/normal.png",
+      "bytes": 350979,
+      "sha256": "47d3bb5fecdad3d0fdde79071809e9c57585e5b1dce88747bd5d28b49136fc76",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a3/pattern.png",
+      "bytes": 17056,
+      "sha256": "e62e34c2dd7806ff0d2a279cbfe43efa77ce3eb249fa296af36167aa7ac45673",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a4/albedo.png",
+      "bytes": 314109,
+      "sha256": "837e25dff171720b0a2242a481cd6c1a99555ae6ba7107bfed40231f76004e44",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a4/kr_hwarang_mounted_a4.blend",
+      "bytes": 226231,
+      "sha256": "9d85b2d73a26fe74f4c722ec9346fa5237c793efdc30d17a30dceb3c5f2c3b8d",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a4/metalness.png",
+      "bytes": 252296,
+      "sha256": "a853f4aa09016a945e3ba145463900c2e63107e9b431bea8e94faf5560ea087e",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a4/normal.png",
+      "bytes": 334175,
+      "sha256": "5d95bd4e5563fc9ed8f858b211357df244d2c0496f2fb2e0f10b5ec3eace1edb",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_hwarang_mounted_a4/pattern.png",
+      "bytes": 58395,
+      "sha256": "a15ed4d4b4a9f6326dc384e45f539ec6c8f39586c078b81c9785de7b7db0eef6",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a4/albedo.png",
+      "bytes": 256056,
+      "sha256": "483364a245dfbd08ae1eca5aca68a274b7ea0f85261f88cb3542134df8059b3a",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a4/kr_mount_hwarang_a4.blend",
+      "bytes": 256816,
+      "sha256": "c825d1fd948fc69a8add671a81d3ec926991e01df771fead10e1284ee17a24c1",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a4/metalness.png",
+      "bytes": 275389,
+      "sha256": "5225b9e0707065a2d1a093ea0f25036e2a9f4c6ded92478e83da59a5502a38db",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a4/normal.png",
+      "bytes": 346263,
+      "sha256": "91e2e2c536c61aec76029d7f60da14c7f428b344b201f4a22090f0c36be4ffe1",
+      "role": "editable rebuilt cavalry model or shader atlas"
+    },
+    {
+      "path": "art033/kr_mount_hwarang_a4/pattern.png",
+      "bytes": 30367,
+      "sha256": "d8576ee5c9c56fefb3dc387dd06d3fb0661f1bdc923710b73cbe83c523b3d529",
+      "role": "editable rebuilt cavalry model or shader atlas"
     }
   ],
   "audio": "Vietnam shipped Ogg clips are editable whole files under inputs/native/audio, not duplicated in authoring. Original WAV or voice-generation environments are not in the accepted combined GitHub snapshot.",

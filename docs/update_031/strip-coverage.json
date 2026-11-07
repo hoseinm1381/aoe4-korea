@@ -1,0 +1,83 @@
+{
+  "bulguksa_temple": {
+    "original_owner_percent": 0.0778,
+    "stripe_surface_percent": [
+      0.4554,
+      0.4545,
+      0.0,
+      0.0
+    ]
+  },
+  "gate_of_reverence": {
+    "original_owner_percent": 0.2472,
+    "stripe_surface_percent": [
+      0.5227,
+      0.5217,
+      0.6117,
+      0.6117
+    ]
+  },
+  "gyeongbok_palace": {
+    "original_owner_percent": 0.0602,
+    "stripe_surface_percent": [
+      0.2957,
+      0.2953,
+      0.0,
+      0.0
+    ]
+  },
+  "hall_of_worthies": {
+    "original_owner_percent": 0.1033,
+    "stripe_surface_percent": [
+      0.8478,
+      0.8463,
+      0.7331,
+      0.7331
+    ]
+  },
+  "hwangnyongsa": {
+    "original_owner_percent": 0.0325,
+    "stripe_surface_percent": [
+      0.3533,
+      0.3528,
+      0.4767,
+      0.4767
+    ]
+  },
+  "mountain_fortress": {
+    "original_owner_percent": 0.1641,
+    "stripe_surface_percent": [
+      0.2287,
+      0.2279,
+      0.3439,
+      0.3439
+    ]
+  },
+  "seon_deok_observatory": {
+    "original_owner_percent": 0.0935,
+    "stripe_surface_percent": [
+      0.0027,
+      0.0027,
+      0.3313,
+      0.3512
+    ]
+  },
+  "seowon_academy": {
+    "original_owner_percent": 0.1428,
+    "stripe_surface_percent": [
+      1.0688,
+      1.0672,
+      0.72,
+      0.72
+    ]
+  },
+  "stone_pagoda": {
+    "original_owner_percent": 0.2175,
+    "stripe_surface_percent": [
+      0.0037,
+      0.0036,
+      0.9101,
+      0.9101
+    ]
+  }
+}

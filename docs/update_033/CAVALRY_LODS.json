@@ -1,0 +1,1234 @@
+[
+  {
+    "asset": "kr_horseman_a2",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1296,
+        "stock_triangles": 1204,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.58251953125,
+            -0.27001953125,
+            -0.0006155967712402344
+          ],
+          "maximum": [
+            0.5751953125,
+            0.1708984375,
+            1.935546875
+          ],
+          "extent": [
+            1.15771484375,
+            0.44091796875,
+            1.9361624717712402
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 558,
+        "stock_triangles": 498,
+        "stock_weighted_bones_retained": 28,
+        "weighted_bones": 28,
+        "bounds": {
+          "minimum": [
+            -0.580078125,
+            -0.275390625,
+            -0.0008306503295898438
+          ],
+          "maximum": [
+            0.58349609375,
+            0.1708984375,
+            1.935546875
+          ],
+          "extent": [
+            1.16357421875,
+            0.4462890625,
+            1.9363775253295898
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 214,
+        "stock_triangles": 170,
+        "stock_weighted_bones_retained": 22,
+        "weighted_bones": 22,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.294189453125,
+            -0.005901336669921875
+          ],
+          "maximum": [
+            0.5810546875,
+            0.192138671875,
+            1.935546875
+          ],
+          "extent": [
+            1.158203125,
+            0.486328125,
+            1.9414482116699219
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_mount_horseman_a2",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1704,
+        "stock_triangles": 1656,
+        "stock_weighted_bones_retained": 54,
+        "weighted_bones": 54,
+        "bounds": {
+          "minimum": [
+            -0.59814453125,
+            -1.6005859375,
+            -0.0018301010131835938
+          ],
+          "maximum": [
+            0.59814453125,
+            1.7109375,
+            2.099609375
+          ],
+          "extent": [
+            1.1962890625,
+            3.3115234375,
+            2.1014394760131836
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 608,
+        "stock_triangles": 576,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.59814453125,
+            -1.5859375,
+            -0.0009150505065917969
+          ],
+          "maximum": [
+            0.59814453125,
+            1.716796875,
+            2.1015625
+          ],
+          "extent": [
+            1.1962890625,
+            3.302734375,
+            2.102477550506592
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 212,
+        "stock_triangles": 188,
+        "stock_weighted_bones_retained": 27,
+        "weighted_bones": 27,
+        "bounds": {
+          "minimum": [
+            -0.343017578125,
+            -1.6005859375,
+            0.0005130767822265625
+          ],
+          "maximum": [
+            0.327392578125,
+            1.71484375,
+            2.07421875
+          ],
+          "extent": [
+            0.67041015625,
+            3.3154296875,
+            2.0737056732177734
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_horseman_a3",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1294,
+        "stock_triangles": 1202,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.257568359375,
+            0.004444122314453125
+          ],
+          "maximum": [
+            0.5771484375,
+            0.1854248046875,
+            1.935546875
+          ],
+          "extent": [
+            1.154296875,
+            0.4429931640625,
+            1.9311027526855469
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 548,
+        "stock_triangles": 488,
+        "stock_weighted_bones_retained": 28,
+        "weighted_bones": 28,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.260009765625,
+            0.0035915374755859375
+          ],
+          "maximum": [
+            0.57421875,
+            0.1866455078125,
+            1.935546875
+          ],
+          "extent": [
+            1.1513671875,
+            0.4466552734375,
+            1.931955337524414
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 200,
+        "stock_triangles": 156,
+        "stock_weighted_bones_retained": 22,
+        "weighted_bones": 22,
+        "bounds": {
+          "minimum": [
+            -0.57373046875,
+            -0.2724609375,
+            0.00656890869140625
+          ],
+          "maximum": [
+            0.57275390625,
+            0.218505859375,
+            1.935546875
+          ],
+          "extent": [
+            1.146484375,
+            0.490966796875,
+            1.9289779663085938
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_mount_horseman_a3",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1992,
+        "stock_triangles": 1944,
+        "stock_weighted_bones_retained": 62,
+        "weighted_bones": 62,
+        "bounds": {
+          "minimum": [
+            -0.59814453125,
+            -1.642578125,
+            -0.007541656494140625
+          ],
+          "maximum": [
+            0.59814453125,
+            1.7138671875,
+            2.095703125
+          ],
+          "extent": [
+            1.1962890625,
+            3.3564453125,
+            2.1032447814941406
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 693,
+        "stock_triangles": 661,
+        "stock_weighted_bones_retained": 48,
+        "weighted_bones": 48,
+        "bounds": {
+          "minimum": [
+            -0.59814453125,
+            -1.642578125,
+            -0.001708984375
+          ],
+          "maximum": [
+            0.59814453125,
+            1.716796875,
+            2.099609375
+          ],
+          "extent": [
+            1.1962890625,
+            3.359375,
+            2.101318359375
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 236,
+        "stock_triangles": 212,
+        "stock_weighted_bones_retained": 29,
+        "weighted_bones": 29,
+        "bounds": {
+          "minimum": [
+            -0.354736328125,
+            -1.64453125,
+            -0.00025844573974609375
+          ],
+          "maximum": [
+            0.34619140625,
+            1.71484375,
+            2.08203125
+          ],
+          "extent": [
+            0.700927734375,
+            3.359375,
+            2.082289695739746
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_horseman_a4",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1570,
+        "stock_triangles": 1478,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.271728515625,
+            0.004444122314453125
+          ],
+          "maximum": [
+            0.5771484375,
+            0.186279296875,
+            1.935546875
+          ],
+          "extent": [
+            1.154296875,
+            0.4580078125,
+            1.9311027526855469
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 564,
+        "stock_triangles": 504,
+        "stock_weighted_bones_retained": 29,
+        "weighted_bones": 29,
+        "bounds": {
+          "minimum": [
+            -0.57373046875,
+            -0.276611328125,
+            0.004486083984375
+          ],
+          "maximum": [
+            0.57275390625,
+            0.193359375,
+            1.935546875
+          ],
+          "extent": [
+            1.146484375,
+            0.469970703125,
+            1.931060791015625
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 228,
+        "stock_triangles": 184,
+        "stock_weighted_bones_retained": 22,
+        "weighted_bones": 22,
+        "bounds": {
+          "minimum": [
+            -0.58056640625,
+            -0.261474609375,
+            0.015380859375
+          ],
+          "maximum": [
+            0.59814453125,
+            0.2113037109375,
+            1.935546875
+          ],
+          "extent": [
+            1.1787109375,
+            0.4727783203125,
+            1.920166015625
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_mount_horseman_a4",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 2170,
+        "stock_triangles": 2122,
+        "stock_weighted_bones_retained": 62,
+        "weighted_bones": 62,
+        "bounds": {
+          "minimum": [
+            -0.59521484375,
+            -1.60546875,
+            -0.0018301010131835938
+          ],
+          "maximum": [
+            0.59521484375,
+            1.71484375,
+            2.09375
+          ],
+          "extent": [
+            1.1904296875,
+            3.3203125,
+            2.0955801010131836
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 658,
+        "stock_triangles": 626,
+        "stock_weighted_bones_retained": 48,
+        "weighted_bones": 48,
+        "bounds": {
+          "minimum": [
+            -0.59521484375,
+            -1.611328125,
+            -0.00170135498046875
+          ],
+          "maximum": [
+            0.59521484375,
+            1.716796875,
+            2.09375
+          ],
+          "extent": [
+            1.1904296875,
+            3.328125,
+            2.0954513549804688
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 250,
+        "stock_triangles": 226,
+        "stock_weighted_bones_retained": 30,
+        "weighted_bones": 30,
+        "bounds": {
+          "minimum": [
+            -0.328125,
+            -1.6162109375,
+            0.0015554428100585938
+          ],
+          "maximum": [
+            0.3310546875,
+            1.71484375,
+            2.09375
+          ],
+          "extent": [
+            0.6591796875,
+            3.3310546875,
+            2.0921945571899414
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_lancer_a3",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1704,
+        "stock_triangles": 1588,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.266357421875,
+            0.005279541015625
+          ],
+          "maximum": [
+            0.5771484375,
+            0.199951171875,
+            2.037109375
+          ],
+          "extent": [
+            1.154296875,
+            0.46630859375,
+            2.031829833984375
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 616,
+        "stock_triangles": 540,
+        "stock_weighted_bones_retained": 28,
+        "weighted_bones": 28,
+        "bounds": {
+          "minimum": [
+            -0.5751953125,
+            -0.2666015625,
+            0.005279541015625
+          ],
+          "maximum": [
+            0.5751953125,
+            0.2010498046875,
+            2.037109375
+          ],
+          "extent": [
+            1.150390625,
+            0.4676513671875,
+            2.031829833984375
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 272,
+        "stock_triangles": 216,
+        "stock_weighted_bones_retained": 22,
+        "weighted_bones": 22,
+        "bounds": {
+          "minimum": [
+            -0.58642578125,
+            -0.275634765625,
+            0.006000518798828125
+          ],
+          "maximum": [
+            0.57666015625,
+            0.2120361328125,
+            2.037109375
+          ],
+          "extent": [
+            1.1630859375,
+            0.4876708984375,
+            2.031108856201172
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_mount_lancer_a3",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 2079,
+        "stock_triangles": 2031,
+        "stock_weighted_bones_retained": 65,
+        "weighted_bones": 65,
+        "bounds": {
+          "minimum": [
+            -0.673828125,
+            -1.6318359375,
+            -0.0018329620361328125
+          ],
+          "maximum": [
+            0.673828125,
+            1.7099609375,
+            2.1015625
+          ],
+          "extent": [
+            1.34765625,
+            3.341796875,
+            2.103395462036133
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 696,
+        "stock_triangles": 664,
+        "stock_weighted_bones_retained": 48,
+        "weighted_bones": 48,
+        "bounds": {
+          "minimum": [
+            -0.673828125,
+            -1.6318359375,
+            -0.0017032623291015625
+          ],
+          "maximum": [
+            0.673828125,
+            1.716796875,
+            2.103515625
+          ],
+          "extent": [
+            1.34765625,
+            3.3486328125,
+            2.1052188873291016
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 296,
+        "stock_triangles": 272,
+        "stock_weighted_bones_retained": 30,
+        "weighted_bones": 30,
+        "bounds": {
+          "minimum": [
+            -0.39794921875,
+            -1.626953125,
+            0.0001118779182434082
+          ],
+          "maximum": [
+            0.39794921875,
+            1.7119140625,
+            2.103515625
+          ],
+          "extent": [
+            0.7958984375,
+            3.3388671875,
+            2.1034037470817566
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_lancer_a4",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1779,
+        "stock_triangles": 1663,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.270751953125,
+            0.004444122314453125
+          ],
+          "maximum": [
+            0.5771484375,
+            0.257568359375,
+            2.046875
+          ],
+          "extent": [
+            1.154296875,
+            0.5283203125,
+            2.042430877685547
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 590,
+        "stock_triangles": 514,
+        "stock_weighted_bones_retained": 29,
+        "weighted_bones": 29,
+        "bounds": {
+          "minimum": [
+            -0.58642578125,
+            -0.275146484375,
+            0.003963470458984375
+          ],
+          "maximum": [
+            0.5908203125,
+            0.25244140625,
+            2.046875
+          ],
+          "extent": [
+            1.17724609375,
+            0.527587890625,
+            2.0429115295410156
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 254,
+        "stock_triangles": 198,
+        "stock_weighted_bones_retained": 22,
+        "weighted_bones": 22,
+        "bounds": {
+          "minimum": [
+            -0.56982421875,
+            -0.287353515625,
+            0.004486083984375
+          ],
+          "maximum": [
+            0.60791015625,
+            0.243896484375,
+            2.046875
+          ],
+          "extent": [
+            1.177734375,
+            0.53125,
+            2.042388916015625
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_mount_lancer_a4",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 2856,
+        "stock_triangles": 2808,
+        "stock_weighted_bones_retained": 65,
+        "weighted_bones": 65,
+        "bounds": {
+          "minimum": [
+            -0.67041015625,
+            -1.607421875,
+            -0.002925872802734375
+          ],
+          "maximum": [
+            0.67041015625,
+            1.70703125,
+            2.40625
+          ],
+          "extent": [
+            1.3408203125,
+            3.314453125,
+            2.4091758728027344
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 656,
+        "stock_triangles": 624,
+        "stock_weighted_bones_retained": 48,
+        "weighted_bones": 48,
+        "bounds": {
+          "minimum": [
+            -0.67041015625,
+            -1.625,
+            -0.00279998779296875
+          ],
+          "maximum": [
+            0.67041015625,
+            1.716796875,
+            2.396484375
+          ],
+          "extent": [
+            1.3408203125,
+            3.341796875,
+            2.3992843627929688
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 326,
+        "stock_triangles": 302,
+        "stock_weighted_bones_retained": 30,
+        "weighted_bones": 30,
+        "bounds": {
+          "minimum": [
+            -0.370849609375,
+            -1.59765625,
+            -0.0030059814453125
+          ],
+          "maximum": [
+            0.396240234375,
+            1.712890625,
+            2.427734375
+          ],
+          "extent": [
+            0.76708984375,
+            3.310546875,
+            2.4307403564453125
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_hwarang_mounted_a2",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1344,
+        "stock_triangles": 1204,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.58251953125,
+            -0.27001953125,
+            -0.0006155967712402344
+          ],
+          "maximum": [
+            0.5751953125,
+            0.1668701171875,
+            2.146484375
+          ],
+          "extent": [
+            1.15771484375,
+            0.4368896484375,
+            2.1470999717712402
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 590,
+        "stock_triangles": 498,
+        "stock_weighted_bones_retained": 28,
+        "weighted_bones": 28,
+        "bounds": {
+          "minimum": [
+            -0.580078125,
+            -0.275390625,
+            -0.0008306503295898438
+          ],
+          "maximum": [
+            0.58349609375,
+            0.1689453125,
+            2.146484375
+          ],
+          "extent": [
+            1.16357421875,
+            0.4443359375,
+            2.14731502532959
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 238,
+        "stock_triangles": 170,
+        "stock_weighted_bones_retained": 22,
+        "weighted_bones": 22,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.294189453125,
+            -0.005901336669921875
+          ],
+          "maximum": [
+            0.5810546875,
+            0.192138671875,
+            2.146484375
+          ],
+          "extent": [
+            1.158203125,
+            0.486328125,
+            2.152385711669922
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_mount_hwarang_a2",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1704,
+        "stock_triangles": 1656,
+        "stock_weighted_bones_retained": 54,
+        "weighted_bones": 54,
+        "bounds": {
+          "minimum": [
+            -0.6298828125,
+            -1.6005859375,
+            -0.0018301010131835938
+          ],
+          "maximum": [
+            0.6298828125,
+            1.7109375,
+            2.099609375
+          ],
+          "extent": [
+            1.259765625,
+            3.3115234375,
+            2.1014394760131836
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 608,
+        "stock_triangles": 576,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.6298828125,
+            -1.5859375,
+            -0.0009150505065917969
+          ],
+          "maximum": [
+            0.6298828125,
+            1.716796875,
+            2.1015625
+          ],
+          "extent": [
+            1.259765625,
+            3.302734375,
+            2.102477550506592
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 212,
+        "stock_triangles": 188,
+        "stock_weighted_bones_retained": 27,
+        "weighted_bones": 27,
+        "bounds": {
+          "minimum": [
+            -0.36279296875,
+            -1.6005859375,
+            0.0005130767822265625
+          ],
+          "maximum": [
+            0.347900390625,
+            1.71484375,
+            2.07421875
+          ],
+          "extent": [
+            0.710693359375,
+            3.3154296875,
+            2.0737056732177734
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_hwarang_mounted_a3",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1342,
+        "stock_triangles": 1202,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.257568359375,
+            0.004444122314453125
+          ],
+          "maximum": [
+            0.5771484375,
+            0.1854248046875,
+            2.16015625
+          ],
+          "extent": [
+            1.154296875,
+            0.4429931640625,
+            2.155712127685547
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 580,
+        "stock_triangles": 488,
+        "stock_weighted_bones_retained": 28,
+        "weighted_bones": 28,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.260009765625,
+            0.0035915374755859375
+          ],
+          "maximum": [
+            0.57421875,
+            0.1866455078125,
+            2.16015625
+          ],
+          "extent": [
+            1.1513671875,
+            0.4466552734375,
+            2.156564712524414
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 224,
+        "stock_triangles": 156,
+        "stock_weighted_bones_retained": 22,
+        "weighted_bones": 22,
+        "bounds": {
+          "minimum": [
+            -0.57373046875,
+            -0.2724609375,
+            0.00656890869140625
+          ],
+          "maximum": [
+            0.57275390625,
+            0.218505859375,
+            2.16015625
+          ],
+          "extent": [
+            1.146484375,
+            0.490966796875,
+            2.1535873413085938
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_mount_hwarang_a3",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1992,
+        "stock_triangles": 1944,
+        "stock_weighted_bones_retained": 62,
+        "weighted_bones": 62,
+        "bounds": {
+          "minimum": [
+            -0.6298828125,
+            -1.642578125,
+            -0.007541656494140625
+          ],
+          "maximum": [
+            0.6298828125,
+            1.7138671875,
+            2.095703125
+          ],
+          "extent": [
+            1.259765625,
+            3.3564453125,
+            2.1032447814941406
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 693,
+        "stock_triangles": 661,
+        "stock_weighted_bones_retained": 48,
+        "weighted_bones": 48,
+        "bounds": {
+          "minimum": [
+            -0.6298828125,
+            -1.642578125,
+            -0.001708984375
+          ],
+          "maximum": [
+            0.6298828125,
+            1.716796875,
+            2.099609375
+          ],
+          "extent": [
+            1.259765625,
+            3.359375,
+            2.101318359375
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 236,
+        "stock_triangles": 212,
+        "stock_weighted_bones_retained": 29,
+        "weighted_bones": 29,
+        "bounds": {
+          "minimum": [
+            -0.370849609375,
+            -1.64453125,
+            -0.00025844573974609375
+          ],
+          "maximum": [
+            0.362060546875,
+            1.71484375,
+            2.08203125
+          ],
+          "extent": [
+            0.73291015625,
+            3.359375,
+            2.082289695739746
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_hwarang_mounted_a4",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 1618,
+        "stock_triangles": 1478,
+        "stock_weighted_bones_retained": 45,
+        "weighted_bones": 45,
+        "bounds": {
+          "minimum": [
+            -0.5771484375,
+            -0.271728515625,
+            0.004444122314453125
+          ],
+          "maximum": [
+            0.5771484375,
+            0.186279296875,
+            2.173828125
+          ],
+          "extent": [
+            1.154296875,
+            0.4580078125,
+            2.169384002685547
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 596,
+        "stock_triangles": 504,
+        "stock_weighted_bones_retained": 29,
+        "weighted_bones": 29,
+        "bounds": {
+          "minimum": [
+            -0.57373046875,
+            -0.276611328125,
+            0.004486083984375
+          ],
+          "maximum": [
+            0.57275390625,
+            0.193359375,
+            2.173828125
+          ],
+          "extent": [
+            1.146484375,
+            0.469970703125,
+            2.169342041015625
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 252,
+        "stock_triangles": 184,
+        "stock_weighted_bones_retained": 22,
+        "weighted_bones": 22,
+        "bounds": {
+          "minimum": [
+            -0.58056640625,
+            -0.261474609375,
+            0.015380859375
+          ],
+          "maximum": [
+            0.59814453125,
+            0.2113037109375,
+            2.173828125
+          ],
+          "extent": [
+            1.1787109375,
+            0.4727783203125,
+            2.158447265625
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "asset": "kr_mount_hwarang_a4",
+    "lods": [
+      {
+        "lod": 1,
+        "triangles": 2170,
+        "stock_triangles": 2122,
+        "stock_weighted_bones_retained": 62,
+        "weighted_bones": 62,
+        "bounds": {
+          "minimum": [
+            -0.626953125,
+            -1.60546875,
+            -0.0018301010131835938
+          ],
+          "maximum": [
+            0.626953125,
+            1.71484375,
+            2.09375
+          ],
+          "extent": [
+            1.25390625,
+            3.3203125,
+            2.0955801010131836
+          ]
+        }
+      },
+      {
+        "lod": 2,
+        "triangles": 658,
+        "stock_triangles": 626,
+        "stock_weighted_bones_retained": 48,
+        "weighted_bones": 48,
+        "bounds": {
+          "minimum": [
+            -0.626953125,
+            -1.611328125,
+            -0.00170135498046875
+          ],
+          "maximum": [
+            0.626953125,
+            1.716796875,
+            2.09375
+          ],
+          "extent": [
+            1.25390625,
+            3.328125,
+            2.0954513549804688
+          ]
+        }
+      },
+      {
+        "lod": 3,
+        "triangles": 250,
+        "stock_triangles": 226,
+        "stock_weighted_bones_retained": 30,
+        "weighted_bones": 30,
+        "bounds": {
+          "minimum": [
+            -0.343017578125,
+            -1.6162109375,
+            0.0015554428100585938
+          ],
+          "maximum": [
+            0.348876953125,
+            1.71484375,
+            2.09375
+          ],
+          "extent": [
+            0.69189453125,
+            3.3310546875,
+            2.0921945571899414
+          ]
+        }
+      }
+    ]
+  }
+]

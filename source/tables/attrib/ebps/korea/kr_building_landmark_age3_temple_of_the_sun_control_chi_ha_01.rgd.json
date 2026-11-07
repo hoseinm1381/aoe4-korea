@@ -3508,7 +3508,7 @@
               "key": "ui_can_scuttle",
               "hash": 7939283149205503357,
               "kind": "Boolean",
-              "value": true
+              "value": false
             },
             {
               "key": "reveal_to_all_on_death",
@@ -5158,25 +5158,6 @@
               "hash": 3007493785523771989,
               "kind": "List2",
               "value": [
-                {
-                  "key": "ability",
-                  "hash": 17180463772747466917,
-                  "kind": "List2",
-                  "value": [
-                    {
-                      "key": "$PBGNAME",
-                      "hash": 5464984021694833596,
-                      "kind": "CString",
-                      "value": "core_building_scuttle"
-                    },
-                    {
-                      "key": "$PBGMAP",
-                      "hash": 1238668035833122403,
-                      "kind": "CString",
-                      "value": "abilities"
-                    }
-                  ]
-                },
                 {
                   "key": "ability",
                   "hash": 17180463772747466917,

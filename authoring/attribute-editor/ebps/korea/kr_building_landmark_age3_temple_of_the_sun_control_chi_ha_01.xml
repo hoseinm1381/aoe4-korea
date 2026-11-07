@@ -248,7 +248,6 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext" List.ItemID="-949272283">
 			<list name="abilities" overrideParent="True">
-				<instance_reference name="ability" value="abilities\timed_abilities\civ_core\core_building_scuttle" List.ItemID="-971809210" List.ParentItemID="-971809210" />
 				<instance_reference name="ability" value="abilities\modal_abilities\core\town_bell\hold_return_to_work" List.ItemID="-1866845526" List.ParentItemID="-1866845526" />
 				<instance_reference name="ability" value="abilities\korea\kr_acre_barrage_ayy" mod="748d61b94d3e4cf3a506a9ac1f992d1d" List.ItemID="398426695" />
 				<instance_reference name="ability" value="abilities\korea\kr_general_aura_siege" mod="748d61b94d3e4cf3a506a9ac1f992d1d" List.ItemID="-2010382982" />
@@ -376,7 +375,7 @@
 			<bool name="regeneration_disabled" value="True" />
 			<bool name="remove_from_pathfinding_on_death" value="False" />
 			<bool name="reveal_to_all_on_death" value="False" />
-			<bool name="ui_can_scuttle" value="True" />
+			<bool name="ui_can_scuttle" value="False" />
 			<float name="target_size" value="5" />
 			<float name="weapon_priority" value="80" overrideParent="True" />
 			<template_reference name="wreck_entity_option" value="options\none">

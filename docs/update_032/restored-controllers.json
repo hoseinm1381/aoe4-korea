@@ -1,0 +1,32 @@
+[
+  {
+    "member": "art/kr013/static/bulguksa_temple/model.rgo",
+    "rejected_031_sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+    "restored_030_sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+  },
+  {
+    "member": "art/kr013/static/gate_of_reverence/model.rgo",
+    "rejected_031_sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+    "restored_030_sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+  },
+  {
+    "member": "art/kr013/static/gyeongbok_palace/model.rgo",
+    "rejected_031_sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+    "restored_030_sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+  },
+  {
+    "member": "art/kr013/static/hall_of_worthies/model.rgo",
+    "rejected_031_sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+    "restored_030_sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+  },
+  {
+    "member": "art/kr013/static/seon_deok_observatory/model.rgo",
+    "rejected_031_sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+    "restored_030_sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+  },
+  {
+    "member": "art/kr013/static/stone_pagoda/model.rgo",
+    "rejected_031_sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
+    "restored_030_sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f"
+  }
+]

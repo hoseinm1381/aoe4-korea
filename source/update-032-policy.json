@@ -1,0 +1,13 @@
+{
+  "allowed_added": [],
+  "allowed_removed": [],
+  "allowed_changed": [
+    "art/kr013/static/bulguksa_temple/model.rgo",
+    "art/kr013/static/gate_of_reverence/model.rgo",
+    "art/kr013/static/gyeongbok_palace/model.rgo",
+    "art/kr013/static/hall_of_worthies/model.rgo",
+    "art/kr013/static/seon_deok_observatory/model.rgo",
+    "art/kr013/static/stone_pagoda/model.rgo",
+    "art/kr014/patterns/0bad464c0fbf03e4ee7706427dc15fe99b996a74faef100bf0fa17c21cdc206b.rrtex"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "rectangles": [
+    [
+      16,
+      136,
+      496,
+      152
+    ],
+    [
+      16,
+      360,
+      496,
+      376
+    ],
+    [
+      528,
+      136,
+      1008,
+      152
+    ],
+    [
+      528,
+      360,
+      1008,
+      376
+    ],
+    [
+      1552,
+      1132,
+      2032,
+      1204
+    ],
+    [
+      1552,
+      1356,
+      2032,
+      1428
+    ],
+    [
+      1040,
+      612,
+      1520,
+      700
+    ],
+    [
+      1040,
+      836,
+      1520,
+      924
+    ],
+    [
+      1040,
+      1644,
+      1520,
+      1716
+    ],
+    [
+      1040,
+      1868,
+      1520,
+      1940
+    ]
+  ],
+  "coverage_surface_percent_estimate": {
+    "bulguksa_temple": 14.6909,
+    "gate_of_reverence": 16.9457,
+    "gyeongbok_palace": 14.1997,
+    "hall_of_worthies": 15.5887,
+    "hwangnyongsa": 11.9153,
+    "mountain_fortress": 16.5304,
+    "seon_deok_observatory": 14.5092,
+    "seowon_academy": 11.8731,
+    "stone_pagoda": 13.9039
+  },
+  "estimated_decoded_mask_percent": {
+    "bulguksa_temple": 14.69,
+    "gate_of_reverence": 16.95,
+    "gyeongbok_palace": 14.2,
+    "hall_of_worthies": 15.59,
+    "hwangnyongsa": 11.92,
+    "mountain_fortress": 16.53,
+    "seon_deok_observatory": 14.51,
+    "seowon_academy": 11.87,
+    "stone_pagoda": 13.9
+  },
+  "method": "Triangle-area weighted UV sampling on healthy LOD0 meshes with the decoded native BC3 red mask thresholded at 128",
+  "native_mask_threshold_matches_source": true,
+  "native_game_visual_acceptance": "pending"
+}

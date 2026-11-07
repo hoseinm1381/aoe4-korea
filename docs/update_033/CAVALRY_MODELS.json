@@ -1,0 +1,178 @@
+[
+  {
+    "asset": "kr_horseman_a2",
+    "family": "horseman",
+    "age": 2,
+    "part": "rider",
+    "tier": "light_age02",
+    "rig_sha256": "a516cdfcbe2a7682617248292ed22a4d31d24bd20820ebd06bc04e398d830a38",
+    "skin_bones": 46,
+    "model_sha256": "e0e398b4bfed1d031045a6ff197ce66e2456f279dec617f864edbe3f8293851d",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_mount_horseman_a2",
+    "family": "horseman",
+    "age": 2,
+    "part": "horse",
+    "tier": "light_age02",
+    "rig_sha256": "a516cdfcbe2a7682617248292ed22a4d31d24bd20820ebd06bc04e398d830a38",
+    "skin_bones": 58,
+    "model_sha256": "5aede92b16611e6c79dda40b9e191ab40a8b1ad913c82fc2512921570512d5cc",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_horseman_a3",
+    "family": "horseman",
+    "age": 3,
+    "part": "rider",
+    "tier": "light_age03",
+    "rig_sha256": "57e46b755ad3fec39f96649092da45334753bc0f5ba5c1e84e70257ae1d9cb21",
+    "skin_bones": 46,
+    "model_sha256": "a1ce6790377b82c23685c575e0d6801f97365110485b1cafd13787d15894758a",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_mount_horseman_a3",
+    "family": "horseman",
+    "age": 3,
+    "part": "horse",
+    "tier": "light_age03",
+    "rig_sha256": "57e46b755ad3fec39f96649092da45334753bc0f5ba5c1e84e70257ae1d9cb21",
+    "skin_bones": 63,
+    "model_sha256": "fdab96f7225ab41ce2c65ab45b1ae3079fefbb1a0ee900251537eda6b5a4cffb",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_horseman_a4",
+    "family": "horseman",
+    "age": 4,
+    "part": "rider",
+    "tier": "light_age04",
+    "rig_sha256": "7f4424c4505f653754dfcea718c7f4819249caf58d67e2c1542ec2075a56b033",
+    "skin_bones": 46,
+    "model_sha256": "9ebed55c65f4b8a385d1d8a4d34d2b4c002487ba79802cb1bd9fc279d3c6b7b1",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_mount_horseman_a4",
+    "family": "horseman",
+    "age": 4,
+    "part": "horse",
+    "tier": "light_age04",
+    "rig_sha256": "7f4424c4505f653754dfcea718c7f4819249caf58d67e2c1542ec2075a56b033",
+    "skin_bones": 63,
+    "model_sha256": "67fe2c1a944bbf94b91f9abb531912508f9b6899c7c1628e667ca8a4f954474a",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_lancer_a3",
+    "family": "lancer",
+    "age": 3,
+    "part": "rider",
+    "tier": "armor_age03",
+    "rig_sha256": "deb5af178cef7e1d8109b9c04222ff009d8cc32df438e868af181737b31de869",
+    "skin_bones": 46,
+    "model_sha256": "8ea1059f278196ce5cce48a50110afae102b86dd307180aedcef8e7f86ecb111",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_mount_lancer_a3",
+    "family": "lancer",
+    "age": 3,
+    "part": "horse",
+    "tier": "armor_age03",
+    "rig_sha256": "deb5af178cef7e1d8109b9c04222ff009d8cc32df438e868af181737b31de869",
+    "skin_bones": 66,
+    "model_sha256": "c11d9498ffff841d21fde138190105c71a7f134569c1902097e4906679a61452",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_lancer_a4",
+    "family": "lancer",
+    "age": 4,
+    "part": "rider",
+    "tier": "armor_age04",
+    "rig_sha256": "b8033d4f579e0517a0d7b2aed8f68911ec8428a0e3a79cf7d00f4d0e1c168bb4",
+    "skin_bones": 46,
+    "model_sha256": "47d76842f510603643ff76b40e3f877c0326564160e2ae0f6dbf0c6a8e08fd3e",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_mount_lancer_a4",
+    "family": "lancer",
+    "age": 4,
+    "part": "horse",
+    "tier": "armor_age04",
+    "rig_sha256": "b8033d4f579e0517a0d7b2aed8f68911ec8428a0e3a79cf7d00f4d0e1c168bb4",
+    "skin_bones": 66,
+    "model_sha256": "f16983d948520a3a63bdcf52d4a4bb94a93767962a2b9ecd869966bc6a89caa2",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_hwarang_mounted_a2",
+    "family": "hwarang",
+    "age": 2,
+    "part": "rider",
+    "tier": "light_age02",
+    "rig_sha256": "a516cdfcbe2a7682617248292ed22a4d31d24bd20820ebd06bc04e398d830a38",
+    "skin_bones": 46,
+    "model_sha256": "cffbedf3b496dff26a433b8f3b482bde8c212b7b8159bef3ac13ab0cd7a05b36",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_mount_hwarang_a2",
+    "family": "hwarang",
+    "age": 2,
+    "part": "horse",
+    "tier": "light_age02",
+    "rig_sha256": "a516cdfcbe2a7682617248292ed22a4d31d24bd20820ebd06bc04e398d830a38",
+    "skin_bones": 58,
+    "model_sha256": "245de1b3f64e158a05356a3a46ad5486220f3be28697d91c8c15b7b89c289684",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_hwarang_mounted_a3",
+    "family": "hwarang",
+    "age": 3,
+    "part": "rider",
+    "tier": "light_age03",
+    "rig_sha256": "57e46b755ad3fec39f96649092da45334753bc0f5ba5c1e84e70257ae1d9cb21",
+    "skin_bones": 46,
+    "model_sha256": "fd7c879c52a5fa6a0f3421932e3b2dbd2e1e5b01ed778ea5f6dc3c4958743de2",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_mount_hwarang_a3",
+    "family": "hwarang",
+    "age": 3,
+    "part": "horse",
+    "tier": "light_age03",
+    "rig_sha256": "57e46b755ad3fec39f96649092da45334753bc0f5ba5c1e84e70257ae1d9cb21",
+    "skin_bones": 63,
+    "model_sha256": "20796bbfb98ab5e6577fd95f298b30765181bddbb3137b19508cb5d505808fd6",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_hwarang_mounted_a4",
+    "family": "hwarang",
+    "age": 4,
+    "part": "rider",
+    "tier": "light_age04",
+    "rig_sha256": "7f4424c4505f653754dfcea718c7f4819249caf58d67e2c1542ec2075a56b033",
+    "skin_bones": 46,
+    "model_sha256": "07d1b70cf8653b7924cbd97156689483685293d51a47fc34f06af727beac858b",
+    "exact_stock_skin_and_owner_binds": true
+  },
+  {
+    "asset": "kr_mount_hwarang_a4",
+    "family": "hwarang",
+    "age": 4,
+    "part": "horse",
+    "tier": "light_age04",
+    "rig_sha256": "7f4424c4505f653754dfcea718c7f4819249caf58d67e2c1542ec2075a56b033",
+    "skin_bones": 63,
+    "model_sha256": "c511c20ff8e0f409c6a5b5649cf17acac9364bfe2ca0da02485aa0692e0814e7",
+    "exact_stock_skin_and_owner_binds": true
+  }
+]
