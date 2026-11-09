@@ -1,0 +1,110 @@
+{
+  "archive_sha256": "0277597c8c3d75ddb4bc271753ef9767839e829d7178085373c17b96fc45c740",
+  "zip_sha256": "e15e7af38a511a343e550bd4d3dbb2b0f0d289fa256bf02524b3fb9e411011bd",
+  "models": {
+    "bulguksa_temple": {
+      "player_colour_percent": [
+        11.33,
+        13.01,
+        10.53
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    },
+    "gate_of_reverence": {
+      "player_colour_percent": [
+        13.18,
+        15.94,
+        13.82
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    },
+    "gyeongbok_palace": {
+      "player_colour_percent": [
+        17.25,
+        17.44,
+        16.28
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    },
+    "hall_of_worthies": {
+      "player_colour_percent": [
+        17.24,
+        17.49,
+        16.01
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    },
+    "hwangnyongsa": {
+      "player_colour_percent": [
+        14.46,
+        14.53,
+        12.25
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    },
+    "korea_lumber_camp01": {
+      "player_colour_percent": 9.87,
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 10
+    },
+    "korea_mining_camp01": {
+      "player_colour_percent": 5.77,
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 10
+    },
+    "mountain_fortress": {
+      "player_colour_percent": [
+        12.39,
+        15.69,
+        14.34
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    },
+    "seon_deok_observatory": {
+      "player_colour_percent": [
+        17.36,
+        17.33,
+        17.24
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    },
+    "seowon_academy": {
+      "player_colour_percent": [
+        13.18,
+        13.44,
+        11.02
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    },
+    "stone_pagoda": {
+      "player_colour_percent": [
+        19.36,
+        19.46,
+        19.34
+      ],
+      "geometry_identical": true,
+      "missing_texture_references": 0,
+      "mask_mips": 12
+    }
+  },
+  "preserved_members": 10312,
+  "native_match": "pending"
+}

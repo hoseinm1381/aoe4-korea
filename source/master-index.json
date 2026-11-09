@@ -58762,6 +58762,90 @@
       "bytes": 859,
       "sha256": "bf1e25bf913059631e746ee8a304d12100a64a3482fb0e6e99a8c15b4c864cd1",
       "role": "editable 0.3.4 Tiger Hunter or cavalry weapon visual"
+    },
+    {
+      "path": "art035/landmark-albedo.png",
+      "bytes": 2634332,
+      "sha256": "359db9ea5e92455c7890a8ba5328a7794b825caf6d8ab61d745be1280a652ec1",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/landmark-owner.png",
+      "bytes": 23884,
+      "sha256": "33bc8db1de3d051f6296ac8a5dd4b0ef8a1431f25b227e4b64efea2770949a58",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/rough_granite.png",
+      "bytes": 198141,
+      "sha256": "61fb4e856a749611376894705eb636e3c1a0ccd059f18f4da2fe47b0b9e168a8",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/weathered_timber.png",
+      "bytes": 139811,
+      "sha256": "8f37845e6f33e5ab16143871eb47bc41590fe3c872591b5f64688154af6cf035",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/reed_thatch.png",
+      "bytes": 244397,
+      "sha256": "b5e27baaa3c4df3f4ed6a34f7a0526ea6297656fc8f85d7955c1392523bedef5",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/shelter-owner.png",
+      "bytes": 1822,
+      "sha256": "691fc28dc5986e8e475bd628b6f2f189115bb4eda4568ec7837efc2153220f2e",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/plaster-17199498810477758055.png",
+      "bytes": 190016,
+      "sha256": "0e13b44d94e3a2a5456c17121119c816fd795688c8d8cd81b45ec13238664551",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/stone-7702168862315108242.png",
+      "bytes": 172829,
+      "sha256": "de5ec702155a1bc6369dbf5d6f01eeaba0b9164d552a4b36bd1e801efd5e0a0b",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/plaster-1010901216075870242.png",
+      "bytes": 88905,
+      "sha256": "459c7d63eb60f63926f4e0299405df5355aa701bd98e249ca6465e36baffb8ea",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/plaster-4611286749468971337.png",
+      "bytes": 108589,
+      "sha256": "efafeb7969fbb2f9208e6e20cefdb70e30540395231b10158135e50dcf48137b",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/stone-3929669517347687700.png",
+      "bytes": 195077,
+      "sha256": "a9c0b8de729633b3e20a69c7d7e84420fe0d0a812722c15c230d661e66fce5cd",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/stone-3073305326982814406.png",
+      "bytes": 152703,
+      "sha256": "fb0503526527d85a23450afa88581ccd1c381dd19da5a2dfcb681a199a38afb2",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/stone-1851766695653794545.png",
+      "bytes": 146304,
+      "sha256": "12bf713cbd5e677c56ec27f0790acb6ba2cfeaa1f461cc278cd3a7110d5245a4",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art035/stone-3506296802754216513.png",
+      "bytes": 165362,
+      "sha256": "2ebb3217bd5af153348ebc73e9856a414b28b2bc6bb9dccc44d2d84887fbc630",
+      "role": "editable Korean building paint or dynamic owner mask"
     }
   ],
   "audio": "Vietnam shipped Ogg clips are editable whole files under inputs/native/audio, not duplicated in authoring. Original WAV or voice-generation environments are not in the accepted combined GitHub snapshot.",

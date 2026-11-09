@@ -1,0 +1,1566 @@
+{
+  "landmarks": {
+    "bulguksa_temple": {
+      "baseline_percent": [
+        3.94,
+        4.54,
+        4.27
+      ],
+      "final_percent": [
+        11.33,
+        13.01,
+        10.53
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 1
+    },
+    "gate_of_reverence": {
+      "baseline_percent": [
+        8.15,
+        9.96,
+        10.02
+      ],
+      "final_percent": [
+        13.18,
+        15.94,
+        13.82
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 1
+    },
+    "gyeongbok_palace": {
+      "baseline_percent": [
+        5.22,
+        5.28,
+        5.23
+      ],
+      "final_percent": [
+        17.25,
+        17.44,
+        16.28
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 1
+    },
+    "hall_of_worthies": {
+      "baseline_percent": [
+        10.71,
+        10.86,
+        11.55
+      ],
+      "final_percent": [
+        17.24,
+        17.49,
+        16.01
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 1
+    },
+    "hwangnyongsa": {
+      "baseline_percent": [
+        7.65,
+        7.62,
+        7.81
+      ],
+      "final_percent": [
+        14.46,
+        14.53,
+        12.25
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 22
+    },
+    "mountain_fortress": {
+      "baseline_percent": [
+        7.28,
+        9.27,
+        9.42
+      ],
+      "final_percent": [
+        12.39,
+        15.69,
+        14.34
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 1
+    },
+    "seon_deok_observatory": {
+      "baseline_percent": [
+        5.43,
+        5.45,
+        5.26
+      ],
+      "final_percent": [
+        17.36,
+        17.33,
+        17.24
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 1
+    },
+    "seowon_academy": {
+      "baseline_percent": [
+        8.02,
+        8.18,
+        8.34
+      ],
+      "final_percent": [
+        13.18,
+        13.44,
+        11.02
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 1
+    },
+    "stone_pagoda": {
+      "baseline_percent": [
+        8.74,
+        8.98,
+        8.93
+      ],
+      "final_percent": [
+        19.36,
+        19.46,
+        19.34
+      ],
+      "mask": "art/kr035/architecture/landmark-owner.rrtex",
+      "materials": 1
+    }
+  },
+  "shelters": {
+    "korea_lumber_camp01": {
+      "baseline_percent": 0,
+      "final_percent": 9.87,
+      "shelter_only_percent": 34.04,
+      "mask": "art/kr035/architecture/shelter-owner.rrtex",
+      "materials": {
+        "korea_camp_rough_granite": {
+          "albedoTexture": "art\\kr035\\architecture\\rough_granite.rrtex"
+        },
+        "korea_camp_weathered_timber": {
+          "albedoTexture": "art\\kr035\\architecture\\weathered_timber.rrtex",
+          "patternTex": "art\\kr035\\architecture\\shelter-owner.rrtex"
+        },
+        "korea_camp_reed_thatch": {
+          "albedoTexture": "art\\kr035\\architecture\\reed_thatch.rrtex"
+        }
+      }
+    },
+    "korea_mining_camp01": {
+      "baseline_percent": 0,
+      "final_percent": 5.77,
+      "shelter_only_percent": 31.34,
+      "mask": "art/kr035/architecture/shelter-owner.rrtex",
+      "materials": {
+        "korea_camp_rough_granite": {
+          "albedoTexture": "art\\kr035\\architecture\\rough_granite.rrtex"
+        },
+        "korea_camp_weathered_timber": {
+          "albedoTexture": "art\\kr035\\architecture\\weathered_timber.rrtex",
+          "patternTex": "art\\kr035\\architecture\\shelter-owner.rrtex"
+        },
+        "korea_camp_reed_thatch": {
+          "albedoTexture": "art\\kr035\\architecture\\reed_thatch.rrtex"
+        }
+      }
+    }
+  },
+  "ordinary": {
+    "korea_archery_range02": {
+      "roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_archery_range03": {
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "extra": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_archery_range04": {
+      "roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      }
+    },
+    "korea_barracks_combined01": {
+      "control_main": {
+        "albedoTex3": "art\\kr035\\architecture\\stone-3929669517347687700.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_main_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\stone-3929669517347687700.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_roof": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_roof_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_barracks_combined02": {
+      "control_main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "control_main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "control_roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_barracks_combined03": {
+      "control_roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "control_main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_barracks_combined04": {
+      "control_main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "control_main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "control_roof": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_roof_collection": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "roof": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_blacksmith02": {
+      "main": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_blacksmith03": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_blacksmith04": {
+      "extra": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_dock02": {
+      "extra": {
+        "albedoTex4": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      }
+    },
+    "korea_dock03": {
+      "extra": {
+        "albedoTex4": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_dock04": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_gristmill01": {
+      "main": {
+        "albedoTex3": "art\\kr035\\architecture\\stone-3073305326982814406.rrtex"
+      },
+      "main_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\stone-3073305326982814406.rrtex"
+      }
+    },
+    "korea_housea01": {
+      "roof": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex"
+      }
+    },
+    "korea_housea02": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_housea03": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_housea04": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      }
+    },
+    "korea_houseb01": {
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex"
+      }
+    },
+    "korea_houseb02": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_houseb03": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      }
+    },
+    "korea_houseb04": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      }
+    },
+    "korea_housec01": {
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex"
+      }
+    },
+    "korea_housec02": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_housec03": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_housec04": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      }
+    },
+    "korea_market02": {
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex2": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex2": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_market03": {
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex2": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex2": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_market04": {
+      "extra": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_monastery03": {
+      "extra": {
+        "albedoTex3": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_monastery04": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      }
+    },
+    "korea_outpost_stone01": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_siege_workshop03": {
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "roof": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "extra": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_siege_workshop04": {
+      "extra": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "roof": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_stable02": {
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "roof": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "extra": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_stable03": {
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex7": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "extra_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "roof": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_stable04": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-4611286749468971337.rrtex"
+      },
+      "roof": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_stone_tower02": {
+      "main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\stone-3506296802754216513.rrtex"
+      },
+      "main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\stone-1851766695653794545.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\stone-3506296802754216513.rrtex"
+      },
+      "misc": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "misc_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_towncenter_combined01": {
+      "control_roof": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_roof_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_roof": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_roof_collection": {
+        "albedoTex7": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "shed_roof": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "shed_roof_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_towncenter_combined02": {
+      "control_roof": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_roof_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_extra": {
+        "albedoTex4": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_extra_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "gate_roof": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_roof_collection": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "gate_main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "shed_main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "shed_main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "roof": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      }
+    },
+    "korea_towncenter_combined03": {
+      "control_extra": {
+        "albedoTex4": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_extra_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_roof": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_roof_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "gate_roof": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_roof_collection": {
+        "albedoTex6": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "gate_main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "shed_main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "shed_main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "roof": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex5": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_towncenter_combined04": {
+      "control_main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex3": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "control_roof": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "control_roof_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_roof": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_roof_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "gate_main": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "gate_main_collection": {
+        "albedoTex2": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "shed_roof": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "shed_roof_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "shed_main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "shed_main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "roof": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "roof_collection": {
+        "albedoTex4": "art\\kr035\\architecture\\plaster-17199498810477758055.rrtex"
+      },
+      "main": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex6": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    },
+    "korea_university04": {
+      "main": {
+        "albedoTex3": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      },
+      "main_collection": {
+        "albedoTex3": "art\\kr035\\architecture\\stone-7702168862315108242.rrtex",
+        "albedoTex4": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex",
+        "albedoTex5": "art\\kr035\\architecture\\plaster-1010901216075870242.rrtex"
+      }
+    }
+  },
+  "textures": {
+    "landmark-albedo": {
+      "width": 2048,
+      "height": 2048,
+      "mips": 12,
+      "rgba8_decoded_bytes": 22369620,
+      "bc3_bytes": 5592432
+    },
+    "landmark-owner": {
+      "width": 2048,
+      "height": 2048,
+      "mips": 12,
+      "rgba8_decoded_bytes": 22369620,
+      "bc3_bytes": 5592432
+    },
+    "rough_granite": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "weathered_timber": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "reed_thatch": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "shelter-owner": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "plaster-17199498810477758055": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "stone-7702168862315108242": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "plaster-1010901216075870242": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "plaster-4611286749468971337": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "stone-3929669517347687700": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "stone-3073305326982814406": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "stone-1851766695653794545": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    },
+    "stone-3506296802754216513": {
+      "width": 512,
+      "height": 512,
+      "mips": 10,
+      "rgba8_decoded_bytes": 1398100,
+      "bc3_bytes": 349552
+    }
+  },
+  "overlay": {
+    "art/kr035/architecture/landmark-albedo.rrtex": {
+      "toc": "data",
+      "bytes": 1439725,
+      "sha256": "c63c2f6fcfb47b8f874ddad4c865c4ebc54ccfacdb9a7b4c2654496aa990c239",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/landmark-owner.rrtex": {
+      "toc": "data",
+      "bytes": 19436,
+      "sha256": "e9573ed7d121a8ee39e62326b395a7dd4ec4506357dde0f0eb1ddf1c15da32b3",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/bulguksa_temple/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 641,
+      "sha256": "bab060ce2a8294bbc377745c35ca500cb2d920e7f87d41f15dc9aa62814de7fe",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/gate_of_reverence/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 641,
+      "sha256": "bab060ce2a8294bbc377745c35ca500cb2d920e7f87d41f15dc9aa62814de7fe",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/gyeongbok_palace/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 641,
+      "sha256": "bab060ce2a8294bbc377745c35ca500cb2d920e7f87d41f15dc9aa62814de7fe",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/hall_of_worthies/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 641,
+      "sha256": "bab060ce2a8294bbc377745c35ca500cb2d920e7f87d41f15dc9aa62814de7fe",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/hwangnyongsa/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 14095,
+      "sha256": "e593c451059cdaf45491e45e0fc9c1be7fc4d607e35dc6e3b595858a0412a591",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/mountain_fortress/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 641,
+      "sha256": "bab060ce2a8294bbc377745c35ca500cb2d920e7f87d41f15dc9aa62814de7fe",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/seon_deok_observatory/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 641,
+      "sha256": "bab060ce2a8294bbc377745c35ca500cb2d920e7f87d41f15dc9aa62814de7fe",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/seowon_academy/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 641,
+      "sha256": "bab060ce2a8294bbc377745c35ca500cb2d920e7f87d41f15dc9aa62814de7fe",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/stone_pagoda/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 641,
+      "sha256": "bab060ce2a8294bbc377745c35ca500cb2d920e7f87d41f15dc9aa62814de7fe",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/rough_granite.rrtex": {
+      "toc": "data",
+      "bytes": 115689,
+      "sha256": "cd499f1301d1b549cbdc4bf2107039a823c2e04efac2c1512288311a25fbe230",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/weathered_timber.rrtex": {
+      "toc": "data",
+      "bytes": 78955,
+      "sha256": "e9e0162f5a253d7b8bda9090de7ea49b3f9719e1b192a41f91dd583f3602f664",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/reed_thatch.rrtex": {
+      "toc": "data",
+      "bytes": 88512,
+      "sha256": "433cdeafcc46193bf700934f5df50def85328fef2801464dd6d04d9139a0e4d8",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/shelter-owner.rrtex": {
+      "toc": "data",
+      "bytes": 1638,
+      "sha256": "d8ee1f3d96b63cf0b7eb14aa16df291d4c89942087a802e026c9ce7e406713a9",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/korea_lumber_camp01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 1956,
+      "sha256": "bddcfe5c173ad91c3359130ab70cebc5c669b9ce06f8b04dcbcea6354f1e9281",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/static/korea_mining_camp01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 1956,
+      "sha256": "bddcfe5c173ad91c3359130ab70cebc5c669b9ce06f8b04dcbcea6354f1e9281",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/plaster-17199498810477758055.rrtex": {
+      "toc": "data",
+      "bytes": 128594,
+      "sha256": "3cc4e1a79d47a5daa60a3c490ff0cef5abf5d3203efed7b6f63a300c87decedf",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/stone-7702168862315108242.rrtex": {
+      "toc": "data",
+      "bytes": 132433,
+      "sha256": "a3901b6f49e4d4e15d8a7493fcabe9c5610788d1cb94027e681000dfa28abb7a",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/plaster-1010901216075870242.rrtex": {
+      "toc": "data",
+      "bytes": 63913,
+      "sha256": "cc7ab447dfab3e6cb660bfa89ea2305895a313df0b20560af7e9ddd52e518cda",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_archery_range02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 51038,
+      "sha256": "06cfcbceeb3afc8842b648aad81100aaee9ef80f01e5f0410603a0661d115bba",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_archery_range03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 51280,
+      "sha256": "2c9391445651c01a5cb3518ecd28740197a89331685ec2025454a5edf8589986",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/plaster-4611286749468971337.rrtex": {
+      "toc": "data",
+      "bytes": 76260,
+      "sha256": "2dbc4d0ca613a858b72d195ce96550f6ec94ce25244c57b6280957e75cfadbac",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_archery_range04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47166,
+      "sha256": "b403ee30feabe04357955ba6962dc3da8cfb7c677c4ce5aa3c697be36ceba581",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/stone-3929669517347687700.rrtex": {
+      "toc": "data",
+      "bytes": 137079,
+      "sha256": "d0074ab20e5e4e517459164215718f4fde775f0bca88a717e8b31b62439c2f09",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_barracks_combined01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 66658,
+      "sha256": "9418b6f9080bb6ff2ac005369cf57e543adf10038a352daa41c3dc421c99f825",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_barracks_combined02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 82682,
+      "sha256": "32fea62809c5957d9f480f64def4193a9b05697196ea19959bbaf40cd551adb9",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_barracks_combined03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 82598,
+      "sha256": "7b9bb259e620dfb43a71ae4f651363ccf03bedd5e36034f0f519f6c91ce51464",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_barracks_combined04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 77134,
+      "sha256": "6ffe2c79fbc8ae00ea4324a2dc40e8a496d3ff37d51cd9a4f5fef3277751af5e",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_blacksmith02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 50394,
+      "sha256": "8153133cb95f69aa2214d71dbdb1f245fa637031e19d0e3f282906627d37f54d",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_blacksmith03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 50852,
+      "sha256": "820438507459a865663da146da0f9dc90d4e9958a74fd31e3c9c390d033748d1",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_blacksmith04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47796,
+      "sha256": "2936b7467a6b5773d3705cce56c1b059c397a0a37a0f26cbecdd70a7acaab805",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_dock02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 64550,
+      "sha256": "388ac0b3997c2d7f5e2e0a2c39de360a0367f0df2fd2b4f9054cf517bf75f664",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_dock03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 64644,
+      "sha256": "5b288b0dfde4a60321bcf87b8602354e6b920aa8121598cb512766256bbbcb09",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_dock04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 62210,
+      "sha256": "889bdb2570d82f7b148ba4e6c845ffd7aba27c805f90b485bc0e6f0a703ad061",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/stone-3073305326982814406.rrtex": {
+      "toc": "data",
+      "bytes": 121919,
+      "sha256": "1e6486922b472d5f3d8b4db99421ed8f7dd4da78613549983a28854d1418de80",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_gristmill01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 51034,
+      "sha256": "fc25aa7317dc59a08fcfbbca5afeff0a648d5e3cf220ad9155a9270aa5d8b005",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/stone-1851766695653794545.rrtex": {
+      "toc": "data",
+      "bytes": 116525,
+      "sha256": "4d755b90f8acb6e50e0c57adbce0b3ce231fbfbd39bdebb680393907919d2d88",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_housea01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 32830,
+      "sha256": "d361e85b4e159fdb868b49eec8e97f2e944d96dfde38faf1230bcd745a2302c8",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_housea02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 33722,
+      "sha256": "25b7f0879edf29bdc00c6324fcce6ae706e64a85456ccc42e534c85a534b6672",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_housea03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 33616,
+      "sha256": "8bc707dc322fbcb175cb62a8a9797288042c35a6a08dcf9e7209a762c03e7fa9",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_housea04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47828,
+      "sha256": "d2b3dc98b4100385ef1a32061ac3ea49ce0aca7014f2cd0465bb97f085f18ca6",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_houseb01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 33094,
+      "sha256": "b90290bd3917f66e3540c180c4cda05b0f3c303152a09883612959ded4e9ef39",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_houseb02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 32606,
+      "sha256": "2681bdcfa1a50243db7a62718cdab4a6f6b9a7d9bc3e08d950dfe97f8244123d",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_houseb03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 33254,
+      "sha256": "55c3def6b386f8891ebd1f241a36c5e50d37e8815d0c4749ce3711df318467e3",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_houseb04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47170,
+      "sha256": "538e003ce2fbd9ebd51470431d938ad38d1f24cd76cbd689d767a893b4f09944",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_housec01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 32890,
+      "sha256": "116047af24337f54178b2702b8e0c4d64247bf25ea768ccd0d7b503848666977",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_housec02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 34128,
+      "sha256": "665f61ecbfb699e8e268215dae0aa33f48753cab99dae90917cc88474035c30a",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_housec03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 34104,
+      "sha256": "93271d96e564adc0b7d9dccc6cd1d05b2c7398440c54d335c5c542613f8d4784",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_housec04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 23129,
+      "sha256": "dac9ceca45246ae1dd8e76cfa164119dbe320ca9f19925ca51361bf65fa5e70c",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_market02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 32268,
+      "sha256": "8f869bebd0a53d0ac7ac214ba1e7c20a90f04b08d7a57fdbd268332f8bb986fc",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_market03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 32260,
+      "sha256": "0d43a499084699346eb372510d06866d56a89add355cacee20dc31ad38032602",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_market04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47426,
+      "sha256": "6a2b75190436f8ca39412411f28cf61a767b5e7ea9bb072dd060fbc88a3d42f8",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_monastery03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47892,
+      "sha256": "a7137f50c02cb12b002271120698ce2657d7e4cda650a38adffcb9c10f2a380d",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_monastery04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 48682,
+      "sha256": "fe40aad96c24a55496479dc58bebff6f33ff8ab1e46af84cb91ad138f0e1a0d1",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_outpost_stone01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 50400,
+      "sha256": "9c38b3056bf8a3fcef65048873cff7f3e2c19aa4cb0f17ff4058350cca8789de",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_siege_workshop03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47840,
+      "sha256": "446e66edf3e97e42a6213de0c464b555063b1f5d769b64211b01aaea95d101a7",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_siege_workshop04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47932,
+      "sha256": "44d189e0e8f71ed61d1ef7608add36918b7c086cffebbcee63a293cc68406ae0",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_stable02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 49838,
+      "sha256": "e277741c7391619e556253f73cdfc2709919c105095157e216285823b7da7e9a",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_stable03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 49836,
+      "sha256": "47cf4f4f8f920f2ea65215ffa0dc4d50868ba03939d48b53236e8b8fd9edb6c7",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_stable04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 47662,
+      "sha256": "29303eadaeb76af65421526e2383ef806b6b67dc5ca4f4945d13f339311885db",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr035/architecture/stone-3506296802754216513.rrtex": {
+      "toc": "data",
+      "bytes": 126893,
+      "sha256": "36e8d6b69cd9d1dc1273f555db2cd0d9a141f80e2852c7271eb432bd9f8cf5bd",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_stone_tower02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 33596,
+      "sha256": "49d9f23cdc2dad84a0378593fa895215a84a08a64c119798e6ed20c1387e6f5e",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_towncenter_combined01/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 158828,
+      "sha256": "6a26d298b068300b3f9595470e010dd8b9cbef9da015ce809582466f9f711c58",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_towncenter_combined02/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 160226,
+      "sha256": "42994c57ef02497995f46b74c0dab561a605c6a7e2e3bac66c07a9fd00893d5e",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_towncenter_combined03/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 160348,
+      "sha256": "60ae4621852fc5a38f4391d9de9e7d51a8461d46706ee01a8c0ee1c963e6d08d",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_towncenter_combined04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 170664,
+      "sha256": "06626234a6df08f59f42959d4c365ad0dc23c64de89017a8f6be9ba9088ea544",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    },
+    "art/kr013/ordinary/korea_university04/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 45496,
+      "sha256": "ea5e697c2406a4ebd8cc2657dfefe5f3042196ef4419ec1e46774b61c220ded0",
+      "origin": "0.3.5 Korean architecture finish and owner colour"
+    }
+  },
+  "coverage_method": "Native decoded BC3 red >= 128, stratified UV samples weighted by triangle area. Landmark entries list LODs 1-3. Work-camp coverage includes the attached shelter and all native machinery geometry groups; excludes incidental stamp props."
+}

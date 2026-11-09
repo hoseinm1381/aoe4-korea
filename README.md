@@ -1,3 +1,9 @@
+# Korea 0.3.5
+
+Korean landmarks, the keep, and the wonder have painted wood, warmer stone, and broader player-colour details. Lumber and mining camp shelters now show player colour on timber. See the [0.3.5 art and verification notes](docs/UPDATE_035.md) and GitHub Releases for the playable ZIP.
+
+---
+
 # Korea 0.3.4
 
 Tiger Hunters have distinct Feudal, Castle, and Imperial armor. Korean cavalry use separate native charge and fighting attachments, with restored shields and native bow animation. The Blender masters and weapon atlases are in `authoring/art034`. See [the 0.3.4 build and verification](docs/UPDATE_034.md) and GitHub Releases for the player ZIP.
