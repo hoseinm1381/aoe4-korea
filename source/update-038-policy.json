@@ -1,0 +1,31 @@
+{
+  "baseline_version": "0.3.7",
+  "allowed_changed": [
+    "art/kr013/static/bulguksa_temple/model.rgm",
+    "art/kr013/static/bulguksa_temple/model.rrgeom",
+    "art/kr013/static/gate_of_reverence/model.rgm",
+    "art/kr013/static/gate_of_reverence/model.rrgeom",
+    "art/kr013/static/gyeongbok_palace/model.rgm",
+    "art/kr013/static/gyeongbok_palace/model.rrgeom",
+    "art/kr013/static/hall_of_worthies/model.rgm",
+    "art/kr013/static/hall_of_worthies/model.rrgeom",
+    "art/kr013/static/hwangnyongsa/model.rgm",
+    "art/kr013/static/hwangnyongsa/model.rrgeom",
+    "art/kr013/static/mountain_fortress/model.rgm",
+    "art/kr013/static/mountain_fortress/model.rrgeom",
+    "art/kr013/static/seon_deok_observatory/model.rgm",
+    "art/kr013/static/seon_deok_observatory/model.rrgeom",
+    "art/kr013/static/seowon_academy/model.rgm",
+    "art/kr013/static/seowon_academy/model.rrgeom",
+    "art/kr013/static/stone_pagoda/model.rgm",
+    "art/kr013/static/stone_pagoda/model.rrgeom",
+    "ui/images/garrison/korea/presentation_011/flag_fade.rrtex",
+    "ui/images/garrison/korea/presentation_011/flag_list.rrtex",
+    "ui/images/garrison/korea/presentation_011/flag_list_small.rrtex",
+    "ui/images/garrison/korea/presentation_011/flag_secondary.rrtex",
+    "ui/images/garrison/korea/presentation_011/flag_secondary_small.rrtex",
+    "ui/images/garrison/korea/presentation_011/flag_tile.rrtex"
+  ],
+  "allowed_added": [],
+  "allowed_removed": []
+}

@@ -12,7 +12,12 @@ function Korea_Alive(e) return e~=nil and e.alive end
 function Korea_Entity(id) if id==unit.id then return unit end end
 function Entity_GetPlayerOwner(e) return e.owner end
 function Entity_GetID(e) return e.id end
-function Entity_GetBlueprint(e) return "building_landmark_age3_temple_of_the_sun_control_chi_ha_01" end
+function Entity_GetBlueprint(e)
+    return e.blueprint or "building_landmark_age3_temple_of_the_sun_control_chi_ha_01"
+end
+function Entity_GetHealth(e) return e.health or 100 end
+function Entity_IsUnderConstruction(e) return e.underConstruction or false end
+function Entity_GetBuildingProgress(e) return e.progress or 1 end
 function Entity_GetSquad(e) return e.squad end
 function Entity_GetActiveCommand(e)
     if e.command == nil then error('Entity does not have an active state') end
@@ -40,10 +45,12 @@ function Squad_IsMoving(s) return s.moving end
 function Squad_HasAcceptedCommands(s) return s.accepted end
 """
 class Barrage015(unittest.TestCase):
-    def engine(self,old=False,keep=False):
+    def engine(self,old=False,keep=False,setup=None):
         lua=LuaRuntime(unpack_returned_tuples=True);lua.execute(ENGINE)
         p=R/('tests/fixtures/art015-before/effects.scar' if old else 'source/scar/korea/effects.scar')
         lua.execute(p.read_text('utf-8'))
+        if setup is not None:
+            lua.execute(setup)
         lua.execute('KoreaEffects_Barrage({executer=unit,target={x=1,y=0,z=2}},player,'+str(keep).lower()+')')
         return lua
     def test_actual_old_fixture_reproduces_reported_nil_call(self):
@@ -69,6 +76,15 @@ class Barrage015(unittest.TestCase):
         self.assertEqual(lua.globals().calls.stops,2);self.assertEqual(lua.globals().calls.removed,4)
         lua=self.engine(keep=True);lua.execute('now=6;KoreaEffects_Timers(now);now=7;KoreaEffects_Timers(now)')
         self.assertEqual(lua.globals().calls.stops,1);self.assertEqual(lua.globals().calls.removed,2)
+    def test_regular_keep_can_barrage_without_landmark_state(self):
+        setup = 'unit.blueprint="building_defense_keep_chi_ha_01"; unit.ruined=true'
+        lua = self.engine(keep=True, setup=setup)
+        lua.execute('now=6;KoreaEffects_Timers(now);now=7;KoreaEffects_Timers(now)')
+        calls = lua.globals().calls
+        self.assertEqual((calls.attacks,calls.stops,calls.removed),(1,1,2))
+        for incomplete in ('unit.underConstruction=true', 'unit.progress=.5', 'unit.health=0'):
+            lua = self.engine(keep=True, setup=setup+';'+incomplete)
+            self.assertEqual(lua.globals().calls.attacks,0)
     def test_keep_cleanup_after_native_active_state_ended(self):
         lua=self.engine(keep=True)
         lua.execute('unit.command=nil;now=6;KoreaEffects_Timers(now);now=7;KoreaEffects_Timers(now)')

@@ -106,11 +106,19 @@ function KoreaEffects_Kill(context)
     end
 end
 
+local function barrageBuildingReady(entity, repairable)
+    if repairable then return Korea_Functioning(entity) end
+    return Korea_Alive(entity) and Entity_GetHealth(entity) > 0
+        and not Entity_IsUnderConstruction(entity) and Entity_GetBuildingProgress(entity) >= 1
+end
+
 function KoreaEffects_Barrage(context, player, keep)
     local entity = context.executer
     if not Korea_Alive(entity) or context.target == nil
         or Entity_GetPlayerOwner(entity) ~= player.id then return end
-    if keep and not Korea_Functioning(entity) then return end
+    local repairable = keep and Entity_GetBlueprint(entity) ==
+        Korea_BP("ebps", "building_landmark_age3_temple_of_the_sun_control_chi_ha_01")
+    if keep and not barrageBuildingReady(entity, repairable) then return end
     local id = Entity_GetID(entity)
     if KoreaState.barrages[id] then return end
     local weapon = Korea_BP("weapon", keep and "weapon_barrage_initial_explosive" or "weapon_acre_barrage_dot_abb")
@@ -137,8 +145,6 @@ function KoreaEffects_Barrage(context, player, keep)
         if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.squad_attack.after",nil) end -- KOREA024_DIAGNOSTIC
         SGroup_Destroy(group)
     end
-    local repairable = keep and Entity_GetBlueprint(entity) ==
-        Korea_BP("ebps", "building_landmark_age3_temple_of_the_sun_control_chi_ha_01")
     KoreaState.barrages[id] = {id = id, player = player, keep = keep, handles = handles, repairable = repairable,
         stopAt = World_GetGameTime() + (keep and 6 or 7), expires = World_GetGameTime() + 7}
 end
@@ -151,7 +157,8 @@ local function stopBarrage(entity, record)
     -- not the donor's random attack point (which is inside the boosted range).
     if Entity_GetPlayerOwner(entity) ~= record.player.id then return end
     if record.keep then
-        if not Korea_Functioning(entity) or not Entity_ActiveCommandIs(entity, CMD_AttackForced) then return end
+        if not barrageBuildingReady(entity, record.repairable)
+            or not Entity_ActiveCommandIs(entity, CMD_AttackForced) then return end
         local group = EGroup_CreateUnique()
         EGroup_Add(group, entity)
         if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.entity_stop.before",record.id) end -- KOREA024_DIAGNOSTIC
@@ -237,7 +244,7 @@ function KoreaEffects_Timers(now)
         if KoreaDiag024_Mark then KoreaDiag024_Mark("barrage.resolve_entity.after",id) end -- KOREA024_DIAGNOSTIC
         local alive = Korea_Alive(entity)
         local lost = alive and Entity_GetPlayerOwner(entity) ~= record.player.id
-        local ruined = alive and record.keep and not Korea_Functioning(entity)
+        local ruined = alive and record.keep and not barrageBuildingReady(entity, record.repairable)
         if record.repairable and entity ~= nil and not lost
             and (record.interrupted or not alive or ruined) then
             record.interrupted = true

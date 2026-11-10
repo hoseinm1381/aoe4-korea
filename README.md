@@ -1,3 +1,23 @@
+# Korea 0.3.8
+
+[Download the playable ZIP](https://github.com/hoseinm1381/aoe4-korea/releases/tag/v0.3.8). For development, clone with Git LFS and see [DEVELOPMENT.md](docs/DEVELOPMENT.md).
+
+Wavy Korean selection flag and highest-detail landmark meshes. See the [0.3.8 release notes](docs/UPDATE_038.md).
+
+---
+
+# Korea 0.3.7
+
+The nine unique buildings use stock-contract sRGB albedo textures. The Stone Pagoda has darker stone and courtyard finishes. See the [0.3.7 art and restart investigation](docs/UPDATE_037.md).
+
+---
+
+# Korea 0.3.6
+
+Nine unique buildings have separate historically inspired palettes and raised player-colour accents. The Stone Pagoda is taller. The ordinary Keep barrage readiness check, barrage weapon reloads, Codex connectors and card dates were updated. See [the 0.3.6 notes](docs/UPDATE_036.md).
+
+---
+
 # Korea 0.3.5
 
 Korean landmarks, the keep, and the wonder have painted wood, warmer stone, and broader player-colour details. Lumber and mining camp shelters now show player colour on timber. See the [0.3.5 art and verification notes](docs/UPDATE_035.md) and GitHub Releases for the playable ZIP.

@@ -1,0 +1,43 @@
+{
+  "baseline_version": "0.3.5",
+  "allowed_changed": [
+    "art/kr013/static/bulguksa_temple/model.rrgeom",
+    "art/kr013/static/bulguksa_temple/model.rrmaterial",
+    "art/kr013/static/gate_of_reverence/model.rrgeom",
+    "art/kr013/static/gate_of_reverence/model.rrmaterial",
+    "art/kr013/static/gyeongbok_palace/model.rrgeom",
+    "art/kr013/static/gyeongbok_palace/model.rrmaterial",
+    "art/kr013/static/hall_of_worthies/model.rrgeom",
+    "art/kr013/static/hall_of_worthies/model.rrmaterial",
+    "art/kr013/static/hwangnyongsa/model.rrgeom",
+    "art/kr013/static/hwangnyongsa/model.rrmaterial",
+    "art/kr013/static/mountain_fortress/model.rrgeom",
+    "art/kr013/static/mountain_fortress/model.rrmaterial",
+    "art/kr013/static/seon_deok_observatory/model.rrgeom",
+    "art/kr013/static/seon_deok_observatory/model.rrmaterial",
+    "art/kr013/static/seowon_academy/model.rrgeom",
+    "art/kr013/static/seowon_academy/model.rrmaterial",
+    "art/kr013/static/stone_pagoda/model.rgm",
+    "art/kr013/static/stone_pagoda/model.rrgeom",
+    "art/kr013/static/stone_pagoda/model.rrmaterial",
+    "attrib/codex/garrison/korea/korea_codex.rgd",
+    "attrib/weapon/korea/kr_weapon_acre_barrage_dot_abb.rgd",
+    "attrib/weapon/korea/kr_weapon_barrage_initial_explosive.rgd",
+    "scar/korea/effects.scar"
+  ],
+  "allowed_added": [
+    "art/kr036/architecture/bulguksa_temple.rrtex",
+    "art/kr036/architecture/gate_of_reverence.rrtex",
+    "art/kr036/architecture/gyeongbok_palace.rrtex",
+    "art/kr036/architecture/hall_of_worthies.rrtex",
+    "art/kr036/architecture/hwangnyongsa.rrtex",
+    "art/kr036/architecture/mountain_fortress.rrtex",
+    "art/kr036/architecture/raised-owner.rrtex",
+    "art/kr036/architecture/seon_deok_observatory.rrtex",
+    "art/kr036/architecture/seowon_academy.rrtex",
+    "art/kr036/architecture/shared-matte.rrtex",
+    "art/kr036/architecture/shared-normal.rrtex",
+    "art/kr036/architecture/stone_pagoda.rrtex"
+  ],
+  "allowed_removed": []
+}

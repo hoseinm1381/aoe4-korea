@@ -1,0 +1,56 @@
+{
+  "art/kr036/architecture/bulguksa_temple.rrtex": {
+    "toc": "data",
+    "bytes": 696801,
+    "sha256": "3a57e71f3699138a9ddf10b400107f84a860984dce2306d723782ef85d24280c",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  },
+  "art/kr036/architecture/gate_of_reverence.rrtex": {
+    "toc": "data",
+    "bytes": 685385,
+    "sha256": "4c36ce6dbc1fb1393b75395237a9914d3417d68c0686473db0b50b12071fc447",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  },
+  "art/kr036/architecture/gyeongbok_palace.rrtex": {
+    "toc": "data",
+    "bytes": 689776,
+    "sha256": "995d34f08fc2a38492fd7fa6825736d91ea89968f2a341aabce6b37b085ea760",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  },
+  "art/kr036/architecture/hall_of_worthies.rrtex": {
+    "toc": "data",
+    "bytes": 696133,
+    "sha256": "962d3b439b32b11356563f941d6f3c1576ec4273400f590c6b043cb64ef481db",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  },
+  "art/kr036/architecture/hwangnyongsa.rrtex": {
+    "toc": "data",
+    "bytes": 684087,
+    "sha256": "4986eda3eb553007169367b44ca6fc9d426e382cf7eea2b4762a21bad510013d",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  },
+  "art/kr036/architecture/mountain_fortress.rrtex": {
+    "toc": "data",
+    "bytes": 727564,
+    "sha256": "ee599c2fde5a6529d0b2fe54a62a2f942a32acab37a100dbfc0865aaab500127",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  },
+  "art/kr036/architecture/seon_deok_observatory.rrtex": {
+    "toc": "data",
+    "bytes": 725781,
+    "sha256": "723183c703cf24d43bf5230aae238fef8fca82f0157e6ee0a389f1442de14645",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  },
+  "art/kr036/architecture/seowon_academy.rrtex": {
+    "toc": "data",
+    "bytes": 728877,
+    "sha256": "9257f2daea5151934de60bc4fefe8ef679c3c218248b31780ed7cfb7676682b3",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  },
+  "art/kr036/architecture/stone_pagoda.rrtex": {
+    "toc": "data",
+    "bytes": 762598,
+    "sha256": "b6cd7bfe2c9d8a31c2115f3c1c9326db75e1043960d65aa52b661777a1fba68b",
+    "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
+  }
+}

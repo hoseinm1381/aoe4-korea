@@ -1,0 +1,324 @@
+{
+  "coverage": {
+    "bulguksa_temple": {
+      "1": 9.46,
+      "2": 9.47,
+      "3": 9.47
+    },
+    "gate_of_reverence": {
+      "1": 9.44,
+      "2": 9.47,
+      "3": 9.46
+    },
+    "gyeongbok_palace": {
+      "1": 8.83,
+      "2": 8.71,
+      "3": 8.14
+    },
+    "hall_of_worthies": {
+      "1": 9.45,
+      "2": 9.45,
+      "3": 9.45
+    },
+    "hwangnyongsa": {
+      "1": 9.38,
+      "2": 9.39,
+      "3": 8.78
+    },
+    "mountain_fortress": {
+      "1": 9.46,
+      "2": 9.47,
+      "3": 9.45
+    },
+    "seon_deok_observatory": {
+      "1": 6.67,
+      "2": 6.67,
+      "3": 6.67
+    },
+    "seowon_academy": {
+      "1": 9.48,
+      "2": 9.5,
+      "3": 9.47
+    },
+    "stone_pagoda": {
+      "1": 6.69,
+      "2": 6.68,
+      "3": 6.6
+    }
+  },
+  "overlay": {
+    "art/kr036/architecture/shared-normal.rrtex": {
+      "toc": "data",
+      "bytes": 380665,
+      "sha256": "86b4955e38941d17645b2584c244d8f110175f18c63489312130268188e4f469",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/shared-matte.rrtex": {
+      "toc": "data",
+      "bytes": 8621,
+      "sha256": "20170cf20bff01017a9e15285d5491923e1f76e5204477411b4df1e4a87374b4",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/raised-owner.rrtex": {
+      "toc": "data",
+      "bytes": 5043,
+      "sha256": "a26e73cde4dff87acb3a2700aab9a4e0b6fdd3c668db12ab3f98b9e8351e609a",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/bulguksa_temple.rrtex": {
+      "toc": "data",
+      "bytes": 774995,
+      "sha256": "082847eecc1ce12de429f5b5c2c27c29953de495c8d32269d7ede1839ff50c5a",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/bulguksa_temple/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 622,
+      "sha256": "a290075feab0f81575148f0557f2bdc0ef53c07ae6b05b44d142ab5de3c698fc",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/bulguksa_temple/model.rrgeom": {
+      "toc": "data",
+      "bytes": 11191099,
+      "sha256": "ec33a0db447ba2fbf52fde3903fba6bf44ec385f4a4c80c2f388ee294fcd2c93",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/gate_of_reverence.rrtex": {
+      "toc": "data",
+      "bytes": 762817,
+      "sha256": "cec0c085ee7c7732d15d3da1df8d6f5bdfd3081e5264e31a4b1afc0fdfe779ff",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/gate_of_reverence/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 624,
+      "sha256": "96e386bf76aeeaed8649ec2c431dea6e4842dabe978c3ff6eaca1e96aea66f8d",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/gate_of_reverence/model.rrgeom": {
+      "toc": "data",
+      "bytes": 7400551,
+      "sha256": "f1e8e7d8498fda03603ef5471f0cf93faf4aa42bdc71a2d7173c2d2afafed8cc",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/gyeongbok_palace.rrtex": {
+      "toc": "data",
+      "bytes": 764184,
+      "sha256": "09e818e3c6d68b5ca7b8f15cdfa43af15ad58e186960f623532674106aea013b",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/gyeongbok_palace/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 623,
+      "sha256": "f27234c6a5a6bb00701dfa5b6c0bcbd88d863156fc3d8ea227eb9743b5e75cee",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/gyeongbok_palace/model.rrgeom": {
+      "toc": "data",
+      "bytes": 7619531,
+      "sha256": "8449d8680cc1920ffaf7f05491f09d6ac13e05baf4fdd943f3cd5d5a6ff633ad",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/hall_of_worthies.rrtex": {
+      "toc": "data",
+      "bytes": 774426,
+      "sha256": "93a3806c15298e12f66c38593793eb1afa24deec7846fb50e948add2e03acce3",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/hall_of_worthies/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 623,
+      "sha256": "29ca94d0ddcc7d4ba27b750707e45ea6a1af44b938dd6569a57a18ea62d5fc4e",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/hall_of_worthies/model.rrgeom": {
+      "toc": "data",
+      "bytes": 6470199,
+      "sha256": "2a98e123f00dd8ccf6e341186bcc406e1250b55af64278a9821976b6a0894294",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/hwangnyongsa.rrtex": {
+      "toc": "data",
+      "bytes": 761681,
+      "sha256": "a606edd499d2a7c4a69d09882733811a7050c03c1971f5da7ba0a53843582b34",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/hwangnyongsa/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 13611,
+      "sha256": "1d1adcac709f9be91b9e7219249b4473d3f9d079059a1a0725e66fb804556e84",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/hwangnyongsa/model.rrgeom": {
+      "toc": "data",
+      "bytes": 19694192,
+      "sha256": "e2d9e98e8485048c44a83fcb6eea5940ba0861256c2ba8185fa30020f085b6be",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/mountain_fortress.rrtex": {
+      "toc": "data",
+      "bytes": 809877,
+      "sha256": "05a0a4521713aefce02f6f6798a253f1869d5434131edc5fe73da044da4266d1",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/mountain_fortress/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 624,
+      "sha256": "8832b7ced8cc969da88b0737051fbf49c71a9b9c0d2e1d275604336e85719933",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/mountain_fortress/model.rrgeom": {
+      "toc": "data",
+      "bytes": 7261527,
+      "sha256": "50d27c209677b0cb892f1be153fbee72e95a55fde122b59ac9bd9539135b595f",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/seon_deok_observatory.rrtex": {
+      "toc": "data",
+      "bytes": 807934,
+      "sha256": "8cef2411d301ff0490e57228c1db7acd08e92770b4cd437212fb5e4569281c66",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/seon_deok_observatory/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 628,
+      "sha256": "65f1c28cb81f0574d39462b1a8ceb8f80560d5fe00d45a6014c55fd9fb29b828",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/seon_deok_observatory/model.rrgeom": {
+      "toc": "data",
+      "bytes": 3611711,
+      "sha256": "732ce56028a1fe7d4e114e7cd7703798b96604b2fff1654fda782323c14f77b8",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/seowon_academy.rrtex": {
+      "toc": "data",
+      "bytes": 809877,
+      "sha256": "dcbbf0df55457e43d3023e247fbe71b55712a86d3d08f51ccee0ab105239cf5b",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/seowon_academy/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 621,
+      "sha256": "24c1aad2fbc5bc1986a0d321a808056153f8d5038cc16d6058cdc5c2964f452c",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/seowon_academy/model.rrgeom": {
+      "toc": "data",
+      "bytes": 6747699,
+      "sha256": "a4adc47dec99cea2cbd70f3206779716075fedfe994cebf01bebb5a207ba3429",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr036/architecture/stone_pagoda.rrtex": {
+      "toc": "data",
+      "bytes": 809646,
+      "sha256": "0d0f8be1e0410ddb57e778f740b911865aac7b19feca5ed36d93e15affe78e7a",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/stone_pagoda/model.rrmaterial": {
+      "toc": "data",
+      "bytes": 619,
+      "sha256": "bc7c1335617c87a33321442ec2726306aa71db73167c40a4f4c9ac326850a11e",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/stone_pagoda/model.rrgeom": {
+      "toc": "data",
+      "bytes": 1034539,
+      "sha256": "6ddd9e7f477b7a2516c9eb98baa53af19dbebee66b37a1c2ccb2faf5989b97e5",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    },
+    "art/kr013/static/stone_pagoda/model.rgm": {
+      "toc": "data",
+      "bytes": 141457,
+      "sha256": "c0a608e86eb7e50c3a2517cf26e7bad653a17fc49933a66ad65a5a416e15d480",
+      "origin": "0.3.6 landmark-specific paint, native UV routing or visual geometry"
+    }
+  },
+  "textures": {
+    "shared-normal": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "shared-matte": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "bulguksa_temple": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "gate_of_reverence": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "gyeongbok_palace": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "hall_of_worthies": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "hwangnyongsa": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "mountain_fortress": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "seon_deok_observatory": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "seowon_academy": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "stone_pagoda": {
+      "width": 2048,
+      "height": 1024,
+      "mips": 12,
+      "rgba8_decoded_bytes": 11184812,
+      "bc3_bytes": 2796240
+    },
+    "raised-owner": {
+      "width": 1024,
+      "height": 512,
+      "mips": 11,
+      "rgba8_decoded_bytes": 2796204,
+      "bc3_bytes": 699088
+    }
+  },
+  "zero_owner_colour_on_ground_islands": true
+}

@@ -1,3 +1,11 @@
+# Rebuild Korea 0.3.8
+
+Clone this repository with Git LFS installed and run `git lfs pull`. Install AoE IV, the Garrison authoring tools and Python 3.13. Verify the native and editable inputs with `python -B tools/inputs.py verify`, then run `BUILD.cmd`. The builder assembles the full mod from the indexed native media, tuning, localization and SCAR. For model, flag and audio editing, retain the indexed masters under `authoring/` and the specific recook inputs linked from the [0.3.8 notes](UPDATE_038.md).
+
+The player ZIP is distributed through [GitHub Releases](https://github.com/hoseinm1381/aoe4-korea/releases/tag/v0.3.8). Scratch outputs and rollback ZIPs are local.
+
+---
+
 # Korea 0.3.0
 
 Korean units now have a five-second reply cooldown per unit and task. A different task can reply as soon as the current line finishes. Rapid orders leave at most one pending reply for the selected squad.

@@ -204,8 +204,8 @@ class Candidate:
         with Image.open(dds) as image:
             return raw, image.convert('RGBA')
 
-    def encode(self, label, template, image):
-        master = self.output / 'authoring/art035' / (label + '.png')
+    def encode(self, label, template, image, *, art_version='035'):
+        master = self.output / f'authoring/art{art_version}' / (label + '.png')
         master.parent.mkdir(parents=True, exist_ok=True)
         image.save(master, optimize=True)
         self.masters['files'].append({
@@ -213,7 +213,7 @@ class Candidate:
             'bytes': master.stat().st_size, 'sha256': hashlib.sha256(master.read_bytes()).hexdigest(),
             'role': 'editable Korean building paint or dynamic owner mask',
         })
-        path = f'art/kr035/architecture/{label}'
+        path = f'art/kr{art_version}/architecture/{label}'
         levels = []
         for i in range(max(image.size).bit_length()):
             size = tuple(max(1, dim >> i) for dim in image.size)

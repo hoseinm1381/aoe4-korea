@@ -58846,6 +58846,84 @@
       "bytes": 165362,
       "sha256": "2ebb3217bd5af153348ebc73e9856a414b28b2bc6bb9dccc44d2d84887fbc630",
       "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/shared-normal.png",
+      "bytes": 446806,
+      "sha256": "b4def355dbd5ea5afaa6f61e4f91f4731653fefa50bd248dbc3905794d3fd977",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/shared-matte.png",
+      "bytes": 10280,
+      "sha256": "501c006496e4115bb76ac936d823f7475041c9dab560e70ce6594c534876a438",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/raised-owner.png",
+      "bytes": 3015,
+      "sha256": "e2aa36d13b7e3845aa7b2bc3f3e9faaf400323eba9ba5d19ca2650c3f07c11a4",
+      "role": "0.3.6 shared dynamic owner mask with native zero alpha"
+    },
+    {
+      "path": "art036/bulguksa_temple.png",
+      "bytes": 1232719,
+      "sha256": "70f041c27838eb0632da2af7c5560a007520e0084adcf74acf05f629dbc3c51b",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/gate_of_reverence.png",
+      "bytes": 1250664,
+      "sha256": "6f1c6464f39fa7b21bfed9573c13ca73acc793c584d1905ce72872e06cfce915",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/gyeongbok_palace.png",
+      "bytes": 1248531,
+      "sha256": "f66962370b48db7de410c09d3d210f1ad63c33075a6036551150fbca3f0fe9d2",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/hall_of_worthies.png",
+      "bytes": 1238412,
+      "sha256": "7a1e8661d39df76e109d01870852a3b30c3498c559883408d1193205ff79f500",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/hwangnyongsa.png",
+      "bytes": 1243688,
+      "sha256": "9ed77a93adf8586c80dcd82d6be9f17b06e6916a68d32be8813b1ef51cd07cdb",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/mountain_fortress.png",
+      "bytes": 1273149,
+      "sha256": "6a1ad813932e9536c1acdbc71c1a7f27dc2445594bfd92eb2b2ed6df64ee96fe",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/seon_deok_observatory.png",
+      "bytes": 1266150,
+      "sha256": "63499506f94d322b9a75ed0e94f4ec73629c2b42af8d32263f2ce84b8cecd619",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/seowon_academy.png",
+      "bytes": 1264668,
+      "sha256": "2ad6946bfa7345ae736f36167964d6d3df63f36a761832133a0569b373329ca1",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art036/stone_pagoda.png",
+      "bytes": 1261266,
+      "sha256": "df4e68ee924a183a634f61a1a6a995ee627122adc9b2e2ce9dc462a95cca7b15",
+      "role": "editable Korean building paint or dynamic owner mask"
+    },
+    {
+      "path": "art037/stone-pagoda-srgb.png",
+      "bytes": 1210904,
+      "sha256": "7f40709fd2a7e194609ade0a980b42d852f1fbb2204599624985d58cdfadb390",
+      "role": "0.3.7 revised Stone Pagoda sRGB paint"
     }
   ],
   "audio": "Vietnam shipped Ogg clips are editable whole files under inputs/native/audio, not duplicated in authoring. Original WAV or voice-generation environments are not in the accepted combined GitHub snapshot.",

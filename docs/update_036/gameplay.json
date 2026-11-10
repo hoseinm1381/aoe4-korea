@@ -1,0 +1,546 @@
+{
+  "reloads": {
+    "old": 3,
+    "new": 6,
+    "variant": "default"
+  },
+  "edges": {
+    "default": [
+      {
+        "start": "upgrade_econ_resource_food_harvest_rate_2",
+        "end": "upgrade_econ_resource_food_harvest_rate_3",
+        "x": -3,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_food_harvest_rate_3",
+        "end": "upgrade_econ_resource_food_harvest_rate_4",
+        "x": -3,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_gold_harvest_rate_2",
+        "end": "upgrade_econ_resource_gold_harvest_rate_3",
+        "x": 0,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_gold_harvest_rate_3",
+        "end": "upgrade_econ_resource_gold_harvest_rate_4",
+        "x": 0,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_wood_harvest_rate_2",
+        "end": "upgrade_econ_resource_wood_harvest_rate_3",
+        "x": 1,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_wood_harvest_rate_3",
+        "end": "upgrade_econ_resource_wood_harvest_rate_4",
+        "x": 1,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_1_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_2_chi_ha_01",
+        "x": -2,
+        "start_row": 1,
+        "end_row": 4,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_2_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_3_chi_ha_01",
+        "x": -2,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "upgrade_unit_spearman_2",
+        "end": "upgrade_unit_spearman_3",
+        "x": 4,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_manatarms_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_manatarms_4_chi_ha_01",
+        "x": -4,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_4_chi_ha_01",
+        "x": -2,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "upgrade_unit_spearman_3",
+        "end": "upgrade_unit_spearman_4",
+        "x": 4,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_2_ayy",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_ayy",
+        "x": -1,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_ayy",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_4_ayy",
+        "x": -1,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "upgrade_melee_armor_i",
+        "end": "upgrade_melee_armor_ii",
+        "x": -5,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_melee_damage_i",
+        "end": "upgrade_melee_damage_ii",
+        "x": -3,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_ranged_armor_i",
+        "end": "upgrade_ranged_armor_ii",
+        "x": -1,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_ranged_damage_i",
+        "end": "upgrade_ranged_damage_ii",
+        "x": 1,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_melee_armor_ii",
+        "end": "upgrade_melee_armor_iii",
+        "x": -5,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_melee_damage_ii",
+        "end": "upgrade_melee_damage_iii",
+        "x": -3,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_ranged_armor_ii",
+        "end": "upgrade_ranged_armor_iii",
+        "x": -1,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_ranged_damage_ii",
+        "end": "upgrade_ranged_damage_iii",
+        "x": 1,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_2_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_chi_ha_01",
+        "x": -6,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_4_chi_ha_01",
+        "x": -6,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_knight_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_knight_4_chi_ha_01",
+        "x": -4,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "upgrade_unit_horseman_3",
+        "end": "upgrade_unit_horseman_4",
+        "x": 4,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_2_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_3_chi_ha_01",
+        "x": -9,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_2_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_3_chi_ha_01",
+        "x": -1,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_4_chi_ha_01",
+        "x": -9,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_crossbowman_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_crossbowman_4_chi_ha_01",
+        "x": -7,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_4_chi_ha_01",
+        "x": -1,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_upgrade_unit_repeater_crossbow_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_upgrade_unit_repeater_crossbow_4_chi_ha_01",
+        "x": 5,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_unit_archer_3",
+        "end": "upgrade_unit_archer_4",
+        "x": 7,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      }
+    ],
+    "campaign": [
+      {
+        "start": "upgrade_econ_resource_food_harvest_rate_2",
+        "end": "upgrade_econ_resource_food_harvest_rate_3",
+        "x": -3,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_food_harvest_rate_3",
+        "end": "upgrade_econ_resource_food_harvest_rate_4",
+        "x": -3,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_gold_harvest_rate_2",
+        "end": "upgrade_econ_resource_gold_harvest_rate_3",
+        "x": 0,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_gold_harvest_rate_3",
+        "end": "upgrade_econ_resource_gold_harvest_rate_4",
+        "x": 0,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_wood_harvest_rate_2",
+        "end": "upgrade_econ_resource_wood_harvest_rate_3",
+        "x": 1,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_econ_resource_wood_harvest_rate_3",
+        "end": "upgrade_econ_resource_wood_harvest_rate_4",
+        "x": 1,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_1_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_2_chi_ha_01",
+        "x": -2,
+        "start_row": 1,
+        "end_row": 4,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_2_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_3_chi_ha_01",
+        "x": -2,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "upgrade_unit_spearman_2",
+        "end": "upgrade_unit_spearman_3",
+        "x": 4,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_manatarms_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_manatarms_4_chi_ha_01",
+        "x": -4,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_spearman_4_chi_ha_01",
+        "x": -2,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "upgrade_unit_spearman_3",
+        "end": "upgrade_unit_spearman_4",
+        "x": 4,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_2_ayy",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_ayy",
+        "x": -1,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_ayy",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_4_ayy",
+        "x": -1,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "upgrade_melee_armor_i",
+        "end": "upgrade_melee_armor_ii",
+        "x": -5,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_melee_damage_i",
+        "end": "upgrade_melee_damage_ii",
+        "x": -3,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_ranged_armor_i",
+        "end": "upgrade_ranged_armor_ii",
+        "x": -1,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_ranged_damage_i",
+        "end": "upgrade_ranged_damage_ii",
+        "x": 1,
+        "start_row": 5,
+        "end_row": 8,
+        "length": 6
+      },
+      {
+        "start": "upgrade_melee_armor_ii",
+        "end": "upgrade_melee_armor_iii",
+        "x": -5,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_melee_damage_ii",
+        "end": "upgrade_melee_damage_iii",
+        "x": -3,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_ranged_armor_ii",
+        "end": "upgrade_ranged_armor_iii",
+        "x": -1,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_ranged_damage_ii",
+        "end": "upgrade_ranged_damage_iii",
+        "x": 1,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_2_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_chi_ha_01",
+        "x": -6,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_horseman_4_chi_ha_01",
+        "x": -6,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_knight_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_knight_4_chi_ha_01",
+        "x": -4,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "upgrade_unit_horseman_3",
+        "end": "upgrade_unit_horseman_4",
+        "x": 4,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_2_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_3_chi_ha_01",
+        "x": -9,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_2_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_3_chi_ha_01",
+        "x": -1,
+        "start_row": 4,
+        "end_row": 7,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_archer_4_chi_ha_01",
+        "x": -9,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_crossbowman_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_crossbowman_4_chi_ha_01",
+        "x": -7,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_unit_repeater_crossbowman_4_chi_ha_01",
+        "x": -1,
+        "start_row": 7,
+        "end_row": 10,
+        "length": 6
+      },
+      {
+        "start": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_upgrade_unit_repeater_crossbow_3_chi_ha_01",
+        "end": "748d61b94d3e4cf3a506a9ac1f992d1d:kr_upgrade_unit_repeater_crossbow_4_chi_ha_01",
+        "x": 5,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      },
+      {
+        "start": "upgrade_unit_archer_3",
+        "end": "upgrade_unit_archer_4",
+        "x": 7,
+        "start_row": 8,
+        "end_row": 11,
+        "length": 6
+      }
+    ]
+  },
+  "changed_tables": [
+    "source/tables/attrib/weapon/korea/kr_weapon_acre_barrage_dot_abb.rgd.json",
+    "source/tables/attrib/weapon/korea/kr_weapon_barrage_initial_explosive.rgd.json",
+    "source/tables/attrib/codex/garrison/korea/korea_codex.rgd.json"
+  ]
+}

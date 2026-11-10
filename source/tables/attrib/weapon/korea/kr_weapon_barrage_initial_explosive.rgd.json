@@ -3498,13 +3498,13 @@
                       "key": "max",
                       "hash": 11391645376553957247,
                       "kind": "Float",
-                      "value": 3.0
+                      "value": 6.0
                     },
                     {
                       "key": "min",
                       "hash": 11713854759041707324,
                       "kind": "Float",
-                      "value": 3.0
+                      "value": 6.0
                     }
                   ]
                 },

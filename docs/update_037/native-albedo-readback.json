@@ -1,0 +1,65 @@
+{
+  "bulguksa_temple": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  },
+  "gate_of_reverence": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  },
+  "gyeongbok_palace": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  },
+  "hall_of_worthies": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  },
+  "hwangnyongsa": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  },
+  "mountain_fortress": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  },
+  "seon_deok_observatory": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  },
+  "seowon_academy": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  },
+  "stone_pagoda": {
+    "srgb": true,
+    "format": "BC1_UNORM_SRGB",
+    "mips": 12,
+    "team_mask_and_other_materials_preserved": true,
+    "decoded_geometry_preserved": true
+  }
+}

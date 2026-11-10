@@ -9,3 +9,10 @@ __pycache__/
 !tools/codex.py
 !tools/cook_presentation.py
 !tools/render_presentation.mjs
+
+# Local review media and diagnostic bundles
+/docs/update_014/temporary-diagnostics.zip
+/docs/update_015/generated-diagnostics.zip
+/docs/update_036/architecture-preview.jpg
+/docs/update_038/flag-preview.png
+/docs/update_038/cleanup.json

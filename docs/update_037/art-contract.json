@@ -1,0 +1,18 @@
+{
+  "stock_albedo_member": "art/civilizations/chinese/humans/chi_villager_female_age02/15950792014866991141_packed.rrtex",
+  "format_before": "BC3_UNORM (22)",
+  "format_after": "BC1_UNORM_SRGB (19), TSRI present",
+  "models": [
+    "bulguksa_temple",
+    "gate_of_reverence",
+    "gyeongbok_palace",
+    "hall_of_worthies",
+    "hwangnyongsa",
+    "mountain_fortress",
+    "seon_deok_observatory",
+    "seowon_academy",
+    "stone_pagoda"
+  ],
+  "mips_per_texture": 12,
+  "standalone_scope": "albedo only"
+}

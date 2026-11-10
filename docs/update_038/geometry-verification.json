@@ -1,0 +1,83 @@
+{
+  "bulguksa_temple": {
+    "old_healthy_triangles": {
+      "1": 22052,
+      "2": 13176,
+      "3": 6276
+    },
+    "current_healthy_triangles": 22052,
+    "other_state_meshes_preserved": true
+  },
+  "gate_of_reverence": {
+    "old_healthy_triangles": {
+      "1": 15852,
+      "2": 7980,
+      "3": 3724
+    },
+    "current_healthy_triangles": 15852,
+    "other_state_meshes_preserved": true
+  },
+  "gyeongbok_palace": {
+    "old_healthy_triangles": {
+      "1": 17108,
+      "2": 11404,
+      "3": 4928
+    },
+    "current_healthy_triangles": 17108,
+    "other_state_meshes_preserved": true
+  },
+  "hall_of_worthies": {
+    "old_healthy_triangles": {
+      "1": 13832,
+      "2": 9888,
+      "3": 4236
+    },
+    "current_healthy_triangles": 13832,
+    "other_state_meshes_preserved": true
+  },
+  "hwangnyongsa": {
+    "old_healthy_triangles": {
+      "1": 38988,
+      "2": 24508,
+      "3": 11812
+    },
+    "current_healthy_triangles": 38988,
+    "other_state_meshes_preserved": true
+  },
+  "mountain_fortress": {
+    "old_healthy_triangles": {
+      "1": 15448,
+      "2": 6464,
+      "3": 3312
+    },
+    "current_healthy_triangles": 15448,
+    "other_state_meshes_preserved": true
+  },
+  "seon_deok_observatory": {
+    "old_healthy_triangles": {
+      "1": 5368,
+      "2": 4700,
+      "3": 4016
+    },
+    "current_healthy_triangles": 5368,
+    "other_state_meshes_preserved": true
+  },
+  "seowon_academy": {
+    "old_healthy_triangles": {
+      "1": 14536,
+      "2": 10416,
+      "3": 4576
+    },
+    "current_healthy_triangles": 14536,
+    "other_state_meshes_preserved": true
+  },
+  "stone_pagoda": {
+    "old_healthy_triangles": {
+      "1": 1840,
+      "2": 1144,
+      "3": 924
+    },
+    "current_healthy_triangles": 1840,
+    "other_state_meshes_preserved": true
+  }
+}
