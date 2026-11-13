@@ -1,0 +1,23 @@
+F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\preview.py:34: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True
+00:01.938  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\bulguksa_temple.png'
+00:02.516  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\gate_of_reverence.png'
+00:03.094  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\gyeongbok_palace.png'
+00:03.657  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\hall_of_worthies.png'
+00:04.375  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\hwangnyongsa.png'
+00:04.969  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\mountain_fortress.png'
+00:05.454  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\seon_deok_observatory.png'
+00:06.000  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\seowon_academy.png'
+00:06.454  render           | Saved: 'F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\palette\preview\stone_pagoda.png'
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Extensions: writing cache failed ([Errno 13] Permission denied: 'C:\\Users\\RS\\AppData\\Roaming\\Blender Foundation\\Blender\\5.2\\extensions\\.cache\\compat.dat').
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

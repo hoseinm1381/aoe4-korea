@@ -1,0 +1,16 @@
+{
+  "baseline_version": "0.3.9",
+  "allowed_changed": [
+    "art/kr013/static/bulguksa_temple/model.rgo",
+    "art/kr013/static/gate_of_reverence/model.rgo",
+    "art/kr013/static/gyeongbok_palace/model.rgo",
+    "art/kr013/static/hall_of_worthies/model.rgo",
+    "art/kr013/static/hwangnyongsa/model.rgo",
+    "art/kr013/static/mountain_fortress/model.rgo",
+    "art/kr013/static/seon_deok_observatory/model.rgo",
+    "art/kr013/static/seowon_academy/model.rgo",
+    "art/kr013/static/stone_pagoda/model.rgo"
+  ],
+  "allowed_added": [],
+  "allowed_removed": []
+}

@@ -1,0 +1,12 @@
+INPUTS_VERIFIED native=9828 editable=9767
+NATIVE_VALIDATION korea 543 tables
+NATIVE_ASSEMBLY korea F:\aoe_4_temp\Community_civilization_pack_garrison_temp\visual-repair-20261113\korea\garrison-independent-builds\748d61b9-4d3e-4cf3-a506-a9ac1f992d1d\korea-039-current
+Traceback (most recent call last):
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\build.py", line 272, in <module>
+    p=argparse.ArgumentParser(description=__doc__);p.add_argument('--output',type=Path,default=ROOT/'output/current');p.add_argument('--prepare-only',action='store_true');p.add_argument('--replace-current',action='store_true');a=p.parse_args();build(a.output.resolve(),a.prepare_only,a.replace_current)
+                                                                                                                                                                                                                                                    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\build.py", line 124, in build
+    return finalize(out,config,expected,native,tables,source_fingerprint,previous,assembly,codex_report)
+  File "F:\aoe_4_temp\New_custom_civilization\aoe4-korea\tools\build.py", line 156, in finalize
+    raise ValueError('Update escaped its explicit source/art allowlist: '+str((changed,added,removed)))
+ValueError: Update escaped its explicit source/art allowlist: (['art/kr036/architecture/bulguksa_temple.rrtex', 'art/kr036/architecture/gate_of_reverence.rrtex', 'art/kr036/architecture/gyeongbok_palace.rrtex', 'art/kr036/architecture/hall_of_worthies.rrtex', 'art/kr036/architecture/hwangnyongsa.rrtex', 'art/kr036/architecture/mountain_fortress.rrtex', 'art/kr036/architecture/seon_deok_observatory.rrtex', 'art/kr036/architecture/seowon_academy.rrtex', 'art/kr036/architecture/stone_pagoda.rrtex', 'attrib/codex/garrison/korea/korea_codex.rgd'], [], [])

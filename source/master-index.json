@@ -58924,6 +58924,60 @@
       "bytes": 1210904,
       "sha256": "7f40709fd2a7e194609ade0a980b42d852f1fbb2204599624985d58cdfadb390",
       "role": "0.3.7 revised Stone Pagoda sRGB paint"
+    },
+    {
+      "path": "art039/bulguksa_temple.png",
+      "bytes": 1146005,
+      "sha256": "1bae7ca37c04684180444300eb7883e3c31f5438dbebd3e44f9a7bfce1f2762d",
+      "role": "Editable landmark palette"
+    },
+    {
+      "path": "art039/gate_of_reverence.png",
+      "bytes": 1164459,
+      "sha256": "4230a625e5045600e61ae1f0b9e02dbb8ca487cb8b1a47ec37e87ab7ef15f528",
+      "role": "Editable landmark palette"
+    },
+    {
+      "path": "art039/gyeongbok_palace.png",
+      "bytes": 1166364,
+      "sha256": "4dfa0ac31482edbdd841cc817a96e8dc22c7b92e8b6f4015eec5db171b12f3f4",
+      "role": "Editable landmark palette"
+    },
+    {
+      "path": "art039/hall_of_worthies.png",
+      "bytes": 1153217,
+      "sha256": "30c539d08f5cdb32f565e78e80eaa5c9b0942bfe0d4648551a8e4342592ad06e",
+      "role": "Editable landmark palette"
+    },
+    {
+      "path": "art039/hwangnyongsa.png",
+      "bytes": 1156507,
+      "sha256": "4ed109fefd9790b6fa351deaefe7fb81bb88d9ba903bb606884c5bac9728b637",
+      "role": "Editable landmark palette"
+    },
+    {
+      "path": "art039/mountain_fortress.png",
+      "bytes": 1182427,
+      "sha256": "61ac5982666aa18e1888ecb119fd2b37d2b2ec4758ba02cf34105745eb63e914",
+      "role": "Editable landmark palette"
+    },
+    {
+      "path": "art039/seon_deok_observatory.png",
+      "bytes": 1174015,
+      "sha256": "2f762f2489a36b27cfb20015dd26803a90133984e6a6305f3c80a70755861406",
+      "role": "Editable landmark palette"
+    },
+    {
+      "path": "art039/seowon_academy.png",
+      "bytes": 1174299,
+      "sha256": "abd2363a30f44e789434407087a4dcf932a73a67aae0c2ce297ebd9a98d3b98d",
+      "role": "Editable landmark palette"
+    },
+    {
+      "path": "art039/stone_pagoda.png",
+      "bytes": 1166547,
+      "sha256": "4de85b0e212c3951ff47c215a0f334795ecc0071a5ae0f6451e6dace24b534c9",
+      "role": "Editable landmark palette"
     }
   ],
   "audio": "Vietnam shipped Ogg clips are editable whole files under inputs/native/audio, not duplicated in authoring. Original WAV or voice-generation environments are not in the accepted combined GitHub snapshot.",

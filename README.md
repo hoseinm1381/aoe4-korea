@@ -1,6 +1,15 @@
-# Korea 0.3.8
+# Korea 0.3.10
 
-[Download the playable ZIP](https://github.com/hoseinm1381/aoe4-korea/releases/tag/v0.3.8). For development, clone with Git LFS and see [DEVELOPMENT.md](docs/DEVELOPMENT.md).
+Current release **0.3.10**. Restores native construction and ruin controllers on all nine custom landmarks.
+Fresh-match verification is pending.
+
+[Download the playable ZIP](https://github.com/hoseinm1381/aoe4-korea/releases/tag/v0.3.10) · [Build notes](docs/UPDATE_0310.md).
+
+For development, clone with Git LFS and see [DEVELOPMENT.md](docs/DEVELOPMENT.md).
+
+---
+
+# Korea 0.3.8
 
 Wavy Korean selection flag and highest-detail landmark meshes. See the [0.3.8 release notes](docs/UPDATE_038.md).
 

@@ -1,0 +1,56 @@
+{
+  "art/kr036/architecture/gyeongbok_palace.rrtex": {
+    "archive_bytes": 699265,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/kr036/architecture/bulguksa_temple.rrtex": {
+    "archive_bytes": 695273,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/kr036/architecture/stone_pagoda.rrtex": {
+    "archive_bytes": 729778,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/kr036/architecture/seon_deok_observatory.rrtex": {
+    "archive_bytes": 727811,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/kr036/architecture/gate_of_reverence.rrtex": {
+    "archive_bytes": 682192,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/kr036/architecture/hall_of_worthies.rrtex": {
+    "archive_bytes": 694421,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/kr036/architecture/seowon_academy.rrtex": {
+    "archive_bytes": 740188,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/kr036/architecture/mountain_fortress.rrtex": {
+    "archive_bytes": 732299,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  },
+  "art/kr036/architecture/hwangnyongsa.rrtex": {
+    "archive_bytes": 692748,
+    "native_mip_bytes": 1398120,
+    "mips": 12,
+    "decoded_rgba8_bytes": 11184812
+  }
+}

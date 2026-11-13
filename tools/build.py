@@ -64,7 +64,7 @@ def build(out,prepare_only=False,replace_current=False):
         if not replace_current:raise ValueError('Use --replace-current to replace the verified local player ZIP after the new build passes')
         previous=read_json(ROOT/'docs/BUILD_VERIFICATION.json')
         old=release/previous['zip_name']
-        if previous.get('owner')!=config['owner'] or list(release.iterdir())!=[old] or digest(old)!=previous['zip_sha256']:raise ValueError('Unknown or changed release files are protected')
+        if previous.get('owner')!=config['owner'] or not old.is_file() or digest(old)!=previous['zip_sha256']:raise ValueError('Unknown or changed release files are protected')
     if out.exists() and replace_current and not prepare_only:safe_output_cleanup(out,config['owner'])
     if out.exists():raise ValueError('Build folder already exists; preserve previous evidence: '+str(out))
     out.mkdir(parents=True)
@@ -91,7 +91,7 @@ def build(out,prepare_only=False,replace_current=False):
             if digest(p)!=exclusion['sha256']:raise ValueError('Reviewed excluded table changed: '+member)
             continue
         tables[member]=rgd.read(import_table(read_json(p)))
-    if config['version'] in ('0.2.0','0.2.1','0.2.2','0.2.3','0.2.4','0.2.5','0.2.11','0.2.12','0.2.13','0.3.0','0.3.1','0.3.2','0.3.3','0.3.4','0.3.5','0.3.6','0.3.7','0.3.8'):
+    if config['version'] in ('0.2.0','0.2.1','0.2.2','0.2.3','0.2.4','0.2.5','0.2.11','0.2.12','0.2.13','0.3.0','0.3.1','0.3.2','0.3.3','0.3.4','0.3.5','0.3.6','0.3.7','0.3.8','0.3.9','0.3.10'):
         from voice020_release import retained_codex
         _,codex_report=retained_codex(tables,config)
     else:_,codex_report=build_codex(tables,config)
@@ -203,6 +203,8 @@ def finalize(out,config,expected,native,tables,source_fingerprint,previous,assem
     if config['version']=='0.3.6':details.update(updated='2026-11-10',min_garrison='0.1.16',changelog='Nine historical landmark palettes and restrained player colours, taller Stone Pagoda, 6-second barrage weapon reloads, Keep barrage guard, Codex connectors and dated card.')
     if config['version']=='0.3.7':details.update(updated='2026-11-10',min_garrison='0.1.16',changelog='Correct native sRGB sampling on all nine unique building albedos and deepen the Stone Pagoda stone palette.')
     if config['version']=='0.3.8':details.update(updated='2026-11-10',min_garrison='0.1.16',changelog='Wavy Korean selection flag in Garrison and AoE IV. Highest-detail healthy meshes for all nine custom unique buildings at every LOD distance.')
+    if config['version']=='0.3.9':details.update(updated='2026-11-13',min_garrison='0.1.16',changelog='Nine differentiated Korean building palettes with their existing dynamic player colors.')
+    if config['version']=='0.3.10':details.update(updated='2026-11-13',min_garrison='0.1.16',changelog='Restore the native construction and ruin controller on all nine custom landmark models.')
     delivery=out/'delivery';package=delivery/(config['name']+'-Garrison-'+config['version']+'.zip')
     if not reuse_package:
         delivery.mkdir()
@@ -237,7 +239,7 @@ def finalize(out,config,expected,native,tables,source_fingerprint,previous,assem
       'preserved_native_media_members':sum(1 for m in native if m.startswith(('art/','audio/'))),
       'native_game_test':'pending','multiplayer_save_ai_performance':'not qualified',
       'publication':'not performed','changed_members':changed,'added_members':added,
-      'preserved_baseline_members':len(baseline)-len(changed)-len(removed),'native_codex_retest':'pending','removed_members':removed,'assembly_path':str(assembly),'baseline_zip_bytes':previous['zip_bytes'] if previous else None,'audio_full_decode_verified':bool(config['race']=='berbers'),'world_art_changed':config['version'] in ('0.1.3','0.1.4','0.1.5','0.1.6','0.3.1','0.3.2','0.3.3','0.3.4','0.3.5','0.3.6','0.3.7','0.3.8'),'native_input_manifest_sha256':digest(ROOT/'inputs/native-manifest.json'),'editable_master_index_sha256':digest(ROOT/'source/master-index.json')}
+      'preserved_baseline_members':len(baseline)-len(changed)-len(removed),'native_codex_retest':'pending','removed_members':removed,'assembly_path':str(assembly),'baseline_zip_bytes':previous['zip_bytes'] if previous else None,'audio_full_decode_verified':bool(config['race']=='berbers'),'world_art_changed':config['version'] in ('0.1.3','0.1.4','0.1.5','0.1.6','0.3.1','0.3.2','0.3.3','0.3.4','0.3.5','0.3.6','0.3.7','0.3.8','0.3.9','0.3.10'),'native_input_manifest_sha256':digest(ROOT/'inputs/native-manifest.json'),'editable_master_index_sha256':digest(ROOT/'source/master-index.json')}
     if config['version'] in ('0.2.0','0.2.1','0.2.2','0.2.3','0.2.4','0.2.5'):
         coverage=read_json(ROOT/'docs/voices020/BANK_COVERAGE.json')
         receipt.update(audio_full_decode_verified=True,voice_profiles=coverage['profiles'],voice_age_banks=coverage['age_banks'],dialogue_clips=coverage['dialogue_clips'],voice_squad_blueprints=len(coverage['units']),media_bytes=media_bytes,zip_increment_vs_016=package.stat().st_size-read_json(ROOT/'docs/voices020/baseline-build.json')['zip_bytes'],historical_pronunciation_qualified=False)

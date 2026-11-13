@@ -2065,8 +2065,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/bulguksa_temple/model.rgo": {
-    "bytes": 696,
-    "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+    "bytes": 10427,
+    "sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
     "toc": "data",
     "change": "Exact working 0.3.0 landmark controller"
   },
@@ -2090,8 +2090,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/gate_of_reverence/model.rgo": {
-    "bytes": 696,
-    "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+    "bytes": 10427,
+    "sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
     "toc": "data",
     "change": "Exact working 0.3.0 landmark controller"
   },
@@ -2115,8 +2115,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/gyeongbok_palace/model.rgo": {
-    "bytes": 696,
-    "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+    "bytes": 10427,
+    "sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
     "toc": "data",
     "change": "Exact working 0.3.0 landmark controller"
   },
@@ -2140,8 +2140,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/hall_of_worthies/model.rgo": {
-    "bytes": 696,
-    "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+    "bytes": 10427,
+    "sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
     "toc": "data",
     "change": "Exact working 0.3.0 landmark controller"
   },
@@ -2165,8 +2165,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/hwangnyongsa/model.rgo": {
-    "bytes": 696,
-    "sha256": "3fb85595018d19f57f08a101e5b0c852e3307e920cd914e1df89fe2d64056366",
+    "bytes": 10427,
+    "sha256": "92ab552219dad06e26ace0f1293956251a8d8ebfbffc7ed5de876e1fb90fe2eb",
     "toc": "data",
     "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
   },
@@ -2838,8 +2838,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/mountain_fortress/model.rgo": {
-    "bytes": 696,
-    "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+    "bytes": 10427,
+    "sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
     "toc": "data",
     "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
   },
@@ -2863,8 +2863,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/seon_deok_observatory/model.rgo": {
-    "bytes": 696,
-    "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+    "bytes": 10427,
+    "sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
     "toc": "data",
     "change": "Exact working 0.3.0 landmark controller"
   },
@@ -2888,8 +2888,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/seowon_academy/model.rgo": {
-    "bytes": 696,
-    "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+    "bytes": 10427,
+    "sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
     "toc": "data",
     "change": "Retain qualified one-root rigid shader stream and lifecycle geometry; correct actual RGB mask binding"
   },
@@ -2912,8 +2912,8 @@
     "origin": "Korea 0.3.8 selection cloth and highest-detail art"
   },
   "art/kr013/static/stone_pagoda/model.rgo": {
-    "bytes": 696,
-    "sha256": "9fe1454682269027a085c2af1a97a74ac89bdee6237da72f06aa7cc31c03e99f",
+    "bytes": 10427,
+    "sha256": "7ae342eba3a3dfb2a464a42c5d66c8e7d32578b5815c735a09573e1a8fc17090",
     "toc": "data",
     "change": "Exact working 0.3.0 landmark controller"
   },
@@ -59750,56 +59750,56 @@
   },
   "art/kr036/architecture/bulguksa_temple.rrtex": {
     "toc": "data",
-    "bytes": 696801,
-    "sha256": "3a57e71f3699138a9ddf10b400107f84a860984dce2306d723782ef85d24280c",
+    "bytes": 695273,
+    "sha256": "50e1f0257285a941778bfcf0dedfc7eb0ae68d4d6b2a848ecd7ce5e10418ab15",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   },
   "art/kr036/architecture/gate_of_reverence.rrtex": {
     "toc": "data",
-    "bytes": 685385,
-    "sha256": "4c36ce6dbc1fb1393b75395237a9914d3417d68c0686473db0b50b12071fc447",
+    "bytes": 682192,
+    "sha256": "04cbb1fee786f3c26b32850ec4fb442decfdb7fa97901b367d9832c6caa27a85",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   },
   "art/kr036/architecture/gyeongbok_palace.rrtex": {
     "toc": "data",
-    "bytes": 689776,
-    "sha256": "995d34f08fc2a38492fd7fa6825736d91ea89968f2a341aabce6b37b085ea760",
+    "bytes": 699265,
+    "sha256": "f7eb264114847f713c57928d20096eedbfc485e6d76641c2b1059e25cc759f8f",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   },
   "art/kr036/architecture/hall_of_worthies.rrtex": {
     "toc": "data",
-    "bytes": 696133,
-    "sha256": "962d3b439b32b11356563f941d6f3c1576ec4273400f590c6b043cb64ef481db",
+    "bytes": 694421,
+    "sha256": "2c80972295269ce2c4fb339babc24bccf50298c4c0a1a50381c29cde445a812e",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   },
   "art/kr036/architecture/hwangnyongsa.rrtex": {
     "toc": "data",
-    "bytes": 684087,
-    "sha256": "4986eda3eb553007169367b44ca6fc9d426e382cf7eea2b4762a21bad510013d",
+    "bytes": 692748,
+    "sha256": "573e1b255bf5cdbaf9c036a00414a1668a4b2324dac7159a854b4178d78a0011",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   },
   "art/kr036/architecture/mountain_fortress.rrtex": {
     "toc": "data",
-    "bytes": 727564,
-    "sha256": "ee599c2fde5a6529d0b2fe54a62a2f942a32acab37a100dbfc0865aaab500127",
+    "bytes": 732299,
+    "sha256": "16bc42010fdd79c1de6f4717899f12402037ff19ce9d66dea06b4ea6c98b332b",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   },
   "art/kr036/architecture/seon_deok_observatory.rrtex": {
     "toc": "data",
-    "bytes": 725781,
-    "sha256": "723183c703cf24d43bf5230aae238fef8fca82f0157e6ee0a389f1442de14645",
+    "bytes": 727811,
+    "sha256": "589a5b48c9d998184474dafda115c24102bad07be9ecaf12edfbb8934323aee8",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   },
   "art/kr036/architecture/seowon_academy.rrtex": {
     "toc": "data",
-    "bytes": 728877,
-    "sha256": "9257f2daea5151934de60bc4fefe8ef679c3c218248b31780ed7cfb7676682b3",
+    "bytes": 740188,
+    "sha256": "a1e24310d596ac66d891a2d6820d29e8b7f6686eb90c1217e748dd74ece544c1",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   },
   "art/kr036/architecture/stone_pagoda.rrtex": {
     "toc": "data",
-    "bytes": 762598,
-    "sha256": "b6cd7bfe2c9d8a31c2115f3c1c9326db75e1043960d65aa52b661777a1fba68b",
+    "bytes": 729778,
+    "sha256": "6dd986f1518cbaa6279d98befa389bf32dfee13f4cc4be0a15a3d3df2ab4b765",
     "origin": "0.3.7 stock-contract BC1 sRGB landmark albedo"
   }
 }

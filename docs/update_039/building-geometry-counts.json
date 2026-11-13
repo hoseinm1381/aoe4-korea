@@ -1,0 +1,38 @@
+{
+  "kr013\\static\\gyeongbok_palace\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 87228
+  },
+  "kr013\\static\\bulguksa_temple\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 134760
+  },
+  "kr013\\static\\stone_pagoda\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 10668
+  },
+  "kr013\\static\\seon_deok_observatory\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 32416
+  },
+  "kr013\\static\\gate_of_reverence\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 93192
+  },
+  "kr013\\static\\hall_of_worthies\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 73408
+  },
+  "kr013\\static\\seowon_academy\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 76272
+  },
+  "kr013\\static\\mountain_fortress\\model.rrgeom": {
+    "groups": 9,
+    "total_triangles_all_groups": 96776
+  },
+  "kr013\\static\\hwangnyongsa\\model.rrgeom": {
+    "groups": 22,
+    "total_triangles_all_groups": 189684
+  }
+}

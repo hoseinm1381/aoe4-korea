@@ -1,0 +1,16 @@
+{
+  "baseline_version": "0.3.8",
+  "allowed_changed": [
+    "art/kr036/architecture/bulguksa_temple.rrtex",
+    "art/kr036/architecture/gate_of_reverence.rrtex",
+    "art/kr036/architecture/gyeongbok_palace.rrtex",
+    "art/kr036/architecture/hall_of_worthies.rrtex",
+    "art/kr036/architecture/hwangnyongsa.rrtex",
+    "art/kr036/architecture/mountain_fortress.rrtex",
+    "art/kr036/architecture/seon_deok_observatory.rrtex",
+    "art/kr036/architecture/seowon_academy.rrtex",
+    "art/kr036/architecture/stone_pagoda.rrtex"
+  ],
+  "allowed_added": [],
+  "allowed_removed": []
+}

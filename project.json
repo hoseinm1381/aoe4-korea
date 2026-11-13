@@ -4,7 +4,7 @@
   "race": "korea",
   "bundle_key": "korea",
   "name": "Koreans",
-  "version": "0.3.8",
+  "version": "0.3.10",
   "dispatcher": "scar/garrison/korea/dispatcher.scar",
   "shared_entities": [
     "building_alpha",
@@ -277,13 +277,13 @@
     "wpn_siege_walltower_murder_hole",
     "wpn_siege_walltower_springald"
   ],
-  "source_baseline": "Korea 0.3.7 verified local archive f1aa5e63445ad30207d712679babff37e63a5f4446b8bf3161f6f3c09341fe1f",
-  "native_game_acceptance": "Flag and building distance changes pending fresh-match appearance and performance",
+  "source_baseline": "korea 0.3.8 archive 34c1d8e91985c4eb791a8848913664882a6e3e7d6381e8202105e924b8eee427",
+  "native_game_acceptance": "Fresh match pending",
   "publication": "Local player candidate",
   "codex_mode": "reviewed_012",
-  "update_policy": "source/update-038-policy.json",
-  "baseline_members": "docs/update_038/baseline-members.json.gz",
-  "build_stage": "korea-038-current",
+  "update_policy": "source/update-0310-policy.json",
+  "baseline_members": "docs/update_0310/baseline-members.json.gz",
+  "build_stage": "korea-0310-current",
   "rollback_folder": "archives/release-rollback",
   "excluded_tables": {
     "attrib/resource_type_info/merc_byz.rgd": {
@@ -291,6 +291,6 @@
       "reason": "Retained editable tuning-pack reference only. Additive standalone must use the installed RT_Merc_Byz descriptor, not register it again."
     }
   },
-  "preserve_previous_release": false,
+  "preserve_previous_release": true,
   "research_tooltips": "stock"
 }
